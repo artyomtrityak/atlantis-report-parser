@@ -1,0 +1,36 @@
+{
+  "env": {
+    "production": {
+      "presets": [
+        [
+          "env",
+          {
+            "modules": false
+          }
+        ]
+      ]
+    },
+    "test": {
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "current"
+            }
+          }
+        ]
+      ],
+      "plugins": [
+        [
+          "babel-plugin-inline-import",
+          {
+            "extensions": [
+              ".report"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

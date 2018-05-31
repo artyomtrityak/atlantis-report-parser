@@ -1,1 +1,1 @@
-# atlantis-report-parser
+# Atlantis PBEM report parser

@@ -1,0 +1,4348 @@
+Atlantis Report For:
+New Horizons (16) (Trade 2, Magic 3)
+May, Year 8
+
+Atlantis Engine Version: 4.1.0
+Standard Atlantis, Version: 4.1.0
+
+Faction Status:
+Tax Regions: 0 (0)
+Trade Regions: 17 (24)
+Mages: 3 (3)
+
+Errors during turn:
+Ranchers (3353): GIVE: Not enough.
+Ranchers (3353): GIVE: Not enough.
+Weap boys (2634): GIVE: Not enough.
+Weap boys (2634): GIVE: Not enough.
+com guys (3275): GIVE: Nonexistant target (new 89).
+Funny (3319): GIVE: Nonexistant target (3439).
+womgers (2180): GIVE: Nonexistant target (2510).
+Rawhide (3053): GIVE: Not enough.
+Rawhide (3053): GIVE: Not enough.
+Rawhide (3053): GIVE: Attempt to give 0 livestock [LIVE] to self.
+Rawhide (3053): GIVE: Not enough.
+Com Guy (3089): GIVE: Nonexistant target (2977).
+Lumber (2387): Must be combat ready to be on guard.
+Courier (3424): MOVE: Unit is overloaded and cannot move.
+Whatever (3395): MOVE: Unit is overloaded and cannot move.
+Lumber Guy (3000): MOVE: Unit has insufficient movement points;
+  remaining moves queued.
+Courier (3238): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Yew (1337): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+scout (1748): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Funny (3300): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Reilly (3012): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Magnificent 7 (2312): TEACH: com guys (3275) is not studying.
+Magnificent 7 (2312): TEACH: Ridi Guy (2485) is not studying a skill
+  you can teach.
+Magnificent 7 (2312): TEACH: OK Coral (2851) is not studying.
+Wise Guy (2396): TEACH: 5% Stea (3029) is not studying.
+5% Stea (3029): TEACH: SteTeacher (3308) is not studying.
+Combo (2635): TEACH: E guy (2316) is not studying.
+Thor (2217): TEACH: No such unit.
+Cougar (2489): TEACH: Unit (54) is not studying a skill you can teach.
+Obse (2749): TEACH: Reilly (3009) is not studying a skill you can
+  teach.
+Funny (3299): STUDY: Not enough funds.
+
+Battles during turn:
+Festius (1107) attacks City Guard (53) in jungle (72,26) in Donndinon!
+
+Attackers:
+Festius (1107), 27 sea elves [SELF].
+Pelvius (1028), behind, leader [LEAD], eagle [EAGL] (Combat 2/2,
+  Attacks 1, Hits 1, Tactics 2), 3 dragons [DRAG] (Combat 6/6, Attacks
+  50, Hits 50, Tactics 4), 2 mithril swords [MSWO].
+Antilevus (1225), behind, leader [LEAD], horse [HORS], tactics 5,
+  combat 1, riding 5.
+
+Defenders:
+City Guard (53), 120 leaders [LEAD], 120 swords [SWOR], combat 3.
+
+Festius (1107) gets a free round of attacks.
+Dragon controlled by Pelvius (1028) breathes Fire, killing 22.
+Dragon controlled by Pelvius (1028) breathes Fire, killing 17.
+Pelvius (1028) shoots a Fireball, killing 7.
+Dragon controlled by Pelvius (1028) breathes Fire, killing 21.
+City Guard (53) loses 105.
+
+City Guard (53) is routed!
+Festius (1107) gets a free round of attacks.
+Dragon controlled by Pelvius (1028) breathes Fire, killing 15.
+City Guard (53) loses 15.
+
+Total Casualties:
+City Guard (53) loses 120.
+Damaged units: 53.
+Festius (1107) loses 0.
+
+Spoils: 3000 silver [SILV], 60 swords [SWOR].
+
+Events during turn:
+Times reward of 50 silver.
+Bear (592): Combat spell set to fire.
+Open 1 (2421): Gives 100 silver [SILV] to Lumber Guy (2999).
+Mini (3081): Gives 6 mithril [MITH] to delivery (3063).
+Mini (3081): Gives 62 silver [SILV] to Lumber Guy (2999).
+Farmers (2822): Gives 2 grain [GRAI] to Mini (3081).
+Farmers (2822): Gives 2 grain [GRAI] to Unit (2728).
+delivery (3063): Gives 5 winged horses [WING] to Mini (3081).
+delivery (3063): Gives 30 silver [SILV] to Lumber Guy (2999).
+Unit (2337): Gives 2355 silver [SILV] to Funny (3300).
+Funny Guard (3419): Receives 20 silver [SILV] from Unit (1826).
+Mith (2394): Gives 8 mithril [MITH] to Funny guys (2738).
+Mith (2394): Gives horse [HORS] to Mithril (2997).
+Iron (1335): Gives 3 iron [IRON] to Funny guys (2738).
+Funny guys (2738): Gives 7 horses [HORS] to Mithril (2997).
+Funny guys (2738): Gives 3 iron [IRON] to Mithril (2997).
+Funny guys (2738): Gives 10 silver [SILV] to Mithril (2997).
+Mithril (2997): Gives 6 winged horses [WING] to Mith (2394).
+The Crew (2840): Gives 30 silver [SILV] to Colony (2178).
+The Crew (2840): Gives 30 silver [SILV] to Open 1 (2413).
+The Crew (2840): Gives 30 silver [SILV] to Open 1 (2415).
+The Crew (2840): Gives 60 silver [SILV] to Ente (2629).
+The Crew (2840): Gives 30 silver [SILV] to Mini Weap (2979).
+The Crew (2840): Gives 30 silver [SILV] to Mission (2842).
+The Crew (2840): Gives 30 silver [SILV] to Mini weap (3079).
+The Crew (2840): Gives 30 silver [SILV] to Major mini (3080).
+The Crew (2840): Gives 10 silver [SILV] to Mini (3082).
+The Crew (2840): Gives 30 silver [SILV] to Mini Weap (3151).
+The Crew (2840): Gives 120 silver [SILV] to Weap guys (3070).
+The Crew (2840): Gives 1600 silver [SILV] to Har Ten (2015).
+The Crew (2840): Gives 1000 silver [SILV] to Har Har (2062).
+The Crew (2840): Gives 1000 silver [SILV] to Har Har (2069).
+Mini (3082): Gives 12 iron [IRON] to Major mini (3080).
+Mthril (2475): Gives winged horse [WING] to Mini (3082).
+Mthril (2475): Gives 3 iron [IRON] to Aux Weap (3429).
+Aux Weap (3429): Gives winged horse [WING] to Courier (3240).
+Har Ten (2015): Gives 4 silver [SILV] to Odd Farmer (2016).
+Farmer (2478): Gives 72 silver [SILV] to Har Har (2069).
+Farmer (2478): Gives 6 horses [HORS] to Har Har (2069).
+Farmer (2478): Gives 15 grain [GRAI] to The Crew (2840).
+Columbus (3154): Gives 160 silver [SILV] to Har Har (2069).
+Columbus (3154): Gives 4 winged horses [WING] to Courier (3240).
+Columbus (3154): Gives 6 mithril [MITH] to Weap Boys (3002).
+Courier (3240): Gives 10 horses [HORS] to Har Har (2062).
+Courier (3240): Gives 10 horses [HORS] to Har Har (2069).
+courier (1375): Gives 25 horses [HORS] to Mthril (2475).
+courier (1375): Gives 28 silver [SILV] to The Crew (2840).
+Lumber (2387): Gives horse [HORS] to Yew (1336).
+Lumber (2387): Gives 128 silver [SILV] to Lumber Guy (3000).
+Lumber (2387): Gives leader [LEAD] to Yew (1336).
+Har Har (2520): Gives 76 silver [SILV] to Lumber Guy (3000).
+Herb (2211): Gives 198 silver [SILV] to Herb (2210).
+Herb (2211): Gives 100 silver [SILV] to Lumber Guy (3000).
+Herb (2211): Gives horse [HORS] to Herb (2210).
+Herb (2211): Gives 5 herbs [HERB] to Herb (2210).
+Herb (2211): Gives leader [LEAD] to Herb (2210).
+farm guys (3127): Gives 4 grain [GRAI] to Yew (1336).
+farm guys (3127): Gives grain [GRAI] to Har Har (2520).
+farm guys (3127): Gives 4 grain [GRAI] to Herb (2210).
+Lumber Guy (3000): Gives horse [HORS] to Herb (2210).
+Yew (2486): Gives 100 silver [SILV] to Yew (1337).
+Yew (2486): Gives 120 silver [SILV] to Lumber (1862).
+Yew (2486): Gives 16 horses [HORS] to Farmers (3001).
+Yew (2486): Gives winged horse [WING] to Lumber (1862).
+funny guys (3116): Gives 30 silver [SILV] to Yew (1337).
+funny guys (3116): Gives 20 silver [SILV] to Lumber (1862).
+Farmers (3001): Gives grain [GRAI] to funny guys (3116).
+Lumber (1862): Gives horse [HORS] to funny guys (3116).
+Wood (2633): Gives 28 silver [SILV] to Ironwood (2308).
+Funny Guys (2388): Gives 1000 silver [SILV] to comb guys (3092).
+Funny Guys (2388): Gives 1000 silver [SILV] to Comb guys (3392).
+Funny Guys (2388): Receives 10000 silver [SILV] from Unit (614).
+Funny Guys (2388): Receives 10000 silver [SILV] from Unit (2129).
+Guard (3423): Gives 6 leaders [LEAD] to Com guys (2076).
+Horse (2055): Gives 8 winged horses [WING] to OK Coral (2851).
+OK Coral (2851): Gives 79 silver [SILV] to Horse (2055).
+Yew (3283): Gives 30 silver [SILV] to Funny Guard (3224).
+Yew (3283): Gives 7 yew [YEW] to Drover (3310).
+Ironwood (2731): Gives 9 ironwood [IRWD] to Drover (3310).
+Ironwood (2731): Gives 7 horses [HORS] to Drover (3310).
+Farmer (2208): Receives 50 silver [SILV] from Unit (2815).
+Farmer (2209): Receives 70 silver [SILV] from Unit (2815).
+Farmer (3087): Receives 70 silver [SILV] from Unit (2815).
+Hproducer (2054): Receives 100 silver [SILV] from Unit (2815).
+Hproducer (2054): Receives 4000 silver [SILV] from Unit (2815).
+Hproducer (2054): Gives 2000 silver [SILV] to farmers (3393).
+Hproducer (2054): Gives 30 horses [HORS] to courier (3394).
+Farmers (2739): Gives 144 silver [SILV] to courier (3394).
+Farmers (2739): Gives 10 grain [GRAI] to Hproducer (2054).
+Farmers (2739): Gives 2 grain [GRAI] to Farmer (2209).
+Farmers (2739): Gives 2 grain [GRAI] to Farmer (3087).
+Farmers (2739): Gives 2 grain [GRAI] to Farmer (2208).
+Farmers (2739): Gives 23 grain [GRAI] to Courier (3424).
+Funny  (3425): Receives 5000 silver [SILV] from Unit (2841).
+Horse (1976): Gives 30 silver [SILV] to Funny Guardsmen (2924).
+Horse (1976): Gives 30 silver [SILV] to Winging (2862).
+Horse (1976): Gives 9 winged horses [WING] to Courier (2083).
+Horse Guy (2740): Receives 40 silver [SILV] from Unit (1468).
+Horse Guy (2740): Gives 9 winged horses [WING] to Courier (3212).
+yew (3084): Gives 4 horses [HORS] to Structures (2993).
+Funny Guards (3180): Gives 210 silver [SILV] to Rain (3359).
+Ranchers (3353): Gives 0 livestock [LIVE] to Funny Guards (3180).
+Ranchers (3353): Gives 0 livestock [LIVE] to Rain (3359).
+Truffles (1859): Receives 10000 silver [SILV] from Manius (908).
+Truffles (1859): Gives 4400 silver [SILV] to Whatever (3395).
+Truffles (1859): Gives 1000 silver [SILV] to Lguy (1457).
+Truffles (1859): Gives 1000 silver [SILV] to Lguy (3396).
+Truffles (1859): Gives 1000 silver [SILV] to Xguy (3421).
+Truffles (1859): Gives 4000 silver [SILV] to Comb 9 (2179).
+Truffles (1859): Gives 270 silver [SILV] to Carp Guy (2477).
+Truffles (1859): Gives 400 silver [SILV] to Hunt Guy (2483).
+HorsSte (2220): Gives 10 horses [HORS] to Ranch (2212).
+Rawhide (2313): Gives 207 silver [SILV] to Magnificent 7 (2312).
+Rancher (2479): Gives 74 silver [SILV] to Reilly (2214).
+Rancher (2479): Gives horse [HORS] to Ranch (2212).
+Rancher (2479): Gives leader [LEAD] to Ranch (2212).
+Weap (1839): Gives double bow [DBOW] to Herb Guy (2480).
+Weap (1839): Gives double bow [DBOW] to XBteacher (3241).
+Weap (1839): Gives double bow [DBOW] to LBteacher (3242).
+Weap (1839): Gives double bow [DBOW] to Lbow guy (3243).
+Weap (1839): Gives double bow [DBOW] to Xbow guy (3244).
+Weap boys (2634): Gives 0 double bows [DBOW] to Lbow guy (3243).
+Weap boys (2634): Gives 0 double bows [DBOW] to Xbow guy (3244).
+Weap boys (2634): Gives 51 ironwood [IRWD] to Carpenters (3004).
+Comb (2939): Gives leader [LEAD] to Lguy (3396).
+Comb (2939): Gives leader [LEAD] to Xguy (3421).
+Comb (2939): Gives 259 silver [SILV] to Lguy (3396).
+Comb (2939): Gives 259 silver [SILV] to Xguy (3421).
+Comb (2939): Gives leader [LEAD] to Lguy (3422).
+Comb (2939): Gives 259 silver [SILV] to Lguy (3422).
+Comb (2939): Gives leader [LEAD] to Xguy (3430).
+Comb (2939): Gives 259 silver [SILV] to Xguy (3430).
+Globe theatre (3006): Gives 3700 silver [SILV] to Funny Courier
+  (1365).
+Globe theatre (3006): Gives 40 silver [SILV] to Xguy (3200).
+com guys (3275): Gives 4 leaders [LEAD] to Magnificent 7 (2312).
+com guys (3275): Gives 84 leaders [LEAD] to Comb 9 (2179).
+com guys (3275): Gives 57 winged horses [WING] to Comb 9 (2179).
+Weap guys (3354): Gives double bow [DBOW] to Lguy (1457).
+Weap guys (3354): Gives double bow [DBOW] to Xguy (1413).
+Weap guys (3354): Gives 3 double bows [DBOW] to Lbow guy (3243).
+Xguy (1377): Gives 6 leaders [LEAD] to Xguy (1413).
+Xguy (1377): Gives 600 silver [SILV] to Xguy (1413).
+Xguy (1377): Gives 375 silver [SILV] to Xbow guy (3244).
+Xguy (1377): Gives leader [LEAD] to Xbow guy (3244).
+Lguy (1380): Gives 375 silver [SILV] to Lbow guy (3243).
+Lguy (1380): Gives 600 silver [SILV] to Lguy (1457).
+Lguy (1380): Gives leader [LEAD] to Lbow guy (3243).
+Lguy (1380): Gives 6 leaders [LEAD] to Lguy (1457).
+Funny (3318): Gives 100 silver [SILV] to Funny (3289).
+Funny (3318): Gives 2 winged horses [WING] to Lumber Guys (2998).
+Funny (3318): Gives 4 winged horses [WING] to Lguy (1457).
+Taxeer (1747): Gives 9 ironwood [IRWD] to Carpenters (3004).
+womgers (2180): Gives 5 winged horses [WING] to Ridi Guy (2485).
+womgers (2180): Gives 2 winged horses [WING] to Lumber Guys (2998).
+Funny Courier (1365): Gives 4 winged horses [WING] to Comb 9 (2179).
+Funny Courier (1365): Gives winged horse [WING] to Lguy (1457).
+courier (1481): Gives 4 winged horses [WING] to LBteacher (3242).
+courier (1481): Gives 8 winged horses [WING] to Lbow guy (3243).
+courier (1481): Gives 6 winged horses [WING] to Lguy (1457).
+Elvis Pretzalbrain (3361): Gives 2 horses [HORS] to Globe theatre
+  (3006).
+Elvis Pretzalbrain (3361): Gives horse [HORS] to delivery (3148).
+Elvis Pretzalbrain (3361): Gives 5 wood elves [WELF] to Globe theatre
+  (3006).
+delivery (3148): Gives winged horse [WING] to Ridi Guy (2745).
+delivery (3148): Gives winged horse [WING] to Ridi Guy (2746).
+delivery (3148): Gives 4 winged horses [WING] to LBteacher (3242).
+Yew guy (2029): Gives 5 yew [YEW] to Weap (1839).
+Yew guy (2029): Gives 10 yew [YEW] to Weap boys (2634).
+Wing (3155): Gives 7 winged horses [WING] to Courier (3238).
+Wing (3155): Gives winged horse [WING] to Funny (3320).
+Rawhide (3053): Gives 0 livestock [LIVE] to Wing (3155).
+Rawhide (3053): Gives 0 livestock [LIVE] to Funny guard (3360).
+Funny (3320): Gives 4 livestock [LIVE] to Wing (3155).
+Funny (3320): Gives 13 livestock [LIVE] to Rawhide (3053).
+Funny (3320): Gives 2 livestock [LIVE] to Funny guard (3360).
+Funny (3320): Gives 10 livestock [LIVE] to Courier (3238).
+Funny (3320): Gives 7 winged horses [WING] to Rawhide (3351).
+Rawhide (3351): Gives 3 nomads [NOMA] to Rawhide (3053).
+scout (1748): Gives horse [HORS] to Comb Guys (3135).
+comb starter (3160): Gives 17 horses [HORS] to scout (1748).
+Comb Guys (3135): Gives 6 horses [HORS] to scout (1748).
+Comb Guys (3135): Gives 1000 silver [SILV] to scout (1748).
+Com Guy (3089): Gives horse [HORS] to Comb Guys (3136).
+Com Guy (3089): Gives horse [HORS] to scout (1748).
+Winging (2877): Gives 2 horses [HORS] to scout (1748).
+Funny (3278): Gives 8 winged horses [WING] to scout (1748).
+Consolidated (2730): Receives 50 silver [SILV] from Unit (1444).
+Rawhide (3028): Receives 170 silver [SILV] from Allia (1265).
+Hors Teach (3088): Receives 140 silver [SILV] from Allia (1265).
+Rawhide (3028): Gives 4 livestock [LIVE] to Hors Teach (3088).
+Rawhide (3028): Gives 200 silver [SILV] to Courier (3431).
+Rawhide (3028): Gives 13 livestock [LIVE] to Courier (3431).
+Hors Teach (3088): Gives 7 winged horses [WING] to Courier (3431).
+Combo (2635): Gives 5 horses [HORS] to Funny guys (2257).
+Combo (2635): Gives 100 silver [SILV] to Funny guys (2260).
+Funny guys (2257): Gives 310 silver [SILV] to Funny guys (2260).
+Armo (3007): Gives 180 silver [SILV] to Thor (1861).
+Armo (3007): Gives 2 leaders [LEAD] to Thor (1861).
+Bear (592): Gives 100 silver [SILV] to Thor (1861).
+Water Buffalo (2488): Gives 60 silver [SILV] to Thor (2217).
+Water Buffalo (2488): Gives 30 silver [SILV] to Armo (3246).
+Water Buffalo (2488): Gives 30 silver [SILV] to Armo Guy (2526).
+Water Buffalo (2488): Gives 90 silver [SILV] to Asmore (3311).
+Bear (592): Receives 250 silver [SILV] from Mertus (366).
+Cougar (2489): Receives 250 silver [SILV] from Mertus (366).
+Water Buffalo (2488): Receives 250 silver [SILV] from Mertus (366).
+Builder (2751): Gives 12 silver [SILV] to Builder (2397).
+Builder (2751): Gives horse [HORS] to Builder (2397).
+Builder (2751): Gives leader [LEAD] to Builder (2397).
+Builder (2752): Gives 38 silver [SILV] to Builder (2397).
+Builder (2752): Gives horse [HORS] to Builder (2397).
+Builder (2752): Gives leader [LEAD] to Builder (2397).
+Quarry (2755): Gives winged horse [WING] to Reilly (3012).
+Funny guys (2487): Gives 20 silver [SILV] to Quarry (2755).
+Funny guys (2487): Gives 20 silver [SILV] to Weap (2754).
+Funny guys (2487): Gives 20 silver [SILV] to Weap (2753).
+Funny guys (2487): Gives 90 silver [SILV] to Builder (2397).
+Funny guys (2487): Gives 70 silver [SILV] to Obse (2749).
+Funny guys (2487): Gives 70 silver [SILV] to Stea (2750).
+Funny guys (2487): Gives 70 silver [SILV] to Reilly (3009).
+Funny guys (2487): Gives 70 silver [SILV] to Reilly (3010).
+Funny guys (2487): Gives 70 silver [SILV] to Reilly (3011).
+Funny guys (2487): Gives 70 silver [SILV] to Reilly (3012).
+Courier (2395): Gives 2500 silver [SILV] to Funny guys (2487).
+Courier (2395): Gives 70 silver [SILV] to Reilly (3010).
+Courier (2395): Gives 70 silver [SILV] to Truffle Passoff (3008).
+Courier (2395): Gives 560 silver [SILV] to More Booze (3239).
+Courier (2395): Gives 9 winged horses [WING] to Reilly (3012).
+Truffle Passoff (3008): Gives 9 winged horses [WING] to Reilly (3012).
+Bear (592): Casts Earth Lore, raising 108 silver.
+Unit (54) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Unit (1928) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Unit (1929) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Cougar (2489): Casts Earth Lore, raising 72 silver.
+Water Buffalo (2488): Casts Earth Lore, raising 72 silver.
+Tirelius (1039) uses earth lore [EART] in mountain (68,26) in
+  Phidyntia, contains Oroldu [city].
+Caspus (1040) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Courier (3347): Sells 33 grain [GRAI] at $20 each.
+The Crew (2840): Sells 14 figurines [FIGU] at $120 each.
+Rawhide (2313): Sells 49 livestock [LIVE] at $27 each.
+Courier (3245): Sells 10 truffles [TRUF] at $137 each.
+Truffle Passoff (3008): Sells 32 dye [DYE] at $151 each.
+Funny (3300): Buys 29 wine [WINE] at $80 each.
+Comb guys (3392): Buys leader [LEAD] at $128 each.
+farmers (3393): Buys 10 high elves [HELF] at $64 each.
+Sales guy (3133): Buys 8 plainsmen [PLAI] at $72 each.
+Whatever (3395): Buys 50 figurines [FIGU] at $83 each.
+Comb 9 (2179): Buys 5 leaders [LEAD] at $152 each.
+Whatever (3395): Buys leader [LEAD] at $152 each.
+scout (1748): Buys 14 dye [DYE] at $71 each.
+Courier (3431): Buys leader [LEAD] at $128 each.
+Sales guy (3133): Forgets combat [COMB].
+delivery (3063): Flies from mountain (74,4) in Nakyce to mountain
+  (74,6) in Nakyce.
+Lumber Guy (2999): Flies from mountain (74,4) in Nakyce to mountain
+  (74,2) in Nakyce.
+Funny (3300): Flies from mountain (73,5) in Nakyce to mountain (74,6)
+  in Nakyce.
+Mini (3082): Flies from mountain (74,10) in Nakyce to forest (74,12)
+  in Uzrot.
+Mthril (2475): Rides from mountain (74,10) in Nakyce to mountain
+  (73,9) in Nakyce.
+Odd Farmer (2016): Flies from mountain (74,10) in Nakyce to mountain
+  (74,8) in Nakyce.
+Farmer (2478): Rides from mountain (74,10) in Nakyce to forest (74,12)
+  in Uzrot.
+Courier (3240): Rides from mountain (74,10) in Nakyce to forest
+  (75,11) in Uzrot.
+Yew (1345): Rides from swamp (73,11) in Issnina to mountain (74,10) in
+  Nakyce.
+Lumber Guy (3000): Walks from forest (75,11) in Uzrot to forest
+  (75,13) in Uzrot.
+Yew (1337): Rides from forest (74,12) in Uzrot to forest (75,11) in
+  Uzrot.
+Lumber (1862): Flies from forest (74,12) in Uzrot to forest (75,11) in
+  Uzrot.
+OK Coral (2851): Flies from plain (74,16) in Bocholt to plain (73,17)
+  in Bocholt.
+Drover (3310): Rides from forest (76,16) in Uzrot to plain (75,17) in
+  Bocholt.
+Courier (2083): Rides from plain (77,17) in Morungol to forest (76,16)
+  in Uzrot.
+Courier (3212): Flies from plain (72,18) in Bocholt to plain (73,17)
+  in Bocholt.
+Structures (2993): Walks from forest (76,18) in Uzrot to forest
+  (76,16) in Uzrot.
+Stealth Horse (2227): Flies from plain (73,19) in Bocholt to plain
+  (72,18) in Bocholt.
+Stealth Horse (2230): Flies from plain (73,19) in Bocholt to plain
+  (74,18) in Bocholt.
+Stealth Horse (2242): Flies from plain (73,19) in Bocholt to plain
+  (74,18) in Bocholt.
+Stealth Horse (2255): Flies from plain (73,19) in Bocholt to plain
+  (74,18) in Bocholt.
+Stealth Horse (2256): Flies from plain (73,19) in Bocholt to plain
+  (72,18) in Bocholt.
+Funny Courier (1365): Flies from plain (73,19) in Bocholt to plain
+  (73,21) in Bocholt.
+Yew guy (2029): Flies from plain (73,19) in Bocholt to plain (73,17)
+  in Bocholt.
+Rawhide (3351): Flies from plain (75,19) in Bocholt to plain (75,17)
+  in Bocholt.
+Courier (3238): Walks from plain (75,19) in Bocholt to forest (76,18)
+  in Uzrot.
+scout (1748): Rides from plain (77,19) in Morungol to forest (76,18)
+  in Uzrot.
+Funny (3278): Walks from plain (77,19) in Morungol to plain (77,17) in
+  Morungol.
+Consolidated (2730): Rides from plain (72,20) in Bocholt to plain
+  (73,19) in Bocholt.
+Courier (3431): Walks from plain (74,20) in Bocholt to plain (73,19)
+  in Bocholt.
+Reilly (3012): Flies from jungle (72,26) in Donndinon to jungle
+  (72,24) in Donndinon.
+Mini (2389): Flies from swamp (75,41) in Grimbad to swamp (74,40) in
+  Grimbad.
+Lumber Guy (2999): Flies from mountain (74,2) in Nakyce to forest
+  (74,0) in Ranshya.
+delivery (3063): Flies from mountain (74,6) in Nakyce to mountain
+  (74,8) in Nakyce.
+Funny (3300): Flies from mountain (74,6) in Nakyce to mountain (75,7)
+  in Nakyce.
+Odd Farmer (2016): Flies from mountain (74,8) in Nakyce to mountain
+  (74,6) in Nakyce.
+Lumber (1862): Flies from forest (75,11) in Uzrot to forest (76,10) in
+  Uzrot.
+Mini (3082): Flies from forest (74,12) in Uzrot to swamp (74,14) in
+  Issnina.
+OK Coral (2851): Flies from plain (73,17) in Bocholt to plain (73,19)
+  in Bocholt.
+Courier (3212): Flies from plain (73,17) in Bocholt to plain (74,16)
+  in Bocholt.
+Yew guy (2029): Flies from plain (73,17) in Bocholt to plain (74,16)
+  in Bocholt.
+Drover (3310): Rides from plain (75,17) in Bocholt to plain (74,18) in
+  Bocholt.
+Rawhide (3351): Flies from plain (75,17) in Bocholt to forest (76,16)
+  in Uzrot.
+Stealth Horse (2256): Flies from plain (72,18) in Bocholt to plain
+  (71,19) in Bocholt.
+Stealth Horse (2230): Flies from plain (74,18) in Bocholt to plain
+  (75,17) in Bocholt.
+Stealth Horse (2242): Flies from plain (74,18) in Bocholt to plain
+  (75,17) in Bocholt.
+Stealth Horse (2255): Flies from plain (74,18) in Bocholt to plain
+  (74,16) in Bocholt.
+Funny Courier (1365): Flies from plain (73,21) in Bocholt to jungle
+  (73,23) in Donndinon.
+Reilly (3012): Flies from jungle (72,24) in Donndinon to jungle
+  (73,23) in Donndinon.
+Mini (2389): Flies from swamp (74,40) in Grimbad to mountain (73,41)
+  in Gededyki.
+Odd Farmer (2016): Flies from mountain (74,6) in Nakyce to mountain
+  (74,4) in Nakyce.
+Funny (3300): Flies from mountain (75,7) in Nakyce to forest (76,8) in
+  Uzrot.
+delivery (3063): Flies from mountain (74,8) in Nakyce to mountain
+  (74,10) in Nakyce.
+Mthril (2475): Rides from mountain (73,9) in Nakyce to mountain
+  (72,10) in Nakyce.
+Lumber (1862): Flies from forest (76,10) in Uzrot to forest (77,9) in
+  Uzrot.
+Yew (1337): Rides from forest (75,11) in Uzrot to forest (76,10) in
+  Uzrot.
+Farmer (2478): Rides from forest (74,12) in Uzrot to swamp (74,14) in
+  Issnina.
+Mini (3082): Flies from swamp (74,14) in Issnina to plain (74,16) in
+  Bocholt.
+Courier (3212): Flies from plain (74,16) in Bocholt to forest (75,15)
+  in Uzrot.
+Yew guy (2029): Flies from plain (74,16) in Bocholt to forest (75,15)
+  in Uzrot.
+Stealth Horse (2230): Flies from plain (75,17) in Bocholt to forest
+  (76,16) in Uzrot.
+Stealth Horse (2242): Flies from plain (75,17) in Bocholt to forest
+  (76,16) in Uzrot.
+Drover (3310): Rides from plain (74,18) in Bocholt to plain (73,19) in
+  Bocholt.
+scout (1748): Rides from forest (76,18) in Uzrot to plain (75,19) in
+  Bocholt.
+Funny Courier (1365): Flies from jungle (73,23) in Donndinon to jungle
+  (72,24) in Donndinon.
+Reilly (3012): Flies from jungle (73,23) in Donndinon to jungle
+  (74,22) in Donndinon.
+Mini (2389): Flies from mountain (73,41) in Gededyki to mountain
+  (73,43) in Gededyki.
+Funny (3300): Flies from forest (76,8) in Uzrot to forest (77,9) in
+  Uzrot.
+Courier (3212): Flies from forest (75,15) in Uzrot to forest (75,13)
+  in Uzrot.
+Yew guy (2029): Flies from forest (75,15) in Uzrot to forest (75,13)
+  in Uzrot.
+Mini (3082): Flies from plain (74,16) in Bocholt to plain (74,18) in
+  Bocholt.
+Stealth Horse (2230): Flies from forest (76,16) in Uzrot to plain
+  (77,17) in Morungol.
+Stealth Horse (2242): Flies from forest (76,16) in Uzrot to plain
+  (77,17) in Morungol.
+scout (1748): Rides from plain (75,19) in Bocholt to plain (74,20) in
+  Bocholt.
+Reilly (3012): Flies from jungle (74,22) in Donndinon to plain (74,20)
+  in Bocholt.
+Funny (3300): Flies from forest (77,9) in Uzrot to forest (77,11) in
+  Uzrot.
+Courier (3212): Flies from forest (75,13) in Uzrot to forest (75,11)
+  in Uzrot.
+Yew guy (2029): Flies from forest (75,13) in Uzrot to forest (75,11)
+  in Uzrot.
+Stealth Horse (2242): Flies from plain (77,17) in Morungol to plain
+  (78,16) in Morungol.
+Mini (3082): Flies from plain (74,18) in Bocholt to plain (74,20) in
+  Bocholt.
+Reilly (3012): Flies from plain (74,20) in Bocholt to plain (75,19) in
+  Bocholt.
+Funny (3300): Flies from forest (77,11) in Uzrot to forest (77,13) in
+  Uzrot.
+Reilly (3012): Flies from plain (75,19) in Bocholt to forest (76,18)
+  in Uzrot.
+Open 3 (2416): Teaches combat to Funny guys (2738).
+Open 1 (2415): Teaches entertainment to Har Har (2069).
+Ente (2629): Teaches combat to Open 1 (2413).
+Ente (2629): Teaches combat to Colony (2178).
+Ente (2629): Teaches entertainment to courier (1375).
+Ente (2629): Teaches entertainment to Har Ten (2015).
+Ente (2629): Teaches entertainment to Har Har (2062).
+Aux Weap (3429): Teaches weaponsmith to Weap guys (3070).
+Aux Weap (3429): Teaches weaponsmith to Mini Weap (3151).
+Aux Weap (3429): Teaches weaponsmith to Mission (2842).
+Aux Weap (3429): Teaches weaponsmith to Mini Weap (2979).
+Aux Weap (3429): Teaches weaponsmith to Mini weap (3079).
+Com Guy (3093): Teaches combat to Comb guys (3392).
+Com Guy (3093): Teaches combat to Three Guard (3420).
+Guard (3423): Teaches combat to Com guys (2076).
+Farmer (3087): Teaches farming to farmers (3393).
+Farmer (2208): Teaches farming to Farmer (2209).
+Farmer (2208): Teaches farming to Farmers (2148).
+funny guy (3086): Teaches entertainment to Funny  (3425).
+funny guy (3086): Teaches entertainment to Sales guy (3133).
+Funny Guardsmen (2924): Teaches entertainment to Funny  (3426).
+Yew (3280): Teaches lumberjack to yew (3085).
+Yew (3280): Teaches lumberjack to yew (3083).
+Yew (3280): Teaches lumberjack to foresters (2225).
+Courier (2482): Teaches entertainment to Eainfeld (1367).
+Funny Guards (3180): Teaches entertainment to Rain (3359).
+Ranch (2212): Teaches ranching to Rawhide (2228).
+Ranch (2213): Teaches ranching to Rawhide (2229).
+HorsSte (2220): Teaches stealth to stealthy guys (2481).
+HorsSte (2220): Teaches stealth to Ridi 5 (2519).
+HorsSte (2220): Teaches stealth to Reilly crew (2521).
+Magnificent 7 (2312): Teaches combat to Lbow guy (3243).
+Magnificent 7 (2312): Teaches combat to Xbow guy (3244).
+Magnificent 7 (2312): Teaches combat to comb guy (3355).
+Wise Guy (2396): Teaches observation to Aux (2314).
+Wise Guy (2396): Teaches observation to Tact 5 (3027).
+2 Ridi Guys (2476): Teaches riding to Ridi Guy (2745).
+2 Ridi Guys (2476): Teaches riding to Ridi Guy (2746).
+2 Ridi Guys (2476): Teaches riding to Ridi Guy (2485).
+Stealthy guy (2522): Teaches stealth to Ridi 5 (2519).
+Stealthy guy (2522): Teaches stealth to Reilly (2398).
+Stealthy guy (2522): Teaches stealth to Reilly (2214).
+Stealthy guy (2522): Teaches stealth to 5% Lumb (3030).
+Stealthy guy (2522): Teaches stealth to stealthy guys (2481).
+5% Stea (3029): Teaches stealth to Lumber Guy (2523).
+5% Stea (3029): Teaches stealth to Advanced Horse (2632).
+5% Stea (3029): Teaches stealth to Yew Guys (3005).
+5% Stea (3029): Teaches stealth to 5% Lumb (3030).
+5% Stea (3029): Teaches stealth to Yew (3279).
+5% Stea (3029): Teaches stealth to Courier (3245).
+5% Stea (3029): Teaches stealth to Reilly (2398).
+5% Stea (3029): Teaches stealth to Reilly crew (2521).
+5% Stea (3029): Teaches stealth to SteTeacher (3309).
+5% Stea (3029): Teaches observation to Stealth Guys (2987).
+XBteacher (3241): Teaches crossbow to Xguy (3200).
+XBteacher (3241): Teaches crossbow to Xguy (1413).
+LBteacher (3242): Teaches longbow to Herb Guy (2480).
+LBteacher (3242): Teaches longbow to Lguy (1457).
+SteTeacher (3308): Teaches stealth to Hors Guys (3159).
+Weap guys (3354): Teaches weaponsmith to Aux Weap (3428).
+mini teacher (1411): Teaches mining to mini teacher (1473).
+Taxeer (1747): Teaches entertainment to Funny (3299).
+Taxeer (1747): Teaches entertainment to Funny (3289).
+Taxeer (1747): Teaches entertainment to Funny (3318).
+Taxeer (1747): Teaches entertainment to Funny (3350).
+Taxeer (1747): Teaches entertainment to Funny (3319).
+Funny guard (3360): Teaches entertainment to Funny (3320).
+Com Guy (3090): Teaches combat to comb starter (3160).
+Com Guy (3090): Teaches combat to Comb Guys (3136).
+Com Guy (3090): Teaches combat to Com Guy (3089).
+Com Guy (3090): Teaches combat to Winging (2877).
+Combo (2635): Teaches entertainment to funny guys (1490).
+Combo (2635): Teaches entertainment to Funny guys (2257).
+Combo (2635): Teaches combat to Sedrick (2524).
+Thor (2217): Teaches armorer to Armo (3432).
+Thor (2217): Teaches armorer to Armo (3433).
+Thor (2217): Teaches armorer to Armo (3434).
+Thor (2217): Teaches armorer to Asmore (3311).
+Thor (2217): Teaches combat to Armo (3246).
+Cougar (2489): Teaches artifact lore to Water Buffalo (2488).
+Cougar (2489): Teaches artifact lore to Bear (592).
+Cougar (2489): Teaches spirit to Unit (1929).
+Cougar (2489): Teaches spirit to Unit (1928).
+Obse (2749): Teaches stealth to Truffle Passoff (3008).
+Obse (2749): Teaches stealth to Courier (2395).
+Obse (2749): Teaches stealth to More Booze (3239).
+Obse (2749): Teaches observation to Indigo (3285).
+Obse (2749): Teaches observation to Stea (2750).
+Obse (2749): Teaches observation to Reilly (3011).
+Unit (2728): Studies entertainment.
+Open 1 (2421): Studies entertainment.
+Farmers (2822): Produces 6 grain [GRAI] in mountain (74,4) in Nakyce.
+Mini (3081): Produces 6 mithril [MITH] in mountain (74,4) in Nakyce.
+Unit (2337): Earns 600 silver entertaining in mountain (73,5) in
+  Nakyce.
+Funny Guard (3419): Studies entertainment.
+Funny Guard (2737): Earns 21 silver entertaining in mountain (71,9) in
+  Nakyce.
+Funny guys (2738): Studies combat.
+Iron (1335): Produces 3 iron [IRON] in mountain (72,10) in Nakyce.
+Mith (2394): Produces 8 mithril [MITH] in mountain (72,10) in Nakyce.
+Colony (2178): Studies combat.
+Open 1 (2413): Studies combat.
+Mini Weap (2979): Studies weaponsmith.
+Mission (2842): Studies weaponsmith.
+Mini weap (3079): Studies weaponsmith.
+Major mini (3080): Studies mining.
+Mini Weap (3151): Studies weaponsmith.
+Weap guys (3070): Studies weaponsmith.
+Har Ten (2015): Studies entertainment.
+Har Har (2062): Studies entertainment.
+Har Har (2069): Studies entertainment.
+Columbus (3154): Studies lumberjack.
+courier (1375): Studies entertainment.
+Courier (3347): Produces 33 grain [GRAI] in mountain (74,10) in
+  Nakyce.
+The Crew (2840): Earns 711 silver entertaining in mountain (74,10) in
+  Nakyce.
+Weap Boys (3002): Produces 10 mithril swords [MSWO] in mountain
+  (74,10) in Nakyce.
+farm guys (3127): Produces 27 grain [GRAI] in forest (75,11) in Uzrot.
+Herb (2210): Produces 10 herbs [HERB] in forest (75,11) in Uzrot.
+Yew (1336): Produces 6 yew [YEW] in forest (75,11) in Uzrot.
+Har Har (2520): Earns 50 silver entertaining in forest (75,11) in
+  Uzrot.
+Yew (2486): Studies lumberjack.
+Farmers (3001): Produces 15 grain [GRAI] in forest (74,12) in Uzrot.
+funny guys (3116): Earns 60 silver entertaining in forest (74,12) in
+  Uzrot.
+Wood (2633): Studies lumberjack.
+Ironwood (2308): Produces 6 ironwood [IRWD] in forest (75,13) in
+  Uzrot.
+Three Guard (3420): Studies combat.
+Com guys (2076): Studies combat.
+Comb guys (3392): Studies combat.
+comb guys (3092): Earns 80 silver working in forest (75,15) in Uzrot.
+Funny Guys (2388): Earns 480 silver entertaining in forest (75,15) in
+  Uzrot.
+Courier (3348): Studies entertainment.
+Horse (2055): Produces 8 winged horses [WING] in plain (74,16) in
+  Bocholt.
+Funny (3322): Earns 80 silver entertaining in plain (74,16) in
+  Bocholt.
+Funny Guard (3224): Studies entertainment.
+Ironwood (2731): Produces 9 ironwood [IRWD] in forest (76,16) in
+  Uzrot.
+Yew (3283): Produces 7 yew [YEW] in forest (76,16) in Uzrot.
+Farmer (2209): Studies farming.
+Farmers (2148): Studies farming.
+farmers (3393): Studies farming.
+Farmers (2739): Produces 57 grain [GRAI] in plain (73,17) in Bocholt.
+Hproducer (2054): Produces 30 horses [HORS] in plain (73,17) in
+  Bocholt.
+Funny  (3425): Studies entertainment.
+Sales guy (3133): Studies entertainment.
+Winging (2862): Studies entertainment.
+Funny  (3426): Studies entertainment.
+Horse (1976): Produces 9 winged horses [WING] in plain (77,17) in
+  Morungol.
+Horse Guy (2740): Produces 9 winged horses [WING] in plain (72,18) in
+  Bocholt.
+yew (3083): Studies lumberjack.
+yew (3084): Studies lumberjack.
+yew (3085): Studies lumberjack.
+Eainfeld (1367): Studies entertainment.
+foresters (2225): Studies lumberjack.
+Rain (3359): Studies entertainment.
+Ranchers (3353): Produces 30 livestock [LIVE] in plain (71,19) in
+  Bocholt.
+Stealth Producer (3352): Produces 5 winged horses [WING] in plain
+  (71,19) in Bocholt.
+Reilly (2214): Studies stealth.
+Comb 9 (2179): Studies combat.
+Aux (2314): Studies observation.
+2 wise guys (2391): Studies observation.
+Reilly (2398): Studies stealth.
+Carp Guy (2477): Studies carpenter.
+Herb Guy (2480): Studies longbow.
+stealthy guys (2481): Studies stealth.
+Hunt Guy (2483): Studies longbow.
+Fish Guy (2484): Studies longbow.
+Ridi Guy (2485): Studies riding.
+Ridi 5 (2519): Studies stealth.
+Reilly crew (2521): Studies stealth.
+Lumber Guy (2523): Studies stealth.
+Mini (2630): Studies longbow.
+Stealthy Guys (2631): Studies observation.
+Advanced Horse (2632): Studies stealth.
+Ridi Guy (2745): Studies riding.
+Ridi Guy (2746): Studies riding.
+Yew Guys (3005): Studies stealth.
+Stealth Guys (2987): Studies observation.
+Tact 5 (3027): Studies observation.
+5% Lumb (3030): Studies stealth.
+Hors Guys (3159): Studies stealth.
+Lbow guy (3243): Studies combat.
+Xbow guy (3244): Studies combat.
+Xguy (3200): Studies crossbow.
+Yew (3279): Studies stealth.
+SteTeacher (3309): Studies stealth.
+Funny (3350): Studies entertainment.
+comb guy (3355): Studies combat.
+Aux Weap (3428): Studies weaponsmith.
+Courier (3349): Studies combat.
+Funny (3319): Studies entertainment.
+Rawhide (1387): Studies ranching.
+Xguy (1413): Studies crossbow.
+Lguy (1457): Studies longbow.
+mini teacher (1473): Studies mining.
+Funny (3318): Studies entertainment.
+Funny (3289): Studies entertainment.
+Lumber Guys (2998): Studies stealth.
+Rawhide (2228): Studies ranching.
+Rawhide (2229): Studies ranching.
+Courier (3245): Studies stealth.
+Lguy (3396): Studies longbow.
+Xguy (3421): Studies crossbow.
+Lguy (3422): Studies longbow.
+Xguy (3430): Studies crossbow.
+Rawhide (2313): Produces 49 livestock [LIVE] in plain (73,19) in
+  Bocholt.
+Truffles (1859): Earns 26 silver working in plain (73,19) in Bocholt.
+Mini (1860): Earns 13 silver working in plain (73,19) in Bocholt.
+Mini Guys (3003): Earns 52 silver working in plain (73,19) in Bocholt.
+Carpenters (3004): Earns 66 silver working in plain (73,19) in
+  Bocholt.
+com guys (3275): Earns 132 silver working in plain (73,19) in Bocholt.
+Weap guys (3427): Earns 199 silver working in plain (73,19) in
+  Bocholt.
+Globe theatre (3006): Earns 1800 silver entertaining in plain (73,19)
+  in Bocholt.
+Weap (1839): Produces 5 double bows [DBOW] in plain (73,19) in
+  Bocholt.
+Weap boys (2634): Produces 10 double bows [DBOW] in plain (73,19) in
+  Bocholt.
+Funny (3320): Studies entertainment.
+Rawhide (3053): Produces 39 livestock [LIVE] in plain (75,19) in
+  Bocholt.
+Wing (3155): Produces 8 winged horses [WING] in plain (75,19) in
+  Bocholt.
+comb starter (3160): Studies combat.
+Comb Guys (3136): Studies combat.
+Com Guy (3089): Studies combat.
+Winging (2877): Studies combat.
+Structures (3052): Earns 300 silver entertaining in plain (77,19) in
+  Morungol.
+Rawhide (3028): Produces 51 livestock [LIVE] in plain (74,20) in
+  Bocholt.
+Hors Teach (3088): Produces 7 winged horses [WING] in plain (74,20) in
+  Bocholt.
+Sedrick (2524): Studies combat.
+funny guys (1490): Studies entertainment.
+Funny guys (2257): Studies entertainment.
+Funny guys (2260): Studies entertainment.
+E guy (2316): Earns 17 silver entertaining in jungle (72,24) in
+  Donndinon.
+Armo Guy (2526): Studies combat.
+Armo (3246): Studies combat.
+Asmore (3311): Studies armorer.
+Armo (3432): Studies armorer.
+Armo (3433): Studies armorer.
+Armo (3434): Studies armorer.
+Bear (592): Studies artifact lore.
+Water Buffalo (2488): Studies artifact lore.
+Thor (1861): Earns 162 silver working in mountain (68,26) in
+  Phidyntia.
+Builder (2397): Studies shipbuilding.
+Weap (2636): Studies combat.
+Quarry (2637): Studies combat.
+Stea (2750): Studies observation.
+Weap (2753): Studies combat.
+Weap (2754): Studies combat.
+Quarry (2755): Studies combat.
+Reilly (3009): Studies stealth.
+Reilly (3010): Studies observation.
+Reilly (3011): Studies observation.
+Indigo (3285): Studies observation.
+More Booze (3239): Studies stealth.
+Courier (2395): Studies stealth.
+Truffle Passoff (3008): Studies stealth.
+Funny guys (2487): Earns 540 silver entertaining in jungle (72,26) in
+  Donndinon.
+Farmer (2478): Claims 20 silver for maintenance.
+
+Skill reports:
+
+shipbuilding [SHIP] 1: This skill deals with the constructions of all
+  types of ships. A unit with this skill may BUILD the following
+  structures: Longboat, Clipper, Galleon. This skill costs 10 silver
+  per month of study.
+
+Object reports:
+
+Longboat: This is a ship. Units may enter this structure. This ship
+  requires 5 total levels of sailing skill to sail. This structure is
+  built using shipbuilding [SHIP] 1 and requires 25 wood to build.
+
+Clipper: This is a ship. Units may enter this structure. This ship
+  requires 10 total levels of sailing skill to sail. This structure is
+  built using shipbuilding [SHIP] 1 and requires 50 wood to build.
+
+Galleon: This is a ship. Units may enter this structure. This ship
+  requires 15 total levels of sailing skill to sail. This structure is
+  built using shipbuilding [SHIP] 1 and requires 75 wood to build.
+
+Declared Attitudes (default Unfriendly):
+Hostile : none.
+Unfriendly : none.
+Neutral : Grey Wind (17).
+Friendly : Multiple Bite Wounds (10), SuperNerrs 001 (13).
+Ally : Gragblod (7), Warlords Inc (19).
+
+Unclaimed silver: 7346.
+
+forest (74,0) in Ranshya, 346 peasants (vikings), $1384.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $968).
+  Wanted: none.
+  For Sale: 69 vikings [VIKI] at $56, 13 leaders [LEAD] at $112.
+  Entertainment available: $69.
+  Products: 24 grain [GRAI], 26 wood [WOOD], 10 furs [FUR], 17 herbs
+    [HERB].
+
+Exits:
+  Southeast : forest (75,1) in Ranshya.
+  South : mountain (74,2) in Nakyce.
+  Southwest : ocean (73,1) in Atlantis Ocean.
+
+- Aspracus (1067), Gragblod (7), 3 vikings [VIKI].
+- Unit (21), Gragblod (7), 40 vikings [VIKI].
+- Unit (34), Gragblod (7), 2 vikings [VIKI].
+* Lumber Guy (2999), New Horizons (16), revealing faction, holding,
+  receiving no aid, 470 silver [SILV], leader [LEAD], winged horse
+  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: lumberjack [LUMB]
+  5 (450), combat [COMB] 1 (60).
+
+
+mountain (74,4) in Nakyce, 359 peasants (hill dwarves), $1436.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1005).
+  Wanted: none.
+  For Sale: 71 hill dwarves [HDWA] at $56, 14 leaders [LEAD] at $112.
+  Entertainment available: $71.
+  Products: 27 grain [GRAI], 32 iron [IRON], 13 stone [STON], 6
+    mithril [MITH].
+
+Exits:
+  North : mountain (74,2) in Nakyce.
+  Northeast : forest (75,3) in Ranshya.
+  Southeast : ocean (75,5) in Atlantis Ocean.
+  South : mountain (74,6) in Nakyce.
+  Southwest : mountain (73,5) in Nakyce, contains Robaedale [city].
+  Northwest : ocean (73,3) in Atlantis Ocean.
+
+- Lulius (1133), Gragblod (7), tribesman [TMAN].
+- Unit (66), Gragblod (7), 2 hill dwarves [HDWA].
+* Unit (2728), New Horizons (16), revealing faction, holding,
+  receiving no aid, consuming unit's food, leader [LEAD], 666 silver
+  [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  combat [COMB] 1 (30), entertainment [ENTE] 3 (210).
+* Open 1 (2421), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, leader [LEAD], 190 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 2 (90), entertainment
+  [ENTE] 4 (300).
+* Mini (3081), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, consuming unit's food, 2 hill dwarves
+  [HDWA], 328 silver [SILV], 11 winged horses [WING], 6 mithril
+  [MITH]. Weight: 630. Capacity: 770/770/800/0. Skills: mining [MINI]
+  3 (180).
+* Farmers (2822), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, 2 high
+  elves [HELF], 20 silver [SILV], 4 grain [GRAI]. Weight: 40.
+  Capacity: 0/0/30/0. Skills: farming [FARM] 3 (180).
+- Unit (82), Gragblod (7), hill dwarf [HDWA].
+* Odd Farmer (2016), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, high elf [HELF], winged horse
+  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: farming [FARM] 3
+  (180).
+
+
+mountain (73,5) in Nakyce, contains Robaedale [city], 6474 peasants
+  (hill dwarves), $38844.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $20716).
+  Wanted: 108 grain [GRAI] at $20, 198 livestock [LIVE] at $24, 160
+    fish [FISH] at $27, 61 longbows [LBOW] at $95, 54 chain armor
+    [CARM] at $128, 85 wagons [WAGO] at $183, 36 winged horses [WING]
+    at $218, 90 chocolate [CHOC] at $131, 75 silk [SILK] at $153.
+  For Sale: 56 wine [WINE] at $84, 67 spices [SPIC] at $75, 1294 hill
+    dwarves [HDWA] at $64, 258 leaders [LEAD] at $128.
+  Entertainment available: $1942.
+  Products: 26 grain [GRAI], 21 iron [IRON], 14 stone [STON].
+
+Exits:
+  North : ocean (73,3) in Atlantis Ocean.
+  Northeast : mountain (74,4) in Nakyce.
+  Southeast : mountain (74,6) in Nakyce.
+  South : mountain (73,7) in Nakyce.
+  Southwest : ocean (72,6) in Atlantis Ocean.
+  Northwest : ocean (72,4) in Atlantis Ocean.
+
+- City Guard (11), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Unit (44), Gragblod (7), 44 hill dwarves [HDWA].
+- Unit (301), Gragblod (7), 10 hill dwarves [HDWA].
+* Unit (2337), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 6 leaders [LEAD], 12 winged horses
+  [WING], 480 silver [SILV]. Weight: 660. Capacity: 840/840/930/0.
+  Skills: entertainment [ENTE] 5 (450).
+
+
+mountain (72,8) in Nakyce, 343 peasants (vikings), $686.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $823).
+  Wanted: none.
+  For Sale: 68 vikings [VIKI] at $48, 13 leaders [LEAD] at $96.
+  Entertainment available: $34.
+  Products: 23 livestock [LIVE], 36 iron [IRON], 15 stone [STON].
+
+Exits:
+  North : ocean (72,6) in Atlantis Ocean.
+  Northeast : mountain (73,7) in Nakyce.
+  Southeast : mountain (73,9) in Nakyce.
+  South : mountain (72,10) in Nakyce.
+  Southwest : mountain (71,9) in Nakyce.
+  Northwest : ocean (71,7) in Atlantis Ocean.
+
+* Funny Guard (3419), on guard, New Horizons (16), behind, revealing
+  faction, holding, receiving no aid, 204 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (30), entertainment [ENTE] 2 (90).
+- Unit (1826), Gragblod (7), 10 hill dwarves [HDWA].
+
+
+mountain (71,9) in Nakyce, 215 peasants (sea elves), $430.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $516).
+  Wanted: none.
+  For Sale: 43 sea elves [SELF] at $48, 8 leaders [LEAD] at $96.
+  Entertainment available: $21.
+  Products: 33 grain [GRAI], 26 iron [IRON], 12 stone [STON].
+
+Exits:
+  North : ocean (71,7) in Atlantis Ocean.
+  Northeast : mountain (72,8) in Nakyce.
+  Southeast : mountain (72,10) in Nakyce.
+  South : ocean (71,11) in Atlantis Ocean.
+  Southwest : ocean (70,10) in Atlantis Ocean.
+  Northwest : ocean (70,8) in Atlantis Ocean.
+
+* Funny Guard (2737), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, 85 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), entertainment
+  [ENTE] 2 (90).
+
+
+forest (77,9) in Uzrot, 273 peasants (sea elves), $546.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $655).
+  Wanted: none.
+  For Sale: 54 sea elves [SELF] at $48, 10 leaders [LEAD] at $96.
+  Entertainment available: $27.
+  Products: 34 grain [GRAI], 22 wood [WOOD], 17 furs [FUR], 14 herbs
+    [HERB], 6 ironwood [IRWD].
+
+Exits:
+  North : tundra (77,7) in Drogbad.
+  Northeast : tundra (78,8) in Drogbad.
+  Southeast : ocean (78,10) in Atlantis Ocean.
+  South : forest (77,11) in Uzrot.
+  Southwest : forest (76,10) in Uzrot.
+  Northwest : forest (76,8) in Uzrot.
+
+- Unit (1021), Gragblod (7), 2 hill dwarves [HDWA].
+- Unit (635), Gragblod (7), 10 hill dwarves [HDWA].
+- Unit (1332), Gragblod (7), sea elf [SELF].
+* Lumber (1862), New Horizons (16), avoiding, behind, revealing
+  faction, holding, leader [LEAD], 415 silver [SILV], winged horse
+  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: combat [COMB] 1
+  (60), lumberjack [LUMB] 5 (450).
+
+
+mountain (72,10) in Nakyce, 323 peasants (sea elves), $1292.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $904).
+  Wanted: none.
+  For Sale: 64 sea elves [SELF] at $56, 12 leaders [LEAD] at $112.
+  Entertainment available: $64.
+  Products: 20 livestock [LIVE], 33 iron [IRON], 18 stone [STON], 8
+    mithril [MITH].
+
+Exits:
+  North : mountain (72,8) in Nakyce.
+  Northeast : mountain (73,9) in Nakyce.
+  Southeast : swamp (73,11) in Issnina.
+  South : swamp (72,12) in Issnina.
+  Southwest : ocean (71,11) in Atlantis Ocean.
+  Northwest : mountain (71,9) in Nakyce.
+
+* Open 3 (2416), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, leader [LEAD], 24 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), entertainment
+  [ENTE] 5 (450).
+* Mith (2394), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 1892 silver [SILV], 3 hill dwarves
+  [HDWA], 14 horses [HORS], 6 winged horses [WING], 8 mithril [MITH].
+  Weight: 1110. Capacity: 420/1400/1445/0. Skills: mining [MINI] 3
+  (180).
+* Iron (1335), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, hill dwarf [HDWA], 230 silver [SILV], 3
+  iron [IRON]. Weight: 25. Capacity: 0/0/15/0. Skills: mining [MINI] 3
+  (180).
+* Funny guys (2738), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 116 silver [SILV], leader
+  [LEAD], 29 mithril [MITH], 3 iron [IRON]. Weight: 315. Capacity:
+  0/0/15/0. Skills: combat [COMB] 1 (60).
+* Mithril (2997), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, hill dwarf [HDWA], 18 horses
+  [HORS], 3 iron [IRON]. Weight: 925. Capacity: 0/1260/1275/0. Skills:
+  mining [MINI] 3 (180).
+* Mthril (2475), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 40 silver [SILV], hill dwarf
+  [HDWA], 2 winged horses [WING], 25 horses [HORS]. Weight: 1360.
+  Capacity: 140/1890/1905/0. Skills: mining [MINI] 3 (180).
+
+
+mountain (74,10) in Nakyce, contains Cirrond [city], 2496 peasants
+  (hill dwarves), $14976.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $7987).
+  Wanted: 124 grain [GRAI] at $20, 182 livestock [LIVE] at $26, 23
+    herbs [HERB] at $54, 36 plate armor [PARM] at $516, 5 winged
+    horses [WING] at $216, 15 figurines [FIGU] at $118, vodka [VODK]
+    at $142.
+  For Sale: 22 longbows [LBOW] at $95, 20 wagons [WAGO] at $172, 15
+    wine [WINE] at $81, 499 hill dwarves [HDWA] at $64, 99 leaders
+    [LEAD] at $128.
+  Entertainment available: $748.
+  Products: 33 grain [GRAI], 37 iron [IRON], 16 stone [STON].
+
+Exits:
+  North : mountain (74,8) in Nakyce.
+  Northeast : mountain (75,9) in Nakyce.
+  Southeast : forest (75,11) in Uzrot.
+  South : forest (74,12) in Uzrot.
+  Southwest : swamp (73,11) in Issnina.
+  Northwest : mountain (73,9) in Nakyce.
+
+- City Guard (20), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Unit (1004), Gragblod (7), avoiding, 2 hill dwarves [HDWA].
+* Colony (2178), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, leader [LEAD], 889 silver [SILV], horse
+  [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 2
+  (120), entertainment [ENTE] 5 (450).
+* Open 1 (2413), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, leader [LEAD], 236 silver
+  [SILV], 4 horses [HORS]. Weight: 210. Capacity: 0/280/295/0. Skills:
+  entertainment [ENTE] 5 (450), combat [COMB] 2 (120).
+* Open 1 (2415), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 86 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE] 5
+  (450), combat [COMB] 1 (60).
+* Ente (2629), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 90 silver [SILV].
+  Weight: 20. Capacity: 0/0/30/0. Skills: entertainment [ENTE] 5
+  (450), combat [COMB] 2 (90).
+* The Crew (2840), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 13 wood elves [WELF], 2625
+  silver [SILV], 8 figurines [FIGU], 15 grain [GRAI]. Weight: 213.
+  Capacity: 0/0/195/0. Skills: entertainment [ENTE] 3 (180).
+- Unit (1701), Gragblod (7), 10 hill dwarves [HDWA].
+* Mini Weap (2979), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 30 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: mining [MINI] 2 (150),
+  weaponsmith [WEAP] 4 (300).
+- Unit (84), Gragblod (7), 30 hill dwarves [HDWA].
+- Unit (909), Gragblod (7), 22 hill dwarves [HDWA].
+* Mission (2842), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, leader [LEAD], 366 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: mining [MINI] 2 (150), weaponsmith
+  [WEAP] 4 (300).
+* Mini weap (3079), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 240 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: mining [MINI] 3
+  (210), weaponsmith [WEAP] 4 (330).
+* Major mini (3080), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 30 silver [SILV], leader [LEAD],
+  12 iron [IRON]. Weight: 70. Capacity: 0/0/15/0. Skills: mining
+  [MINI] 4 (390).
+- Unit (585), Gragblod (7), 40 hill dwarves [HDWA].
+* Mini Weap (3151), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 95 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: mining [MINI] 3 (180),
+  weaponsmith [WEAP] 4 (330).
+- Unit (186), Gragblod (7), 20 hill dwarves [HDWA].
+- Unit (763), Gragblod (7), 20 hill dwarves [HDWA].
+- Unit (288), Gragblod (7), 10 hill dwarves [HDWA].
+- Unit (1629), Gragblod (7), leader [LEAD].
+- Unit (1898), Gragblod (7), leader [LEAD].
+- Unit (859), Gragblod (7), 20 hill dwarves [HDWA].
+* Weap guys (3070), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 120 silver [SILV], 4 leaders
+  [LEAD]. Weight: 40. Capacity: 0/0/60/0. Skills: weaponsmith [WEAP] 4
+  (330).
+* Courier (3347), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 11 high elves [HELF], 19
+  ironwood [IRWD], 1100 silver [SILV], 33 grain [GRAI]. Weight: 465.
+  Capacity: 0/0/165/0. Skills: farming [FARM] 3 (180).
+- Unit (64), Gragblod (7), 10 hill dwarves [HDWA].
+* Weap Boys (3002), New Horizons (16), revealing faction, holding,
+  receiving no aid, 323 silver [SILV], 2 leaders [LEAD], 58 mithril
+  [MITH], 20 mithril swords [MSWO]. Weight: 620. Capacity: 0/0/30/0.
+  Skills: combat [COMB] 1 (60), weaponsmith [WEAP] 5 (450).
+* Aux Weap (3429), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 175 silver [SILV], leader
+  [LEAD], 3 iron [IRON]. Weight: 25. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (60), weaponsmith [WEAP] 5 (450).
+* Har Ten (2015), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 2956 silver [SILV], 5 leaders [LEAD].
+  Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB] 1 (60),
+  entertainment [ENTE] 1 (60).
+* Har Har (2062), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 16 horses [HORS], 1140 silver
+  [SILV], 10 wood elves [WELF]. Weight: 900. Capacity: 0/1120/1270/0.
+  Skills: entertainment [ENTE] 1 (60).
+* Har Har (2069), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 22 horses [HORS], 1372 silver
+  [SILV], 10 wood elves [WELF]. Weight: 1200. Capacity: 0/1540/1690/0.
+  Skills: entertainment [ENTE] 1 (60).
+* Columbus (3154), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 10 silver [SILV], viking [VIKI].
+  Weight: 10. Capacity: 0/0/15/0. Skills: lumberjack [LUMB] 1 (60).
+* courier (1375), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 9 horses [HORS], 8 ironwood
+  [IRWD], leader [LEAD]. Weight: 540. Capacity: 0/630/645/0. Skills:
+  entertainment [ENTE] 1 (60).
+* Yew (1345), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 1340 silver [SILV], 11
+  horses [HORS]. Weight: 560. Capacity: 0/770/785/0. Skills: combat
+  [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+* delivery (3063), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 4 winged horses [WING], leader
+  [LEAD], 6 mithril [MITH]. Weight: 270. Capacity: 280/280/295/0.
+  Skills: none.
+
+
+forest (76,10) in Uzrot, 337 peasants (wood elves), $674.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $808).
+  Wanted: none.
+  For Sale: 67 wood elves [WELF] at $48, 13 leaders [LEAD] at $96.
+  Entertainment available: $33.
+  Products: 29 livestock [LIVE], 38 wood [WOOD], 16 furs [FUR], 16
+    herbs [HERB], 5 ironwood [IRWD].
+
+Exits:
+  North : forest (76,8) in Uzrot.
+  Northeast : forest (77,9) in Uzrot.
+  Southeast : forest (77,11) in Uzrot.
+  South : forest (76,12) in Uzrot.
+  Southwest : forest (75,11) in Uzrot.
+  Northwest : mountain (75,9) in Nakyce.
+
+- Unit (291), Gragblod (7), 2 hill dwarves [HDWA].
+- Unit (185), Gragblod (7), 15 hill dwarves [HDWA].
+- Unit (1732), Gragblod (7), wood elf [WELF].
+* Yew (1337), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 420 silver [SILV], horse [HORS], leader
+  [LEAD], winged horse [WING]. Weight: 110. Capacity: 70/140/155/0.
+  Skills: combat [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+
+
+forest (75,11) in Uzrot, 260 peasants (vikings), $1040.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $728).
+  Wanted: none.
+  For Sale: 52 vikings [VIKI] at $56, 10 leaders [LEAD] at $112.
+  Entertainment available: $52.
+  Products: 35 grain [GRAI], 29 wood [WOOD], 16 furs [FUR], 14 herbs
+    [HERB], 5 ironwood [IRWD], 6 yew [YEW].
+
+Exits:
+  North : mountain (75,9) in Nakyce.
+  Northeast : forest (76,10) in Uzrot.
+  Southeast : forest (76,12) in Uzrot.
+  South : forest (75,13) in Uzrot.
+  Southwest : forest (74,12) in Uzrot.
+  Northwest : mountain (74,10) in Nakyce, contains Cirrond [city].
+
+- Unit (169), Gragblod (7), avoiding, viking [VIKI].
+* Har Har (2520), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, wood elf
+  [WELF], horse [HORS], 140 silver [SILV], 5 yew [YEW]. Weight: 85.
+  Capacity: 0/70/85/0. Skills: entertainment [ENTE] 3 (180).
+* farm guys (3127), New Horizons (16), avoiding, behind, revealing
+  faction, holding, 9 high elves [HELF], 5 horses [HORS], 5 herbs
+  [HERB], 45 grain [GRAI]. Weight: 565. Capacity: 0/350/485/0. Skills:
+  farming [FARM] 3 (180).
+* Herb (2210), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, consuming unit's food, 240 silver [SILV],
+  2 leaders [LEAD], 2 horses [HORS], 15 herbs [HERB]. Weight: 120.
+  Capacity: 0/140/170/0. Skills: combat [COMB] 1 (30), herb lore
+  [HERB] 5 (450).
+* Yew (1336), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, consuming unit's food, 310 silver [SILV],
+  2 leaders [LEAD], 2 horses [HORS], 6 yew [YEW]. Weight: 150.
+  Capacity: 0/140/170/0. Skills: combat [COMB] 1 (30), lumberjack
+  [LUMB] 5 (450).
+* Courier (3240), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 768 silver [SILV], 28 horses [HORS],
+  leader [LEAD], 5 winged horses [WING]. Weight: 1660. Capacity:
+  350/2310/2325/0. Skills: none.
+* Courier (3212), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 2 horses [HORS], leader [LEAD], 9 winged
+  horses [WING]. Weight: 560. Capacity: 630/770/785/0. Skills: none.
+* Yew guy (2029), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 5 winged horses [WING], 48
+  silver [SILV], leader [LEAD]. Weight: 260. Capacity: 350/350/365/0.
+  Skills: none.
+
+
+forest (74,12) in Uzrot, 389 peasants (wood elves), $1556.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1089).
+  Wanted: none.
+  For Sale: 77 wood elves [WELF] at $56, 15 leaders [LEAD] at $112.
+  Entertainment available: $77.
+  Products: 30 grain [GRAI], 20 wood [WOOD], 11 furs [FUR], 11 herbs
+    [HERB], 5 ironwood [IRWD].
+
+Exits:
+  North : mountain (74,10) in Nakyce, contains Cirrond [city].
+  Northeast : forest (75,11) in Uzrot.
+  Southeast : forest (75,13) in Uzrot.
+  South : swamp (74,14) in Issnina.
+  Southwest : swamp (73,13) in Issnina.
+  Northwest : swamp (73,11) in Issnina.
+
+* Yew (2486), on guard, New Horizons (16), behind, revealing faction,
+  holding, receiving no aid, 990 silver [SILV], leader [LEAD], winged
+  horse [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: combat
+  [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+- Unit (1034), Gragblod (7), avoiding, hill dwarf [HDWA].
+* funny guys (3116), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, wood elf
+  [WELF], 2 horses [HORS], 60 silver [SILV]. Weight: 110. Capacity:
+  0/140/155/0. Skills: entertainment [ENTE] 3 (180).
+* Farmers (3001), New Horizons (16), avoiding, behind, revealing
+  faction, holding, 340 silver [SILV], 5 high elves [HELF], 52 horses
+  [HORS], 29 grain [GRAI]. Weight: 2795. Capacity: 0/3640/3715/0.
+  Skills: farming [FARM] 3 (180).
+
+
+forest (75,13) in Uzrot, 352 peasants (vikings), $1056.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $915).
+  Wanted: none.
+  For Sale: 70 vikings [VIKI] at $52, 14 leaders [LEAD] at $104.
+  Entertainment available: $52.
+  Products: 38 livestock [LIVE], 23 wood [WOOD], 16 furs [FUR], 13
+    herbs [HERB], 7 ironwood [IRWD].
+
+Exits:
+  North : forest (75,11) in Uzrot.
+  Northeast : forest (76,12) in Uzrot.
+  Southeast : forest (76,14) in Uzrot.
+  South : forest (75,15) in Uzrot, contains Quayfeeton [city].
+  Southwest : swamp (74,14) in Issnina.
+  Northwest : forest (74,12) in Uzrot.
+
+- Unit (1381), Gragblod (7), tribal elf [TELF], sword [SWOR].
+* Ironwood (2308), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 2042 silver [SILV], 2 vikings [VIKI], 12
+  horses [HORS], 12 ironwood [IRWD]. Weight: 740. Capacity:
+  0/840/870/0. Skills: lumberjack [LUMB] 3 (180).
+* Wood (2633), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, viking [VIKI]. Weight: 10. Capacity:
+  0/0/15/0. Skills: lumberjack [LUMB] 3 (180).
+* Lumber Guy (3000), New Horizons (16), revealing faction, holding,
+  receiving no aid, 564 silver [SILV], leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: lumberjack [LUMB] 5 (450), combat [COMB]
+  1 (60).
+
+
+forest (77,13) in Uzrot, 333 peasants (vikings), $999.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $865).
+  Wanted: none.
+  For Sale: 66 vikings [VIKI] at $52, 13 leaders [LEAD] at $104.
+  Entertainment available: $49.
+  Products: 22 grain [GRAI], 22 wood [WOOD], 16 furs [FUR], 13 herbs
+    [HERB].
+
+Exits:
+  North : forest (77,11) in Uzrot.
+  Northeast : plain (78,12) in Morungol.
+  Southeast : plain (78,14) in Morungol.
+  South : forest (77,15) in Uzrot.
+  Southwest : forest (76,14) in Uzrot.
+  Northwest : forest (76,12) in Uzrot.
+
+- Unit (1112), Gragblod (7), nomad [NOMA].
+* Funny (3300), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 79 silver [SILV], plainsman
+  [PLAI], 8 winged horses [WING], 29 wine [WINE]. Weight: 555.
+  Capacity: 560/560/575/0. Skills: none.
+
+
+swamp (74,14) in Issnina, 147 peasants (tribal elves), $147.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $11 (Max: $323).
+  Wanted: none.
+  For Sale: 29 tribal elves [TELF] at $44, 5 leaders [LEAD] at $88.
+  Entertainment available: $7.
+  Products: 16 grain [GRAI], 15 wood [WOOD], 17 herbs [HERB].
+
+Exits:
+  North : forest (74,12) in Uzrot.
+  Northeast : forest (75,13) in Uzrot.
+  Southeast : forest (75,15) in Uzrot, contains Quayfeeton [city].
+  South : plain (74,16) in Bocholt.
+  Southwest : swamp (73,15) in Issnina.
+  Northwest : swamp (73,13) in Issnina.
+
+- Unit (608), Gragblod (7), high elf [HELF], sword [SWOR].
+- Unit (768), on guard, Gragblod (7), 7 tribal elves [TELF].
+- Unit (739), Gragblod (7), tribal elf [TELF].
+- Unit (1789), Gragblod (7), tribal elf [TELF].
+* Farmer (2478), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, leader [LEAD], horse [HORS].
+  Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 2 (120),
+  farming [FARM] 5 (450).
+
+
+forest (75,15) in Uzrot, contains Quayfeeton [city], 3342 peasants
+  (vikings), $20052.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $10694).
+  Wanted: 166 grain [GRAI] at $26, 174 livestock [LIVE] at $23, 56
+    horses [HORS] at $44, 61 crossbows [XBOW] at $117, 42 chain armor
+    [CARM] at $122, 44 plate armor [PARM] at $468, 39 caviar [CAVI] at
+    $167, 37 perfume [PERF] at $152.
+  For Sale: 49 furs [FUR] at $55, 60 herbs [HERB] at $57, 35 longbows
+    [LBOW] at $159, 39 figurines [FIGU] at $66, 11 wine [WINE] at $66,
+    668 vikings [VIKI] at $64, 133 leaders [LEAD] at $128.
+  Entertainment available: $1002.
+  Products: 27 livestock [LIVE], 37 wood [WOOD], 16 furs [FUR], 15
+    herbs [HERB].
+
+Exits:
+  North : forest (75,13) in Uzrot.
+  Northeast : forest (76,14) in Uzrot.
+  Southeast : forest (76,16) in Uzrot.
+  South : plain (75,17) in Bocholt, contains Einheim [town].
+  Southwest : plain (74,16) in Bocholt.
+  Northwest : swamp (74,14) in Issnina.
+
+- Unit (1127), Gragblod (7), plainsman [PLAI], sword [SWOR].
+* Funny Guys (2388), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 12 vikings [VIKI], 20577 silver [SILV].
+  Weight: 120. Capacity: 0/0/180/0. Skills: entertainment [ENTE] 2
+  (90).
+- Unit (1032), Gragblod (7), horse [HORS], nomad [NOMA], 55 longbows
+  [LBOW].
+- Unit (168), Gragblod (7), behind, leader [LEAD], horse [HORS].
+- Unit (187), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (2436), on guard, Gragblod (7), 10 longbows [LBOW], 10 leaders
+  [LEAD].
+- Unit (903), on guard, Gragblod (7), 100 vikings [VIKI].
+- Unit (614), Gragblod (7), 270 vikings [VIKI], 42 horses [HORS].
+* comb guys (3092), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, 5 horses [HORS], 3364 silver [SILV], 5
+  leaders [LEAD]. Weight: 300. Capacity: 0/350/425/0. Skills: combat
+  [COMB] 5 (450).
+* Com Guy (3093), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, horse [HORS], 1186 silver
+  [SILV], leader [LEAD]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  combat [COMB] 5 (450).
+- Unit (1029), Gragblod (7), 50 vikings [VIKI].
+- Unit (799), Gragblod (7), 100 vikings [VIKI].
+- Unit (1180), Gragblod (7), leader [LEAD].
+- Unit (2129), Gragblod (7), behind, 100 wood elves [WELF], 100
+  longbows [LBOW].
+- Unit (1395), Gragblod (7), 20 wood elves [WELF], 20 longbows [LBOW].
+* Three Guard (3420), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, 126 silver [SILV], 3 leaders [LEAD].
+  Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 3 (240).
+* Guard (3423), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 18 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450).
+- Unit (1054), Gragblod (7), 60 wood elves [WELF].
+- Unit (872), Gragblod (7), 60 wood elves [WELF], 60 longbows [LBOW].
+- Unit (1636), Gragblod (7), 60 wood elves [WELF], 60 longbows [LBOW].
+- Unit (1128), Gragblod (7), 60 wood elves [WELF], 60 longbows [LBOW].
+* Com guys (2076), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 117 silver [SILV], 7 leaders
+  [LEAD]. Weight: 70. Capacity: 0/0/105/0. Skills: combat [COMB] 5
+  (450).
+- Unit (1797), Gragblod (7), 60 wood elves [WELF].
+* Comb guys (3392), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 842 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60).
+
+
+plain (74,16) in Bocholt, 776 peasants (high elves), $4656.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $2483).
+  Wanted: none.
+  For Sale: 155 high elves [HELF] at $64, 31 leaders [LEAD] at $128.
+  Entertainment available: $232.
+  Products: 68 livestock [LIVE], 33 horses [HORS], 8 winged horses
+    [WING].
+
+Exits:
+  North : swamp (74,14) in Issnina.
+  Northeast : forest (75,15) in Uzrot, contains Quayfeeton [city].
+  Southeast : plain (75,17) in Bocholt, contains Einheim [town].
+  South : plain (74,18) in Bocholt.
+  Southwest : plain (73,17) in Bocholt.
+  Northwest : swamp (73,15) in Issnina.
+
+- Unit (1250), Gragblod (7), leader [LEAD], sword [SWOR].
+* Horse (2055), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, 3192 silver [SILV], 2 leaders [LEAD], 8
+  winged horses [WING]. Weight: 420. Capacity: 560/560/590/0. Skills:
+  horse training [HORS] 5 (450), combat [COMB] 1 (47).
+* Funny (3322), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 310 silver [SILV], 4 plainsmen
+  [PLAI]. Weight: 40. Capacity: 0/0/60/0. Skills: entertainment [ENTE]
+  1 (60).
+* Courier (3348), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 152 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+  2 (90).
+* Stealth Horse (2255), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 520 silver [SILV], 2 leaders [LEAD], 2 winged
+  horses [WING]. Weight: 120. Capacity: 140/140/170/0. Skills: combat
+  [COMB] 1 (60), horse training [HORS] 5 (450), stealth [STEA] 5
+  (450).
+
++ Shaft [1] : Shaft, contains an inner location.
+  - Unit (1102), on guard, Gragblod (7), 9 high elves [HELF].
+  - Unit (1080), Gragblod (7), 2 high elves [HELF].
+
+
+forest (76,16) in Uzrot, 345 peasants (wood elves), $1035.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $897).
+  Wanted: none.
+  For Sale: 69 wood elves [WELF] at $52, 13 leaders [LEAD] at $104.
+  Entertainment available: $51.
+  Products: 32 livestock [LIVE], 33 wood [WOOD], 15 furs [FUR], 17
+    herbs [HERB], 9 ironwood [IRWD], 7 yew [YEW].
+
+Exits:
+  North : forest (76,14) in Uzrot.
+  Northeast : forest (77,15) in Uzrot.
+  Southeast : plain (77,17) in Morungol.
+  South : forest (76,18) in Uzrot.
+  Southwest : plain (75,17) in Bocholt, contains Einheim [town].
+  Northwest : forest (75,15) in Uzrot, contains Quayfeeton [city].
+
+- Unit (919), Gragblod (7), wood elf [WELF], sword [SWOR].
+- Unit (1667), Gragblod (7), viking [VIKI], 2 horses [HORS].
+* Yew (3283), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 19 horses [HORS], 3254 silver [SILV], 2
+  leaders [LEAD], 7 yew [YEW]. Weight: 1005. Capacity: 0/1330/1360/0.
+  Skills: combat [COMB] 1 (72), lumberjack [LUMB] 5 (450).
+* Funny Guard (3224), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, 1796 silver [SILV], leader [LEAD], horse
+  [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 1
+  (30), entertainment [ENTE] 2 (90).
+* Ironwood (2731), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 3 vikings [VIKI], 3564 silver
+  [SILV], 81 horses [HORS], 9 ironwood [IRWD]. Weight: 4170. Capacity:
+  0/5670/5715/0. Skills: lumberjack [LUMB] 3 (180).
+- Unit (1810), Gragblod (7), plainsman [PLAI], horse [HORS].
+- Unit (2262), Gragblod (7), 69 wood elves [WELF].
+* Courier (2083), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 5 yew [YEW], 10 silver [SILV], 9
+  ironwood [IRWD], 8 horses [HORS], leader [LEAD], 9 winged horses
+  [WING]. Weight: 975. Capacity: 630/1190/1205/0. Skills: none.
+* Structures (2993), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 72 silver [SILV], 3 wood elves [WELF], 18
+  wood [WOOD], 4 horses [HORS]. Weight: 320. Capacity: 0/280/325/0.
+  Skills: lumberjack [LUMB] 3 (180).
+* Rawhide (3351), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 7 nomads [NOMA], 7 winged horses
+  [WING]. Weight: 420. Capacity: 490/490/595/0. Skills: ranching
+  [RANC] 3 (180).
+
+
+plain (78,16) in Morungol, 674 peasants (vikings), $3370.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $2022).
+  Wanted: none.
+  For Sale: 134 vikings [VIKI] at $60, 26 leaders [LEAD] at $120.
+  Entertainment available: $168.
+  Products: 64 livestock [LIVE], 22 horses [HORS].
+
+Exits:
+  North : plain (78,14) in Morungol.
+  Northeast : plain (79,15) in Morungol.
+  Southeast : ocean (79,17) in Atlantis Ocean.
+  South : ocean (78,18) in Atlantis Ocean.
+  Southwest : plain (77,17) in Morungol.
+  Northwest : forest (77,15) in Uzrot.
+
+- Unit (2586), Gragblod (7), wood elf [WELF].
+* Stealth Horse (2242), New Horizons (16), avoiding, behind, holding,
+  leader [LEAD], 260 silver [SILV], winged horse [WING]. Weight: 60.
+  Capacity: 70/70/85/0. Skills: combat [COMB] 1 (60), horse training
+  [HORS] 5 (450), stealth [STEA] 5 (450).
+
+
+plain (73,17) in Bocholt, 916 peasants (high elves), $5496.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $2931).
+  Wanted: none.
+  For Sale: 183 high elves [HELF] at $64, 36 leaders [LEAD] at $128.
+  Entertainment available: $274.
+  Products: 68 grain [GRAI], 38 horses [HORS].
+
+Exits:
+  North : swamp (73,15) in Issnina.
+  Northeast : plain (74,16) in Bocholt.
+  Southeast : plain (74,18) in Bocholt.
+  South : plain (73,19) in Bocholt, contains Ineault'y [city].
+  Southwest : plain (72,18) in Bocholt.
+  Northwest : swamp (72,16) in Issnina.
+
+- Unit (1018), on guard, Gragblod (7), 17 high elves [HELF].
+* Farmer (2209), New Horizons (16), avoiding, behind, revealing
+  faction, holding, consuming unit's food, 585 silver [SILV], leader
+  [LEAD], 30 horses [HORS]. Weight: 1510. Capacity: 0/2100/2115/0.
+  Skills: combat [COMB] 1 (30), farming [FARM] 4 (360).
+- Unit (733), Gragblod (7), 5 high elves [HELF].
+* Farmer (3087), New Horizons (16), avoiding, behind, revealing
+  faction, holding, consuming unit's food, horse [HORS], 338 silver
+  [SILV], leader [LEAD]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  farming [FARM] 5 (450), combat [COMB] 1 (30).
+- Unit (2815), on guard, Gragblod (7), 100 vikings [VIKI].
+* Hproducer (2054), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, consuming unit's food, 10 nomads [NOMA],
+  6940 silver [SILV], 30 horses [HORS]. Weight: 1600. Capacity:
+  0/2100/2250/0. Skills: horse training [HORS] 3 (180).
+* Farmer (2208), New Horizons (16), avoiding, behind, revealing
+  faction, holding, consuming unit's food, leader [LEAD], 3169 silver
+  [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  combat [COMB] 1 (30), farming [FARM] 5 (450).
+* Farmers (2739), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, 900
+  silver [SILV], 19 high elves [HELF], 57 grain [GRAI]. Weight: 475.
+  Capacity: 0/0/285/0. Skills: farming [FARM] 3 (180).
+* Farmers (2148), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 244 silver [SILV], 9 high elves
+  [HELF]. Weight: 90. Capacity: 0/0/135/0. Skills: farming [FARM] 2
+  (120).
+* Courier (3424), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 14 horses [HORS], leader [LEAD],
+  26 ironwood [IRWD], 23 grain [GRAI]. Weight: 1085. Capacity:
+  0/980/995/0. Skills: none.
+* farmers (3393), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, 1160
+  silver [SILV], 10 high elves [HELF]. Weight: 100. Capacity:
+  0/0/150/0. Skills: farming [FARM] 1 (60).
+
+
+plain (75,17) in Bocholt, contains Einheim [town], 1841 peasants
+  (plainsmen), $14728.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $6627).
+  Wanted: 141 grain [GRAI] at $21, 133 livestock [LIVE] at $26, 11
+    furs [FUR] at $42.
+  For Sale: 2 horses [HORS] at $72, 368 plainsmen [PLAI] at $72, 73
+    leaders [LEAD] at $144.
+  Entertainment available: $736.
+  Products: 50 livestock [LIVE], 39 horses [HORS].
+
+Exits:
+  North : forest (75,15) in Uzrot, contains Quayfeeton [city].
+  Northeast : forest (76,16) in Uzrot.
+  Southeast : forest (76,18) in Uzrot.
+  South : plain (75,19) in Bocholt.
+  Southwest : plain (74,18) in Bocholt.
+  Northwest : plain (74,16) in Bocholt.
+
+- Unit (188), Gragblod (7), behind, leader [LEAD], horse [HORS].
+- Unit (2113), on guard, Gragblod (7), 10 leaders [LEAD], sword
+  [SWOR].
+- Unit (208), on guard, Gragblod (7), 200 vikings [VIKI], 200 horses
+  [HORS], 50 swords [SWOR].
+- Unit (382), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (1235), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (1271), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (1286), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (1354), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (1414), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (1416), on guard, Gragblod (7), 10 leaders [LEAD].
+- Unit (923), on guard, Gragblod (7), 200 vikings [VIKI], 200 horses
+  [HORS].
+- Unit (1353), Gragblod (7), leader [LEAD].
+- Unit (1371), Gragblod (7), leader [LEAD].
+- Unit (2841), Gragblod (7), 82 vikings [VIKI], 3 swords [SWOR], 2
+  horses [HORS].
+* Funny  (3425), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, horse [HORS], 5136 silver
+  [SILV], leader [LEAD]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  entertainment [ENTE] 2 (150).
+- Unit (1141), Gragblod (7), 84 nomads [NOMA].
+- Unit (1798), Gragblod (7), 60 wood elves [WELF].
+* Sales guy (3133), New Horizons (16), avoiding, behind, revealing
+  faction, holding, 3784 silver [SILV], high elf [HELF], 8 plainsmen
+  [PLAI]. Weight: 90. Capacity: 0/0/135/0. Skills: entertainment
+  [ENTE] 1 (60).
+* funny guy (3086), New Horizons (16), revealing faction, holding,
+  receiving no aid, 440 silver [SILV], 3 horses [HORS], leader [LEAD].
+  Weight: 160. Capacity: 0/210/225/0. Skills: entertainment [ENTE] 3
+  (180), combat [COMB] 1 (60).
+- Vareius (1492), Gragblod (7), avoiding, nomad [NOMA], 60 horses
+  [HORS], 300 longbows [LBOW].
+- Unit (1051), Gragblod (7), 105 horses [HORS], viking [VIKI], 44
+  swords [SWOR], 44 crossbows [XBOW].
+
+
+plain (77,17) in Morungol, 532 peasants (nomads), $3192.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1702).
+  Wanted: none.
+  For Sale: 106 nomads [NOMA] at $64, 21 leaders [LEAD] at $128.
+  Entertainment available: $159.
+  Products: 52 livestock [LIVE], 29 horses [HORS], 9 winged horses
+    [WING].
+
+Exits:
+  North : forest (77,15) in Uzrot.
+  Northeast : plain (78,16) in Morungol.
+  Southeast : ocean (78,18) in Atlantis Ocean.
+  South : plain (77,19) in Morungol, contains Mustlor [city].
+  Southwest : forest (76,18) in Uzrot.
+  Northwest : forest (76,16) in Uzrot.
+
+- Agrius (1715), Gragblod (7), viking [VIKI].
+* Horse (1976), New Horizons (16), revealing faction, holding, 2
+  leaders [LEAD], 1283 silver [SILV], 2 horses [HORS], 9 winged horses
+  [WING]. Weight: 570. Capacity: 630/770/800/0. Skills: horse training
+  [HORS] 5 (450), combat [COMB] 1 (30).
+* Funny Guardsmen (2924), on guard, New Horizons (16), revealing
+  faction, holding, 42 silver [SILV], leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), entertainment
+  [ENTE] 2 (90).
+* Winging (2862), on guard, New Horizons (16), behind, revealing
+  faction, holding, receiving no aid, 52 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60),
+  entertainment [ENTE] 2 (150).
+* Funny  (3426), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 2 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: entertainment [ENTE] 2 (120).
+* Funny (3278), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 10 silver [SILV], plainsman
+  [PLAI]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+  1 (60).
+* Stealth Horse (2230), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 2 leaders [LEAD], 520 silver [SILV], 2 winged
+  horses [WING]. Weight: 120. Capacity: 140/140/170/0. Skills: combat
+  [COMB] 1 (60), horse training [HORS] 5 (450), stealth [STEA] 5
+  (450).
+
+
+plain (72,18) in Bocholt, 718 peasants (sea elves), $4308.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $2297).
+  Wanted: none.
+  For Sale: 143 sea elves [SELF] at $64, 28 leaders [LEAD] at $128.
+  Entertainment available: $215.
+  Products: 74 livestock [LIVE], 29 horses [HORS], 9 winged horses
+    [WING].
+
+Exits:
+  North : swamp (72,16) in Issnina.
+  Northeast : plain (73,17) in Bocholt.
+  Southeast : plain (73,19) in Bocholt, contains Ineault'y [city].
+  South : plain (72,20) in Bocholt.
+  Southwest : plain (71,19) in Bocholt.
+  Northwest : ocean (71,17) in Atlantis Ocean.
+
+- Unit (1078), Gragblod (7), 16 sea elves [SELF].
+- Unit (1311), Gragblod (7), 6 sea elves [SELF].
+- Unit (1468), on guard, Gragblod (7), 100 vikings [VIKI].
+* Horse Guy (2740), on guard, New Horizons (16), revealing faction,
+  holding, 1116 silver [SILV], 2 leaders [LEAD], 9 winged horses
+  [WING]. Weight: 470. Capacity: 630/630/660/0. Skills: combat [COMB]
+  1 (53), horse training [HORS] 5 (450).
+* Stealth Horse (2227), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 2 leaders [LEAD], 520 silver [SILV], 2 winged
+  horses [WING]. Weight: 120. Capacity: 140/140/170/0. Skills: combat
+  [COMB] 1 (60), horse training [HORS] 5 (450), stealth [STEA] 5
+  (450).
+
+
+forest (76,18) in Uzrot, 279 peasants (wood elves), $1116.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $781).
+  Wanted: none.
+  For Sale: 55 wood elves [WELF] at $56, 11 leaders [LEAD] at $112.
+  Entertainment available: $55.
+  Products: 39 livestock [LIVE], 27 wood [WOOD], 18 furs [FUR], 12
+    herbs [HERB].
+
+Exits:
+  North : forest (76,16) in Uzrot.
+  Northeast : plain (77,17) in Morungol.
+  Southeast : plain (77,19) in Morungol, contains Mustlor [city].
+  South : ocean (76,20) in Atlantis Ocean.
+  Southwest : plain (75,19) in Bocholt.
+  Northwest : plain (75,17) in Bocholt, contains Einheim [town].
+
+- Unit (1121), Gragblod (7), wood elf [WELF].
+- Unit (1150), Gragblod (7), 2 sea elves [SELF], sword [SWOR].
+* yew (3083), on guard, New Horizons (16), revealing faction, holding,
+  receiving no aid, 318 silver [SILV], horse [HORS], leader [LEAD].
+  Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 1 (30),
+  lumberjack [LUMB] 4 (390).
+* yew (3084), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 238 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: lumberjack [LUMB] 5 (450), combat
+  [COMB] 1 (60).
+* yew (3085), on guard, New Horizons (16), revealing faction, holding,
+  receiving no aid, 312 silver [SILV], leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), entertainment
+  [ENTE] 2 (90), lumberjack [LUMB] 4 (420).
+- Unit (1828), Gragblod (7), wood elf [WELF].
+- Unit (2044), Gragblod (7), wood elf [WELF].
+* Yew (3280), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 2210 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (84),
+  lumberjack [LUMB] 5 (450).
+* Eainfeld (1367), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 100 silver [SILV], 10 wood elves
+  [WELF]. Weight: 100. Capacity: 0/0/150/0. Skills: entertainment
+  [ENTE] 3 (180).
+* Courier (2482), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, leader [LEAD], winged horse [WING], 300
+  silver [SILV]. Weight: 60. Capacity: 70/70/85/0. Skills: combat
+  [COMB] 1 (60), entertainment [ENTE] 5 (450).
+* foresters (2225), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 216 silver [SILV], 4 wood elves
+  [WELF]. Weight: 40. Capacity: 0/0/60/0. Skills: lumberjack [LUMB] 2
+  (120).
+* Courier (3238), New Horizons (16), avoiding, behind, revealing
+  faction, holding, 68 silver [SILV], 15 horses [HORS], high elf
+  [HELF], 7 winged horses [WING], 10 livestock [LIVE]. Weight: 1610.
+  Capacity: 490/1540/2055/0. Skills: none.
+* Reilly (3012), New Horizons (16), avoiding, holding, 200 silver
+  [SILV], leader [LEAD], 23 winged horses [WING], 89 vodka [VODK].
+  Weight: 1605. Capacity: 1610/1610/1625/0. Skills: stealth [STEA] 4
+  (300), observation [OBSE] 4 (300).
+
+
+plain (71,19) in Bocholt, 449 peasants (vikings), $2694.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1436).
+  Wanted: none.
+  For Sale: 89 vikings [VIKI] at $64, 17 leaders [LEAD] at $128.
+  Entertainment available: $134.
+  Products: 45 livestock [LIVE], 20 horses [HORS], 5 winged horses
+    [WING].
+
+Exits:
+  North : ocean (71,17) in Atlantis Ocean.
+  Northeast : plain (72,18) in Bocholt.
+  Southeast : plain (72,20) in Bocholt.
+  South : ocean (71,21) in Atlantis Ocean.
+  Southwest : ocean (70,20) in Atlantis Ocean.
+  Northwest : ocean (70,18) in Atlantis Ocean.
+
+- Unit (1356), Gragblod (7), 7 sea elves [SELF].
+- Unit (1144), Gragblod (7), 8 vikings [VIKI].
+* Funny Guards (3180), on guard, New Horizons (16), behind, revealing
+  faction, holding, receiving no aid, 6 horses [HORS], 82 silver
+  [SILV], leader [LEAD]. Weight: 310. Capacity: 0/420/435/0. Skills:
+  combat [COMB] 1 (30), entertainment [ENTE] 2 (90).
+* Stealth Producer (3352), New Horizons (16), avoiding, behind,
+  holding, receiving no aid, horse [HORS], 500 silver [SILV], leader
+  [LEAD], 20 winged horses [WING]. Weight: 1060. Capacity:
+  1400/1470/1485/0. Skills: combat [COMB] 1 (60), horse training
+  [HORS] 5 (450), stealth [STEA] 4 (300).
+* Rain (3359), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 212 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: entertainment [ENTE] 2 (120), combat
+  [COMB] 1 (60).
+* Ranchers (3353), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, 540
+  silver [SILV], 10 nomads [NOMA], 20 livestock [LIVE]. Weight: 1100.
+  Capacity: 0/0/1150/0. Skills: ranching [RANC] 3 (180).
+* Stealth Horse (2256), New Horizons (16), avoiding, behind, holding,
+  leader [LEAD], 260 silver [SILV], winged horse [WING]. Weight: 60.
+  Capacity: 70/70/85/0. Skills: combat [COMB] 1 (60), horse training
+  [HORS] 5 (450), stealth [STEA] 5 (450).
+
+
+plain (73,19) in Bocholt, contains Ineault'y [city], 5421 peasants
+  (nomads), $48789.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $19 (Max: $20599).
+  Wanted: 144 grain [GRAI] at $21, 176 livestock [LIVE] at $27, 80
+    swords [SWOR] at $114, 81 chain armor [CARM] at $99, 55 plate
+    armor [PARM] at $554, 69 wagons [WAGO] at $159, 39 winged horses
+    [WING] at $186, 52 truffles [TRUF] at $137, 50 velvet [VELV] at
+    $137.
+  For Sale: 82 horses [HORS] at $84, 50 figurines [FIGU] at $90, 91
+    dye [DYE] at $89, 1084 nomads [NOMA] at $76, 216 leaders [LEAD] at
+    $152.
+  Entertainment available: $2439.
+  Products: 49 livestock [LIVE], 33 horses [HORS].
+
+Exits:
+  North : plain (73,17) in Bocholt.
+  Northeast : plain (74,18) in Bocholt.
+  Southeast : plain (74,20) in Bocholt.
+  South : plain (73,21) in Bocholt.
+  Southwest : plain (72,20) in Bocholt.
+  Northwest : plain (72,18) in Bocholt.
+
+- Sevellaeius (1081), Gragblod (7), avoiding, nomad [NOMA], stone
+  [STON], longbow [LBOW].
+- Izsitejs (1111), SuperNerrs 001 (13), avoiding, behind, viking
+  [VIKI], horse [HORS].
+- Cimonia (1157), Gragblod (7), 61 high elves [HELF], 61 horses
+  [HORS].
+- Manius (908), on guard, Gragblod (7), 275 sea elves [SELF], 251
+  horses [HORS].
+- Salecia (1236), Gragblod (7), 144 nomads [NOMA], 144 horses [HORS].
+- Jallius (1186), Gragblod (7), behind, leader [LEAD], horse [HORS].
+* Truffles (1859), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, 31731 silver [SILV], tribal elf [TELF],
+  nomad [NOMA], 180 horses [HORS]. Weight: 9020. Capacity:
+  0/12600/12630/0. Skills: combat [COMB] 2 (90).
+- Unit (1185), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1237), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1269), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1277), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1341), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1402), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+* Ranch (2212), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 110 silver [SILV], 2 leaders
+  [LEAD], 11 horses [HORS]. Weight: 570. Capacity: 0/770/800/0.
+  Skills: combat [COMB] 1 (45), ranching [RANC] 5 (450).
+* Ranch (2213), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 150 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 2
+  (90), ranching [RANC] 5 (450).
+* Reilly (2214), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1853 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (30), observation [OBSE] 4 (330), stealth [STEA] 4 (390).
+* Comb 9 (2179), New Horizons (16), behind, revealing faction, 1850
+  silver [SILV], 90 leaders [LEAD], 62 winged horses [WING]. Weight:
+  4000. Capacity: 4340/4340/5690/0. Skills: combat [COMB] 5 (450).
+* HorsSte (2220), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 677 silver [SILV], leader [LEAD], winged horse
+  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: combat [COMB] 1
+  (60), horse training [HORS] 5 (450), stealth [STEA] 5 (450).
+* Magnificent 7 (2312), New Horizons (16), behind, revealing faction,
+  17 leaders [LEAD]. Weight: 170. Capacity: 0/0/255/0. Skills: combat
+  [COMB] 5 (450).
+* Rawhide (2313), New Horizons (16), avoiding, behind, revealing
+  faction, holding, 17 nomads [NOMA], 11153 silver [SILV], 49
+  livestock [LIVE]. Weight: 2620. Capacity: 0/0/2705/0. Skills:
+  ranching [RANC] 3 (180).
+* Aux (2314), New Horizons (16), behind, revealing faction, 2151
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 1 (60), tactics [TACT] 5 (450), observation
+  [OBSE] 4 (330).
+* 2 wise guys (2391), New Horizons (16), behind, revealing faction,
+  1904 silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity:
+  0/0/30/0. Skills: combat [COMB] 2 (120), tactics [TACT] 5 (450),
+  observation [OBSE] 4 (420).
+* Wise Guy (2396), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1390 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (60), tactics [TACT] 5 (450), observation [OBSE] 5 (450).
+* Reilly (2398), New Horizons (16), avoiding, behind, holding, 1652
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 1 (60), observation [OBSE] 4 (330), stealth
+  [STEA] 4 (390).
+* 2 Ridi Guys (2476), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 484 silver [SILV], 2 leaders [LEAD].
+  Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 4 (330),
+  riding [RIDI] 5 (450).
+* Carp Guy (2477), New Horizons (16), behind, revealing faction, 414
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 1 (60), carpenter [CARP] 5 (450).
+* Herb Guy (2480), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 114 silver [SILV], leader
+  [LEAD], double bow [DBOW]. Weight: 11. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (60), herb lore [HERB] 5 (450), longbow [LBOW] 5
+  (450).
+* stealthy guys (2481), New Horizons (16), avoiding, behind, holding,
+  2461 silver [SILV], 3 leaders [LEAD]. Weight: 30. Capacity:
+  0/0/45/0. Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450),
+  observation [OBSE] 4 (330).
+* Hunt Guy (2483), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 925 silver [SILV], 3 leaders
+  [LEAD]. Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 1
+  (60), hunting [HUNT] 5 (450), longbow [LBOW] 1 (30).
+* Fish Guy (2484), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 499 silver [SILV], 3 leaders
+  [LEAD], horse [HORS]. Weight: 80. Capacity: 0/70/115/0. Skills:
+  combat [COMB] 1 (60), fishing [FISH] 5 (450), longbow [LBOW] 1 (30).
+* Ridi Guy (2485), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 205 silver [SILV], leader
+  [LEAD], 5 winged horses [WING]. Weight: 260. Capacity:
+  350/350/365/0. Skills: combat [COMB] 3 (180), riding [RIDI] 5 (450).
+- Unit (1055), Gragblod (7), 623 vikings [VIKI], 623 horses [HORS],
+  chain armor [CARM], 4 swords [SWOR].
+* Weap (1839), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], horse [HORS], 251 silver
+  [SILV], 5 double bows [DBOW]. Weight: 65. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (64), weaponsmith [WEAP] 5 (450).
+* Mini (1860), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], horse [HORS], 293 silver
+  [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 1
+  (60), mining [MINI] 5 (450).
+* Ridi 5 (2519), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 3161 silver [SILV], 5 leaders
+  [LEAD]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB] 5
+  (450), riding [RIDI] 5 (450), stealth [STEA] 1 (60).
+* Reilly crew (2521), New Horizons (16), avoiding, behind, holding,
+  2568 silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity:
+  0/0/30/0. Skills: combat [COMB] 1 (60), observation [OBSE] 4 (330),
+  stealth [STEA] 5 (450).
+* Stealthy guy (2522), New Horizons (16), avoiding, behind, holding,
+  1380 silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450), observation
+  [OBSE] 4 (330).
+* Lumber Guy (2523), New Horizons (16), avoiding, behind, revealing
+  faction, holding, leader [LEAD], 3242 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (84), lumberjack [LUMB]
+  5 (450), stealth [STEA] 4 (360).
+- Unit (2171), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (2173), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (2295), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+* Mini (2630), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 90 silver [SILV], 4 leaders [LEAD].
+  Weight: 40. Capacity: 0/0/60/0. Skills: combat [COMB] 2 (90), mining
+  [MINI] 5 (450), longbow [LBOW] 1 (30).
+* Stealthy Guys (2631), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1687 silver [SILV], 2 leaders
+  [LEAD]. Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 1
+  (60), stealth [STEA] 4 (330), observation [OBSE] 5 (450).
+* Advanced Horse (2632), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, leader [LEAD], 599 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), horse training
+  [HORS] 5 (450), stealth [STEA] 3 (240).
+* Weap boys (2634), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 88 silver [SILV], 2 leaders
+  [LEAD], 10 double bows [DBOW]. Weight: 30. Capacity: 0/0/30/0.
+  Skills: combat [COMB] 1 (60), weaponsmith [WEAP] 5 (450).
+* Ridi Guy (2745), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 690 silver [SILV], leader
+  [LEAD], winged horse [WING]. Weight: 60. Capacity: 70/70/85/0.
+  Skills: combat [COMB] 5 (450), riding [RIDI] 5 (450).
+* Ridi Guy (2746), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1190 silver [SILV], leader
+  [LEAD], winged horse [WING]. Weight: 60. Capacity: 70/70/85/0.
+  Skills: combat [COMB] 5 (450), riding [RIDI] 5 (450).
+* Mini Guys (3003), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 443 silver [SILV], 4 leaders
+  [LEAD]. Weight: 40. Capacity: 0/0/60/0. Skills: combat [COMB] 1
+  (60), mining [MINI] 5 (450).
+* Carpenters (3004), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 352 silver [SILV], 5 leaders
+  [LEAD], 85 ironwood [IRWD]. Weight: 900. Capacity: 0/0/75/0. Skills:
+  combat [COMB] 1 (60), carpenter [CARP] 5 (450).
+* Yew Guys (3005), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 5 leaders [LEAD], 2126 silver
+  [SILV]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB] 1
+  (60), lumberjack [LUMB] 5 (450), stealth [STEA] 4 (300).
+- Unit (1534), Gragblod (7), 100 leaders [LEAD], 100 crossbows [XBOW],
+  42 horses [HORS].
+* Stealth Guys (2987), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 519 silver [SILV], 2 leaders [LEAD]. Weight: 20.
+  Capacity: 0/0/30/0. Skills: combat [COMB] 1 (60), stealth [STEA] 5
+  (450), observation [OBSE] 1 (60).
+* Tact 5 (3027), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 5458 silver [SILV], 5 leaders
+  [LEAD]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB] 1
+  (60), tactics [TACT] 5 (450), observation [OBSE] 3 (210).
+* 5% Stea (3029), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 6418 silver [SILV], 4 leaders [LEAD]. Weight: 40.
+  Capacity: 0/0/60/0. Skills: combat [COMB] 1 (60), stealth [STEA] 5
+  (450), observation [OBSE] 1 (60).
+* 5% Lumb (3030), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, leader [LEAD], 361 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (84), lumberjack [LUMB]
+  5 (450), carpenter [CARP] 1 (60), stealth [STEA] 3 (208).
+- Unit (888), Gragblod (7), 50 vikings [VIKI], 50 horses [HORS].
+* Hors Guys (3159), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 917 silver [SILV], 10 leaders
+  [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills: horse training
+  [HORS] 5 (450), stealth [STEA] 2 (177).
+* XBteacher (3241), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, silver [SILV], leader [LEAD],
+  double bow [DBOW]. Weight: 11. Capacity: 0/0/15/0. Skills: combat
+  [COMB] 1 (30), crossbow [XBOW] 5 (450).
+* LBteacher (3242), New Horizons (16), avoiding, behind, revealing
+  faction, holding, 2 silver [SILV], leader [LEAD], double bow [DBOW],
+  8 winged horses [WING]. Weight: 411. Capacity: 560/560/575/0.
+  Skills: combat [COMB] 1 (30), longbow [LBOW] 5 (450).
+* Lbow guy (3243), New Horizons (16), behind, revealing faction,
+  holding, receiving no aid, 670 silver [SILV], 6 leaders [LEAD], 4
+  double bows [DBOW], 8 winged horses [WING]. Weight: 464. Capacity:
+  560/560/650/0. Skills: combat [COMB] 4 (417), longbow [LBOW] 5
+  (450).
+* Xbow guy (3244), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 620 silver [SILV], 6 leaders
+  [LEAD], double bow [DBOW]. Weight: 61. Capacity: 0/0/90/0. Skills:
+  combat [COMB] 4 (418), crossbow [XBOW] 5 (450).
+- Unit (2041), Gragblod (7), 184 nomads [NOMA], 119 crossbows [XBOW].
+* Globe theatre (3006), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 30 wood elves [WELF], 2 horses
+  [HORS], 1500 silver [SILV]. Weight: 400. Capacity: 0/140/590/0.
+  Skills: entertainment [ENTE] 3 (180).
+* Xguy (3200), New Horizons (16), behind, revealing faction, 136
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 5 (450), crossbow [XBOW] 4 (330).
+- Unit (2670), Gragblod (7), 184 nomads [NOMA].
+* com guys (3275), New Horizons (16), revealing faction, 10 leaders
+  [LEAD], 14 winged horses [WING], 968 silver [SILV]. Weight: 800.
+  Capacity: 980/980/1130/0. Skills: combat [COMB] 5 (450).
+* Yew (3279), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 5 horses [HORS], 1589 silver [SILV],
+  leader [LEAD]. Weight: 260. Capacity: 0/350/365/0. Skills: combat
+  [COMB] 1 (84), lumberjack [LUMB] 5 (450), stealth [STEA] 4 (420).
+* SteTeacher (3308), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 1540 silver [SILV], leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), stealth [STEA] 4
+  (390).
+* SteTeacher (3309), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 1180 silver [SILV], 2 leaders [LEAD]. Weight: 20.
+  Capacity: 0/0/30/0. Skills: combat [COMB] 1 (60), stealth [STEA] 5
+  (450).
+- Unit (1664), Gragblod (7), 60 nomads [NOMA].
+- Unit (1724), Gragblod (7), 100 nomads [NOMA].
+* Funny (3350), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1308 silver [SILV], leader
+  [LEAD], horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  entertainment [ENTE] 3 (180).
+* Weap guys (3354), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 918 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (60), weaponsmith [WEAP] 5 (450).
+* comb guy (3355), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 898 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 4
+  (300).
+* Weap guys (3427), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 15 leaders [LEAD], 8 horses
+  [HORS]. Weight: 550. Capacity: 0/560/785/0. Skills: combat [COMB] 1
+  (61), weaponsmith [WEAP] 5 (450).
+* Aux Weap (3428), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 3 leaders [LEAD], 234 silver
+  [SILV]. Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 1
+  (60), weaponsmith [WEAP] 4 (306).
+* Courier (3349), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, leader [LEAD]. Weight: 10. Capacity:
+  0/0/15/0. Skills: combat [COMB] 2 (90).
+* Funny (3319), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, horse [HORS], 381 silver [SILV],
+  plainsman [PLAI]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  entertainment [ENTE] 2 (150).
+* Rawhide (1387), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 140 silver [SILV], 8 horses
+  [HORS], 10 nomads [NOMA]. Weight: 500. Capacity: 0/560/710/0.
+  Skills: ranching [RANC] 2 (120).
+* mini teacher (1411), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 2 (90), mining [MINI] 5
+  (450).
+* Xguy (1413), New Horizons (16), behind, revealing faction, holding,
+  receiving no aid, 7 leaders [LEAD], 410 silver [SILV], double bow
+  [DBOW]. Weight: 71. Capacity: 0/0/105/0. Skills: combat [COMB] 4
+  (301), crossbow [XBOW] 5 (450).
+* Lguy (1457), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 7 leaders [LEAD], 1410 silver [SILV],
+  double bow [DBOW], 11 winged horses [WING]. Weight: 621. Capacity:
+  770/770/875/0. Skills: combat [COMB] 4 (301), longbow [LBOW] 5
+  (450).
+* mini teacher (1473), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 400 silver [SILV], 5 leaders
+  [LEAD]. Weight: 50. Capacity: 0/0/75/0. Skills: mining [MINI] 3
+  (180).
+* Funny (3318), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1449 silver [SILV], plainsman
+  [PLAI]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+  2 (120).
+- Unit (1234), Gragblod (7), 100 nomads [NOMA].
+* Funny (3289), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 124 silver [SILV], plainsman
+  [PLAI]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+  2 (120).
+* Lumber Guys (2998), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 180 silver [SILV], 2 leaders [LEAD], 2 horses
+  [HORS], 4 winged horses [WING]. Weight: 320. Capacity:
+  280/420/450/0. Skills: combat [COMB] 1 (30), lumberjack [LUMB] 5
+  (450), stealth [STEA] 2 (90).
+* Taxeer (1747), New Horizons (16), revealing faction, holding, leader
+  [LEAD], 2 horses [HORS]. Weight: 110. Capacity: 0/140/155/0. Skills:
+  entertainment [ENTE] 5 (450), combat [COMB] 2 (90).
+* Funny (3299), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, plainsman [PLAI], 9 horses
+  [HORS]. Weight: 460. Capacity: 0/630/645/0. Skills: entertainment
+  [ENTE] 1 (60).
+* Rawhide (2228), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 840 silver [SILV], 8 horses
+  [HORS], 10 nomads [NOMA]. Weight: 500. Capacity: 0/560/710/0.
+  Skills: ranching [RANC] 2 (120).
+* Rawhide (2229), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 840 silver [SILV], 8 horses
+  [HORS], 10 nomads [NOMA]. Weight: 500. Capacity: 0/560/710/0.
+  Skills: ranching [RANC] 2 (120).
+* Courier (3245), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 1368 silver [SILV], leader
+  [LEAD], winged horse [WING], 30 horses [HORS]. Weight: 1560.
+  Capacity: 70/2170/2185/0. Skills: stealth [STEA] 2 (90), combat
+  [COMB] 1 (30).
+* womgers (2180), New Horizons (16), revealing faction, holding,
+  receiving no aid, 2 winged horses [WING], leader [LEAD]. Weight:
+  110. Capacity: 140/140/155/0. Skills: none.
+* courier (1481), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 40 silver [SILV], leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+* delivery (3148), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 214 silver [SILV], leader
+  [LEAD], 103 truffles [TRUF], horse [HORS]. Weight: 163. Capacity:
+  0/70/85/0. Skills: none.
+* Whatever (3395), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 78 silver [SILV], 50 figurines [FIGU],
+  leader [LEAD]. Weight: 60. Capacity: 0/0/15/0. Skills: none.
+* Lguy (3396), New Horizons (16), behind, revealing faction, 1229
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 5 (450), longbow [LBOW] 1 (30).
+* Xguy (3421), New Horizons (16), behind, revealing faction, 1229
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 5 (450), crossbow [XBOW] 1 (30).
+* Lguy (3422), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 229 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450), longbow
+  [LBOW] 1 (30).
+* Xguy (3430), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 229 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450), crossbow
+  [XBOW] 1 (30).
+* Consolidated (2730), New Horizons (16), avoiding, revealing faction,
+  holding, 3 horses [HORS], 52 silver [SILV], leader [LEAD]. Weight:
+  160. Capacity: 0/210/225/0. Skills: none.
+* Courier (3431), New Horizons (16), avoiding, behind, revealing
+  faction, holding, consuming unit's food, 72 silver [SILV], 11
+  livestock [LIVE], 7 winged horses [WING], leader [LEAD]. Weight:
+  910. Capacity: 490/490/1055/0. Skills: none.
+* OK Coral (2851), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, horse [HORS], 30 silver [SILV],
+  leader [LEAD], 8 winged horses [WING]. Weight: 460. Capacity:
+  560/630/645/0. Skills: combat [COMB] 2 (120).
+* Drover (3310), New Horizons (16), revealing faction, holding,
+  receiving no aid, 8 horses [HORS], 190 silver [SILV], leader [LEAD],
+  7 yew [YEW], 9 ironwood [IRWD]. Weight: 535. Capacity: 0/560/575/0.
+  Skills: combat [COMB] 2 (90), entertainment [ENTE] 1 (60).
+
+
+plain (75,19) in Bocholt, 475 peasants (nomads), $2850.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1520).
+  Wanted: none.
+  For Sale: 95 nomads [NOMA] at $64, 19 leaders [LEAD] at $128.
+  Entertainment available: $142.
+  Products: 40 livestock [LIVE], 39 horses [HORS], 8 winged horses
+    [WING].
+
+Exits:
+  North : plain (75,17) in Bocholt, contains Einheim [town].
+  Northeast : forest (76,18) in Uzrot.
+  Southeast : ocean (76,20) in Atlantis Ocean.
+  South : ocean (75,21) in Atlantis Ocean.
+  Southwest : plain (74,20) in Bocholt.
+  Northwest : plain (74,18) in Bocholt.
+
+- Unit (1902), Gragblod (7), 10 vikings [VIKI], chain armor [CARM].
+- Unit (1168), Gragblod (7), stone [STON], 3 nomads [NOMA].
+- Unit (2345), Gragblod (7), 2 nomads [NOMA].
+* Wing (3155), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, consuming unit's food, 2 leaders [LEAD],
+  1020 silver [SILV], 8 winged horses [WING]. Weight: 420. Capacity:
+  560/560/590/0. Skills: horse training [HORS] 5 (450), combat [COMB]
+  1 (47).
+* Funny guard (3360), on guard, New Horizons (16), revealing faction,
+  holding, receiving no aid, consuming unit's food, 86 silver [SILV],
+  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+  1 (30), entertainment [ENTE] 1 (60).
+* Rawhide (3053), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, consuming unit's food, 13 nomads
+  [NOMA], 39 livestock [LIVE]. Weight: 2080. Capacity: 0/0/2145/0.
+  Skills: ranching [RANC] 3 (180).
+* Funny (3320), New Horizons (16), avoiding, behind, revealing
+  faction, holding, consuming unit's food, 39 silver [SILV], plainsman
+  [PLAI], winged horse [WING]. Weight: 60. Capacity: 70/70/85/0.
+  Skills: entertainment [ENTE] 1 (60).
+
+
+plain (77,19) in Morungol, contains Mustlor [city], 4830 peasants
+  (vikings), $33810.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $17 (Max: $16422).
+  Wanted: 172 grain [GRAI] at $21, 102 livestock [LIVE] at $20, 57
+    furs [FUR] at $60, 114 fish [FISH] at $18, 69 wine [WINE] at $138,
+    62 vodka [VODK] at $130.
+  For Sale: 99 horses [HORS] at $74, 44 swords [SWOR] at $151, 46
+    crossbows [XBOW] at $142, 69 dye [DYE] at $71, 88 wool [WOOL] at
+    $60, 966 vikings [VIKI] at $68, 193 leaders [LEAD] at $136.
+  Entertainment available: $1690.
+  Products: 77 livestock [LIVE], 38 horses [HORS].
+
+Exits:
+  North : plain (77,17) in Morungol.
+  Northeast : ocean (78,18) in Atlantis Ocean.
+  Southeast : ocean (78,20) in Atlantis Ocean.
+  South : ocean (77,21) in Atlantis Ocean.
+  Southwest : ocean (76,20) in Atlantis Ocean.
+  Northwest : forest (76,18) in Uzrot.
+
+- Notarcius (1267), Gragblod (7), avoiding, 3 vikings [VIKI], 3 horses
+  [HORS].
+- Unit (579), Gragblod (7), avoiding, nomad [NOMA], 99 horses [HORS],
+  44 swords [SWOR], 46 crossbows [XBOW].
+- Ortia (1082), Gragblod (7), 305 vikings [VIKI], 305 horses [HORS],
+  305 swords [SWOR].
+- Unit (215), Gragblod (7), behind, leader [LEAD], horse [HORS].
+- Unit (642), Gragblod (7), leader [LEAD], horse [HORS].
+- Unit (1155), Gragblod (7), behind, leader [LEAD], horse [HORS],
+  crossbow [XBOW].
+- Unit (1543), on guard, Gragblod (7), 100 vikings [VIKI], 100 horses
+  [HORS], 100 swords [SWOR].
+- Unit (1633), Gragblod (7), 100 horses [HORS], 100 vikings [VIKI],
+  100 swords [SWOR].
+- Unit (1783), Gragblod (7), 100 horses [HORS], 100 vikings [VIKI],
+  100 swords [SWOR].
+- Unit (1851), Gragblod (7), 100 vikings [VIKI], 100 horses [HORS],
+  100 swords [SWOR].
+- Unit (1297), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS], 10
+  swords [SWOR].
+- Unit (1317), Gragblod (7), behind, 10 leaders [LEAD], 10 horses
+  [HORS], 10 crossbows [XBOW].
+- Unit (2781), Gragblod (7), 30 vikings [VIKI], 30 horses [HORS], 30
+  swords [SWOR].
+* comb starter (3160), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 4153 silver [SILV], 2 horses [HORS], 2
+  leaders [LEAD]. Weight: 120. Capacity: 0/140/170/0. Skills: combat
+  [COMB] 4 (390).
+* Comb Guys (3135), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 2697 silver [SILV], 10 leaders
+  [LEAD], horse [HORS]. Weight: 150. Capacity: 0/70/220/0. Skills:
+  combat [COMB] 5 (450).
+* Comb Guys (3136), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 2 leaders [LEAD], 2637 silver
+  [SILV], 2 horses [HORS]. Weight: 120. Capacity: 0/140/170/0. Skills:
+  combat [COMB] 4 (390).
+- Unit (1386), Gragblod (7), 100 nomads [NOMA], 100 crossbows [XBOW],
+  100 horses [HORS].
+* Com Guy (3090), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 2 horses [HORS], 3114 silver
+  [SILV], leader [LEAD]. Weight: 110. Capacity: 0/140/155/0. Skills:
+  combat [COMB] 5 (450).
+- Unit (1955), Gragblod (7), behind, 100 nomads [NOMA], 100 crossbows
+  [XBOW], 100 horses [HORS].
+* Com Guy (3089), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 3196 silver [SILV], leader
+  [LEAD], 21 horses [HORS]. Weight: 1060. Capacity: 0/1470/1485/0.
+  Skills: combat [COMB] 4 (360).
+- Unit (2627), Gragblod (7), avoiding, 70 nomads [NOMA], 70 crossbows
+  [XBOW], 70 horses [HORS].
+- Unit (2509), Gragblod (7), avoiding, viking [VIKI], horse [HORS].
+- Unit (962), Gragblod (7), avoiding, 100 nomads [NOMA], 100 crossbows
+  [XBOW], 100 horses [HORS].
+* Winging (2877), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 12 silver [SILV], leader [LEAD], 11
+  horses [HORS]. Weight: 560. Capacity: 0/770/785/0. Skills: combat
+  [COMB] 3 (210).
+* Structures (3052), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 5 wood elves [WELF], 250 silver [SILV].
+  Weight: 50. Capacity: 0/0/75/0. Skills: entertainment [ENTE] 3
+  (180).
+- Papurius (1242), Gragblod (7), nomad [NOMA], 55 horses [HORS].
+
+
+plain (74,20) in Bocholt, 548 peasants (vikings), $3288.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1753).
+  Wanted: none.
+  For Sale: 109 vikings [VIKI] at $64, 21 leaders [LEAD] at $128.
+  Entertainment available: $164.
+  Products: 69 livestock [LIVE], 39 horses [HORS], 7 winged horses
+    [WING].
+
+Exits:
+  North : plain (74,18) in Bocholt.
+  Northeast : plain (75,19) in Bocholt.
+  Southeast : ocean (75,21) in Atlantis Ocean.
+  South : jungle (74,22) in Donndinon.
+  Southwest : plain (73,21) in Bocholt.
+  Northwest : plain (73,19) in Bocholt, contains Ineault'y [city].
+
+- Allia (1265), Gragblod (7), 66 nomads [NOMA].
+- Unit (353), Gragblod (7), nomad [NOMA].
+- Unit (2112), on guard, Gragblod (7), 94 vikings [VIKI].
+* Rawhide (3028), New Horizons (16), avoiding, behind, revealing
+  faction, holding, consuming unit's food, 842 silver [SILV], 17
+  nomads [NOMA], 51 livestock [LIVE]. Weight: 2720. Capacity:
+  0/0/2805/0. Skills: ranching [RANC] 3 (180).
+* Hors Teach (3088), on guard, New Horizons (16), revealing faction,
+  holding, consuming unit's food, 1185 silver [SILV], 2 leaders
+  [LEAD], 7 winged horses [WING]. Weight: 370. Capacity:
+  490/490/520/0. Skills: horse training [HORS] 5 (450), combat [COMB]
+  1 (47).
+* scout (1748), New Horizons (16), revealing faction, holding,
+  receiving no aid, 163 silver [SILV], viking [VIKI], 26 horses
+  [HORS], 8 winged horses [WING], 14 dye [DYE]. Weight: 1780.
+  Capacity: 560/2380/2395/0. Skills: combat [COMB] 3 (180).
+* Mini (3082), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 16 silver [SILV], hill dwarf [HDWA],
+  winged horse [WING]. Weight: 60. Capacity: 70/70/85/0. Skills:
+  mining [MINI] 3 (180).
+
+
+jungle (72,24) in Donndinon, 171 peasants (wood elves), $342.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $410).
+  Wanted: none.
+  For Sale: 34 wood elves [WELF] at $48, 6 leaders [LEAD] at $96.
+  Entertainment available: $17.
+  Products: 25 livestock [LIVE], 13 wood [WOOD], 36 herbs [HERB].
+
+Exits:
+  North : ocean (72,22) in Atlantis Ocean.
+  Northeast : jungle (73,23) in Donndinon.
+  Southeast : jungle (73,25) in Donndinon.
+  South : jungle (72,26) in Donndinon, contains Thor-a-thol [city].
+  Southwest : ocean (71,25) in Atlantis Ocean.
+  Northwest : ocean (71,23) in Atlantis Ocean.
+
+* E guy (2316), New Horizons (16), avoiding, revealing faction,
+  holding, leader [LEAD], 199 silver [SILV], horse [HORS]. Weight: 60.
+  Capacity: 0/70/85/0. Skills: entertainment [ENTE] 5 (450), combat
+  [COMB] 2 (90).
+* Sedrick (2524), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 172 silver [SILV], leader
+  [LEAD], 2 horses [HORS]. Weight: 110. Capacity: 0/140/155/0. Skills:
+  combat [COMB] 3 (210), entertainment [ENTE] 5 (450).
+* Combo (2635), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 227 silver [SILV], 3 leaders
+  [LEAD], 2 horses [HORS]. Weight: 130. Capacity: 0/140/185/0. Skills:
+  combat [COMB] 3 (180), entertainment [ENTE] 5 (450).
+* funny guys (1490), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 3 horses [HORS], 160 silver
+  [SILV], 5 wood elves [WELF]. Weight: 200. Capacity: 0/210/285/0.
+  Skills: entertainment [ENTE] 2 (120).
+* Funny guys (2257), New Horizons (16), avoiding, revealing faction,
+  holding, receiving no aid, 310 silver [SILV], 10 wood elves [WELF],
+  5 horses [HORS]. Weight: 350. Capacity: 0/350/500/0. Skills:
+  entertainment [ENTE] 2 (120).
+* Funny guys (2260), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 300 silver [SILV], 10 wood elves
+  [WELF]. Weight: 100. Capacity: 0/0/150/0. Skills: entertainment
+  [ENTE] 2 (90).
+* Funny Courier (1365), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, plainsman [PLAI], 3720 silver
+  [SILV], 3 winged horses [WING]. Weight: 160. Capacity:
+  210/210/225/0. Skills: entertainment [ENTE] 1 (60).
+
+
+mountain (68,26) in Phidyntia, contains Oroldu [city], 5208 peasants
+  (vikings), $41664.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $93744).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited vikings [VIKI] at $68, unlimited
+    leaders [LEAD] at $136.
+  Entertainment available: $2083.
+  Products: 40 grain [GRAI], 31 iron [IRON], 14 stone [STON].
+
+Exits:
+  North : ocean (68,24) in Atlantis Ocean.
+  Northeast : ocean (69,25) in Atlantis Ocean.
+  Southeast : mountain (69,27) in Phidyntia.
+  South : jungle (68,28) in Sefitat.
+  Southwest : jungle (67,27) in Sefitat.
+  Northwest : jungle (67,25) in Sefitat.
+
+There is a Gate here (Gate 9 of 82).
+
+- City Guard (52), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Sitenius (1038), Gragblod (7), behind, 112 vikings [VIKI].
+- Jartinnus (1041), Gragblod (7), avoiding, behind, leader [LEAD],
+  horse [HORS].
+- Oroldu stradnieks (1188), Multiple Bite Wounds (10), 81 vikings
+  [VIKI].
+- Gralus (1671), Gragblod (7), behind, 18 tribal elves [TELF], 18
+  longbows [LBOW], 18 horses [HORS].
+- Grey Ambassador (1840), Grey Wind (17), avoiding, behind, leader
+  [LEAD].
+* Thor (1861), New Horizons (16), avoiding, behind, revealing faction,
+  holding, 9 leaders [LEAD], 540 silver [SILV]. Weight: 90. Capacity:
+  0/0/135/0. Skills: combat [COMB] 3 (180), armorer [ARMO] 5 (450).
+- Harpers (1863), Grey Wind (17), avoiding, behind, 5 vikings [VIKI].
+- Workers (2080), Grey Wind (17), avoiding, behind, 120 vikings
+  [VIKI].
+- Scout (2223), 6 vikings [VIKI].
+* Thor (2217), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 260 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 3 (180), armorer
+  [ARMO] 5 (450).
+* Armo Guy (2526), New Horizons (16), avoiding, behind, revealing
+  faction, holding, leader [LEAD], 60 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 3 (240), armorer [ARMO] 5
+  (450).
+- Unit (661), Gragblod (7), behind, 30 vikings [VIKI], 30 crossbows
+  [XBOW], 30 horses [HORS].
+- Unit (871), Gragblod (7), behind, 30 tribal elves [TELF], 30
+  longbows [LBOW], 30 horses [HORS].
+- Unit (2960), Gragblod (7), 20 vikings [VIKI], 20 horses [HORS], 20
+  swords [SWOR].
+- Frulvius (1299), Gragblod (7), avoiding, behind, leader [LEAD],
+  sword [SWOR], horse [HORS].
+- Unit (3019), Gragblod (7), behind, 17 sea elves [SELF], 17 longbows
+  [LBOW], 17 horses [HORS].
+* Armo (3246), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 230 silver [SILV], 3 leaders [LEAD].
+  Weight: 30. Capacity: 0/0/45/0. Skills: armorer [ARMO] 5 (450),
+  combat [COMB] 1 (60).
+- Unit (3111), Warlords Inc (19), behind, viking [VIKI].
+- Unit (1105), Gragblod (7), behind, 400 nomads [NOMA], 400 crossbows
+  [XBOW], 400 horses [HORS].
+* Asmore (3311), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 604 silver [SILV], 2 leaders
+  [LEAD]. Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 2
+  (120), armorer [ARMO] 3 (270).
+- Unit (2782), Gragblod (7), avoiding, behind, nomad [NOMA], horse
+  [HORS].
+* Armo (3432), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 60 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 3 (180), armorer
+  [ARMO] 1 (60).
+* Armo (3433), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 18 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 3 (180), armorer
+  [ARMO] 1 (60).
+* Armo (3434), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 44 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 3 (180), armorer
+  [ARMO] 1 (60).
+- Unit (232), Gragblod (7), 5 horses [HORS], nomad [NOMA].
+- Unit (1803), Gragblod (7), tribesman [TMAN].
+- Unit (1983), Gragblod (7), viking [VIKI], horse [HORS].
+- Unit (263), Gragblod (7), avoiding, behind, 42 horses [HORS], nomad
+  [NOMA], sword [SWOR].
+
++ Gragblod Tower [1] : Tower.
+  - Fuspilius (1368), Gragblod (7), 10 vikings [VIKI], 2 iron [IRON],
+    ivory [IVOR], 3 mithril [MITH], 2 rootstone [ROOT].
+  - Acus (1239), Gragblod (7), behind, 7 tribal elves [TELF], 7
+    longbows [LBOW], 7 horses [HORS].
+  * Bear (592), New Horizons (16), revealing faction, leader [LEAD],
+    374 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: pattern
+    [PATT] 4 (330), spirit [SPIR] 4 (300), gate lore [GATE] 1 (30),
+    earth lore [EART] 3 (270), force [FORC] 4 (300), fire [FIRE] 3
+    (180), weather lore [WEAT] 2 (90), artifact lore [ARTI] 2 (120),
+    illusion [ILLU] 2 (120). Combat spell: fire [FIRE]. Can Study:
+    fire [FIRE], earthquake [EQUA], force shield [FSHI], energy shield
+    [ESHI], spirit shield [SSHI], magical healing [MHEA], gate lore
+    [GATE], farsight [FARS], mind reading [MIND], weather lore [WEAT],
+    summon wind [SWIN], summon storm [SSTO], clear skies [CLEA], earth
+    lore [EART], wolf lore [WOLF], bird lore [BIRD], necromancy
+    [NECR], demon lore [DEMO], illusion [ILLU], phantasmal
+    entertainment [PHEN], create phantasmal beasts [PHBE], create
+    phantasmal undead [PHUN], create phantasmal demons [PHDE], dispel
+    illusions [DISP], artifact lore [ARTI], enchant swords [ESWO],
+    enchant armor [EARM].
+  - Unit (54), Warlords Inc (19), behind, leader [LEAD].
+  - Unit (1928), Warlords Inc (19), behind, leader [LEAD].
+  - Unit (1929), Warlords Inc (19), behind, leader [LEAD].
+  * Cougar (2489), New Horizons (16), behind, revealing faction, 486
+    silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+    Skills: pattern [PATT] 3 (180), earth lore [EART] 2 (120), spirit
+    [SPIR] 3 (180), force [FORC] 3 (210), illusion [ILLU] 2 (120),
+    artifact lore [ARTI] 2 (90). Can Study: fire [FIRE], earthquake
+    [EQUA], force shield [FSHI], energy shield [ESHI], spirit shield
+    [SSHI], magical healing [MHEA], gate lore [GATE], farsight [FARS],
+    mind reading [MIND], weather lore [WEAT], earth lore [EART], wolf
+    lore [WOLF], bird lore [BIRD], necromancy [NECR], demon lore
+    [DEMO], illusion [ILLU], phantasmal entertainment [PHEN], create
+    phantasmal beasts [PHBE], create phantasmal undead [PHUN], create
+    phantasmal demons [PHDE], dispel illusions [DISP], artifact lore
+    [ARTI], enchant swords [ESWO], enchant armor [EARM].
+  * Water Buffalo (2488), New Horizons (16), behind, revealing
+    faction, 464 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+    0/0/15/0. Skills: pattern [PATT] 3 (180), earth lore [EART] 2
+    (120), spirit [SPIR] 3 (180), force [FORC] 3 (180), artifact lore
+    [ARTI] 2 (120), illusion [ILLU] 2 (90). Can Study: fire [FIRE],
+    earthquake [EQUA], force shield [FSHI], energy shield [ESHI],
+    spirit shield [SSHI], magical healing [MHEA], gate lore [GATE],
+    farsight [FARS], mind reading [MIND], weather lore [WEAT], earth
+    lore [EART], wolf lore [WOLF], bird lore [BIRD], necromancy
+    [NECR], demon lore [DEMO], illusion [ILLU], phantasmal
+    entertainment [PHEN], create phantasmal beasts [PHBE], create
+    phantasmal undead [PHUN], create phantasmal demons [PHDE], dispel
+    illusions [DISP], artifact lore [ARTI], enchant swords [ESWO],
+    enchant armor [EARM].
+  - Tirelius (1039), Gragblod (7), behind, leader [LEAD], horse
+    [HORS], balrog [BALR].
+  - Caspus (1040), Gragblod (7), behind, leader [LEAD], horse [HORS].
+
+
+jungle (72,26) in Donndinon, contains Thor-a-thol [city], 4546
+  peasants (sea elves), $27276.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $14547).
+  Wanted: 194 grain [GRAI] at $18, 114 livestock [LIVE] at $27, 148
+    fish [FISH] at $24, 73 plate armor [PARM] at $531, 28 winged
+    horses [WING] at $149, 61 spices [SPIC] at $137, 84 dye [DYE] at
+    $151.
+  For Sale: 77 herbs [HERB] at $59, 76 truffles [TRUF] at $80, 89
+    vodka [VODK] at $92, 909 sea elves [SELF] at $64, 181 leaders
+    [LEAD] at $128.
+  Entertainment available: $1363.
+  Products: 34 livestock [LIVE], 11 wood [WOOD], 20 herbs [HERB].
+
+Exits:
+  North : jungle (72,24) in Donndinon.
+  Northeast : jungle (73,25) in Donndinon.
+  Southeast : jungle (73,27) in Donndinon.
+  South : jungle (72,28) in Donndinon.
+  Southwest : mountain (71,27) in Phidyntia.
+  Northwest : ocean (71,25) in Atlantis Ocean.
+
+- Festius (1107), Gragblod (7), 27 sea elves [SELF], 50 swords [SWOR].
+- Unit (1342), Gragblod (7), avoiding, leader [LEAD].
+- Unit (1350), Gragblod (7), avoiding, leader [LEAD].
+* Builder (2397), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 4 horses [HORS], 378 silver
+  [SILV], 3 leaders [LEAD]. Weight: 230. Capacity: 0/280/325/0.
+  Skills: building [BUIL] 5 (450), combat [COMB] 1 (70), shipbuilding
+  [SHIP] 1 (30).
+* Weap (2636), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 54 silver [SILV], leader [LEAD], 2 horses
+  [HORS]. Weight: 110. Capacity: 0/140/155/0. Skills: weaponsmith
+  [WEAP] 5 (450), combat [COMB] 2 (150).
+* Quarry (2637), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, horse [HORS], leader [LEAD], 20
+  silver [SILV], winged horse [WING]. Weight: 110. Capacity:
+  70/140/155/0. Skills: quarrying [QUAR] 5 (450), combat [COMB] 2
+  (120).
+* Obse (2749), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 290 silver [SILV], leader [LEAD], winged
+  horse [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: observation
+  [OBSE] 4 (300), stealth [STEA] 4 (300).
+* Stea (2750), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 302 silver [SILV], leader [LEAD], winged
+  horse [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: stealth
+  [STEA] 4 (300), observation [OBSE] 4 (300).
+* Weap (2753), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 34 silver [SILV], leader [LEAD], horse
+  [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: weaponsmith [WEAP]
+  5 (450), combat [COMB] 2 (150).
+* Weap (2754), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 18 silver [SILV], leader [LEAD], horse
+  [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: weaponsmith [WEAP]
+  5 (450), combat [COMB] 2 (90).
+* Quarry (2755), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 48 silver [SILV], 2 leaders
+  [LEAD]. Weight: 20. Capacity: 0/0/30/0. Skills: quarrying [QUAR] 5
+  (450), combat [COMB] 1 (30).
+* Funny guys (2487), New Horizons (16), avoiding, revealing faction,
+  holding, 9 wood elves [WELF], 27 horses [HORS], 4145 silver [SILV].
+  Weight: 1440. Capacity: 0/1890/2025/0. Skills: entertainment [ENTE]
+  3 (180).
+* Reilly (3009), New Horizons (16), avoiding, holding, 137 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  stealth [STEA] 4 (390), observation [OBSE] 3 (240).
+* Reilly (3010), New Horizons (16), avoiding, holding, 95 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: stealth [STEA] 4 (330), observation [OBSE] 4
+  (330).
+* Reilly (3011), New Horizons (16), avoiding, holding, 155 silver
+  [SILV], leader [LEAD], 3 horses [HORS]. Weight: 160. Capacity:
+  0/210/225/0. Skills: stealth [STEA] 4 (330), observation [OBSE] 4
+  (330).
+* Indigo (3285), New Horizons (16), avoiding, behind, holding,
+  receiving no aid, 308 silver [SILV], 38 horses [HORS], leader
+  [LEAD]. Weight: 1910. Capacity: 0/2660/2675/0. Skills: combat [COMB]
+  1 (60), stealth [STEA] 4 (330), observation [OBSE] 2 (120).
+* More Booze (3239), New Horizons (16), avoiding, behind, revealing
+  faction, holding, receiving no aid, 546 silver [SILV], leader
+  [LEAD], 2 horses [HORS]. Weight: 110. Capacity: 0/140/155/0. Skills:
+  stealth [STEA] 2 (150).
+* Courier (2395), New Horizons (16), avoiding, holding, leader [LEAD],
+  horse [HORS], 1350 silver [SILV]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), stealth [STEA] 3 (210), observation
+  [OBSE] 3 (180).
+* Truffle Passoff (3008), New Horizons (16), avoiding, behind,
+  holding, leader [LEAD], 4847 silver [SILV]. Weight: 10. Capacity:
+  0/0/15/0. Skills: combat [COMB] 1 (30), stealth [STEA] 1 (60).
+
+
+mountain (73,43) in Gededyki, 322 peasants (sea elves), $644.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $12 (Max: $772).
+  Wanted: none.
+  For Sale: 64 sea elves [SELF] at $48, 12 leaders [LEAD] at $96.
+  Entertainment available: $32.
+  Products: 37 livestock [LIVE], 21 iron [IRON], 16 stone [STON].
+
+Exits:
+  North : mountain (73,41) in Gededyki.
+  Northeast : ocean (74,42) in Atlantis Ocean.
+  Southeast : ocean (74,44) in Atlantis Ocean.
+  South : ocean (73,45) in Atlantis Ocean.
+  Southwest : plain (72,44) in Loras.
+  Northwest : mountain (72,42) in Gededyki.
+
+- Unit (2871), Gragblod (7), avoiding, behind, sea elf [SELF].
+* Mini (2389), New Horizons (16), avoiding, behind, revealing faction,
+  holding, receiving no aid, 2104 silver [SILV], leader [LEAD], 2
+  winged horses [WING]. Weight: 110. Capacity: 140/140/155/0. Skills:
+  combat [COMB] 1 (60), mining [MINI] 5 (450).
+
+
+
+Orders Template (Long Format):
+
+#atlantis 16 "exxon"
+
+;*** forest (74,0) in Ranshya ***
+
+unit 2999
+;Lumber Guy (2999), revealing faction, holding, receiving no aid, 470
+;  silver [SILV], leader [LEAD], winged horse [WING]. Weight: 60.
+;  Capacity: 70/70/85/0. Skills: lumberjack [LUMB] 5 (450), combat
+;  [COMB] 1 (60).
+@Guard 1
+
+;*** mountain (74,4) in Nakyce ***
+
+unit 2728
+;Unit (2728), revealing faction, holding, receiving no aid, consuming
+;  unit's food, leader [LEAD], 666 silver [SILV], horse [HORS]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: combat [COMB] 1 (30), entertainment
+;  [ENTE] 3 (210).
+@consume unit
+@study ente
+
+unit 2421
+;Open 1 (2421), on guard, revealing faction, holding, receiving no aid,
+;  leader [LEAD], 190 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 2 (90), entertainment [ENTE] 4 (300).
+
+unit 3081
+;Mini (3081), avoiding, revealing faction, holding, receiving no aid,
+;  consuming unit's food, 2 hill dwarves [HDWA], 328 silver [SILV], 11
+;  winged horses [WING], 6 mithril [MITH]. Weight: 630. Capacity:
+;  770/770/800/0. Skills: mining [MINI] 3 (180).
+@produce mith
+@consume unit
+
+unit 2822
+;Farmers (2822), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, 2 high elves [HELF], 20
+;  silver [SILV], 4 grain [GRAI]. Weight: 40. Capacity: 0/0/30/0.
+;  Skills: farming [FARM] 3 (180).
+@produce grai
+@consume unit
+@give 3081 2 grai
+@give 2728 2 grai
+
+unit 2016
+;Odd Farmer (2016), avoiding, behind, revealing faction, holding,
+;  receiving no aid, high elf [HELF], winged horse [WING]. Weight: 60.
+;  Capacity: 70/70/85/0. Skills: farming [FARM] 3 (180).
+
+;*** mountain (73,5) in Nakyce, contains Robaedale [city] ***
+
+unit 2337
+;Unit (2337), avoiding, revealing faction, holding, receiving no aid, 6
+;  leaders [LEAD], 12 winged horses [WING], 480 silver [SILV]. Weight:
+;  660. Capacity: 840/840/930/0. Skills: entertainment [ENTE] 5 (450).
+@entertain
+
+;*** mountain (72,8) in Nakyce ***
+
+unit 3419
+;Funny Guard (3419), on guard, behind, revealing faction, holding,
+;  receiving no aid, 204 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), entertainment
+;  [ENTE] 2 (90).
+@study ente
+
+;*** mountain (71,9) in Nakyce ***
+
+unit 2737
+;Funny Guard (2737), on guard, revealing faction, holding, receiving no
+;  aid, 85 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (30), entertainment [ENTE] 2 (90).
+@entertain
+
+;*** forest (77,9) in Uzrot ***
+
+unit 1862
+;Lumber (1862), avoiding, behind, revealing faction, holding, leader
+;  [LEAD], 415 silver [SILV], winged horse [WING]. Weight: 60.
+;  Capacity: 70/70/85/0. Skills: combat [COMB] 1 (60), lumberjack
+;  [LUMB] 5 (450).
+
+;*** mountain (72,10) in Nakyce ***
+
+unit 2416
+;Open 3 (2416), on guard, revealing faction, holding, receiving no aid,
+;  leader [LEAD], 24 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (60), entertainment [ENTE] 5 (450).
+@Teach 2738
+
+unit 2394
+;Mith (2394), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 1892 silver [SILV], 3 hill dwarves [HDWA], 14 horses [HORS],
+;  6 winged horses [WING], 8 mithril [MITH]. Weight: 1110. Capacity:
+;  420/1400/1445/0. Skills: mining [MINI] 3 (180).
+@produce mith
+
+unit 1335
+;Iron (1335), avoiding, behind, revealing faction, holding, receiving
+;  no aid, hill dwarf [HDWA], 230 silver [SILV], 3 iron [IRON]. Weight:
+;  25. Capacity: 0/0/15/0. Skills: mining [MINI] 3 (180).
+@produce iron
+
+unit 2738
+;Funny guys (2738), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 116 silver [SILV], leader [LEAD], 29 mithril
+;  [MITH], 3 iron [IRON]. Weight: 315. Capacity: 0/0/15/0. Skills:
+;  combat [COMB] 1 (60).
+
+unit 2997
+;Mithril (2997), avoiding, behind, revealing faction, holding,
+;  receiving no aid, hill dwarf [HDWA], 18 horses [HORS], 3 iron
+;  [IRON]. Weight: 925. Capacity: 0/1260/1275/0. Skills: mining [MINI]
+;  3 (180).
+
+unit 2475
+;Mthril (2475), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 40 silver [SILV], hill dwarf [HDWA], 2 winged horses [WING],
+;  25 horses [HORS]. Weight: 1360. Capacity: 140/1890/1905/0. Skills:
+;  mining [MINI] 3 (180).
+
+;*** mountain (74,10) in Nakyce, contains Cirrond [city] ***
+
+unit 2178
+;Colony (2178), avoiding, revealing faction, holding, receiving no aid,
+;  leader [LEAD], 889 silver [SILV], horse [HORS]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: combat [COMB] 2 (120), entertainment
+;  [ENTE] 5 (450).
+
+unit 2413
+;Open 1 (2413), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 236 silver [SILV], 4 horses [HORS]. Weight:
+;  210. Capacity: 0/280/295/0. Skills: entertainment [ENTE] 5 (450),
+;  combat [COMB] 2 (120).
+
+unit 2415
+;Open 1 (2415), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 86 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: entertainment [ENTE] 5 (450), combat [COMB] 1
+;  (60).
+@teach 2069
+
+unit 2629
+;Ente (2629), avoiding, revealing faction, holding, receiving no aid, 2
+;  leaders [LEAD], 90 silver [SILV]. Weight: 20. Capacity: 0/0/30/0.
+;  Skills: entertainment [ENTE] 5 (450), combat [COMB] 2 (90).
+@teach 2015
+@teach 2062
+
+unit 2840
+;The Crew (2840), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 13 wood elves [WELF], 2625 silver [SILV], 8
+;  figurines [FIGU], 15 grain [GRAI]. Weight: 213. Capacity: 0/0/195/0.
+;  Skills: entertainment [ENTE] 3 (180).
+@entertain
+@give 2178 30 silv
+@give 2413 30 silv
+@give 2415 30 silv
+@give 2629 60 silv
+@give 2979 30 silv
+@give 2842 30 silv
+@give 3079 30 silv
+@give 3080 30 silv
+@give 3082 10 silv
+@give 3151 30 silv
+@give 3070 120 silv
+@sell 14 figu
+
+unit 2979
+;Mini Weap (2979), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 30 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: mining [MINI] 2 (150), weaponsmith
+;  [WEAP] 4 (300).
+@study weap
+
+unit 2842
+;Mission (2842), avoiding, revealing faction, holding, receiving no
+;  aid, leader [LEAD], 366 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: mining [MINI] 2 (150), weaponsmith [WEAP] 4 (300).
+@study weap
+
+unit 3079
+;Mini weap (3079), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 240 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: mining [MINI] 3 (210), weaponsmith
+;  [WEAP] 4 (330).
+@study weap
+
+unit 3080
+;Major mini (3080), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 30 silver [SILV], leader [LEAD], 12 iron [IRON].
+;  Weight: 70. Capacity: 0/0/15/0. Skills: mining [MINI] 4 (390).
+@study mini
+
+unit 3151
+;Mini Weap (3151), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 95 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: mining [MINI] 3 (180), weaponsmith
+;  [WEAP] 4 (330).
+@study weap
+
+unit 3070
+;Weap guys (3070), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 120 silver [SILV], 4 leaders [LEAD]. Weight: 40.
+;  Capacity: 0/0/60/0. Skills: weaponsmith [WEAP] 4 (330).
+@study weap
+
+unit 3347
+;Courier (3347), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 11 high elves [HELF], 19 ironwood [IRWD], 1100
+;  silver [SILV], 33 grain [GRAI]. Weight: 465. Capacity: 0/0/165/0.
+;  Skills: farming [FARM] 3 (180).
+@produce grai
+@sell 33 grai
+
+unit 3002
+;Weap Boys (3002), revealing faction, holding, receiving no aid, 323
+;  silver [SILV], 2 leaders [LEAD], 58 mithril [MITH], 20 mithril
+;  swords [MSWO]. Weight: 620. Capacity: 0/0/30/0. Skills: combat
+;  [COMB] 1 (60), weaponsmith [WEAP] 5 (450).
+@produce mswo
+
+unit 3429
+;Aux Weap (3429), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 175 silver [SILV], leader [LEAD], 3 iron [IRON].
+;  Weight: 25. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60),
+;  weaponsmith [WEAP] 5 (450).
+@teach 3070 3151 2842
+@teach 2979 3079
+
+unit 2015
+;Har Ten (2015), avoiding, revealing faction, holding, receiving no
+;  aid, 2956 silver [SILV], 5 leaders [LEAD]. Weight: 50. Capacity:
+;  0/0/75/0. Skills: combat [COMB] 1 (60), entertainment [ENTE] 1 (60).
+@study ente
+
+unit 2062
+;Har Har (2062), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 16 horses [HORS], 1140 silver [SILV], 10 wood
+;  elves [WELF]. Weight: 900. Capacity: 0/1120/1270/0. Skills:
+;  entertainment [ENTE] 1 (60).
+@study ente
+
+unit 2069
+;Har Har (2069), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 22 horses [HORS], 1372 silver [SILV], 10 wood
+;  elves [WELF]. Weight: 1200. Capacity: 0/1540/1690/0. Skills:
+;  entertainment [ENTE] 1 (60).
+@study ente
+
+unit 3154
+;Columbus (3154), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 10 silver [SILV], viking [VIKI]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: lumberjack [LUMB] 1 (60).
+@study lumb
+
+unit 1375
+;courier (1375), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 9 horses [HORS], 8 ironwood [IRWD], leader [LEAD].
+;  Weight: 540. Capacity: 0/630/645/0. Skills: entertainment [ENTE] 1
+;  (60).
+@study ente
+
+unit 1345
+;Yew (1345), avoiding, behind, revealing faction, holding, receiving no
+;  aid, leader [LEAD], 1340 silver [SILV], 11 horses [HORS]. Weight:
+;  560. Capacity: 0/770/785/0. Skills: combat [COMB] 1 (30), lumberjack
+;  [LUMB] 5 (450).
+
+unit 3063
+;delivery (3063), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 4 winged horses [WING], leader [LEAD], 6 mithril
+;  [MITH]. Weight: 270. Capacity: 280/280/295/0. Skills: none.
+
+;*** forest (76,10) in Uzrot ***
+
+unit 1337
+;Yew (1337), avoiding, behind, revealing faction, holding, receiving no
+;  aid, 420 silver [SILV], horse [HORS], leader [LEAD], winged horse
+;  [WING]. Weight: 110. Capacity: 70/140/155/0. Skills: combat [COMB] 1
+;  (30), lumberjack [LUMB] 5 (450).
+MOVE N N
+
+;*** forest (75,11) in Uzrot ***
+
+unit 2520
+;Har Har (2520), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, wood elf [WELF], horse
+;  [HORS], 140 silver [SILV], 5 yew [YEW]. Weight: 85. Capacity:
+;  0/70/85/0. Skills: entertainment [ENTE] 3 (180).
+@entertain
+@consume unit
+
+unit 3127
+;farm guys (3127), avoiding, behind, revealing faction, holding, 9 high
+;  elves [HELF], 5 horses [HORS], 5 herbs [HERB], 45 grain [GRAI].
+;  Weight: 565. Capacity: 0/350/485/0. Skills: farming [FARM] 3 (180).
+@produce grai
+@give 1336 4 grai
+@give 2520 1 grai
+@give 2210 4 grai
+
+unit 2210
+;Herb (2210), avoiding, behind, revealing faction, holding, receiving
+;  no aid, consuming unit's food, 240 silver [SILV], 2 leaders [LEAD],
+;  2 horses [HORS], 15 herbs [HERB]. Weight: 120. Capacity:
+;  0/140/170/0. Skills: combat [COMB] 1 (30), herb lore [HERB] 5 (450).
+@produce herb
+@consume unit
+
+unit 1336
+;Yew (1336), avoiding, behind, revealing faction, holding, receiving no
+;  aid, consuming unit's food, 310 silver [SILV], 2 leaders [LEAD], 2
+;  horses [HORS], 6 yew [YEW]. Weight: 150. Capacity: 0/140/170/0.
+;  Skills: combat [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+@consume unit
+@produce yew
+
+unit 3240
+;Courier (3240), avoiding, revealing faction, holding, receiving no
+;  aid, 768 silver [SILV], 28 horses [HORS], leader [LEAD], 5 winged
+;  horses [WING]. Weight: 1660. Capacity: 350/2310/2325/0. Skills:
+;  none.
+
+unit 3212
+;Courier (3212), avoiding, revealing faction, holding, receiving no
+;  aid, 2 horses [HORS], leader [LEAD], 9 winged horses [WING]. Weight:
+;  560. Capacity: 630/770/785/0. Skills: none.
+
+unit 2029
+;Yew guy (2029), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 5 winged horses [WING], 48 silver [SILV], leader
+;  [LEAD]. Weight: 260. Capacity: 350/350/365/0. Skills: none.
+
+;*** forest (74,12) in Uzrot ***
+
+unit 2486
+;Yew (2486), on guard, behind, revealing faction, holding, receiving no
+;  aid, 990 silver [SILV], leader [LEAD], winged horse [WING]. Weight:
+;  60. Capacity: 70/70/85/0. Skills: combat [COMB] 1 (30), lumberjack
+;  [LUMB] 5 (450).
+
+unit 3116
+;funny guys (3116), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, wood elf [WELF], 2 horses
+;  [HORS], 60 silver [SILV]. Weight: 110. Capacity: 0/140/155/0.
+;  Skills: entertainment [ENTE] 3 (180).
+@consume unit
+@entertain
+
+unit 3001
+;Farmers (3001), avoiding, behind, revealing faction, holding, 340
+;  silver [SILV], 5 high elves [HELF], 52 horses [HORS], 29 grain
+;  [GRAI]. Weight: 2795. Capacity: 0/3640/3715/0. Skills: farming
+;  [FARM] 3 (180).
+@produce grai
+@give 3116 1 grai
+
+;*** forest (75,13) in Uzrot ***
+
+unit 2308
+;Ironwood (2308), avoiding, revealing faction, holding, receiving no
+;  aid, 2042 silver [SILV], 2 vikings [VIKI], 12 horses [HORS], 12
+;  ironwood [IRWD]. Weight: 740. Capacity: 0/840/870/0. Skills:
+;  lumberjack [LUMB] 3 (180).
+@produce irwd
+
+unit 2633
+;Wood (2633), avoiding, behind, revealing faction, holding, receiving
+;  no aid, viking [VIKI]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  lumberjack [LUMB] 3 (180).
+
+unit 3000
+;Lumber Guy (3000), revealing faction, holding, receiving no aid, 564
+;  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: lumberjack [LUMB] 5 (450), combat [COMB] 1 (60).
+@Guard 1
+MOVE SE SE
+
+;*** forest (77,13) in Uzrot ***
+
+unit 3300
+;Funny (3300), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 79 silver [SILV], plainsman [PLAI], 8 winged horses [WING],
+;  29 wine [WINE]. Weight: 555. Capacity: 560/560/575/0. Skills: none.
+MOVE S S
+
+;*** swamp (74,14) in Issnina ***
+
+unit 2478
+;Farmer (2478), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+;  0/70/85/0. Skills: combat [COMB] 2 (120), farming [FARM] 5 (450).
+
+;*** forest (75,15) in Uzrot, contains Quayfeeton [city] ***
+
+unit 2388
+;Funny Guys (2388), avoiding, revealing faction, holding, receiving no
+;  aid, 12 vikings [VIKI], 20577 silver [SILV]. Weight: 120. Capacity:
+;  0/0/180/0. Skills: entertainment [ENTE] 2 (90).
+@entertain
+
+unit 3092
+;comb guys (3092), on guard, revealing faction, holding, receiving no
+;  aid, 5 horses [HORS], 3364 silver [SILV], 5 leaders [LEAD]. Weight:
+;  300. Capacity: 0/350/425/0. Skills: combat [COMB] 5 (450).
+@work
+
+unit 3093
+;Com Guy (3093), avoiding, behind, revealing faction, holding,
+;  receiving no aid, horse [HORS], 1186 silver [SILV], leader [LEAD].
+;  Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 5 (450).
+
+unit 3420
+;Three Guard (3420), on guard, revealing faction, holding, receiving no
+;  aid, 126 silver [SILV], 3 leaders [LEAD]. Weight: 30. Capacity:
+;  0/0/45/0. Skills: combat [COMB] 3 (240).
+@Study comb
+
+unit 3423
+;Guard (3423), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 18 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 5 (450).
+
+unit 2076
+;Com guys (2076), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 117 silver [SILV], 7 leaders [LEAD]. Weight: 70.
+;  Capacity: 0/0/105/0. Skills: combat [COMB] 5 (450).
+@study comb
+
+unit 3392
+;Comb guys (3392), avoiding, revealing faction, holding, receiving no
+;  aid, 842 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (60).
+@study comb
+
+;*** plain (74,16) in Bocholt ***
+
+unit 2055
+;Horse (2055), on guard, revealing faction, holding, receiving no aid,
+;  3192 silver [SILV], 2 leaders [LEAD], 8 winged horses [WING].
+;  Weight: 420. Capacity: 560/560/590/0. Skills: horse training [HORS]
+;  5 (450), combat [COMB] 1 (47).
+@produce wing
+@guard 1
+
+unit 3322
+;Funny (3322), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 310 silver [SILV], 4 plainsmen [PLAI]. Weight: 40. Capacity:
+;  0/0/60/0. Skills: entertainment [ENTE] 1 (60).
+
+unit 3348
+;Courier (3348), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 152 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: entertainment [ENTE] 2 (90).
+
+unit 2255
+;Stealth Horse (2255), avoiding, behind, holding, receiving no aid, 520
+;  silver [SILV], 2 leaders [LEAD], 2 winged horses [WING]. Weight:
+;  120. Capacity: 140/140/170/0. Skills: combat [COMB] 1 (60), horse
+;  training [HORS] 5 (450), stealth [STEA] 5 (450).
+
+;*** forest (76,16) in Uzrot ***
+
+unit 3283
+;Yew (3283), avoiding, behind, revealing faction, holding, receiving no
+;  aid, 19 horses [HORS], 3254 silver [SILV], 2 leaders [LEAD], 7 yew
+;  [YEW]. Weight: 1005. Capacity: 0/1330/1360/0. Skills: combat [COMB]
+;  1 (72), lumberjack [LUMB] 5 (450).
+@produce yew
+@give 3224 30 silv
+
+unit 3224
+;Funny Guard (3224), on guard, revealing faction, holding, receiving no
+;  aid, 1796 silver [SILV], leader [LEAD], horse [HORS]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: combat [COMB] 1 (30), entertainment
+;  [ENTE] 2 (90).
+@guard 1
+@study ente
+
+unit 2731
+;Ironwood (2731), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 3 vikings [VIKI], 3564 silver [SILV], 81 horses
+;  [HORS], 9 ironwood [IRWD]. Weight: 4170. Capacity: 0/5670/5715/0.
+;  Skills: lumberjack [LUMB] 3 (180).
+@produce irwd
+
+unit 2083
+;Courier (2083), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 5 yew [YEW], 10 silver [SILV], 9 ironwood [IRWD],
+;  8 horses [HORS], leader [LEAD], 9 winged horses [WING]. Weight: 975.
+;  Capacity: 630/1190/1205/0. Skills: none.
+
+unit 2993
+;Structures (2993), avoiding, revealing faction, holding, receiving no
+;  aid, 72 silver [SILV], 3 wood elves [WELF], 18 wood [WOOD], 4 horses
+;  [HORS]. Weight: 320. Capacity: 0/280/325/0. Skills: lumberjack
+;  [LUMB] 3 (180).
+
+unit 3351
+;Rawhide (3351), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 7 nomads [NOMA], 7 winged horses [WING]. Weight:
+;  420. Capacity: 490/490/595/0. Skills: ranching [RANC] 3 (180).
+
+;*** plain (78,16) in Morungol ***
+
+unit 2242
+;Stealth Horse (2242), avoiding, behind, holding, leader [LEAD], 260
+;  silver [SILV], winged horse [WING]. Weight: 60. Capacity:
+;  70/70/85/0. Skills: combat [COMB] 1 (60), horse training [HORS] 5
+;  (450), stealth [STEA] 5 (450).
+
+;*** plain (73,17) in Bocholt ***
+
+unit 2209
+;Farmer (2209), avoiding, behind, revealing faction, holding, consuming
+;  unit's food, 585 silver [SILV], leader [LEAD], 30 horses [HORS].
+;  Weight: 1510. Capacity: 0/2100/2115/0. Skills: combat [COMB] 1 (30),
+;  farming [FARM] 4 (360).
+@study farm
+@consume unit
+
+unit 3087
+;Farmer (3087), avoiding, behind, revealing faction, holding, consuming
+;  unit's food, horse [HORS], 338 silver [SILV], leader [LEAD]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: farming [FARM] 5 (450), combat
+;  [COMB] 1 (30).
+@consume unit
+
+unit 2054
+;Hproducer (2054), avoiding, revealing faction, holding, receiving no
+;  aid, consuming unit's food, 10 nomads [NOMA], 6940 silver [SILV], 30
+;  horses [HORS]. Weight: 1600. Capacity: 0/2100/2250/0. Skills: horse
+;  training [HORS] 3 (180).
+@produce hors
+@consume unit
+
+unit 2208
+;Farmer (2208), avoiding, behind, revealing faction, holding, consuming
+;  unit's food, leader [LEAD], 3169 silver [SILV], horse [HORS].
+;  Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 1 (30),
+;  farming [FARM] 5 (450).
+@consume unit
+@teach 2209 2148
+
+unit 2739
+;Farmers (2739), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, 900 silver [SILV], 19 high
+;  elves [HELF], 57 grain [GRAI]. Weight: 475. Capacity: 0/0/285/0.
+;  Skills: farming [FARM] 3 (180).
+@Produce grai
+@consume unit
+@give 2054 10 grai
+@give 2209 2 grai
+@give 3087 2 grai
+@give 2208 2 grai
+
+unit 2148
+;Farmers (2148), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 244 silver [SILV], 9 high elves [HELF]. Weight:
+;  90. Capacity: 0/0/135/0. Skills: farming [FARM] 2 (120).
+@Study farm
+
+unit 3424
+;Courier (3424), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 14 horses [HORS], leader [LEAD], 26 ironwood
+;  [IRWD], 23 grain [GRAI]. Weight: 1085. Capacity: 0/980/995/0.
+;  Skills: none.
+
+unit 3393
+;farmers (3393), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, 1160 silver [SILV], 10 high
+;  elves [HELF]. Weight: 100. Capacity: 0/0/150/0. Skills: farming
+;  [FARM] 1 (60).
+@study farm
+
+;*** plain (75,17) in Bocholt, contains Einheim [town] ***
+
+unit 3425
+;Funny  (3425), avoiding, behind, revealing faction, holding, receiving
+;  no aid, horse [HORS], 5136 silver [SILV], leader [LEAD]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: entertainment [ENTE] 2 (150).
+@study ente
+
+unit 3133
+;Sales guy (3133), avoiding, behind, revealing faction, holding, 3784
+;  silver [SILV], high elf [HELF], 8 plainsmen [PLAI]. Weight: 90.
+;  Capacity: 0/0/135/0. Skills: entertainment [ENTE] 1 (60).
+@study ente
+
+unit 3086
+;funny guy (3086), revealing faction, holding, receiving no aid, 440
+;  silver [SILV], 3 horses [HORS], leader [LEAD]. Weight: 160.
+;  Capacity: 0/210/225/0. Skills: entertainment [ENTE] 3 (180), combat
+;  [COMB] 1 (60).
+@teach 3133
+
+;*** plain (77,17) in Morungol ***
+
+unit 1976
+;Horse (1976), revealing faction, holding, 2 leaders [LEAD], 1283
+;  silver [SILV], 2 horses [HORS], 9 winged horses [WING]. Weight: 570.
+;  Capacity: 630/770/800/0. Skills: horse training [HORS] 5 (450),
+;  combat [COMB] 1 (30).
+@produce wing
+@give 2924 30 silv
+@give 2862 30 silv
+
+unit 2924
+;Funny Guardsmen (2924), on guard, revealing faction, holding, 42
+;  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (60), entertainment [ENTE] 2 (90).
+
+unit 2862
+;Winging (2862), on guard, behind, revealing faction, holding,
+;  receiving no aid, 52 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), entertainment
+;  [ENTE] 2 (150).
+@study ente
+
+unit 3426
+;Funny  (3426), avoiding, revealing faction, holding, receiving no aid,
+;  2 silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: entertainment [ENTE] 2 (120).
+@study ente
+
+unit 3278
+;Funny (3278), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 10 silver [SILV], plainsman [PLAI]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: entertainment [ENTE] 1 (60).
+
+unit 2230
+;Stealth Horse (2230), avoiding, behind, holding, receiving no aid, 2
+;  leaders [LEAD], 520 silver [SILV], 2 winged horses [WING]. Weight:
+;  120. Capacity: 140/140/170/0. Skills: combat [COMB] 1 (60), horse
+;  training [HORS] 5 (450), stealth [STEA] 5 (450).
+
+;*** plain (72,18) in Bocholt ***
+
+unit 2740
+;Horse Guy (2740), on guard, revealing faction, holding, 1116 silver
+;  [SILV], 2 leaders [LEAD], 9 winged horses [WING]. Weight: 470.
+;  Capacity: 630/630/660/0. Skills: combat [COMB] 1 (53), horse
+;  training [HORS] 5 (450).
+@produce wing
+
+unit 2227
+;Stealth Horse (2227), avoiding, behind, holding, receiving no aid, 2
+;  leaders [LEAD], 520 silver [SILV], 2 winged horses [WING]. Weight:
+;  120. Capacity: 140/140/170/0. Skills: combat [COMB] 1 (60), horse
+;  training [HORS] 5 (450), stealth [STEA] 5 (450).
+
+;*** forest (76,18) in Uzrot ***
+
+unit 3083
+;yew (3083), on guard, revealing faction, holding, receiving no aid,
+;  318 silver [SILV], horse [HORS], leader [LEAD]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: combat [COMB] 1 (30), lumberjack [LUMB]
+;  4 (390).
+@guard 1
+@study lumb
+
+unit 3084
+;yew (3084), avoiding, behind, revealing faction, holding, receiving no
+;  aid, 238 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: lumberjack [LUMB] 5 (450), combat [COMB] 1 (60).
+
+unit 3085
+;yew (3085), on guard, revealing faction, holding, receiving no aid,
+;  312 silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (30), entertainment [ENTE] 2 (90),
+;  lumberjack [LUMB] 4 (420).
+@study lumb
+
+unit 3280
+;Yew (3280), avoiding, behind, revealing faction, holding, receiving no
+;  aid, 2210 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (84), lumberjack [LUMB] 5 (450).
+@teach 3083
+@teach 2225
+
+unit 1367
+;Eainfeld (1367), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 100 silver [SILV], 10 wood elves [WELF]. Weight:
+;  100. Capacity: 0/0/150/0. Skills: entertainment [ENTE] 3 (180).
+
+unit 2482
+;Courier (2482), avoiding, revealing faction, holding, receiving no
+;  aid, leader [LEAD], winged horse [WING], 300 silver [SILV]. Weight:
+;  60. Capacity: 70/70/85/0. Skills: combat [COMB] 1 (60),
+;  entertainment [ENTE] 5 (450).
+
+unit 2225
+;foresters (2225), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 216 silver [SILV], 4 wood elves [WELF]. Weight:
+;  40. Capacity: 0/0/60/0. Skills: lumberjack [LUMB] 2 (120).
+@study lumb
+
+unit 3238
+;Courier (3238), avoiding, behind, revealing faction, holding, 68
+;  silver [SILV], 15 horses [HORS], high elf [HELF], 7 winged horses
+;  [WING], 10 livestock [LIVE]. Weight: 1610. Capacity:
+;  490/1540/2055/0. Skills: none.
+MOVE SE
+
+unit 3012
+;Reilly (3012), avoiding, holding, 200 silver [SILV], leader [LEAD], 23
+;  winged horses [WING], 89 vodka [VODK]. Weight: 1605. Capacity:
+;  1610/1610/1625/0. Skills: stealth [STEA] 4 (300), observation [OBSE]
+;  4 (300).
+MOVE SE
+
+;*** plain (71,19) in Bocholt ***
+
+unit 3180
+;Funny Guards (3180), on guard, behind, revealing faction, holding,
+;  receiving no aid, 6 horses [HORS], 82 silver [SILV], leader [LEAD].
+;  Weight: 310. Capacity: 0/420/435/0. Skills: combat [COMB] 1 (30),
+;  entertainment [ENTE] 2 (90).
+
+unit 3352
+;Stealth Producer (3352), avoiding, behind, holding, receiving no aid,
+;  horse [HORS], 500 silver [SILV], leader [LEAD], 20 winged horses
+;  [WING]. Weight: 1060. Capacity: 1400/1470/1485/0. Skills: combat
+;  [COMB] 1 (60), horse training [HORS] 5 (450), stealth [STEA] 4
+;  (300).
+@produce wing
+
+unit 3359
+;Rain (3359), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 212 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: entertainment [ENTE] 2 (120), combat [COMB] 1
+;  (60).
+@study ente
+
+unit 3353
+;Ranchers (3353), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, 540 silver [SILV], 10
+;  nomads [NOMA], 20 livestock [LIVE]. Weight: 1100. Capacity:
+;  0/0/1150/0. Skills: ranching [RANC] 3 (180).
+@produce live
+@consume unit
+@give 3180 2 live
+@give 3359 2 live
+
+unit 2256
+;Stealth Horse (2256), avoiding, behind, holding, leader [LEAD], 260
+;  silver [SILV], winged horse [WING]. Weight: 60. Capacity:
+;  70/70/85/0. Skills: combat [COMB] 1 (60), horse training [HORS] 5
+;  (450), stealth [STEA] 5 (450).
+
+;*** plain (73,19) in Bocholt, contains Ineault'y [city] ***
+
+unit 1859
+;Truffles (1859), on guard, revealing faction, holding, receiving no
+;  aid, 31731 silver [SILV], tribal elf [TELF], nomad [NOMA], 180
+;  horses [HORS]. Weight: 9020. Capacity: 0/12600/12630/0. Skills:
+;  combat [COMB] 2 (90).
+@Work
+
+unit 2212
+;Ranch (2212), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 110 silver [SILV], 2 leaders [LEAD], 11 horses [HORS].
+;  Weight: 570. Capacity: 0/770/800/0. Skills: combat [COMB] 1 (45),
+;  ranching [RANC] 5 (450).
+@teach 2228
+
+unit 2213
+;Ranch (2213), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 150 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 2 (90), ranching [RANC] 5 (450).
+@teach 2229
+
+unit 2214
+;Reilly (2214), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 1853 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (30), observation [OBSE] 4 (330),
+;  stealth [STEA] 4 (390).
+@study stea
+
+unit 2179
+;Comb 9 (2179), behind, revealing faction, 1850 silver [SILV], 90
+;  leaders [LEAD], 62 winged horses [WING]. Weight: 4000. Capacity:
+;  4340/4340/5690/0. Skills: combat [COMB] 5 (450).
+
+unit 2220
+;HorsSte (2220), avoiding, behind, holding, receiving no aid, 677
+;  silver [SILV], leader [LEAD], winged horse [WING]. Weight: 60.
+;  Capacity: 70/70/85/0. Skills: combat [COMB] 1 (60), horse training
+;  [HORS] 5 (450), stealth [STEA] 5 (450).
+@teach 2519
+
+unit 2312
+;Magnificent 7 (2312), behind, revealing faction, 17 leaders [LEAD].
+;  Weight: 170. Capacity: 0/0/255/0. Skills: combat [COMB] 5 (450).
+@teach 3243 3244 3275 3355 2485 2851
+
+unit 2313
+;Rawhide (2313), avoiding, behind, revealing faction, holding, 17
+;  nomads [NOMA], 11153 silver [SILV], 49 livestock [LIVE]. Weight:
+;  2620. Capacity: 0/0/2705/0. Skills: ranching [RANC] 3 (180).
+@produce live
+@sell 49 live
+
+unit 2314
+;Aux (2314), behind, revealing faction, 2151 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (60), tactics [TACT] 5 (450), observation [OBSE] 4 (330).
+@study obse
+
+unit 2391
+;2 wise guys (2391), behind, revealing faction, 1904 silver [SILV], 2
+;  leaders [LEAD]. Weight: 20. Capacity: 0/0/30/0. Skills: combat
+;  [COMB] 2 (120), tactics [TACT] 5 (450), observation [OBSE] 4 (420).
+
+unit 2396
+;Wise Guy (2396), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 1390 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), tactics [TACT] 5
+;  (450), observation [OBSE] 5 (450).
+@teach 2314 3029 3027
+
+unit 2398
+;Reilly (2398), avoiding, behind, holding, 1652 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (60), observation [OBSE] 4 (330), stealth [STEA] 4 (390).
+@study stea
+
+unit 2476
+;2 Ridi Guys (2476), avoiding, revealing faction, holding, receiving no
+;  aid, 484 silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity:
+;  0/0/30/0. Skills: combat [COMB] 4 (330), riding [RIDI] 5 (450).
+
+unit 2477
+;Carp Guy (2477), behind, revealing faction, 414 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (60), carpenter [CARP] 5 (450).
+
+unit 2480
+;Herb Guy (2480), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 114 silver [SILV], leader [LEAD], double bow
+;  [DBOW]. Weight: 11. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (60), herb lore [HERB] 5 (450), longbow [LBOW] 5 (450).
+
+unit 2481
+;stealthy guys (2481), avoiding, behind, holding, 2461 silver [SILV], 3
+;  leaders [LEAD]. Weight: 30. Capacity: 0/0/45/0. Skills: combat
+;  [COMB] 1 (60), stealth [STEA] 5 (450), observation [OBSE] 4 (330).
+
+unit 2483
+;Hunt Guy (2483), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 925 silver [SILV], 3 leaders [LEAD]. Weight: 30.
+;  Capacity: 0/0/45/0. Skills: combat [COMB] 1 (60), hunting [HUNT] 5
+;  (450), longbow [LBOW] 1 (30).
+@study lbow
+
+unit 2484
+;Fish Guy (2484), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 499 silver [SILV], 3 leaders [LEAD], horse [HORS].
+;  Weight: 80. Capacity: 0/70/115/0. Skills: combat [COMB] 1 (60),
+;  fishing [FISH] 5 (450), longbow [LBOW] 1 (30).
+@study lbow
+
+unit 2485
+;Ridi Guy (2485), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 205 silver [SILV], leader [LEAD], 5 winged horses
+;  [WING]. Weight: 260. Capacity: 350/350/365/0. Skills: combat [COMB]
+;  3 (180), riding [RIDI] 5 (450).
+
+unit 1839
+;Weap (1839), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], horse [HORS], 251 silver [SILV], 5 double
+;  bows [DBOW]. Weight: 65. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (64), weaponsmith [WEAP] 5 (450).
+@produce dbow
+@give 3243 1 dbow
+@give 3244 1 dbow
+
+unit 1860
+;Mini (1860), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], horse [HORS], 293 silver [SILV]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: combat [COMB] 1 (60), mining [MINI] 5
+;  (450).
+@work
+
+unit 2519
+;Ridi 5 (2519), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 3161 silver [SILV], 5 leaders [LEAD]. Weight: 50. Capacity:
+;  0/0/75/0. Skills: combat [COMB] 5 (450), riding [RIDI] 5 (450),
+;  stealth [STEA] 1 (60).
+@study stea
+
+unit 2521
+;Reilly crew (2521), avoiding, behind, holding, 2568 silver [SILV], 2
+;  leaders [LEAD]. Weight: 20. Capacity: 0/0/30/0. Skills: combat
+;  [COMB] 1 (60), observation [OBSE] 4 (330), stealth [STEA] 5 (450).
+
+unit 2522
+;Stealthy guy (2522), avoiding, behind, holding, 1380 silver [SILV],
+;  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+;  1 (60), stealth [STEA] 5 (450), observation [OBSE] 4 (330).
+@teach 2519 2398 2214 3030
+
+unit 2523
+;Lumber Guy (2523), avoiding, behind, revealing faction, holding,
+;  leader [LEAD], 3242 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (84), lumberjack [LUMB] 5 (450), stealth
+;  [STEA] 4 (360).
+@study stea
+
+unit 2630
+;Mini (2630), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 90 silver [SILV], 4 leaders [LEAD]. Weight: 40. Capacity:
+;  0/0/60/0. Skills: combat [COMB] 2 (90), mining [MINI] 5 (450),
+;  longbow [LBOW] 1 (30).
+@study lbow
+
+unit 2631
+;Stealthy Guys (2631), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 1687 silver [SILV], 2 leaders [LEAD]. Weight: 20.
+;  Capacity: 0/0/30/0. Skills: combat [COMB] 1 (60), stealth [STEA] 4
+;  (330), observation [OBSE] 5 (450).
+
+unit 2632
+;Advanced Horse (2632), avoiding, behind, holding, receiving no aid,
+;  leader [LEAD], 599 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (60), horse training [HORS] 5 (450), stealth
+;  [STEA] 3 (240).
+@study stea
+
+unit 2634
+;Weap boys (2634), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 88 silver [SILV], 2 leaders [LEAD], 10 double bows
+;  [DBOW]. Weight: 30. Capacity: 0/0/30/0. Skills: combat [COMB] 1
+;  (60), weaponsmith [WEAP] 5 (450).
+@give 3243 5 dbow
+@give 3244 5 dbow
+
+unit 2745
+;Ridi Guy (2745), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 690 silver [SILV], leader [LEAD], winged horse
+;  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: combat [COMB] 5
+;  (450), riding [RIDI] 5 (450).
+
+unit 2746
+;Ridi Guy (2746), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 1190 silver [SILV], leader [LEAD], winged horse
+;  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: combat [COMB] 5
+;  (450), riding [RIDI] 5 (450).
+
+unit 3003
+;Mini Guys (3003), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 443 silver [SILV], 4 leaders [LEAD]. Weight: 40.
+;  Capacity: 0/0/60/0. Skills: combat [COMB] 1 (60), mining [MINI] 5
+;  (450).
+@work
+
+unit 3004
+;Carpenters (3004), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 352 silver [SILV], 5 leaders [LEAD], 85 ironwood
+;  [IRWD]. Weight: 900. Capacity: 0/0/75/0. Skills: combat [COMB] 1
+;  (60), carpenter [CARP] 5 (450).
+@work
+
+unit 3005
+;Yew Guys (3005), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 5 leaders [LEAD], 2126 silver [SILV]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB]
+;  5 (450), stealth [STEA] 4 (300).
+@study stea
+
+unit 2987
+;Stealth Guys (2987), avoiding, behind, holding, receiving no aid, 519
+;  silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity: 0/0/30/0.
+;  Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450), observation
+;  [OBSE] 1 (60).
+
+unit 3027
+;Tact 5 (3027), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 5458 silver [SILV], 5 leaders [LEAD]. Weight: 50. Capacity:
+;  0/0/75/0. Skills: combat [COMB] 1 (60), tactics [TACT] 5 (450),
+;  observation [OBSE] 3 (210).
+@study obse
+
+unit 3029
+;5% Stea (3029), avoiding, behind, holding, receiving no aid, 6418
+;  silver [SILV], 4 leaders [LEAD]. Weight: 40. Capacity: 0/0/60/0.
+;  Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450), observation
+;  [OBSE] 1 (60).
+@teach 2523 2632 3005 3030 3279 3245 2398
+
+unit 3030
+;5% Lumb (3030), avoiding, behind, holding, receiving no aid, leader
+;  [LEAD], 361 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  combat [COMB] 1 (84), lumberjack [LUMB] 5 (450), carpenter [CARP] 1
+;  (60), stealth [STEA] 3 (208).
+@study stea
+
+unit 3159
+;Hors Guys (3159), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 917 silver [SILV], 10 leaders [LEAD]. Weight: 100.
+;  Capacity: 0/0/150/0. Skills: horse training [HORS] 5 (450), stealth
+;  [STEA] 2 (177).
+@study stea
+
+unit 3241
+;XBteacher (3241), avoiding, behind, revealing faction, holding,
+;  receiving no aid, silver [SILV], leader [LEAD], double bow [DBOW].
+;  Weight: 11. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  crossbow [XBOW] 5 (450).
+@teach 3200
+
+unit 3242
+;LBteacher (3242), avoiding, behind, revealing faction, holding, 2
+;  silver [SILV], leader [LEAD], double bow [DBOW], 8 winged horses
+;  [WING]. Weight: 411. Capacity: 560/560/575/0. Skills: combat [COMB]
+;  1 (30), longbow [LBOW] 5 (450).
+@teach 2480
+
+unit 3243
+;Lbow guy (3243), behind, revealing faction, holding, receiving no aid,
+;  670 silver [SILV], 6 leaders [LEAD], 4 double bows [DBOW], 8 winged
+;  horses [WING]. Weight: 464. Capacity: 560/560/650/0. Skills: combat
+;  [COMB] 4 (417), longbow [LBOW] 5 (450).
+@study comb
+
+unit 3244
+;Xbow guy (3244), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 620 silver [SILV], 6 leaders [LEAD], double bow
+;  [DBOW]. Weight: 61. Capacity: 0/0/90/0. Skills: combat [COMB] 4
+;  (418), crossbow [XBOW] 5 (450).
+@study comb
+
+unit 3006
+;Globe theatre (3006), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 30 wood elves [WELF], 2 horses [HORS], 1500 silver
+;  [SILV]. Weight: 400. Capacity: 0/140/590/0. Skills: entertainment
+;  [ENTE] 3 (180).
+@entertain
+
+unit 3200
+;Xguy (3200), behind, revealing faction, 136 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5
+;  (450), crossbow [XBOW] 4 (330).
+@study xbow
+
+unit 3275
+;com guys (3275), revealing faction, 10 leaders [LEAD], 14 winged
+;  horses [WING], 968 silver [SILV]. Weight: 800. Capacity:
+;  980/980/1130/0. Skills: combat [COMB] 5 (450).
+@work
+
+unit 3279
+;Yew (3279), avoiding, behind, revealing faction, holding, receiving no
+;  aid, 5 horses [HORS], 1589 silver [SILV], leader [LEAD]. Weight:
+;  260. Capacity: 0/350/365/0. Skills: combat [COMB] 1 (84), lumberjack
+;  [LUMB] 5 (450), stealth [STEA] 4 (420).
+@study stea
+
+unit 3308
+;SteTeacher (3308), avoiding, behind, holding, receiving no aid, 1540
+;  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (60), stealth [STEA] 4 (390).
+
+unit 3309
+;SteTeacher (3309), avoiding, behind, holding, receiving no aid, 1180
+;  silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity: 0/0/30/0.
+;  Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450).
+
+unit 3350
+;Funny (3350), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 1308 silver [SILV], leader [LEAD], horse [HORS]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: entertainment [ENTE] 3 (180).
+@study ente
+
+unit 3354
+;Weap guys (3354), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 918 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), weaponsmith [WEAP]
+;  5 (450).
+@teach 3428
+
+unit 3355
+;comb guy (3355), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 898 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 4 (300).
+@study comb
+
+unit 3427
+;Weap guys (3427), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 15 leaders [LEAD], 8 horses [HORS]. Weight: 550.
+;  Capacity: 0/560/785/0. Skills: combat [COMB] 1 (61), weaponsmith
+;  [WEAP] 5 (450).
+@work
+
+unit 3428
+;Aux Weap (3428), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 3 leaders [LEAD], 234 silver [SILV]. Weight: 30.
+;  Capacity: 0/0/45/0. Skills: combat [COMB] 1 (60), weaponsmith [WEAP]
+;  4 (306).
+@study weap
+
+unit 3349
+;Courier (3349), avoiding, revealing faction, holding, receiving no
+;  aid, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat
+;  [COMB] 2 (90).
+@study comb
+
+unit 3319
+;Funny (3319), avoiding, behind, revealing faction, holding, receiving
+;  no aid, horse [HORS], 381 silver [SILV], plainsman [PLAI]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: entertainment [ENTE] 2 (150).
+@study ente
+
+unit 1387
+;Rawhide (1387), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 140 silver [SILV], 8 horses [HORS], 10 nomads
+;  [NOMA]. Weight: 500. Capacity: 0/560/710/0. Skills: ranching [RANC]
+;  2 (120).
+@study ranc
+
+unit 1411
+;mini teacher (1411), avoiding, behind, revealing faction, holding,
+;  receiving no aid, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 2 (90), mining [MINI] 5 (450).
+@teach 1473
+
+unit 1413
+;Xguy (1413), behind, revealing faction, holding, receiving no aid, 7
+;  leaders [LEAD], 410 silver [SILV], double bow [DBOW]. Weight: 71.
+;  Capacity: 0/0/105/0. Skills: combat [COMB] 4 (301), crossbow [XBOW]
+;  5 (450).
+
+unit 1457
+;Lguy (1457), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 7 leaders [LEAD], 1410 silver [SILV], double bow [DBOW], 11
+;  winged horses [WING]. Weight: 621. Capacity: 770/770/875/0. Skills:
+;  combat [COMB] 4 (301), longbow [LBOW] 5 (450).
+
+unit 1473
+;mini teacher (1473), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 400 silver [SILV], 5 leaders [LEAD]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: mining [MINI] 3 (180).
+@study mini
+
+unit 3318
+;Funny (3318), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 1449 silver [SILV], plainsman [PLAI]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: entertainment [ENTE] 2 (120).
+@study ente
+
+unit 3289
+;Funny (3289), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 124 silver [SILV], plainsman [PLAI]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: entertainment [ENTE] 2 (120).
+@study ente
+
+unit 2998
+;Lumber Guys (2998), avoiding, behind, holding, receiving no aid, 180
+;  silver [SILV], 2 leaders [LEAD], 2 horses [HORS], 4 winged horses
+;  [WING]. Weight: 320. Capacity: 280/420/450/0. Skills: combat [COMB]
+;  1 (30), lumberjack [LUMB] 5 (450), stealth [STEA] 2 (90).
+@study stea
+
+unit 1747
+;Taxeer (1747), revealing faction, holding, leader [LEAD], 2 horses
+;  [HORS]. Weight: 110. Capacity: 0/140/155/0. Skills: entertainment
+;  [ENTE] 5 (450), combat [COMB] 2 (90).
+@teach 3299 3289 3318
+@teach 3350
+
+unit 3299
+;Funny (3299), avoiding, behind, revealing faction, holding, receiving
+;  no aid, plainsman [PLAI], 9 horses [HORS]. Weight: 460. Capacity:
+;  0/630/645/0. Skills: entertainment [ENTE] 1 (60).
+@study ente
+
+unit 2228
+;Rawhide (2228), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 840 silver [SILV], 8 horses [HORS], 10 nomads
+;  [NOMA]. Weight: 500. Capacity: 0/560/710/0. Skills: ranching [RANC]
+;  2 (120).
+@study ranc
+
+unit 2229
+;Rawhide (2229), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 840 silver [SILV], 8 horses [HORS], 10 nomads
+;  [NOMA]. Weight: 500. Capacity: 0/560/710/0. Skills: ranching [RANC]
+;  2 (120).
+@study ranc
+
+unit 3245
+;Courier (3245), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 1368 silver [SILV], leader [LEAD], winged horse
+;  [WING], 30 horses [HORS]. Weight: 1560. Capacity: 70/2170/2185/0.
+;  Skills: stealth [STEA] 2 (90), combat [COMB] 1 (30).
+@study stea
+
+unit 2180
+;womgers (2180), revealing faction, holding, receiving no aid, 2 winged
+;  horses [WING], leader [LEAD]. Weight: 110. Capacity: 140/140/155/0.
+;  Skills: none.
+
+unit 1481
+;courier (1481), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 40 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: none.
+
+unit 3148
+;delivery (3148), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 214 silver [SILV], leader [LEAD], 103 truffles
+;  [TRUF], horse [HORS]. Weight: 163. Capacity: 0/70/85/0. Skills:
+;  none.
+
+unit 3395
+;Whatever (3395), avoiding, revealing faction, holding, receiving no
+;  aid, 78 silver [SILV], 50 figurines [FIGU], leader [LEAD]. Weight:
+;  60. Capacity: 0/0/15/0. Skills: none.
+
+unit 3396
+;Lguy (3396), behind, revealing faction, 1229 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5
+;  (450), longbow [LBOW] 1 (30).
+@study lbow
+
+unit 3421
+;Xguy (3421), behind, revealing faction, 1229 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5
+;  (450), crossbow [XBOW] 1 (30).
+@study Xbow
+
+unit 3422
+;Lguy (3422), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 229 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 5 (450), longbow [LBOW] 1 (30).
+@study lbow
+
+unit 3430
+;Xguy (3430), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 229 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 5 (450), crossbow [XBOW] 1 (30).
+@study Xbow
+
+unit 2730
+;Consolidated (2730), avoiding, revealing faction, holding, 3 horses
+;  [HORS], 52 silver [SILV], leader [LEAD]. Weight: 160. Capacity:
+;  0/210/225/0. Skills: none.
+
+unit 3431
+;Courier (3431), avoiding, behind, revealing faction, holding,
+;  consuming unit's food, 72 silver [SILV], 11 livestock [LIVE], 7
+;  winged horses [WING], leader [LEAD]. Weight: 910. Capacity:
+;  490/490/1055/0. Skills: none.
+
+unit 2851
+;OK Coral (2851), avoiding, behind, revealing faction, holding,
+;  receiving no aid, horse [HORS], 30 silver [SILV], leader [LEAD], 8
+;  winged horses [WING]. Weight: 460. Capacity: 560/630/645/0. Skills:
+;  combat [COMB] 2 (120).
+
+unit 3310
+;Drover (3310), revealing faction, holding, receiving no aid, 8 horses
+;  [HORS], 190 silver [SILV], leader [LEAD], 7 yew [YEW], 9 ironwood
+;  [IRWD]. Weight: 535. Capacity: 0/560/575/0. Skills: combat [COMB] 2
+;  (90), entertainment [ENTE] 1 (60).
+
+;*** plain (75,19) in Bocholt ***
+
+unit 3155
+;Wing (3155), avoiding, behind, revealing faction, holding, receiving
+;  no aid, consuming unit's food, 2 leaders [LEAD], 1020 silver [SILV],
+;  8 winged horses [WING]. Weight: 420. Capacity: 560/560/590/0.
+;  Skills: horse training [HORS] 5 (450), combat [COMB] 1 (47).
+@produce wing
+@consume unit
+
+unit 3360
+;Funny guard (3360), on guard, revealing faction, holding, receiving no
+;  aid, consuming unit's food, 86 silver [SILV], leader [LEAD]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), entertainment
+;  [ENTE] 1 (60).
+@consume unit
+
+unit 3053
+;Rawhide (3053), avoiding, behind, revealing faction, holding,
+;  receiving no aid, consuming unit's food, 13 nomads [NOMA], 39
+;  livestock [LIVE]. Weight: 2080. Capacity: 0/0/2145/0. Skills:
+;  ranching [RANC] 3 (180).
+@produce live
+@consume unit
+@Give 3155 4 live
+@Give 3053 13 live
+@Give 3360 2 live
+
+unit 3320
+;Funny (3320), avoiding, behind, revealing faction, holding, consuming
+;  unit's food, 39 silver [SILV], plainsman [PLAI], winged horse
+;  [WING]. Weight: 60. Capacity: 70/70/85/0. Skills: entertainment
+;  [ENTE] 1 (60).
+@consume unit
+
+;*** plain (77,19) in Morungol, contains Mustlor [city] ***
+
+unit 3160
+;comb starter (3160), avoiding, revealing faction, holding, receiving
+;  no aid, 4153 silver [SILV], 2 horses [HORS], 2 leaders [LEAD].
+;  Weight: 120. Capacity: 0/140/170/0. Skills: combat [COMB] 4 (390).
+@study comb
+
+unit 3135
+;Comb Guys (3135), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 2697 silver [SILV], 10 leaders [LEAD], horse
+;  [HORS]. Weight: 150. Capacity: 0/70/220/0. Skills: combat [COMB] 5
+;  (450).
+
+unit 3136
+;Comb Guys (3136), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 2 leaders [LEAD], 2637 silver [SILV], 2 horses
+;  [HORS]. Weight: 120. Capacity: 0/140/170/0. Skills: combat [COMB] 4
+;  (390).
+@study comb
+
+unit 3090
+;Com Guy (3090), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 2 horses [HORS], 3114 silver [SILV], leader
+;  [LEAD]. Weight: 110. Capacity: 0/140/155/0. Skills: combat [COMB] 5
+;  (450).
+@teach 3160 3136 3089 2877
+
+unit 3089
+;Com Guy (3089), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 3196 silver [SILV], leader [LEAD], 21 horses
+;  [HORS]. Weight: 1060. Capacity: 0/1470/1485/0. Skills: combat [COMB]
+;  4 (360).
+@study comb
+
+unit 2877
+;Winging (2877), avoiding, revealing faction, holding, receiving no
+;  aid, 12 silver [SILV], leader [LEAD], 11 horses [HORS]. Weight: 560.
+;  Capacity: 0/770/785/0. Skills: combat [COMB] 3 (210).
+@study comb
+
+unit 3052
+;Structures (3052), avoiding, revealing faction, holding, receiving no
+;  aid, 5 wood elves [WELF], 250 silver [SILV]. Weight: 50. Capacity:
+;  0/0/75/0. Skills: entertainment [ENTE] 3 (180).
+@entertain
+
+;*** plain (74,20) in Bocholt ***
+
+unit 3028
+;Rawhide (3028), avoiding, behind, revealing faction, holding,
+;  consuming unit's food, 842 silver [SILV], 17 nomads [NOMA], 51
+;  livestock [LIVE]. Weight: 2720. Capacity: 0/0/2805/0. Skills:
+;  ranching [RANC] 3 (180).
+@produce live
+@consume unit
+@give 3088 4 live
+
+unit 3088
+;Hors Teach (3088), on guard, revealing faction, holding, consuming
+;  unit's food, 1185 silver [SILV], 2 leaders [LEAD], 7 winged horses
+;  [WING]. Weight: 370. Capacity: 490/490/520/0. Skills: horse training
+;  [HORS] 5 (450), combat [COMB] 1 (47).
+@produce wing
+@consume unit
+
+unit 1748
+;scout (1748), revealing faction, holding, receiving no aid, 163 silver
+;  [SILV], viking [VIKI], 26 horses [HORS], 8 winged horses [WING], 14
+;  dye [DYE]. Weight: 1780. Capacity: 560/2380/2395/0. Skills: combat
+;  [COMB] 3 (180).
+MOVE SW S SW S
+
+unit 3082
+;Mini (3082), avoiding, revealing faction, holding, receiving no aid,
+;  16 silver [SILV], hill dwarf [HDWA], winged horse [WING]. Weight:
+;  60. Capacity: 70/70/85/0. Skills: mining [MINI] 3 (180).
+
+;*** jungle (72,24) in Donndinon ***
+
+unit 2316
+;E guy (2316), avoiding, revealing faction, holding, leader [LEAD], 199
+;  silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+;  Skills: entertainment [ENTE] 5 (450), combat [COMB] 2 (90).
+
+unit 2524
+;Sedrick (2524), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 172 silver [SILV], leader [LEAD], 2 horses [HORS].
+;  Weight: 110. Capacity: 0/140/155/0. Skills: combat [COMB] 3 (210),
+;  entertainment [ENTE] 5 (450).
+@study comb
+
+unit 2635
+;Combo (2635), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 227 silver [SILV], 3 leaders [LEAD], 2 horses [HORS].
+;  Weight: 130. Capacity: 0/140/185/0. Skills: combat [COMB] 3 (180),
+;  entertainment [ENTE] 5 (450).
+@teach 2316 1490 2257
+
+unit 1490
+;funny guys (1490), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 3 horses [HORS], 160 silver [SILV], 5 wood elves
+;  [WELF]. Weight: 200. Capacity: 0/210/285/0. Skills: entertainment
+;  [ENTE] 2 (120).
+@study ente
+
+unit 2257
+;Funny guys (2257), avoiding, revealing faction, holding, receiving no
+;  aid, 310 silver [SILV], 10 wood elves [WELF], 5 horses [HORS].
+;  Weight: 350. Capacity: 0/350/500/0. Skills: entertainment [ENTE] 2
+;  (120).
+@study ente
+
+unit 2260
+;Funny guys (2260), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 300 silver [SILV], 10 wood elves [WELF]. Weight:
+;  100. Capacity: 0/0/150/0. Skills: entertainment [ENTE] 2 (90).
+@study ente
+
+unit 1365
+;Funny Courier (1365), avoiding, behind, revealing faction, holding,
+;  receiving no aid, plainsman [PLAI], 3720 silver [SILV], 3 winged
+;  horses [WING]. Weight: 160. Capacity: 210/210/225/0. Skills:
+;  entertainment [ENTE] 1 (60).
+
+;*** mountain (68,26) in Phidyntia, contains Oroldu [city] ***
+
+unit 1861
+;Thor (1861), avoiding, behind, revealing faction, holding, 9 leaders
+;  [LEAD], 540 silver [SILV]. Weight: 90. Capacity: 0/0/135/0. Skills:
+;  combat [COMB] 3 (180), armorer [ARMO] 5 (450).
+@work
+
+unit 2217
+;Thor (2217), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 260 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 3 (180), armorer [ARMO] 5 (450).
+@teach 3432 3433 3434 3311 1119 3246
+
+unit 2526
+;Armo Guy (2526), avoiding, behind, revealing faction, holding, leader
+;  [LEAD], 60 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  combat [COMB] 3 (240), armorer [ARMO] 5 (450).
+@study comb
+
+unit 3246
+;Armo (3246), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 230 silver [SILV], 3 leaders [LEAD]. Weight: 30. Capacity:
+;  0/0/45/0. Skills: armorer [ARMO] 5 (450), combat [COMB] 1 (60).
+@study comb
+
+unit 3311
+;Asmore (3311), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 604 silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity:
+;  0/0/30/0. Skills: combat [COMB] 2 (120), armorer [ARMO] 3 (270).
+@study armo
+
+unit 3432
+;Armo (3432), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 60 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 3 (180), armorer [ARMO] 1 (60).
+@study armo
+
+unit 3433
+;Armo (3433), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 18 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 3 (180), armorer [ARMO] 1 (60).
+@study armo
+
+unit 3434
+;Armo (3434), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 44 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 3 (180), armorer [ARMO] 1 (60).
+@study armo
+
+unit 592
+;Bear (592), revealing faction, leader [LEAD], 374 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: pattern [PATT] 4 (330),
+;  spirit [SPIR] 4 (300), gate lore [GATE] 1 (30), earth lore [EART] 3
+;  (270), force [FORC] 4 (300), fire [FIRE] 3 (180), weather lore
+;  [WEAT] 2 (90), artifact lore [ARTI] 2 (120), illusion [ILLU] 2
+;  (120). Combat spell: fire [FIRE]. Can Study: fire [FIRE], earthquake
+;  [EQUA], force shield [FSHI], energy shield [ESHI], spirit shield
+;  [SSHI], magical healing [MHEA], gate lore [GATE], farsight [FARS],
+;  mind reading [MIND], weather lore [WEAT], summon wind [SWIN], summon
+;  storm [SSTO], clear skies [CLEA], earth lore [EART], wolf lore
+;  [WOLF], bird lore [BIRD], necromancy [NECR], demon lore [DEMO],
+;  illusion [ILLU], phantasmal entertainment [PHEN], create phantasmal
+;  beasts [PHBE], create phantasmal undead [PHUN], create phantasmal
+;  demons [PHDE], dispel illusions [DISP], artifact lore [ARTI],
+;  enchant swords [ESWO], enchant armor [EARM].
+@combat "fire"
+@CAST Earth_Lore
+@give 1861 100 silv
+
+unit 2489
+;Cougar (2489), behind, revealing faction, 486 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: pattern [PATT] 3
+;  (180), earth lore [EART] 2 (120), spirit [SPIR] 3 (180), force
+;  [FORC] 3 (210), illusion [ILLU] 2 (120), artifact lore [ARTI] 2
+;  (90). Can Study: fire [FIRE], earthquake [EQUA], force shield
+;  [FSHI], energy shield [ESHI], spirit shield [SSHI], magical healing
+;  [MHEA], gate lore [GATE], farsight [FARS], mind reading [MIND],
+;  weather lore [WEAT], earth lore [EART], wolf lore [WOLF], bird lore
+;  [BIRD], necromancy [NECR], demon lore [DEMO], illusion [ILLU],
+;  phantasmal entertainment [PHEN], create phantasmal beasts [PHBE],
+;  create phantasmal undead [PHUN], create phantasmal demons [PHDE],
+;  dispel illusions [DISP], artifact lore [ARTI], enchant swords
+;  [ESWO], enchant armor [EARM].
+@CAST Earth_Lore
+@teach 2488 592 1929 1928 54
+
+unit 2488
+;Water Buffalo (2488), behind, revealing faction, 464 silver [SILV],
+;  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: pattern
+;  [PATT] 3 (180), earth lore [EART] 2 (120), spirit [SPIR] 3 (180),
+;  force [FORC] 3 (180), artifact lore [ARTI] 2 (120), illusion [ILLU]
+;  2 (90). Can Study: fire [FIRE], earthquake [EQUA], force shield
+;  [FSHI], energy shield [ESHI], spirit shield [SSHI], magical healing
+;  [MHEA], gate lore [GATE], farsight [FARS], mind reading [MIND],
+;  weather lore [WEAT], earth lore [EART], wolf lore [WOLF], bird lore
+;  [BIRD], necromancy [NECR], demon lore [DEMO], illusion [ILLU],
+;  phantasmal entertainment [PHEN], create phantasmal beasts [PHBE],
+;  create phantasmal undead [PHUN], create phantasmal demons [PHDE],
+;  dispel illusions [DISP], artifact lore [ARTI], enchant swords
+;  [ESWO], enchant armor [EARM].
+@CAST Earth_Lore
+@give 2217 60 silv
+@give 3246 30 silv
+@give 2526 30 silv
+@give 3311 90 silv
+
+;*** jungle (72,26) in Donndinon, contains Thor-a-thol [city] ***
+
+unit 2397
+;Builder (2397), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 4 horses [HORS], 378 silver [SILV], 3 leaders
+;  [LEAD]. Weight: 230. Capacity: 0/280/325/0. Skills: building [BUIL]
+;  5 (450), combat [COMB] 1 (70), shipbuilding [SHIP] 1 (30).
+@study ship
+
+unit 2636
+;Weap (2636), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 54 silver [SILV], leader [LEAD], 2 horses [HORS]. Weight:
+;  110. Capacity: 0/140/155/0. Skills: weaponsmith [WEAP] 5 (450),
+;  combat [COMB] 2 (150).
+@study comb
+
+unit 2637
+;Quarry (2637), avoiding, behind, revealing faction, holding, receiving
+;  no aid, horse [HORS], leader [LEAD], 20 silver [SILV], winged horse
+;  [WING]. Weight: 110. Capacity: 70/140/155/0. Skills: quarrying
+;  [QUAR] 5 (450), combat [COMB] 2 (120).
+@study comb
+
+unit 2749
+;Obse (2749), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 290 silver [SILV], leader [LEAD], winged horse [WING].
+;  Weight: 60. Capacity: 70/70/85/0. Skills: observation [OBSE] 4
+;  (300), stealth [STEA] 4 (300).
+@teach 3008 2395 3239 3285
+
+unit 2750
+;Stea (2750), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 302 silver [SILV], leader [LEAD], winged horse [WING].
+;  Weight: 60. Capacity: 70/70/85/0. Skills: stealth [STEA] 4 (300),
+;  observation [OBSE] 4 (300).
+@study obse
+
+unit 2753
+;Weap (2753), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 34 silver [SILV], leader [LEAD], horse [HORS]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: weaponsmith [WEAP] 5 (450), combat
+;  [COMB] 2 (150).
+@study comb
+
+unit 2754
+;Weap (2754), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 18 silver [SILV], leader [LEAD], horse [HORS]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: weaponsmith [WEAP] 5 (450), combat
+;  [COMB] 2 (90).
+@study comb
+
+unit 2755
+;Quarry (2755), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 48 silver [SILV], 2 leaders [LEAD]. Weight: 20. Capacity:
+;  0/0/30/0. Skills: quarrying [QUAR] 5 (450), combat [COMB] 1 (30).
+@study comb
+
+unit 2487
+;Funny guys (2487), avoiding, revealing faction, holding, 9 wood elves
+;  [WELF], 27 horses [HORS], 4145 silver [SILV]. Weight: 1440.
+;  Capacity: 0/1890/2025/0. Skills: entertainment [ENTE] 3 (180).
+@entertain
+@give 2755 20 silv
+@give 2754 20 silv
+@give 2753 20 silv
+@give 2397 90 silv
+@give 2749 70 silv
+@give 2750 70 silv
+@give 3009 70 silv
+@give 3010 70 silv
+@give 3011 70 silv
+@give 3012 70 silv
+
+unit 3009
+;Reilly (3009), avoiding, holding, 137 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: stealth [STEA] 4 (390),
+;  observation [OBSE] 3 (240).
+@study stea
+
+unit 3010
+;Reilly (3010), avoiding, holding, 95 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: stealth
+;  [STEA] 4 (330), observation [OBSE] 4 (330).
+@Study obse
+
+unit 3011
+;Reilly (3011), avoiding, holding, 155 silver [SILV], leader [LEAD], 3
+;  horses [HORS]. Weight: 160. Capacity: 0/210/225/0. Skills: stealth
+;  [STEA] 4 (330), observation [OBSE] 4 (330).
+@study obse
+
+unit 3285
+;Indigo (3285), avoiding, behind, holding, receiving no aid, 308 silver
+;  [SILV], 38 horses [HORS], leader [LEAD]. Weight: 1910. Capacity:
+;  0/2660/2675/0. Skills: combat [COMB] 1 (60), stealth [STEA] 4 (330),
+;  observation [OBSE] 2 (120).
+@study obse
+
+unit 3239
+;More Booze (3239), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 546 silver [SILV], leader [LEAD], 2 horses [HORS].
+;  Weight: 110. Capacity: 0/140/155/0. Skills: stealth [STEA] 2 (150).
+@study stea
+
+unit 2395
+;Courier (2395), avoiding, holding, leader [LEAD], horse [HORS], 1350
+;  silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat
+;  [COMB] 1 (60), stealth [STEA] 3 (210), observation [OBSE] 3 (180).
+@study stea
+
+unit 3008
+;Truffle Passoff (3008), avoiding, behind, holding, leader [LEAD], 4847
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+;  1 (30), stealth [STEA] 1 (60).
+@Study stea
+
+;*** mountain (73,43) in Gededyki ***
+
+unit 2389
+;Mini (2389), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 2104 silver [SILV], leader [LEAD], 2 winged horses [WING].
+;  Weight: 110. Capacity: 140/140/155/0. Skills: combat [COMB] 1 (60),
+;  mining [MINI] 5 (450).
+
+#end
+

@@ -1,0 +1,1330 @@
+Atlantis Report For:
+Sol Invictus (20) (War 1, Magic 4)
+May, Year 8
+
+Atlantis Engine Version: 4.1.0
+Standard Atlantis, Version: 4.1.0
+
+Faction Status:
+Tax Regions: 7 (10)
+Trade Regions: 0 (0)
+Mages: 4 (5)
+
+Errors during turn:
+Workers (2093): BUY: Unit attempted to buy more than it could afford.
+Green Beam (2248): MOVE: Unit has insufficient movement points;
+  remaining moves queued.
+Blue Beam (2251): STUDY: Doesn't have the pre-requisite skills to
+  study that.
+
+Events during turn:
+Blue Beam (2251): Combat spell set to fire.
+Taxers (2545): Gives 200 silver [SILV] to Unit (3290).
+Taxers (2665): Gives 200 silver [SILV] to Unit (3197).
+Taxers (2546): Gives 200 silver [SILV] to Unit (3199).
+Taxers (2545): Collects $4056 in taxes in plain (38,4) in I'ceraw.
+Green Beam (2248): Collects $50 in taxes in swamp (62,26) in Skelid.
+Taxers (2665): Collects $4062 in taxes in plain (22,40) in Nimathost.
+Yellow Beam (2249): Collects $50 in taxes in plain (2,50) in
+  Killorglin.
+Blue Beam (2251): Collects $50 in taxes in jungle (76,56) in Randar.
+Taxers (2546): Collects $3306 in taxes in plain (64,62) in Ranaw.
+Unit (3114): Collects $250 in taxes in forest (1,75) in U'osad.
+Burvis al Treshais ibn Beigtais (1125) uses demon lore [DEMO] in plain
+  (60,34) in Erisort.
+Scout (2223): Buys viking [VIKI] at $68 each.
+Workers (2093): Buys 3 barbarians [BARB] at $60 each.
+Green Beam (2248): Walks from swamp (62,26) in Skelid to swamp (61,27)
+  in Skelid.
+Unit (2852): Earns 15 silver working in tundra (17,3) in Lutedose.
+Unit (3290): Studies tactics.
+Unit (2175): Earns 13 silver working in mountain (50,4) in Cornon.
+Unit (3293): Earns 14 silver working in plain (37,5) in I'ceraw.
+Scout (2330): Earns 19 silver working in plain (53,5) in Githdoror.
+Unit (3292): Earns 15 silver working in plain (39,7) in I'ceraw.
+Scout (2223): Earns 108 silver working in mountain (68,26) in
+  Phidyntia.
+Unit (2505): Earns 30 silver working in forest (88,30) in Kawapo.
+White Beam (2250): Studies summon imps.
+Scout (3294): Earns 14 silver working in plain (22,36) in Elodiauen.
+Scout (3297): Earns 17 silver working in plain (25,39) in Elodiauen.
+Unit (3197): Studies tactics.
+Scout (3298): Earns 14 silver working in plain (25,41) in Elodiauen.
+Scout (3296): Earns 15 silver working in plain (24,44) in Nimathost.
+Unit (2507): Earns 13 silver working in forest (30,60) in Lurkabo.
+Unit (3340): Earns 16 silver working in forest (29,61) in Lurkabo.
+Unit (3199): Studies tactics.
+Unit (3114): Studies combat.
+Scout (2094): Earns 16 silver working in swamp (67,75) in Tourlanque.
+Unit (3277): Earns 17 silver working in forest (6,80) in Crerakroth.
+Workers (2093): Earns 495 silver working in mountain (64,82) in
+  Baibur.
+Unit (2958): Earns 16 silver working in forest (60,88) in Soratuen.
+Unit (2506): Earns 13 silver working in underforest (19,15,underworld)
+  in Rodwor.
+Scout (2095): Earns 14 silver working in underforest
+  (30,34,underworld) in Farafra.
+Yellow Beam (2249): Casts Random Gate Jump.
+Yellow Beam (2249): Jumps through a Gate to swamp (24,18) in Lion.
+Blue Beam (2251): Casts Random Gate Jump.
+Blue Beam (2251): Jumps through a Gate to tundra (90,84) in Lormaroth.
+Scout (3295): Claims 8 silver for maintenance.
+
+Skill reports:
+
+summon imps [SUIM] 1: A mage with the Summon Imps skill may summon
+  imps into his inventory, to aid him in combat. A mage may summon one
+  imp per skill level; however, the imps have a chance of breaking
+  free of the mage's control at the end of each turn. This chance is
+  based on the number of imps in the mage's control; if the mage has
+  his skill level squared times 4 imps, the chance is 5 percent; this
+  chance goes up or down quickly if the mage controls more or fewer
+  imps. To use this spell, the mage should issue the order CAST
+  Summon_Imps, and the mage will summon as many imps as he is able. A
+  unit with this skill may create imps via magic. This skill requires
+  demon lore [DEMO] 1 to begin to study. This skill costs 100 silver
+  per month of study.
+
+tactics [TACT] 4: No skill report.
+
+Item reports:
+
+imp [IMP], weight 10, walking capacity 5. This is a monster. This
+  monster attacks with a combat skill of 3. This monster has a
+  resistance of 3 to melee attacks. This monster has a resistance of 3
+  to energy attacks. This monster has a resistance of 3 to spirit
+  attacks. This monster has a resistance of 3 to weather attacks. This
+  monster has a resistance of 0 to riding attacks. This monster has a
+  resistance of 0 to ranged attacks. This monster has 1 melee attack
+  per round and takes 1 hit to kill. This monster has a tactics score
+  of 0, a stealth score of 3, and an observation score of 0. This
+  monster might have normal or trade items and silver as treasure.
+  Units with summon imps [SUIM] of at least level 1 may attempt to
+  create this item via magic.
+
+Declared Attitudes (default Unfriendly):
+Hostile : SkyRaiders (14).
+Unfriendly : none.
+Neutral : Gragblod (7).
+Friendly : none.
+Ally : Multiple Bite Wounds (10).
+
+Unclaimed silver: 74.
+
+tundra (17,3) in Lutedose, contains Marsbrun [city], 5751 peasants
+  (eskimos), $28755.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $17253).
+  Wanted: 172 grain [GRAI] at $21, 174 livestock [LIVE] at $29, 85
+    stone [STON] at $60, 61 swords [SWOR] at $105, 63 plate armor
+    [PARM] at $419, 74 chocolate [CHOC] at $155, 64 truffles [TRUF] at
+    $165.
+  For Sale: 97 wine [WINE] at $88, 68 wool [WOOL] at $88, 1150 eskimos
+    [ESKI] at $60, 230 leaders [LEAD] at $120.
+  Entertainment available: $1437.
+  Products: 15 grain [GRAI], 13 furs [FUR], 11 herbs [HERB].
+
+Exits:
+  North : tundra (17,1) in Lutedose.
+  Northeast : tundra (18,2) in Lutedose.
+  Southeast : tundra (18,4) in Lutedose.
+  South : tundra (17,5) in Lutedose.
+  Southwest : tundra (16,4) in Lutedose.
+  Northwest : tundra (16,2) in Lutedose.
+
+- City Guard (6), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (2852), Sol Invictus (20), avoiding, behind, eskimo [ESKI], 70
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (38,4) in I'ceraw, 676 peasants (plainsmen), $4056.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $2163).
+  Wanted: none.
+  For Sale: 135 plainsmen [PLAI] at $64, 27 leaders [LEAD] at $128.
+  Entertainment available: $202.
+  Products: 72 livestock [LIVE], 39 horses [HORS].
+
+Exits:
+  North : plain (38,2) in I'ceraw.
+  Northeast : plain (39,3) in I'ceraw.
+  Southeast : plain (39,5) in I'ceraw.
+  South : plain (38,6) in I'ceraw.
+  Southwest : plain (37,5) in I'ceraw.
+  Northwest : plain (37,3) in I'ceraw.
+
+* Taxers (2545), on guard, Sol Invictus (20), 131 plainsmen [PLAI],
+  15356 silver [SILV]. Weight: 1310. Capacity: 0/0/1965/0. Skills:
+  combat [COMB] 1 (60).
+* Unit (3290), Sol Invictus (20), behind, 40 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: tactics [TACT] 3
+  (240).
+
+
+mountain (50,4) in Cornon, 259 peasants (hill dwarves), $777.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $673).
+  Wanted: none.
+  For Sale: 51 hill dwarves [HDWA] at $52, 10 leaders [LEAD] at $104.
+  Entertainment available: $38.
+  Products: 37 grain [GRAI], 37 iron [IRON], 12 stone [STON].
+
+Exits:
+  North : ocean (50,2) in Atlantis Ocean.
+  Northeast : ocean (51,3) in Atlantis Ocean.
+  Southeast : mountain (51,5) in Cornon.
+  South : mountain (50,6) in Cornon.
+  Southwest : mountain (49,5) in Cornon.
+  Northwest : ocean (49,3) in Atlantis Ocean.
+
+* Unit (2175), Sol Invictus (20), avoiding, behind, horse [HORS], sea
+  elf [SELF], 54 silver [SILV]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: riding [RIDI] 1 (30).
+
+
+plain (37,5) in I'ceraw, 615 peasants (nomads), $2460.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1722).
+  Wanted: none.
+  For Sale: 123 nomads [NOMA] at $56, 24 leaders [LEAD] at $112.
+  Entertainment available: $123.
+  Products: 57 grain [GRAI], 33 horses [HORS].
+
+Exits:
+  North : plain (37,3) in I'ceraw.
+  Northeast : plain (38,4) in I'ceraw.
+  Southeast : plain (38,6) in I'ceraw.
+  South : plain (37,7) in I'ceraw.
+  Southwest : tundra (36,6) in Griminish, contains Dwor-a-dum [city].
+  Northwest : tundra (36,4) in Griminish.
+
+* Unit (3293), Sol Invictus (20), avoiding, behind, receiving no aid,
+  plainsman [PLAI], 16 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+
+
+plain (53,5) in Githdoror, contains Kul-kai [city], 2877 peasants
+  (nomads), $25893.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $19 (Max: $10932).
+  Wanted: 118 grain [GRAI] at $23, 194 livestock [LIVE] at $20, 198
+    fish [FISH] at $26, 31 herbs [HERB] at $47, 36 crossbows [XBOW] at
+    $86, 32 wagons [WAGO] at $177, 16 wine [WINE] at $141, 2 chocolate
+    [CHOC] at $155.
+  For Sale: 22 longbows [LBOW] at $95, 21 chain armor [CARM] at $90,
+    13 spices [SPIC] at $88, 575 nomads [NOMA] at $76, 115 leaders
+    [LEAD] at $152.
+  Entertainment available: $1294.
+  Products: 66 grain [GRAI], 22 horses [HORS].
+
+Exits:
+  North : plain (53,3) in Githdoror.
+  Northeast : plain (54,4) in Githdoror.
+  Southeast : plain (54,6) in Githdoror, contains Aman-ungol [city].
+  South : ocean (53,7) in Atlantis Ocean.
+  Southwest : mountain (52,6) in Cornon.
+  Northwest : mountain (52,4) in Cornon.
+
+- City Guard (10), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Scout (2330), Sol Invictus (20), avoiding, behind, nomad [NOMA], 198
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+- Unit (2548), nomad [NOMA].
+
+
+plain (39,7) in I'ceraw, 769 peasants (vikings), $3845.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $2307).
+  Wanted: none.
+  For Sale: 153 vikings [VIKI] at $60, 30 leaders [LEAD] at $120.
+  Entertainment available: $192.
+  Products: 74 grain [GRAI], 39 horses [HORS].
+
+Exits:
+  North : plain (39,5) in I'ceraw.
+  Northeast : plain (40,6) in I'ceraw.
+  Southeast : plain (40,8) in I'ceraw.
+  South : ocean (39,9) in Atlantis Ocean.
+  Southwest : plain (38,8) in I'ceraw.
+  Northwest : plain (38,6) in I'ceraw.
+
+* Unit (3292), Sol Invictus (20), avoiding, behind, receiving no aid,
+  plainsman [PLAI], 10 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+
+
+swamp (24,18) in Lion, 183 peasants (tribesmen), $366.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $439).
+  Wanted: none.
+  For Sale: 36 tribesmen [TMAN] at $48, 7 leaders [LEAD] at $96.
+  Entertainment available: $18.
+  Products: 14 grain [GRAI], 18 wood [WOOD], 16 herbs [HERB].
+
+Exits:
+  North : swamp (24,16) in Lion.
+  Northeast : swamp (25,17) in Lion.
+  Southeast : swamp (25,19) in Lion.
+  South : forest (24,20) in Donnais, contains Ruage [village].
+  Southwest : forest (23,19) in Donnais.
+  Northwest : swamp (23,17) in Lion.
+
+There is a Gate here (Gate 6 of 82).
+
+* Yellow Beam (2249), Sol Invictus (20), avoiding, behind, leader
+  [LEAD], 30 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  pattern [PATT] 1 (30), spirit [SPIR] 1 (30), gate lore [GATE] 1
+  (30), stealth [STEA] 5 (450), combat [COMB] 1 (30), force [FORC] 1
+  (30). Can Study: fire [FIRE], earthquake [EQUA], force shield
+  [FSHI], energy shield [ESHI], spirit shield [SSHI], magical healing
+  [MHEA], farsight [FARS], mind reading [MIND], weather lore [WEAT],
+  earth lore [EART], necromancy [NECR], demon lore [DEMO], illusion
+  [ILLU], artifact lore [ARTI].
+
+
+mountain (68,26) in Phidyntia, contains Oroldu [city], 5208 peasants
+  (vikings), $41664.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $93744).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited vikings [VIKI] at $68, unlimited
+    leaders [LEAD] at $136.
+  Entertainment available: $2083.
+  Products: 40 grain [GRAI], 31 iron [IRON], 14 stone [STON].
+
+Exits:
+  North : ocean (68,24) in Atlantis Ocean.
+  Northeast : ocean (69,25) in Atlantis Ocean.
+  Southeast : mountain (69,27) in Phidyntia.
+  South : jungle (68,28) in Sefitat.
+  Southwest : jungle (67,27) in Sefitat.
+  Northwest : jungle (67,25) in Sefitat.
+
+- City Guard (52), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Sitenius (1038), Gragblod (7), behind, 112 vikings [VIKI].
+- Jartinnus (1041), Gragblod (7), avoiding, behind, leader [LEAD],
+  horse [HORS].
+- Oroldu stradnieks (1188), Multiple Bite Wounds (10), 81 vikings
+  [VIKI].
+- Gralus (1671), Gragblod (7), behind, 18 tribal elves [TELF], 18
+  longbows [LBOW], 18 horses [HORS].
+- Grey Ambassador (1840), Grey Wind (17), avoiding, behind, leader
+  [LEAD].
+- Thor (1861), New Horizons (16), avoiding, behind, 9 leaders [LEAD].
+- Harpers (1863), Grey Wind (17), avoiding, behind, 5 vikings [VIKI].
+- Workers (2080), Grey Wind (17), avoiding, behind, 120 vikings
+  [VIKI].
+* Scout (2223), Sol Invictus (20), avoiding, behind, 6 vikings [VIKI],
+  60 silver [SILV]. Weight: 60. Capacity: 0/0/90/0. Skills: none.
+- Thor (2217), New Horizons (16), avoiding, behind, leader [LEAD].
+- Armo Guy (2526), New Horizons (16), avoiding, behind, leader [LEAD].
+- Unit (661), Gragblod (7), behind, 30 vikings [VIKI], 30 crossbows
+  [XBOW], 30 horses [HORS].
+- Unit (871), Gragblod (7), behind, 30 tribal elves [TELF], 30
+  longbows [LBOW], 30 horses [HORS].
+- Unit (2960), Gragblod (7), 20 vikings [VIKI], 20 horses [HORS], 20
+  swords [SWOR].
+- Frulvius (1299), Gragblod (7), avoiding, behind, leader [LEAD],
+  sword [SWOR], horse [HORS].
+- Unit (3019), Gragblod (7), behind, 17 sea elves [SELF], 17 longbows
+  [LBOW], 17 horses [HORS].
+- Armo (3246), New Horizons (16), avoiding, behind, 3 leaders [LEAD].
+- Unit (3111), Warlords Inc (19), behind, viking [VIKI].
+- Unit (1105), Gragblod (7), behind, 400 nomads [NOMA], 400 crossbows
+  [XBOW], 400 horses [HORS].
+- Asmore (3311), New Horizons (16), avoiding, behind, 2 leaders
+  [LEAD].
+- Unit (2782), Gragblod (7), avoiding, behind, nomad [NOMA], horse
+  [HORS].
+- Armo (3432), New Horizons (16), avoiding, behind, leader [LEAD].
+- Armo (3433), New Horizons (16), avoiding, behind, leader [LEAD].
+- Armo (3434), New Horizons (16), avoiding, behind, leader [LEAD].
+- Unit (232), Gragblod (7), 5 horses [HORS], nomad [NOMA].
+- Unit (1803), Gragblod (7), tribesman [TMAN].
+- Unit (1983), Gragblod (7), viking [VIKI], horse [HORS].
+- Unit (263), Gragblod (7), avoiding, behind, 42 horses [HORS], nomad
+  [NOMA], sword [SWOR].
+
++ Gragblod Tower [1] : Tower.
+  - Fuspilius (1368), Gragblod (7), 10 vikings [VIKI], 2 iron [IRON],
+    ivory [IVOR], 3 mithril [MITH], 2 rootstone [ROOT].
+  - Acus (1239), Gragblod (7), behind, 7 tribal elves [TELF], 7
+    longbows [LBOW], 7 horses [HORS].
+  - Bear (592), New Horizons (16), leader [LEAD].
+  - Unit (54), Warlords Inc (19), behind, leader [LEAD].
+  - Unit (1928), Warlords Inc (19), behind, leader [LEAD].
+  - Unit (1929), Warlords Inc (19), behind, leader [LEAD].
+  - Cougar (2489), New Horizons (16), behind, leader [LEAD].
+  - Water Buffalo (2488), New Horizons (16), behind, leader [LEAD].
+  - Tirelius (1039), Gragblod (7), behind, leader [LEAD], horse
+    [HORS], balrog [BALR].
+  - Caspus (1040), Gragblod (7), behind, leader [LEAD], horse [HORS].
+
+
+swamp (61,27) in Skelid, 194 peasants (tribal elves), $582.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $504).
+  Wanted: none.
+  For Sale: 38 tribal elves [TELF] at $52, 7 leaders [LEAD] at $104.
+  Entertainment available: $29.
+  Products: 17 livestock [LIVE], 10 wood [WOOD], 17 herbs [HERB].
+
+Exits:
+  North : swamp (61,25) in Skelid.
+  Northeast : swamp (62,26) in Skelid.
+  Southeast : swamp (62,28) in Skelid.
+  South : swamp (61,29) in Skelid.
+  Southwest : plain (60,28) in Erisort.
+  Northwest : forest (60,26) in Nugyru.
+
+- Unit (1883), on guard, Gragblod (7), 38 tribal elves [TELF].
+* Green Beam (2248), Sol Invictus (20), avoiding, behind, leader
+  [LEAD], 150 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  pattern [PATT] 1 (30), spirit [SPIR] 1 (30), gate lore [GATE] 1
+  (30), stealth [STEA] 4 (390), combat [COMB] 1 (30). Can Study:
+  magical healing [MHEA], farsight [FARS], mind reading [MIND], earth
+  lore [EART]; FRIENDLY walker.
+
+
+mountain (93,29) in Lingen, contains Sorfindon [city], 3619 peasants
+  (vikings), $21714.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $11580).
+  Wanted: 160 grain [GRAI] at $21, 126 livestock [LIVE] at $18, 47
+    wood [WOOD] at $50, 106 fish [FISH] at $26, 62 swords [SWOR] at
+    $95, 45 crossbows [XBOW] at $87, 41 wine [WINE] at $167, 48 roses
+    [ROSE] at $168.
+  For Sale: 61 stone [STON] at $51, 54 tarot cards [TARO] at $77, 27
+    mink [MINK] at $85, 723 vikings [VIKI] at $64, 144 leaders [LEAD]
+    at $128.
+  Entertainment available: $1085.
+  Products: 25 livestock [LIVE], 25 iron [IRON], 13 stone [STON].
+
+Exits:
+  North : mountain (93,27) in Lingen.
+  Northeast : mountain (94,28) in Lingen.
+  Southeast : ocean (94,30) in Atlantis Ocean.
+  South : ocean (93,31) in Atlantis Ocean.
+  Southwest : mountain (92,30) in Lingen.
+  Northwest : mountain (92,28) in Lingen.
+
+- City Guard (65), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Workers (2169), Grey Wind (17), avoiding, behind, 60 vikings [VIKI].
+* Scout (2252), Sol Invictus (20), avoiding, behind, sea elf [SELF],
+  84 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+- Master Harper (3237), Grey Wind (17), avoiding, behind, leader
+  [LEAD].
+- Grey Scout (3209), Grey Wind (17), avoiding, behind, sea elf [SELF].
+- Harpers (3302), Grey Wind (17), avoiding, behind, 10 vikings [VIKI].
+- Harpers (3307), Grey Wind (17), avoiding, behind, 10 vikings [VIKI].
+- Footmen (2844), Grey Wind (17), 10 sea elves [SELF].
+- Footmen (2845), Grey Wind (17), 10 sea elves [SELF].
+- Harpers (2261), Grey Wind (17), avoiding, behind, 10 vikings [VIKI].
+- Archers (2947), Grey Wind (17), behind, 10 sea elves [SELF], 4
+  longbows [LBOW].
+- Master Archer (2948), Grey Wind (17), behind, leader [LEAD], longbow
+  [LBOW].
+- Archers (3362), Grey Wind (17), behind, 10 sea elves [SELF], 4
+  longbows [LBOW].
+- Footmen (1614), Grey Wind (17), 10 sea elves [SELF].
+- Footmen (1616), Grey Wind (17), 10 sea elves [SELF].
+- Footmen (1657), Grey Wind (17), 10 sea elves [SELF].
+
+
+forest (88,30) in Kawapo, contains Jervbygd [city], 5326 peasants (sea
+  elves), $26630.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $79890).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited sea elves [SELF] at $60,
+    unlimited leaders [LEAD] at $120.
+  Entertainment available: $1331.
+  Products: 27 livestock [LIVE], 24 wood [WOOD], 19 furs [FUR], 17
+    herbs [HERB].
+
+Exits:
+  North : desert (88,28) in Morrun.
+  Northeast : ocean (89,29) in Atlantis Ocean.
+  Southeast : forest (89,31) in Kawapo.
+  South : forest (88,32) in Kawapo.
+  Southwest : forest (87,31) in Kawapo.
+  Northwest : forest (87,29) in Kawapo, contains Athbroduen [city].
+
+- City Guard (67), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Workers (2231), Grey Wind (17), avoiding, behind, 12 sea elves
+  [SELF].
+* Unit (2505), Sol Invictus (20), avoiding, behind, 2 sea elves
+  [SELF], 65 silver [SILV]. Weight: 20. Capacity: 0/0/30/0. Skills:
+  none.
+- Grey Scout (2266), Grey Wind (17), avoiding, behind, horse [HORS],
+  sea elf [SELF].
+- Grey Scout (3456), Grey Wind (17), avoiding, behind, horse [HORS],
+  sea elf [SELF].
+
+
+plain (60,34) in Erisort, 744 peasants (plainsmen), $4464.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $16 (Max: $2380).
+  Wanted: none.
+  For Sale: 148 plainsmen [PLAI] at $64, 29 leaders [LEAD] at $128.
+  Entertainment available: $223.
+  Products: 55 grain [GRAI], 32 horses [HORS].
+
+Exits:
+  North : plain (60,32) in Erisort.
+  Northeast : plain (61,33) in Erisort, contains Mundmar [city].
+  Southeast : mountain (61,35) in Scourie.
+  South : mountain (60,36) in Scourie.
+  Southwest : ocean (59,35) in Atlantis Ocean.
+  Northwest : plain (59,33) in Erisort.
+
+- Sargi 1 (1060), on guard, 8 plainsmen [PLAI], wagon [WAGO], pearls
+  [PEAR], ivory [IVOR], winged horse [WING], 2 rootstone [ROOT],
+  ironwood [IRWD], 3 yew [YEW], 2 floater hides [FLOA], chain armor
+  [CARM].
+- TUVC (1202), 14 leaders [LEAD], 16 horses [HORS], 3 ironwood [IRWD],
+  yew [YEW], sword [SWOR], mithril armor [MARM].
+- JASA (1204), on guard, leader [LEAD], sword [SWOR], winged horse
+  [WING].
+- KUGU (1987), 20 leaders [LEAD].
+- JURnieki (2018), 9 leaders [LEAD].
+- Vedejs (2048), winged horse [WING], darkman [DMAN].
+- Vedejs (2303), winged horse [WING], under dwarf [UDWA].
+
++ Pile of Stone [1] : Tower; Built by Beigtais.
+  - Buvnieki (1303), 10 plainsmen [PLAI], 3 stone [STON], cotton
+    [COTT], 5 truffles [TRUF], 6 velvet [VELV], iron [IRON], 6 roses
+    [ROSE], 2 silk [SILK], chocolate [CHOC], 4 rootstone [ROOT], yew
+    [YEW], vodka [VODK], longbow [LBOW], 2 ironwood [IRWD].
+  - Burvis al Otrais ibn Beigtais (1124), leader [LEAD], horse [HORS],
+    2 balrogs [BALR], sword [SWOR].
+  - Burvis al Treshais ibn Beigtais (1125), leader [LEAD], horse
+    [HORS], yew [YEW], sword [SWOR].
+  - Burvis al Pirmais ibn Beigtais (1048), leader [LEAD], horse
+    [HORS], yew [YEW], 2 dragons [DRAG], sword [SWOR]; Bez jokiem.
+  - Burvis al Piektais ibn Beigtais (1205), leader [LEAD], horse
+    [HORS], 2 balrogs [BALR], sword [SWOR].
+  - Burvis al Ceturtais ibn Beigtais (1206), leader [LEAD], horse
+    [HORS], 2 balrogs [BALR], sword [SWOR].
+  * White Beam (2250), Sol Invictus (20), avoiding, behind, leader
+    [LEAD], 3420 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+    Skills: spirit [SPIR] 3 (180), pattern [PATT] 1 (30), gate lore
+    [GATE] 1 (30), stealth [STEA] 1 (60), force [FORC] 3 (180), demon
+    lore [DEMO] 3 (180), summon imps [SUIM] 1 (60). Can Study: fire
+    [FIRE], earthquake [EQUA], force shield [FSHI], energy shield
+    [ESHI], spirit shield [SSHI], magical healing [MHEA], farsight
+    [FARS], mind reading [MIND], weather lore [WEAT], earth lore
+    [EART], necromancy [NECR], summon imps [SUIM], banish demons
+    [BDEM], illusion [ILLU], artifact lore [ARTI].
+
+
+plain (22,36) in Elodiauen, 498 peasants (nomads), $1992.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $14 (Max: $1394).
+  Wanted: none.
+  For Sale: 99 nomads [NOMA] at $56, 19 leaders [LEAD] at $112.
+  Entertainment available: $99.
+  Products: 65 grain [GRAI], 38 horses [HORS].
+
+Exits:
+  North : ocean (22,34) in Atlantis Ocean.
+  Northeast : ocean (23,35) in Atlantis Ocean.
+  Southeast : plain (23,37) in Elodiauen.
+  South : ocean (22,38) in Atlantis Ocean.
+  Southwest : plain (21,37) in Nimathost.
+  Northwest : desert (21,35) in Krod.
+
+* Scout (3294), Sol Invictus (20), avoiding, behind, receiving no aid,
+  15 silver [SILV], nomad [NOMA]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+
+
+plain (25,39) in Elodiauen, contains Wastenfelt [city], 5378 peasants
+  (sea elves), $37646.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $17 (Max: $18285).
+  Wanted: 108 grain [GRAI] at $21, 196 livestock [LIVE] at $20, 88
+    wood [WOOD] at $47, 118 fish [FISH] at $24, 81 swords [SWOR] at
+    $123, 87 pearls [PEAR] at $162, 79 silk [SILK] at $167.
+  For Sale: 71 horses [HORS] at $59, 86 wine [WINE] at $70, 77 mink
+    [MINK] at $81, 1075 sea elves [SELF] at $68, 215 leaders [LEAD] at
+    $136.
+  Entertainment available: $1882.
+  Products: 61 livestock [LIVE], 28 horses [HORS].
+
+Exits:
+  North : ocean (25,37) in Atlantis Ocean.
+  Northeast : ocean (26,38) in Atlantis Ocean.
+  Southeast : plain (26,40) in Elodiauen, contains Inadon [city].
+  South : plain (25,41) in Elodiauen.
+  Southwest : plain (24,40) in Elodiauen.
+  Northwest : plain (24,38) in Elodiauen, contains Burdan [city].
+
+- City Guard (91), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Scout (3297), Sol Invictus (20), avoiding, behind, receiving no aid,
+  nomad [NOMA], 14 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+
+
+plain (22,40) in Nimathost, 677 peasants (nomads), $4062.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $16 (Max: $2166).
+  Wanted: none.
+  For Sale: 135 nomads [NOMA] at $64, 27 leaders [LEAD] at $128.
+  Entertainment available: $203.
+  Products: 42 grain [GRAI], 31 horses [HORS].
+
+Exits:
+  North : ocean (22,38) in Atlantis Ocean.
+  Northeast : plain (23,39) in Nimathost.
+  Southeast : plain (23,41) in Nimathost.
+  South : plain (22,42) in Nimathost.
+  Southwest : plain (21,41) in Nimathost, contains Lyeissy [city].
+  Northwest : plain (21,39) in Nimathost.
+
+* Taxers (2665), on guard, Sol Invictus (20), 170 nomads [NOMA], 8944
+  silver [SILV]. Weight: 1700. Capacity: 0/0/2550/0. Skills: combat
+  [COMB] 1 (30).
+* Unit (3197), Sol Invictus (20), behind, leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: tactics [TACT] 4 (300).
+
+
+plain (25,41) in Elodiauen, 633 peasants (plainsmen), $2532.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $14 (Max: $1772).
+  Wanted: none.
+  For Sale: 126 plainsmen [PLAI] at $56, 25 leaders [LEAD] at $112.
+  Entertainment available: $126.
+  Products: 40 grain [GRAI], 37 horses [HORS].
+
+Exits:
+  North : plain (25,39) in Elodiauen, contains Wastenfelt [city].
+  Northeast : plain (26,40) in Elodiauen, contains Inadon [city].
+  Southeast : desert (26,42) in Conaint.
+  South : ocean (25,43) in Atlantis Ocean.
+  Southwest : plain (24,42) in Elodiauen.
+  Northwest : plain (24,40) in Elodiauen.
+
+* Scout (3298), Sol Invictus (20), avoiding, behind, receiving no aid,
+  nomad [NOMA], 16 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+
+
+plain (24,44) in Nimathost, 464 peasants (plainsmen), $2320.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $15 (Max: $1392).
+  Wanted: none.
+  For Sale: 92 plainsmen [PLAI] at $60, 18 leaders [LEAD] at $120.
+  Entertainment available: $116.
+  Products: 72 grain [GRAI], 37 horses [HORS].
+
+Exits:
+  North : plain (24,42) in Elodiauen.
+  Northeast : ocean (25,43) in Atlantis Ocean.
+  Southeast : ocean (25,45) in Atlantis Ocean.
+  South : ocean (24,46) in Atlantis Ocean.
+  Southwest : ocean (23,45) in Atlantis Ocean.
+  Northwest : plain (23,43) in Nimathost.
+
+* Scout (3296), Sol Invictus (20), avoiding, behind, receiving no aid,
+  nomad [NOMA], 20 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+
+
+forest (30,60) in Lurkabo, 331 peasants (wood elves), $993.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $13 (Max: $860).
+  Wanted: none.
+  For Sale: 66 wood elves [WELF] at $52, 13 leaders [LEAD] at $104.
+  Entertainment available: $49.
+  Products: 24 livestock [LIVE], 20 wood [WOOD], 15 furs [FUR], 19
+    herbs [HERB].
+
+Exits:
+  North : forest (30,58) in Lurkabo.
+  Northeast : forest (31,59) in Lurkabo.
+  Southeast : forest (31,61) in Lurkabo.
+  South : forest (30,62) in Lurkabo.
+  Southwest : forest (29,61) in Lurkabo, contains Hathden [city].
+  Northwest : forest (29,59) in Lurkabo.
+
+* Unit (2507), Sol Invictus (20), avoiding, behind, sea elf [SELF], 21
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+forest (29,61) in Lurkabo, contains Hathden [city], 2909 peasants
+  (wood elves), $17454.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $16 (Max: $9308).
+  Wanted: 122 grain [GRAI] at $24, 134 livestock [LIVE] at $26, 176
+    fish [FISH] at $26, 36 horses [HORS] at $59, 39 crossbows [XBOW]
+    at $117, 38 plate armor [PARM] at $509, 28 wagons [WAGO] at $153,
+    35 jewelry [JEWE] at $173, 22 tarot cards [TARO] at $146.
+  For Sale: 50 wood [WOOD] at $54, 28 furs [FUR] at $46, 30 perfume
+    [PERF] at $65, 581 wood elves [WELF] at $64, 116 leaders [LEAD] at
+    $128.
+  Entertainment available: $872.
+  Products: 34 livestock [LIVE], 30 wood [WOOD], 10 furs [FUR], 19
+    herbs [HERB].
+
+Exits:
+  North : forest (29,59) in Lurkabo.
+  Northeast : forest (30,60) in Lurkabo.
+  Southeast : forest (30,62) in Lurkabo.
+  South : forest (29,63) in Lurkabo.
+  Southwest : ocean (28,62) in Atlantis Ocean.
+  Northwest : ocean (28,60) in Atlantis Ocean.
+
+- City Guard (143), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (3340), Sol Invictus (20), avoiding, behind, wood elf [WELF],
+  30 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (64,62) in Ranaw, 551 peasants (vikings), $3306.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $16 (Max: $1763).
+  Wanted: none.
+  For Sale: 110 vikings [VIKI] at $64, 22 leaders [LEAD] at $128.
+  Entertainment available: $165.
+  Products: 50 livestock [LIVE], 22 horses [HORS].
+
+Exits:
+  North : ocean (64,60) in Atlantis Ocean.
+  Northeast : mountain (65,61) in Beaufor.
+  Southeast : plain (65,63) in Ranaw, contains Trabddel [city].
+  South : plain (64,64) in Ranaw.
+  Southwest : mountain (63,63) in Rothrila.
+  Northwest : plain (63,61) in Burongha.
+
+* Taxers (2546), on guard, Sol Invictus (20), 21 sea elves [SELF], 99
+  nomads [NOMA], 5517 silver [SILV], 9 vodka [VODK], 100 vikings
+  [VIKI]. Weight: 2245. Capacity: 0/0/3300/0. Skills: combat [COMB] 1
+  (60).
+* Unit (3199), Sol Invictus (20), behind, leader [LEAD], 82 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: tactics [TACT] 3
+  (240).
+- Unit (710), Gragblod (7), avoiding, nomad [NOMA].
+
+
+forest (1,75) in U'osad, 299 peasants (vikings), $598.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $717).
+  Wanted: none.
+  For Sale: 59 vikings [VIKI] at $48, 11 leaders [LEAD] at $96.
+  Entertainment available: $29.
+  Products: 30 grain [GRAI], 20 wood [WOOD], 14 furs [FUR], 17 herbs
+    [HERB].
+
+Exits:
+  North : forest (1,73) in U'osad.
+  Northeast : forest (2,74) in U'osad.
+  Southeast : swamp (2,76) in Baibrun.
+  South : swamp (1,77) in Baibrun.
+  Southwest : forest (0,76) in U'osad.
+  Northwest : forest (0,74) in U'osad, contains Kae-yik [city].
+
+* Unit (3114), on guard, Sol Invictus (20), 5 vikings [VIKI], 780
+  silver [SILV]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB]
+  2 (144).
+* Unit (2699), Sol Invictus (20), viking [VIKI]. Weight: 10. Capacity:
+  0/0/15/0. Skills: combat [COMB] 1 (30).
+
+
+swamp (67,75) in Tourlanque, contains Forbrin-dum [city], 3741
+  peasants (tribesmen), $22446.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $16 (Max: $11971).
+  Wanted: 196 grain [GRAI] at $24, 190 livestock [LIVE] at $23, 53
+    iron [IRON] at $56, 55 stone [STON] at $59, 64 furs [FUR] at $62,
+    60 horses [HORS] at $47, 62 wagons [WAGO] at $182, 42 figurines
+    [FIGU] at $168, 63 vodka [VODK] at $170.
+  For Sale: 44 longbows [LBOW] at $119, 41 cotton [COTT] at $67, 58
+    wool [WOOL] at $74, 748 tribesmen [TMAN] at $64, 149 leaders
+    [LEAD] at $128.
+  Entertainment available: $1122.
+  Products: 13 livestock [LIVE], 10 wood [WOOD], 11 herbs [HERB].
+
+Exits:
+  North : swamp (67,73) in Tourlanque.
+  Northeast : swamp (68,74) in Tourlanque.
+  Southeast : forest (68,76) in Monfor.
+  South : forest (67,77) in Monfor.
+  Southwest : forest (66,76) in Monfor.
+  Northwest : forest (66,74) in Monfor.
+
+- City Guard (181), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Workers (2531), Grey Wind (17), avoiding, behind, 26 tribesmen
+  [TMAN].
+- Izluks (1232), barbarian [BARB].
+
++ Shaft [1] : Shaft, contains an inner location.
+  * Scout (2094), Sol Invictus (20), avoiding, behind, barbarian
+    [BARB], 78 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+    none.
+
+
+forest (6,80) in Crerakroth, contains Ardvale [city], 5308 peasants
+  (vikings), $37156.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $17 (Max: $90236).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited vikings [VIKI] at $64, unlimited
+    leaders [LEAD] at $128.
+  Entertainment available: $1857.
+  Products: 26 grain [GRAI], 36 wood [WOOD], 10 furs [FUR], 15 herbs
+    [HERB].
+
+Exits:
+  North : forest (6,78) in Crerakroth.
+  Northeast : ocean (7,79) in Atlantis Ocean.
+  Southeast : ocean (7,81) in Atlantis Ocean.
+  South : plain (6,82) in Condorund, contains Gon-killuk [city].
+  Southwest : plain (5,81) in Condorund.
+  Northwest : forest (5,79) in Crerakroth, contains Doedbygd [city].
+
+- City Guard (190), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Clowns (1146), SkyRaiders (14), avoiding, behind, 10 vikings [VIKI].
+- Workers (1147), SkyRaiders (14), avoiding, behind, 2274 vikings
+  [VIKI], high elf [HELF], 2 nomads [NOMA].
+- Unit (1238), SkyRaiders (14), avoiding, behind, 2 vikings [VIKI].
+- Workers (1841), Grey Wind (17), avoiding, behind, 40 vikings [VIKI].
+- Harpers (1864), Grey Wind (17), avoiding, behind, 5 wood elves
+  [WELF].
+- Unit (1759), SkyRaiders (14), avoiding, behind, 5 wood elves [WELF],
+  15 wood [WOOD].
+- Unit (1953), SkyRaiders (14), avoiding, behind, 3 wood elves [WELF],
+  189 ironwood [IRWD].
+- Grey Ambassador (2088), Grey Wind (17), avoiding, behind, leader
+  [LEAD], horse [HORS], sword [SWOR].
+- Grey Scout (2218), Grey Wind (17), behind, leader [LEAD], horse
+  [HORS], sword [SWOR].
+- Unit (2612), SkyRaiders (14), avoiding, behind, horse [HORS], leader
+  [LEAD].
+- Sailors (2825), SkyRaiders (14), avoiding, behind, 2 vikings [VIKI].
+* Unit (3277), Sol Invictus (20), avoiding, behind, viking [VIKI], 63
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+- Harpers (3162), Grey Wind (17), avoiding, behind, 5 wood elves
+  [WELF].
+- Footmen (3457), Grey Wind (17), avoiding, behind, 20 vikings [VIKI].
+- Unit (1660), SkyRaiders (14), avoiding, behind, 10 leaders [LEAD],
+  60 wood [WOOD].
+- Unit (2810), SkyRaiders (14), avoiding, behind, 20 horses [HORS],
+  viking [VIKI].
+
++ Tower of Storms [1] : Tower.
+  - Lord Eristan (1217), Grey Wind (17), behind, leader [LEAD], 3
+    dragons [DRAG], sword [SWOR], chain armor [CARM], eagle [EAGL].
+  - Prince Tirion (1777), Grey Wind (17), behind, leader [LEAD], 3
+    dragons [DRAG], sword [SWOR], chain armor [CARM], eagle [EAGL].
+  - Unit (1950), SkyRaiders (14), avoiding, behind, 2 leaders [LEAD],
+    28 yew [YEW].
+  - Lord Loudeo (1099), SkyRaiders (14), behind, leader [LEAD], 3
+    dragons [DRAG], 13 winged horses [WING].
+  - Unit (1218), SkyRaiders (14), behind, leader [LEAD], 3 dragons
+    [DRAG], 26 winged horses [WING], 2 double bows [DBOW], ironwood
+    [IRWD], horse [HORS], mink [MINK].
+
++ Ship [115] : Longboat.
+  - Sailors (2839), SkyRaiders (14), avoiding, behind, 2 vikings
+    [VIKI].
+
++ Ship [116] : Longboat.
+
++ Ship [117] : Longboat.
+
++ Ship [118] : Longboat, needs 6.
+
++ Ship [119] : Longboat, needs 10.
+
++ Ship [120] : Longboat, needs 10.
+
+
+mountain (64,82) in Baibur, contains Belport [city], 5211 peasants
+  (barbarians), $26055.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $15 (Max: $78165).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited barbarians [BARB] at $60,
+    unlimited leaders [LEAD] at $120.
+  Entertainment available: $1302.
+  Products: 22 grain [GRAI], 32 iron [IRON], 18 stone [STON].
+
+Exits:
+  North : mountain (64,80) in Baibur.
+  Northeast : mountain (65,81) in Baibur, contains Navenby [city].
+  Southeast : ocean (65,83) in Atlantis Ocean.
+  South : ocean (64,84) in Atlantis Ocean.
+  Southwest : mountain (63,83) in Baibur, contains Dunfanaghy [city].
+  Northwest : mountain (63,81) in Baibur.
+
+- City Guard (203), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Workers (2093), Sol Invictus (20), avoiding, behind, 190 silver
+  [SILV], 33 barbarians [BARB]. Weight: 330. Capacity: 0/0/495/0.
+  Skills: none.
+- Workers (2951), Grey Wind (17), avoiding, behind, 2 barbarians
+  [BARB].
+- Mistress Ariala (14), The Testress Slaves (21), leader [LEAD].
+- Slaves (3478), The Testress Slaves (21), 30 barbarians [BARB].
+- Slaves class B (3479), The Testress Slaves (21), 30 swords [SWOR],
+  16 barbarians [BARB].
+
+
+tundra (90,84) in Lormaroth, 152 peasants (sea elves), $456.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $395).
+  Wanted: none.
+  For Sale: 30 sea elves [SELF] at $52, 6 leaders [LEAD] at $104.
+  Entertainment available: $22.
+  Products: 11 grain [GRAI], 17 furs [FUR], 17 herbs [HERB].
+
+Exits:
+  North : tundra (90,82) in Lormaroth.
+  Northeast : tundra (91,83) in Lormaroth.
+  Southeast : tundra (91,85) in Lormaroth.
+  South : ocean (90,86) in Atlantis Ocean.
+  Southwest : ocean (89,85) in Atlantis Ocean.
+  Northwest : ocean (89,83) in Atlantis Ocean.
+
+There is a Gate here (Gate 22 of 82).
+
+* Blue Beam (2251), Sol Invictus (20), avoiding, behind, leader
+  [LEAD], 127 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  pattern [PATT] 1 (30), spirit [SPIR] 1 (30), gate lore [GATE] 1
+  (30), stealth [STEA] 5 (450), combat [COMB] 1 (30), force [FORC] 1
+  (60), fire [FIRE] 1 (30). Combat spell: fire [FIRE]. Can Study:
+  earthquake [EQUA], force shield [FSHI], energy shield [ESHI], spirit
+  shield [SSHI], magical healing [MHEA], farsight [FARS], mind reading
+  [MIND], weather lore [WEAT], earth lore [EART], necromancy [NECR],
+  demon lore [DEMO], illusion [ILLU], artifact lore [ARTI].
+
+
+forest (60,88) in Soratuen, contains Rilad [city], 3597 peasants (wood
+  elves), $21582.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $16 (Max: $11510).
+  Wanted: 152 grain [GRAI] at $26, 148 livestock [LIVE] at $18, 75
+    iron [IRON] at $51, 39 swords [SWOR] at $99, 55 ivory [IVOR] at
+    $167, 36 wool [WOOL] at $134.
+  For Sale: 62 wood [WOOD] at $46, 37 jewelry [JEWE] at $76, 38 wine
+    [WINE] at $78, 719 wood elves [WELF] at $64, 143 leaders [LEAD] at
+    $128.
+  Entertainment available: $1079.
+  Products: 32 grain [GRAI], 22 wood [WOOD], 10 furs [FUR], 18 herbs
+    [HERB].
+
+Exits:
+  North : forest (60,86) in Soratuen.
+  Northeast : forest (61,87) in Soratuen, contains Ieteuville [city].
+  Southeast : forest (61,89) in Soratuen.
+  South : forest (60,90) in Soratuen.
+  Southwest : forest (59,89) in Soratuen.
+  Northwest : forest (59,87) in Soratuen.
+
+- City Guard (223), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (2958), Sol Invictus (20), avoiding, behind, viking [VIKI], 78
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+underforest (19,15,underworld) in Rodwor, 61 peasants (orcs), $183.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $158).
+  Wanted: none.
+  For Sale: 12 orcs [ORC] at $52, 2 leaders [LEAD] at $104.
+  Entertainment available: $9.
+  Products: 19 livestock [LIVE], 18 wood [WOOD], 12 stone [STON], 14
+    iron [IRON].
+
+Exits:
+  Northeast : underforest (20,14,underworld) in Rodwor.
+  Southeast : underforest (20,16,underworld) in Rodwor.
+  South : underforest (19,17,underworld) in Rodwor.
+  Northwest : tunnels (18,14,underworld) in Lydel.
+
+* Unit (2506), Sol Invictus (20), avoiding, behind, desert dwarf
+  [DDWA], 42 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  none.
+
++ Shaft [1] : Shaft, contains an inner location.
+
+
+cavern (10,20,underworld) in Dryck, 56 peasants (under dwarves), $112.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $134).
+  Wanted: none.
+  For Sale: 11 under dwarves [UDWA] at $48, 2 leaders [LEAD] at $96.
+  Entertainment available: $5.
+  Products: 14 livestock [LIVE], 21 iron [IRON], 30 stone [STON].
+
+Exits:
+  North : cavern (10,18,underworld) in Dryck.
+  Northeast : cavern (11,19,underworld) in Dryck.
+  Southeast : cavern (11,21,underworld) in Dryck.
+  Northwest : cavern (9,19,underworld) in Dryck.
+
+* Scout (3295), Sol Invictus (20), avoiding, behind, receiving no aid,
+  nomad [NOMA]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
++ Shaft [1] : Shaft, contains an inner location.
+
+
+underforest (30,34,underworld) in Farafra, contains Brimfinin [city],
+  5018 peasants (orcs), $20072.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $14050).
+  Wanted: 128 grain [GRAI] at $20, 164 livestock [LIVE] at $26, 140
+    fish [FISH] at $26, 59 plate armor [PARM] at $524, 88 wagons
+    [WAGO] at $167, 55 ivory [IVOR] at $167, 51 spices [SPIC] at $149.
+  For Sale: 98 mink [MINK] at $73, 64 cotton [COTT] at $63, 1003 orcs
+    [ORC] at $56, 200 leaders [LEAD] at $112.
+  Entertainment available: $1003.
+  Products: 13 livestock [LIVE], 19 wood [WOOD], 14 stone [STON], 13
+    iron [IRON].
+
+Exits:
+  Southeast : tunnels (31,35,underworld) in Baest.
+  South : underforest (30,36,underworld) in Farafra.
+  Southwest : ocean (29,35,underworld) in The Undersea.
+
+- City Guard (269), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Scout (2095), Sol Invictus (20), avoiding, behind, barbarian [BARB],
+  12 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+
+Orders Template (Long Format):
+
+#atlantis 20 "TheDaveTheMighty"
+
+;*** tundra (17,3) in Lutedose, contains Marsbrun [city] ***
+
+unit 2852
+;Unit (2852), avoiding, behind, eskimo [ESKI], 70 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (38,4) in I'ceraw ***
+
+unit 2545
+;Taxers (2545), on guard, 131 plainsmen [PLAI], 15356 silver [SILV].
+;  Weight: 1310. Capacity: 0/0/1965/0. Skills: combat [COMB] 1 (60).
+@guard 1
+@tax
+@GIVE 3290 200 SILV
+
+unit 3290
+;Unit (3290), behind, 40 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: tactics [TACT] 3 (240).
+@study tact
+
+;*** mountain (50,4) in Cornon ***
+
+unit 2175
+;Unit (2175), avoiding, behind, horse [HORS], sea elf [SELF], 54 silver
+;  [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: riding [RIDI] 1
+;  (30).
+@work
+
+;*** plain (37,5) in I'ceraw ***
+
+unit 3293
+;Unit (3293), avoiding, behind, receiving no aid, plainsman [PLAI], 16
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (53,5) in Githdoror, contains Kul-kai [city] ***
+
+unit 2330
+;Scout (2330), avoiding, behind, nomad [NOMA], 198 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (39,7) in I'ceraw ***
+
+unit 3292
+;Unit (3292), avoiding, behind, receiving no aid, plainsman [PLAI], 10
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** swamp (24,18) in Lion ***
+
+unit 2249
+;Yellow Beam (2249), avoiding, behind, leader [LEAD], 30 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: pattern [PATT] 1 (30),
+;  spirit [SPIR] 1 (30), gate lore [GATE] 1 (30), stealth [STEA] 5
+;  (450), combat [COMB] 1 (30), force [FORC] 1 (30). Can Study: fire
+;  [FIRE], earthquake [EQUA], force shield [FSHI], energy shield
+;  [ESHI], spirit shield [SSHI], magical healing [MHEA], farsight
+;  [FARS], mind reading [MIND], weather lore [WEAT], earth lore [EART],
+;  necromancy [NECR], demon lore [DEMO], illusion [ILLU], artifact lore
+;  [ARTI].
+@;study stea
+@cast gate random
+@;claim 50
+@tax
+
+;*** mountain (68,26) in Phidyntia, contains Oroldu [city] ***
+
+unit 2223
+;Scout (2223), avoiding, behind, 6 vikings [VIKI], 60 silver [SILV].
+;  Weight: 60. Capacity: 0/0/90/0. Skills: none.
+@WORK
+@buy 1 viki
+
+;*** swamp (61,27) in Skelid ***
+
+unit 2248
+;Green Beam (2248), avoiding, behind, leader [LEAD], 150 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: pattern [PATT] 1 (30),
+;  spirit [SPIR] 1 (30), gate lore [GATE] 1 (30), stealth [STEA] 4
+;  (390), combat [COMB] 1 (30). Can Study: magical healing [MHEA],
+;  farsight [FARS], mind reading [MIND], earth lore [EART]; FRIENDLY
+;  walker.
+@;study stea
+@;cast gate random
+@;claim 20
+@tax
+MOVE SW S S S
+
+;*** mountain (93,29) in Lingen, contains Sorfindon [city] ***
+
+unit 2252
+;Scout (2252), avoiding, behind, sea elf [SELF], 84 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+;*** forest (88,30) in Kawapo, contains Jervbygd [city] ***
+
+unit 2505
+;Unit (2505), avoiding, behind, 2 sea elves [SELF], 65 silver [SILV].
+;  Weight: 20. Capacity: 0/0/30/0. Skills: none.
+@work
+
+;*** plain (60,34) in Erisort ***
+
+unit 2250
+;White Beam (2250), avoiding, behind, leader [LEAD], 3420 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: spirit [SPIR] 3
+;  (180), pattern [PATT] 1 (30), gate lore [GATE] 1 (30), stealth
+;  [STEA] 1 (60), force [FORC] 3 (180), demon lore [DEMO] 3 (180),
+;  summon imps [SUIM] 1 (60). Can Study: fire [FIRE], earthquake
+;  [EQUA], force shield [FSHI], energy shield [ESHI], spirit shield
+;  [SSHI], magical healing [MHEA], farsight [FARS], mind reading
+;  [MIND], weather lore [WEAT], earth lore [EART], necromancy [NECR],
+;  summon imps [SUIM], banish demons [BDEM], illusion [ILLU], artifact
+;  lore [ARTI].
+@study suim
+
+;*** plain (22,36) in Elodiauen ***
+
+unit 3294
+;Scout (3294), avoiding, behind, receiving no aid, 15 silver [SILV],
+;  nomad [NOMA]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (25,39) in Elodiauen, contains Wastenfelt [city] ***
+
+unit 3297
+;Scout (3297), avoiding, behind, receiving no aid, nomad [NOMA], 14
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (22,40) in Nimathost ***
+
+unit 2665
+;Taxers (2665), on guard, 170 nomads [NOMA], 8944 silver [SILV].
+;  Weight: 1700. Capacity: 0/0/2550/0. Skills: combat [COMB] 1 (30).
+@guard 1
+@tax
+@GIVE 3197 200 SILV
+
+unit 3197
+;Unit (3197), behind, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: tactics [TACT] 4 (300).
+@study tact
+
+;*** plain (25,41) in Elodiauen ***
+
+unit 3298
+;Scout (3298), avoiding, behind, receiving no aid, nomad [NOMA], 16
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (24,44) in Nimathost ***
+
+unit 3296
+;Scout (3296), avoiding, behind, receiving no aid, nomad [NOMA], 20
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** forest (30,60) in Lurkabo ***
+
+unit 2507
+;Unit (2507), avoiding, behind, sea elf [SELF], 21 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** forest (29,61) in Lurkabo, contains Hathden [city] ***
+
+unit 3340
+;Unit (3340), avoiding, behind, wood elf [WELF], 30 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (64,62) in Ranaw ***
+
+unit 2546
+;Taxers (2546), on guard, 21 sea elves [SELF], 99 nomads [NOMA], 5517
+;  silver [SILV], 9 vodka [VODK], 100 vikings [VIKI]. Weight: 2245.
+;  Capacity: 0/0/3300/0. Skills: combat [COMB] 1 (60).
+@guard 1
+@tax
+@GIVE 3199 200 SILV
+
+unit 3199
+;Unit (3199), behind, leader [LEAD], 82 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: tactics [TACT] 3 (240).
+@study tact
+
+;*** forest (1,75) in U'osad ***
+
+unit 3114
+;Unit (3114), on guard, 5 vikings [VIKI], 780 silver [SILV]. Weight:
+;  50. Capacity: 0/0/75/0. Skills: combat [COMB] 2 (144).
+@tax
+@guard 1
+@study comb
+
+unit 2699
+;Unit (2699), viking [VIKI]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  combat [COMB] 1 (30).
+
+;*** swamp (67,75) in Tourlanque, contains Forbrin-dum [city] ***
+
+unit 2094
+;Scout (2094), avoiding, behind, barbarian [BARB], 78 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** forest (6,80) in Crerakroth, contains Ardvale [city] ***
+
+unit 3277
+;Unit (3277), avoiding, behind, viking [VIKI], 63 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** mountain (64,82) in Baibur, contains Belport [city] ***
+
+unit 2093
+;Workers (2093), avoiding, behind, 190 silver [SILV], 33 barbarians
+;  [BARB]. Weight: 330. Capacity: 0/0/495/0. Skills: none.
+@work
+@buy 20 barb
+
+;*** tundra (90,84) in Lormaroth ***
+
+unit 2251
+;Blue Beam (2251), avoiding, behind, leader [LEAD], 127 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: pattern [PATT] 1 (30),
+;  spirit [SPIR] 1 (30), gate lore [GATE] 1 (30), stealth [STEA] 5
+;  (450), combat [COMB] 1 (30), force [FORC] 1 (60), fire [FIRE] 1
+;  (30). Combat spell: fire [FIRE]. Can Study: earthquake [EQUA], force
+;  shield [FSHI], energy shield [ESHI], spirit shield [SSHI], magical
+;  healing [MHEA], farsight [FARS], mind reading [MIND], weather lore
+;  [WEAT], earth lore [EART], necromancy [NECR], demon lore [DEMO],
+;  illusion [ILLU], artifact lore [ARTI].
+@study fire
+@cast gate random
+@;claim 50
+@tax
+@combat fire
+
+;*** forest (60,88) in Soratuen, contains Rilad [city] ***
+
+unit 2958
+;Unit (2958), avoiding, behind, viking [VIKI], 78 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** underforest (19,15,underworld) in Rodwor ***
+
+unit 2506
+;Unit (2506), avoiding, behind, desert dwarf [DDWA], 42 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** cavern (10,20,underworld) in Dryck ***
+
+unit 3295
+;Scout (3295), avoiding, behind, receiving no aid, nomad [NOMA].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+;*** underforest (30,34,underworld) in Farafra, contains Brimfinin
+;  [city] ***
+
+unit 2095
+;Scout (2095), avoiding, behind, barbarian [BARB], 12 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@work
+
+#end
+

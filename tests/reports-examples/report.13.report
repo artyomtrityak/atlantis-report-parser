@@ -1,0 +1,1591 @@
+Atlantis Report For:
+SuperNerrs 001 (13) (War 1, Magic 4)
+May, Year 8
+
+Atlantis Engine Version: 4.1.0
+Standard Atlantis, Version: 4.1.0
+
+Faction Status:
+Tax Regions: 8 (10)
+Trade Regions: 0 (0)
+Mages: 5 (5)
+
+Errors during turn:
+Unit (3050): TAX: Unit cannot tax.
+Unit (2890): STUDY: Not enough funds.
+Unit (2891): STUDY: Not enough funds.
+Unit (2549): STUDY: Maximum level for skill reached.
+Unit (1448): STUDY: Maximum level for skill reached.
+Unit (2574): STUDY: Maximum level for skill reached.
+Burvis ibn Nerrs Komarnijs II (1362): Warning: Magic study rate
+  outside of a building cut in half above level 2.
+Burvis ibn Nerrs Komarnijs III (1363): Warning: Magic study rate
+  outside of a building cut in half above level 2.
+Burvis ibn Nerrs Komarnijs IV (1389): Warning: Magic study rate
+  outside of a building cut in half above level 2.
+Burvis ibn Nerrs Komarnijs V (1390): Warning: Magic study rate outside
+  of a building cut in half above level 2.
+Varenais Mobijs Diks (893): Warning: Magic study rate outside of a
+  building cut in half above level 2.
+Unit (1692): STUDY: Maximum level for skill reached.
+Unit (1693): STUDY: Maximum level for skill reached.
+
+Battles during turn:
+Viszinis (1266) attacks Imp (2733) in plain (56,10) in Rusila!
+
+Attackers:
+Viszinis (1266), behind, leader [LEAD], 4 swords [SWOR], horse [HORS],
+  tactics 5, riding 5.
+VVZ3 (1361), 52 nomads [NOMA], 9 sea elves [SELF], horse [HORS], 11
+  swords [SWOR], combat 2.
+Burvis ibn Nerrs Komarnijs II (1362), behind, leader [LEAD], 2 swords
+  [SWOR], 2 imps [IMP] (Combat 3/3, Attacks 1, Hits 1, Tactics 0).
+Burvis ibn Nerrs Komarnijs III (1363), behind, leader [LEAD], 2 imps
+  [IMP] (Combat 3/3, Attacks 1, Hits 1, Tactics 0).
+Burvis ibn Nerrs Komarnijs IV (1389), behind, leader [LEAD], imp [IMP]
+  (Combat 3/3, Attacks 1, Hits 1, Tactics 0).
+Burvis ibn Nerrs Komarnijs V (1390), behind, leader [LEAD], imp [IMP]
+  (Combat 3/3, Attacks 1, Hits 1, Tactics 0).
+Vanagacs (1421), behind, leader [LEAD], riding 2.
+Varenais Mobijs Diks (893), behind, leader [LEAD], imp [IMP] (Combat
+  3/3, Attacks 1, Hits 1, Tactics 0).
+Unit (1531), behind, 5 leaders [LEAD], sword [SWOR], longbow 2,
+  crossbow 5, riding 5.
+Klaidoni (1213), 9 vikings [VIKI], 2 swords [SWOR], combat 3.
+Vanagacs (1419), behind, leader [LEAD], sword [SWOR], riding 2.
+Unit (1447), behind, 5 plainsmen [PLAI], 3 swords [SWOR].
+Unit (1448), behind, leader [LEAD], sword [SWOR], tactics 5.
+Unit (1440), 18 plainsmen [PLAI], 2 swords [SWOR], combat 2.
+Unit (1688), 10 plainsmen [PLAI], 2 swords [SWOR], combat 2.
+Unit (2574), behind, leader [LEAD], tactics 5.
+Nerrotaji (1194), 307 vikings [VIKI], 2 crossbows [XBOW], 14 swords
+  [SWOR], combat 3.
+Unit (2116), behind, 3 leaders [LEAD], 4 horses [HORS], combat 2,
+  riding 1.
+Unit (2325), 300 vikings [VIKI], 627 crossbows [XBOW], combat 3.
+Unit (3057), 844 vikings [VIKI], combat 2.
+Unit (3106), 168 leaders [LEAD], combat 2.
+Nerrotaji (1145), 219 sea elves [SELF], 67 nomads [NOMA], 19 plainsmen
+  [PLAI], 101 high elves [HELF], 21 horses [HORS], 49 swords [SWOR],
+  chain armor [CARM], combat 2.
+Jokdaris (1214), behind, sea elf [SELF].
+Unit (1532), behind, 5 leaders [LEAD], 5 horses [HORS], riding 4.
+Unit (1690), behind, 40 nomads [NOMA], 40 crossbows [XBOW], chain
+  armor [CARM], crossbow 3.
+Unit (2182), 76 leaders [LEAD], longbow [LBOW], combat 5, riding 2.
+Unit (2550), behind, high elf [HELF].
+
+Defenders:
+Imp (2733), 5 imps [IMP] (Combat 3/3, Attacks 1, Hits 1, Tactics 0).
+
+Viszinis (1266) gets a free round of attacks.
+Imp (2733) loses 5.
+
+Imp (2733) is destroyed!
+Total Casualties:
+Imp (2733) loses 5.
+Damaged units: 2733.
+Viszinis (1266) loses 0.
+
+Spoils: 154 silver [SILV], plate armor [PARM], 3 furs [FUR], 4 fish
+  [FISH], 2 figurines [FIGU], perfume [PERF].
+
+Events during turn:
+Burvis ibn Nerrs Komarnijs II (1362): Combat spell set to fire.
+Burvis ibn Nerrs Komarnijs III (1363): Combat spell set to fire.
+Burvis ibn Nerrs Komarnijs IV (1389): Combat spell set to fire.
+Burvis ibn Nerrs Komarnijs V (1390): Combat spell set to fire.
+Varenais Mobijs Diks (893): Combat spell set to fire.
+Unit (2573): Gives 70 silver [SILV] to Unit (2549).
+Unit (2573): Gives 220 silver [SILV] to Unit (2331).
+Unit (1440): Gives 70 silver [SILV] to Vanagacs (1419).
+Unit (1440): Gives 220 silver [SILV] to Unit (1448).
+Unit (1440): Gives 220 silver [SILV] to Unit (2574).
+Nerrotaji (1194): Gives 210 silver [SILV] to Unit (2116).
+VVZ3 (1361): Gives 220 silver [SILV] to Burvis ibn Nerrs Komarnijs II
+  (1362).
+VVZ3 (1361): Gives 120 silver [SILV] to Burvis ibn Nerrs Komarnijs III
+  (1363).
+VVZ3 (1361): Gives 120 silver [SILV] to Burvis ibn Nerrs Komarnijs IV
+  (1389).
+VVZ3 (1361): Gives 120 silver [SILV] to Burvis ibn Nerrs Komarnijs II
+  (1362).
+VVZ3 (1361): Gives 120 silver [SILV] to Burvis ibn Nerrs Komarnijs V
+  (1390).
+VVZ3 (1361): Gives 70 silver [SILV] to Unit (1347).
+VVZ3 (1361): Gives 152 silver [SILV] to Viszinis (1266).
+VVZ3 (1361): Gives 120 silver [SILV] to Varenais Mobijs Diks (893).
+VVZ3 (1361): Gives 69 silver [SILV] to Vanagacs (1421).
+VVZ3 (1361): Gives 68 silver [SILV] to Viszinis (1266).
+VVZ3 (1361): Gives 150 silver [SILV] to Unit (1531).
+Burvis ibn Nerrs Komarnijs II (1362): Gives 2 imps [IMP] to VVZ3
+  (1361).
+Burvis ibn Nerrs Komarnijs III (1363): Gives 2 imps [IMP] to VVZ3
+  (1361).
+Burvis ibn Nerrs Komarnijs IV (1389): Gives imp [IMP] to VVZ3 (1361).
+Burvis ibn Nerrs Komarnijs V (1390): Gives imp [IMP] to VVZ3 (1361).
+Varenais Mobijs Diks (893): Gives imp [IMP] to VVZ3 (1361).
+Nerrotaji (1145): Gives 350 silver [SILV] to Unit (1532).
+Nerrotaji (1145): Gives 800 silver [SILV] to Unit (1690).
+Nerrotaji (1145): Gives 500 silver [SILV] to Unit (1532).
+VVZ5 (1364): Gives 70 silver [SILV] to Unit (1692).
+VVZ5 (1364): Gives 70 silver [SILV] to Unit (1693).
+Unit (1647): Collects $1300 in taxes in plain (56,4) in Rusila.
+Unit (1648): Collects $1300 in taxes in plain (57,5) in Rusila.
+Unit (2573): Collects $13071 in taxes in plain (56,6) in Rusila.
+VVZ2 (1360): Collects $1612 in taxes in plain (56,6) in Rusila.
+Unit (2181): Collects $20479 in taxes in plain (56,6) in Rusila.
+Unit (2110): Collects $13072 in taxes in plain (56,6) in Rusila.
+Unit (2253): Collects $17430 in taxes in plain (56,6) in Rusila.
+Unit (1440): Collects $900 in taxes in plain (56,8) in Rusila.
+Unit (1688): Collects $500 in taxes in plain (56,8) in Rusila.
+Nerrotaji (1194): Collects $7190 in taxes in plain (57,9) in Rusila.
+Unit (2116): Collects $70 in taxes in plain (57,9) in Rusila.
+Unit (2325): Collects $7026 in taxes in plain (57,9) in Rusila.
+Unit (3057): Collects $19768 in taxes in plain (57,9) in Rusila.
+Unit (3106): Collects $3935 in taxes in plain (57,9) in Rusila.
+VVZ3 (1361): Collects $2778 in taxes in plain (56,10) in Rusila.
+Nerrotaji (1145): Collects $8941 in taxes in plain (57,11) in
+  Brangrod.
+Unit (1690): Collects $881 in taxes in plain (57,11) in Brangrod.
+Unit (2182): Collects $1674 in taxes in plain (57,11) in Brangrod.
+VVZ5 (1364): Collects $2150 in taxes in plain (58,12) in Brangrod.
+Burvis ibn Nerrs Komarnijs II (1362): Summons 2 imps [IMP].
+Burvis ibn Nerrs Komarnijs III (1363): Summons 2 imps [IMP].
+Burvis ibn Nerrs Komarnijs IV (1389): Summons imp [IMP].
+Burvis ibn Nerrs Komarnijs V (1390): Summons imp [IMP].
+Varenais Mobijs Diks (893): Summons imp [IMP].
+Unit (2325): Buys 57 crossbows [XBOW] at $166 each.
+Nerrotaji (1145): Buys 7 horses [HORS] at $65 each.
+Unit (2547): Earns 18 silver working in plain (55,1) in Githdoror.
+Unit (2176): Earns 18 silver working in plain (56,2) in Rusila.
+Unit (2196): Earns 17 silver working in plain (57,3) in Rusila.
+Unit (1647): Earns 364 silver working in plain (56,4) in Rusila.
+Unit (2548): Earns 19 silver working in plain (53,5) in Githdoror.
+Unit (1648): Earns 416 silver working in plain (57,5) in Rusila.
+Unit (1446): Earns 18 silver working in plain (54,6) in Githdoror.
+Unit (2331): Studies tactics.
+Unit (3050): Studies crossbow.
+Okskeris (1176): Earns 19 silver working in plain (56,6) in Rusila.
+Unit (2186): Earns 19 silver working in plain (56,6) in Rusila.
+Unit (2573): Earns 5700 silver working in plain (56,6) in Rusila.
+VVZ2 (1360): Earns 703 silver working in plain (56,6) in Rusila.
+Unit (2181): Earns 8930 silver working in plain (56,6) in Rusila.
+Unit (2892): Earns 1406 silver working in plain (56,6) in Rusila.
+Unit (2253): Earns 7600 silver working in plain (56,6) in Rusila.
+Okskeris (1174): Earns 16 silver working in mountain (49,7) in Cornon.
+Vanagacs (1419): Studies riding.
+Klaidoni (1213): Earns 126 silver working in plain (56,8) in Rusila.
+Unit (1440): Earns 252 silver working in plain (56,8) in Rusila.
+Unit (1688): Earns 140 silver working in plain (56,8) in Rusila.
+Unit (1447): Earns 90 silver entertaining in plain (56,8) in Rusila.
+bimbambo (1418): Earns 14 silver working in mountain (51,9) in Cornon.
+Unit (2116): Studies combat.
+Unit (3057): Studies combat.
+Unit (3106): Studies combat.
+Nerrotaji (1194): Earns 5833 silver working in plain (57,9) in Rusila.
+Unit (2325): Earns 5700 silver working in plain (57,9) in Rusila.
+Viszinis (1266): Studies observation.
+Unit (1347): Studies riding.
+Burvis ibn Nerrs Komarnijs II (1362): Studies summon imps.
+Burvis ibn Nerrs Komarnijs III (1363): Studies summon imps.
+Burvis ibn Nerrs Komarnijs IV (1389): Studies force.
+Burvis ibn Nerrs Komarnijs V (1390): Studies force.
+Vanagacs (1421): Studies riding.
+Varenais Mobijs Diks (893): Studies spirit.
+Unit (1531): Studies longbow.
+VVZ3 (1361): Earns 976 silver working in plain (56,10) in Rusila.
+Unit (1532): Studies riding.
+Unit (2182): Studies riding.
+Nerrotaji (1145): Earns 5568 silver working in plain (57,11) in
+  Brangrod.
+Unit (1690): Earns 549 silver working in plain (57,11) in Brangrod.
+Unit (2550): Earns 14 silver working in plain (57,11) in Brangrod.
+Jokdaris (1214): Earns 20 silver entertaining in plain (57,11) in
+  Brangrod.
+VVZ5 (1364): Earns 765 silver working in plain (58,12) in Brangrod.
+VVZ99 (1451): Earns 14 silver working in plain (59,13) in Brangrod.
+VVZ100 (1452): Earns 14 silver working in plain (58,14) in Brangrod.
+Izsitejs (1111): Earns 13 silver working in plain (73,19) in Bocholt.
+Izsitejs (1110): Earns 18 silver working in plain (61,33) in Erisort.
+Unit (1558): Earns 18 silver working in plain (61,33) in Erisort.
+VVZ3 (1361): Controlled demons break free!
+
+Skill reports:
+
+longbow [LBOW] 3: No skill report.
+
+Item reports:
+
+plate armor [PARM], weight 3. This is a type of armor. This armor will
+  protect its wearer 67% of the time versus slashing attacks, 67% of
+  the time versus piercing attacks, 67% of the time versus crushing
+  attacks, 67% of the time versus cleaving attacks, 0% of the time
+  versus armor-piercing attacks, 0% of the time versus energy attacks,
+  0% of the time versus spirit attacks, and 0% of the time versus
+  weather attacks. Units with armorer [ARMO] 3 may PRODUCE this item
+  from 3 iron at a rate of 1 per 3 man-months.
+
+Declared Attitudes (default Unfriendly):
+Hostile : Creatures (2).
+Unfriendly : none.
+Neutral : none.
+Friendly : none.
+Ally : Gragblod (7), Multiple Bite Wounds (10).
+
+Unclaimed silver: 0.
+
+plain (55,1) in Githdoror, contains Bal-dor [city], 3612 peasants
+  (plainsmen), $28896.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $13003).
+  Wanted: 190 grain [GRAI] at $29, 156 livestock [LIVE] at $26, 148
+    fish [FISH] at $29, 35 tarot cards [TARO] at $140, 44 wine [WINE]
+    at $146.
+  For Sale: 38 swords [SWOR] at $117, 30 crossbows [XBOW] at $114, 48
+    spices [SPIC] at $85, 22 mink [MINK] at $82, 722 plainsmen [PLAI]
+    at $72, 144 leaders [LEAD] at $144.
+  Entertainment available: $1444.
+  Products: 73 livestock [LIVE], 31 horses [HORS].
+
+Exits:
+  Northeast : plain (56,0) in Rusila.
+  Southeast : plain (56,2) in Rusila, contains Granport [city].
+  South : plain (55,3) in Githdoror.
+  Southwest : ocean (54,2) in Atlantis Ocean.
+  Northwest : plain (54,0) in Githdoror.
+
+- City Guard (2), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (2547), SuperNerrs 001 (13), 246 silver [SILV], nomad [NOMA].
+  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (56,2) in Rusila, contains Granport [city], 3413 peasants
+  (nomads), $27304.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $12286).
+  Wanted: 112 grain [GRAI] at $18, 196 livestock [LIVE] at $26, 48
+    swords [SWOR] at $98, 39 crossbows [XBOW] at $101, 46 longbows
+    [LBOW] at $86, 41 plate armor [PARM] at $411, 32 perfume [PERF] at
+    $140, 22 dye [DYE] at $132.
+  For Sale: 25 truffles [TRUF] at $83, 9 roses [ROSE] at $68, 682
+    nomads [NOMA] at $72, 136 leaders [LEAD] at $144.
+  Entertainment available: $1365.
+  Products: 52 grain [GRAI], 21 horses [HORS].
+
+Exits:
+  North : plain (56,0) in Rusila.
+  Northeast : plain (57,1) in Rusila.
+  Southeast : plain (57,3) in Rusila, contains Linvoltan [city].
+  South : plain (56,4) in Rusila.
+  Southwest : plain (55,3) in Githdoror.
+  Northwest : plain (55,1) in Githdoror, contains Bal-dor [city].
+
+- City Guard (4), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (2176), SuperNerrs 001 (13), 316 silver [SILV], plainsman
+  [PLAI]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (57,3) in Rusila, contains Linvoltan [city], 4920 peasants
+  (nomads), $34440.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $17 (Max: $16728).
+  Wanted: 144 grain [GRAI] at $21, 100 livestock [LIVE] at $24, 184
+    fish [FISH] at $20, 98 swords [SWOR] at $126, 55 pearls [PEAR] at
+    $164, 74 cashmere [CASH] at $135.
+  For Sale: 65 horses [HORS] at $54, 81 caviar [CAVI] at $60, 51 mink
+    [MINK] at $76, 984 nomads [NOMA] at $68, 196 leaders [LEAD] at
+    $136.
+  Entertainment available: $1722.
+  Products: 67 livestock [LIVE], 20 horses [HORS].
+
+Exits:
+  North : plain (57,1) in Rusila.
+  Northeast : ocean (58,2) in Atlantis Ocean.
+  Southeast : ocean (58,4) in Atlantis Ocean.
+  South : plain (57,5) in Rusila.
+  Southwest : plain (56,4) in Rusila.
+  Northwest : plain (56,2) in Rusila, contains Granport [city].
+
+- City Guard (7), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (2196), SuperNerrs 001 (13), 438 silver [SILV], nomad [NOMA].
+  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (56,4) in Rusila, 703 peasants (plainsmen), $2812.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1968).
+  Wanted: none.
+  For Sale: 140 plainsmen [PLAI] at $56, 28 leaders [LEAD] at $112.
+  Entertainment available: $140.
+  Products: 71 grain [GRAI], 31 horses [HORS].
+
+Exits:
+  North : plain (56,2) in Rusila, contains Granport [city].
+  Northeast : plain (57,3) in Rusila, contains Linvoltan [city].
+  Southeast : plain (57,5) in Rusila.
+  South : plain (56,6) in Rusila, contains Eloatanfel [city].
+  Southwest : ocean (55,5) in Atlantis Ocean.
+  Northwest : plain (55,3) in Githdoror.
+
+* Unit (1647), on guard, SuperNerrs 001 (13), 26 plainsmen [PLAI],
+  27109 silver [SILV], 6 swords [SWOR]. Weight: 266. Capacity:
+  0/0/390/0. Skills: combat [COMB] 2 (90).
+* Unit (2890), SuperNerrs 001 (13), behind, leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 4 (390).
+
+
+plain (53,5) in Githdoror, contains Kul-kai [city], 2877 peasants
+  (nomads), $25893.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $19 (Max: $10932).
+  Wanted: 118 grain [GRAI] at $23, 194 livestock [LIVE] at $20, 198
+    fish [FISH] at $26, 31 herbs [HERB] at $47, 36 crossbows [XBOW] at
+    $86, 32 wagons [WAGO] at $177, 16 wine [WINE] at $141, 2 chocolate
+    [CHOC] at $155.
+  For Sale: 22 longbows [LBOW] at $95, 21 chain armor [CARM] at $90,
+    13 spices [SPIC] at $88, 575 nomads [NOMA] at $76, 115 leaders
+    [LEAD] at $152.
+  Entertainment available: $1294.
+  Products: 66 grain [GRAI], 22 horses [HORS].
+
+Exits:
+  North : plain (53,3) in Githdoror.
+  Northeast : plain (54,4) in Githdoror.
+  Southeast : plain (54,6) in Githdoror, contains Aman-ungol [city].
+  South : ocean (53,7) in Atlantis Ocean.
+  Southwest : mountain (52,6) in Cornon.
+  Northwest : mountain (52,4) in Cornon.
+
+- City Guard (10), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Scout (2330), nomad [NOMA].
+* Unit (2548), SuperNerrs 001 (13), 262 silver [SILV], nomad [NOMA].
+  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (57,5) in Rusila, 415 peasants (plainsmen), $2490.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1328).
+  Wanted: none.
+  For Sale: 83 plainsmen [PLAI] at $64, 16 leaders [LEAD] at $128.
+  Entertainment available: $124.
+  Products: 75 grain [GRAI], 28 horses [HORS].
+
+Exits:
+  North : plain (57,3) in Rusila, contains Linvoltan [city].
+  Northeast : ocean (58,4) in Atlantis Ocean.
+  Southeast : ocean (58,6) in Atlantis Ocean.
+  South : ocean (57,7) in Atlantis Ocean.
+  Southwest : plain (56,6) in Rusila, contains Eloatanfel [city].
+  Northwest : plain (56,4) in Rusila.
+
+* Unit (1648), on guard, SuperNerrs 001 (13), 26 plainsmen [PLAI],
+  28186 silver [SILV], sword [SWOR]. Weight: 261. Capacity: 0/0/390/0.
+  Skills: combat [COMB] 2 (90).
+* Unit (2891), SuperNerrs 001 (13), behind, leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 4 (360).
+
+
+plain (54,6) in Githdoror, contains Aman-ungol [city], 3721 peasants
+  (nomads), $29768.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $13395).
+  Wanted: 136 grain [GRAI] at $27, 120 livestock [LIVE] at $29, 51
+    wood [WOOD] at $54, 186 fish [FISH] at $18, 59 plate armor [PARM]
+    at $374, 51 pearls [PEAR] at $155, 49 cotton [COTT] at $137.
+  For Sale: 44 tarot cards [TARO] at $69, 19 velvet [VELV] at $66, 744
+    nomads [NOMA] at $72, 148 leaders [LEAD] at $144.
+  Entertainment available: $1488.
+  Products: 77 grain [GRAI], 25 horses [HORS].
+
+Exits:
+  North : plain (54,4) in Githdoror.
+  Northeast : ocean (55,5) in Atlantis Ocean.
+  Southeast : ocean (55,7) in Atlantis Ocean.
+  South : ocean (54,8) in Atlantis Ocean.
+  Southwest : ocean (53,7) in Atlantis Ocean.
+  Northwest : plain (53,5) in Githdoror, contains Kul-kai [city].
+
+- City Guard (13), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Unit (1446), SuperNerrs 001 (13), plainsman [PLAI], 216 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (30).
+
+
+plain (56,6) in Rusila, contains Eloatanfel [city], 7296 peasants
+  (nomads), $65664.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $19 (Max: $27724).
+  Wanted: 108 grain [GRAI] at $21, 108 livestock [LIVE] at $27, 192
+    fish [FISH] at $20, 52 herbs [HERB] at $53, 54 swords [SWOR] at
+    $107, 59 plate armor [PARM] at $539, 61 wagons [WAGO] at $204, 89
+    caviar [CAVI] at $173, 88 wine [WINE] at $132.
+  For Sale: 80 ivory [IVOR] at $79, 66 dye [DYE] at $60, 1459 nomads
+    [NOMA] at $76, 291 leaders [LEAD] at $152.
+  Entertainment available: $3283.
+  Products: 56 livestock [LIVE], 32 horses [HORS].
+
+Exits:
+  North : plain (56,4) in Rusila.
+  Northeast : plain (57,5) in Rusila.
+  Southeast : ocean (57,7) in Atlantis Ocean.
+  South : plain (56,8) in Rusila.
+  Southwest : ocean (55,7) in Atlantis Ocean.
+  Northwest : ocean (55,5) in Atlantis Ocean.
+
+* Okskeris (1176), SuperNerrs 001 (13), sea elf [SELF], 17 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (30).
+* Unit (2186), SuperNerrs 001 (13), plainsman [PLAI], horse [HORS], 82
+  silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: none.
+* Unit (2573), SuperNerrs 001 (13), 300 nomads [NOMA], 109420 silver
+  [SILV], 21 swords [SWOR]. Weight: 3021. Capacity: 0/0/4500/0.
+  Skills: combat [COMB] 2 (90).
+* Unit (2549), SuperNerrs 001 (13), behind, leader [LEAD], 102 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+  (450).
+* VVZ2 (1360), on guard, SuperNerrs 001 (13), 37 plainsmen [PLAI],
+  15749 silver [SILV], 7 swords [SWOR]. Weight: 377. Capacity:
+  0/0/555/0. Skills: combat [COMB] 2 (90).
+* Unit (2181), on guard, SuperNerrs 001 (13), 196535 silver [SILV],
+  470 vikings [VIKI], 2 furs [FUR], 2 fish [FISH], grain [GRAI],
+  perfume [PERF], 28 swords [SWOR]. Weight: 4738. Capacity:
+  0/0/7050/0. Skills: combat [COMB] 3 (180).
+* Unit (2331), SuperNerrs 001 (13), behind, horse [HORS], leader
+  [LEAD], 5 silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  tactics [TACT] 4 (360).
+* Unit (2892), on guard, SuperNerrs 001 (13), behind, 63621 silver
+  [SILV], 74 nomads [NOMA], 3 swords [SWOR], 74 crossbows [XBOW].
+  Weight: 817. Capacity: 0/0/1110/0. Skills: crossbow [XBOW] 3 (180).
+* Unit (2575), SuperNerrs 001 (13), behind, 14 horses [HORS], leader
+  [LEAD]. Weight: 710. Capacity: 0/980/995/0. Skills: none.
+* Unit (3050), SuperNerrs 001 (13), behind, 22000 silver [SILV], 500
+  nomads [NOMA]. Weight: 5000. Capacity: 0/0/7500/0. Skills: crossbow
+  [XBOW] 2 (120).
+* Unit (2110), SuperNerrs 001 (13), 300 vikings [VIKI], velvet [VELV],
+  grain [GRAI], 4 fish [FISH], 2 livestock [LIVE], perfume [PERF],
+  126054 silver [SILV], chocolate [CHOC], herb [HERB], caviar [CAVI],
+  2 stone [STON], 175 horses [HORS], chain armor [CARM]. Weight:
+  11972. Capacity: 0/12250/16850/0. Skills: combat [COMB] 3 (180).
+* Unit (2253), SuperNerrs 001 (13), 63076 silver [SILV], 400 vikings
+  [VIKI], cotton [COTT], 2 crossbows [XBOW], 2 silk [SILK], 4
+  livestock [LIVE], chocolate [CHOC], dye [DYE], 2 furs [FUR], 2 fish
+  [FISH], perfume [PERF], iron [IRON], figurines [FIGU], cashmere
+  [CASH], truffles [TRUF], jewelry [JEWE], stone [STON]. Weight: 4295.
+  Capacity: 0/0/6200/0. Skills: combat [COMB] 3 (180).
+
+
+mountain (49,7) in Cornon, contains Enddordor [town], 1351 peasants
+  (orcs), $8106.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $4323).
+  Wanted: 100 grain [GRAI] at $23, 134 livestock [LIVE] at $21, 104
+    fish [FISH] at $27, 11 crossbows [XBOW] at $101, 14 plate armor
+    [PARM] at $438.
+  For Sale: 270 orcs [ORC] at $64, 54 leaders [LEAD] at $128.
+  Entertainment available: $405.
+  Products: 27 livestock [LIVE], 34 iron [IRON], 11 stone [STON].
+
+Exits:
+  North : mountain (49,5) in Cornon.
+  Northeast : mountain (50,6) in Cornon.
+  Southeast : mountain (50,8) in Cornon.
+  South : ocean (49,9) in Atlantis Ocean.
+  Southwest : ocean (48,8) in Atlantis Ocean.
+  Northwest : ocean (48,6) in Atlantis Ocean.
+
+- City Guard (15), on guard, 80 leaders [LEAD], 80 swords [SWOR].
+* Okskeris (1174), SuperNerrs 001 (13), avoiding, behind, sea elf
+  [SELF], horse [HORS], 351 silver [SILV]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (30).
+
+
+plain (56,8) in Rusila, 451 peasants (plainsmen), $1804.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1262).
+  Wanted: none.
+  For Sale: 90 plainsmen [PLAI] at $56, 18 leaders [LEAD] at $112.
+  Entertainment available: $90.
+  Products: 46 livestock [LIVE], 24 horses [HORS].
+
+Exits:
+  North : plain (56,6) in Rusila, contains Eloatanfel [city].
+  Northeast : ocean (57,7) in Atlantis Ocean.
+  Southeast : plain (57,9) in Rusila, contains Wastenheim [city].
+  South : plain (56,10) in Rusila.
+  Southwest : ocean (55,9) in Atlantis Ocean.
+  Northwest : ocean (55,7) in Atlantis Ocean.
+
+* Klaidoni (1213), SuperNerrs 001 (13), 9 vikings [VIKI], 1433 silver
+  [SILV], 2 swords [SWOR]. Weight: 92. Capacity: 0/0/135/0. Skills:
+  combat [COMB] 3 (180).
+* Vanagacs (1419), SuperNerrs 001 (13), behind, leader [LEAD], 710
+  silver [SILV], sword [SWOR]. Weight: 11. Capacity: 0/0/15/0. Skills:
+  observation [OBSE] 5 (450), stealth [STEA] 5 (450), riding [RIDI] 2
+  (150).
+* Unit (1447), SuperNerrs 001 (13), behind, 5 plainsmen [PLAI], 1417
+  silver [SILV], grain [GRAI], 3 swords [SWOR]. Weight: 58. Capacity:
+  0/0/75/0. Skills: entertainment [ENTE] 2 (90).
+* Unit (1448), SuperNerrs 001 (13), behind, leader [LEAD], 410 silver
+  [SILV], sword [SWOR]. Weight: 11. Capacity: 0/0/15/0. Skills:
+  stealth [STEA] 5 (450), observation [OBSE] 3 (180), tactics [TACT] 5
+  (450).
+* Unit (1440), SuperNerrs 001 (13), 18 plainsmen [PLAI], 22497 silver
+  [SILV], fish [FISH], fur [FUR], livestock [LIVE], 2 swords [SWOR].
+  Weight: 234. Capacity: 0/0/320/0. Skills: combat [COMB] 2 (90).
+* Unit (1688), SuperNerrs 001 (13), 15037 silver [SILV], 10 plainsmen
+  [PLAI], cotton [COTT], vodka [VODK], 2 swords [SWOR]. Weight: 112.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 2 (90).
+* Unit (2574), SuperNerrs 001 (13), behind, 613 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: tactics [TACT] 5
+  (450).
+
+
+mountain (51,9) in Cornon, 284 peasants (sea elves), $1136.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $795).
+  Wanted: none.
+  For Sale: 56 sea elves [SELF] at $56, 11 leaders [LEAD] at $112.
+  Entertainment available: $56.
+  Products: 36 livestock [LIVE], 21 iron [IRON], 15 stone [STON].
+
+Exits:
+  North : mountain (51,7) in Cornon.
+  Northeast : mountain (52,8) in Cornon.
+  Southeast : ocean (52,10) in Atlantis Ocean.
+  South : ocean (51,11) in Atlantis Ocean.
+  Southwest : ocean (50,10) in Atlantis Ocean.
+  Northwest : mountain (50,8) in Cornon.
+
+* bimbambo (1418), SuperNerrs 001 (13), 104 silver [SILV], plainsman
+  [PLAI]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+  (30).
+
+
+plain (57,9) in Rusila, contains Wastenheim [city], 4221 peasants
+  (vikings), $37989.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $19 (Max: $16039).
+  Wanted: 138 grain [GRAI] at $27, 110 livestock [LIVE] at $18, 80
+    furs [FUR] at $42, 134 fish [FISH] at $21, 41 chain armor [CARM]
+    at $92, 50 wine [WINE] at $137, 54 perfume [PERF] at $162.
+  For Sale: 57 crossbows [XBOW] at $167, 73 ivory [IVOR] at $73, 40
+    velvet [VELV] at $82, 844 vikings [VIKI] at $76, 168 leaders
+    [LEAD] at $152.
+  Entertainment available: $1899.
+  Products: 65 grain [GRAI], 31 horses [HORS].
+
+Exits:
+  North : ocean (57,7) in Atlantis Ocean.
+  Northeast : ocean (58,8) in Atlantis Ocean.
+  Southeast : ocean (58,10) in Atlantis Ocean.
+  South : plain (57,11) in Brangrod, contains Treshrd [town].
+  Southwest : plain (56,10) in Rusila.
+  Northwest : plain (56,8) in Rusila.
+
+* Nerrotaji (1194), on guard, SuperNerrs 001 (13), 307 vikings [VIKI],
+  41269 silver [SILV], 2 iron [IRON], 2 crossbows [XBOW], 4 furs
+  [FUR], 2 herbs [HERB], 4 fish [FISH], livestock [LIVE], cotton
+  [COTT], vodka [VODK], figurines [FIGU], stone [STON], plate armor
+  [PARM], 14 swords [SWOR]. Weight: 3218. Capacity: 0/0/4655/0.
+  Skills: combat [COMB] 3 (180).
+* Unit (2116), on guard, SuperNerrs 001 (13), behind, 3 leaders
+  [LEAD], 1068 silver [SILV], 4 horses [HORS]. Weight: 230. Capacity:
+  0/280/325/0. Skills: observation [OBSE] 5 (450), riding [RIDI] 1
+  (60), combat [COMB] 2 (120).
+* Unit (2325), SuperNerrs 001 (13), 83596 silver [SILV], 300 vikings
+  [VIKI], livestock [LIVE], chocolate [CHOC], 3 fish [FISH], 684
+  crossbows [XBOW], truffles [TRUF], roses [ROSE], wood [WOOD],
+  cashmere [CASH], 2 furs [FUR]. Weight: 3756. Capacity: 0/0/4550/0.
+  Skills: combat [COMB] 3 (180).
+* Unit (3057), on guard, SuperNerrs 001 (13), 158576 silver [SILV],
+  844 vikings [VIKI], jewelry [JEWE], 3 grain [GRAI], wine [WINE], fur
+  [FUR], 2 figurines [FIGU], perfume [PERF]. Weight: 8465. Capacity:
+  0/0/12660/0. Skills: combat [COMB] 2 (120).
+* Unit (3106), on guard, SuperNerrs 001 (13), 70706 silver [SILV], 168
+  leaders [LEAD], grain [GRAI]. Weight: 1685. Capacity: 0/0/2520/0.
+  Skills: combat [COMB] 2 (120).
+
+
+plain (56,10) in Rusila, 463 peasants (nomads), $2778.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1481).
+  Wanted: none.
+  For Sale: 92 nomads [NOMA] at $64, 18 leaders [LEAD] at $128.
+  Entertainment available: $138.
+  Products: 66 grain [GRAI], 38 horses [HORS].
+
+Exits:
+  North : plain (56,8) in Rusila.
+  Northeast : plain (57,9) in Rusila, contains Wastenheim [city].
+  Southeast : plain (57,11) in Brangrod, contains Treshrd [town].
+  South : ocean (56,12) in Atlantis Ocean.
+  Southwest : ocean (55,11) in Atlantis Ocean.
+  Northwest : ocean (55,9) in Atlantis Ocean.
+
+* Viszinis (1266), SuperNerrs 001 (13), behind, leader [LEAD], 3330
+  silver [SILV], 4 swords [SWOR], horse [HORS]. Weight: 64. Capacity:
+  0/70/85/0. Skills: tactics [TACT] 5 (450), riding [RIDI] 5 (450),
+  stealth [STEA] 5 (450), observation [OBSE] 2 (150).
+* Unit (1347), SuperNerrs 001 (13), avoiding, behind, leader [LEAD],
+  848 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: stealth
+  [STEA] 5 (450), observation [OBSE] 5 (450), riding [RIDI] 3 (180).
+* VVZ3 (1361), on guard, SuperNerrs 001 (13), 52 nomads [NOMA], 9 sea
+  elves [SELF], 35168 silver [SILV], figurines [FIGU], horse [HORS],
+  11 swords [SWOR]. Weight: 672. Capacity: 0/70/985/0. Skills: combat
+  [COMB] 2 (90).
+* Burvis ibn Nerrs Komarnijs II (1362), SuperNerrs 001 (13), behind,
+  leader [LEAD], 8422 silver [SILV], 2 swords [SWOR], 2 imps [IMP].
+  Weight: 32. Capacity: 0/0/45/0. Skills: force [FORC] 3 (225), fire
+  [FIRE] 2 (90), spirit [SPIR] 3 (210), demon lore [DEMO] 3 (180),
+  summon imps [SUIM] 2 (120). Combat spell: fire [FIRE]. Can Study:
+  fire [FIRE], force shield [FSHI], energy shield [ESHI], spirit
+  shield [SSHI], necromancy [NECR], summon imps [SUIM], banish demons
+  [BDEM].
+* Burvis ibn Nerrs Komarnijs III (1363), SuperNerrs 001 (13), behind,
+  leader [LEAD], 920 silver [SILV], fish [FISH], 2 imps [IMP]. Weight:
+  31. Capacity: 0/0/45/0. Skills: force [FORC] 3 (180), fire [FIRE] 2
+  (90), spirit [SPIR] 3 (210), demon lore [DEMO] 3 (180), summon imps
+  [SUIM] 2 (120). Combat spell: fire [FIRE]. Can Study: fire [FIRE],
+  force shield [FSHI], energy shield [ESHI], spirit shield [SSHI],
+  necromancy [NECR], summon imps [SUIM], banish demons [BDEM].
+* Burvis ibn Nerrs Komarnijs IV (1389), SuperNerrs 001 (13), behind,
+  leader [LEAD], 216 silver [SILV], imp [IMP]. Weight: 20. Capacity:
+  0/0/30/0. Skills: force [FORC] 4 (405), fire [FIRE] 2 (90), pattern
+  [PATT] 1 (30), magical healing [MHEA] 1 (30), spirit [SPIR] 3 (210),
+  demon lore [DEMO] 2 (90), summon imps [SUIM] 1 (30). Combat spell:
+  fire [FIRE]. Can Study: fire [FIRE], earthquake [EQUA], force shield
+  [FSHI], energy shield [ESHI], spirit shield [SSHI], gate lore
+  [GATE], farsight [FARS], mind reading [MIND], weather lore [WEAT],
+  earth lore [EART], necromancy [NECR], demon lore [DEMO], summon imps
+  [SUIM], banish demons [BDEM], illusion [ILLU], artifact lore [ARTI].
+* Burvis ibn Nerrs Komarnijs V (1390), SuperNerrs 001 (13), behind,
+  leader [LEAD], 1016 silver [SILV], imp [IMP]. Weight: 20. Capacity:
+  0/0/30/0. Skills: force [FORC] 3 (285), fire [FIRE] 2 (90), pattern
+  [PATT] 1 (30), magical healing [MHEA] 1 (30), spirit [SPIR] 3 (210),
+  demon lore [DEMO] 2 (90), summon imps [SUIM] 1 (30). Combat spell:
+  fire [FIRE]. Can Study: fire [FIRE], earthquake [EQUA], force shield
+  [FSHI], energy shield [ESHI], spirit shield [SSHI], gate lore
+  [GATE], farsight [FARS], mind reading [MIND], weather lore [WEAT],
+  earth lore [EART], necromancy [NECR], demon lore [DEMO], summon imps
+  [SUIM], banish demons [BDEM], illusion [ILLU], artifact lore [ARTI].
+* Vanagacs (1421), SuperNerrs 001 (13), behind, leader [LEAD], 669
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: observation
+  [OBSE] 5 (450), stealth [STEA] 5 (450), riding [RIDI] 3 (180).
+* Varenais Mobijs Diks (893), SuperNerrs 001 (13), behind, leader
+  [LEAD], 1316 silver [SILV], imp [IMP]. Weight: 20. Capacity:
+  0/0/30/0. Skills: pattern [PATT] 1 (30), spirit [SPIR] 4 (435), gate
+  lore [GATE] 1 (30), force [FORC] 2 (105), stealth [STEA] 2 (90),
+  fire [FIRE] 2 (90), observation [OBSE] 3 (240), demon lore [DEMO] 1
+  (30), summon imps [SUIM] 1 (30). Combat spell: fire [FIRE]. Can
+  Study: earthquake [EQUA], force shield [FSHI], energy shield [ESHI],
+  spirit shield [SSHI], magical healing [MHEA], farsight [FARS], mind
+  reading [MIND], weather lore [WEAT], earth lore [EART], necromancy
+  [NECR], demon lore [DEMO], banish demons [BDEM], illusion [ILLU],
+  artifact lore [ARTI].
+* Unit (1531), SuperNerrs 001 (13), behind, 5 leaders [LEAD], 226
+  silver [SILV], sword [SWOR]. Weight: 51. Capacity: 0/0/75/0. Skills:
+  crossbow [XBOW] 5 (450), riding [RIDI] 5 (450), longbow [LBOW] 3
+  (180).
+- Imp (3480), Creatures (2), avoiding, 7 imps [IMP].
+
+
+plain (57,11) in Brangrod, contains Treshrd [town], 1916 peasants (sea
+  elves), $11496.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $6131).
+  Wanted: 93 grain [GRAI] at $18, 165 livestock [LIVE] at $18, 110
+    fish [FISH] at $21, 12 herbs [HERB] at $54, 9 crossbows [XBOW] at
+    $101.
+  For Sale: 7 horses [HORS] at $65, 383 sea elves [SELF] at $64, 76
+    leaders [LEAD] at $128.
+  Entertainment available: $574.
+  Products: 50 livestock [LIVE], 35 horses [HORS].
+
+Exits:
+  North : plain (57,9) in Rusila, contains Wastenheim [city].
+  Northeast : ocean (58,10) in Atlantis Ocean.
+  Southeast : plain (58,12) in Brangrod.
+  South : ocean (57,13) in Atlantis Ocean.
+  Southwest : ocean (56,12) in Atlantis Ocean.
+  Northwest : plain (56,10) in Rusila.
+
+* Nerrotaji (1145), on guard, SuperNerrs 001 (13), 219 sea elves
+  [SELF], 32307 silver [SILV], 67 nomads [NOMA], 19 plainsmen [PLAI],
+  101 high elves [HELF], 2 grain [GRAI], 3 perfume [PERF], 4 livestock
+  [LIVE], velvet [VELV], 3 furs [FUR], herb [HERB], roses [ROSE], dye
+  [DYE], caviar [CAVI], wood [WOOD], 2 fish [FISH], 28 horses [HORS],
+  ivory [IVOR], 49 swords [SWOR], chain armor [CARM]. Weight: 5746.
+  Capacity: 0/1960/8250/0. Skills: combat [COMB] 2 (90).
+* Jokdaris (1214), SuperNerrs 001 (13), behind, sea elf [SELF], 183
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment
+  [ENTE] 1 (30).
+* Unit (1532), SuperNerrs 001 (13), behind, 5 leaders [LEAD], 2155
+  silver [SILV], 5 horses [HORS]. Weight: 300. Capacity: 0/350/425/0.
+  Skills: observation [OBSE] 5 (450), riding [RIDI] 4 (360).
+* Unit (1690), SuperNerrs 001 (13), behind, 40 nomads [NOMA], 6259
+  silver [SILV], livestock [LIVE], fish [FISH], 40 crossbows [XBOW],
+  chain armor [CARM]. Weight: 492. Capacity: 0/0/650/0. Skills:
+  crossbow [XBOW] 3 (180).
+* Unit (2182), SuperNerrs 001 (13), 76 leaders [LEAD], grain [GRAI],
+  10852 silver [SILV], roses [ROSE], wagon [WAGO], longbow [LBOW],
+  silk [SILK], fish [FISH]. Weight: 823. Capacity: 0/0/1140/0. Skills:
+  combat [COMB] 5 (450), riding [RIDI] 3 (180).
+* Unit (2550), SuperNerrs 001 (13), behind, high elf [HELF], 16 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (58,12) in Brangrod, 430 peasants (high elves), $2150.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $1290).
+  Wanted: none.
+  For Sale: 86 high elves [HELF] at $60, 17 leaders [LEAD] at $120.
+  Entertainment available: $107.
+  Products: 78 grain [GRAI], 22 horses [HORS].
+
+Exits:
+  North : ocean (58,10) in Atlantis Ocean.
+  Northeast : ocean (59,11) in Atlantis Ocean.
+  Southeast : plain (59,13) in Brangrod.
+  South : plain (58,14) in Brangrod.
+  Southwest : ocean (57,13) in Atlantis Ocean.
+  Northwest : plain (57,11) in Brangrod, contains Treshrd [town].
+
+* VVZ5 (1364), on guard, SuperNerrs 001 (13), 12 sea elves [SELF], 39
+  high elves [HELF], 9 swords [SWOR], 38785 silver [SILV]. Weight:
+  519. Capacity: 0/0/765/0. Skills: combat [COMB] 2 (90).
+* Unit (1692), SuperNerrs 001 (13), behind, 260 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+  (450), stealth [STEA] 5 (450).
+* Unit (1693), SuperNerrs 001 (13), behind, 260 silver [SILV], leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: stealth [STEA] 5
+  (450), observation [OBSE] 5 (450).
+
+
+plain (59,13) in Brangrod, 722 peasants (nomads), $2888.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $2021).
+  Wanted: none.
+  For Sale: 144 nomads [NOMA] at $56, 28 leaders [LEAD] at $112.
+  Entertainment available: $144.
+  Products: 53 grain [GRAI], 24 horses [HORS].
+
+Exits:
+  North : ocean (59,11) in Atlantis Ocean.
+  Northeast : ocean (60,12) in Atlantis Ocean.
+  Southeast : ocean (60,14) in Atlantis Ocean.
+  South : ocean (59,15) in Atlantis Ocean.
+  Southwest : plain (58,14) in Brangrod.
+  Northwest : plain (58,12) in Brangrod.
+
+* VVZ99 (1451), on guard, SuperNerrs 001 (13), high elf [HELF], 265
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+  1 (30).
+
+
+plain (58,14) in Brangrod, 510 peasants (sea elves), $2040.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1428).
+  Wanted: none.
+  For Sale: 102 sea elves [SELF] at $56, 20 leaders [LEAD] at $112.
+  Entertainment available: $102.
+  Products: 56 livestock [LIVE], 31 horses [HORS].
+
+Exits:
+  North : plain (58,12) in Brangrod.
+  Northeast : plain (59,13) in Brangrod.
+  Southeast : ocean (59,15) in Atlantis Ocean.
+  South : ocean (58,16) in Atlantis Ocean.
+  Southwest : ocean (57,15) in Atlantis Ocean.
+  Northwest : ocean (57,13) in Atlantis Ocean.
+
+* VVZ100 (1452), on guard, SuperNerrs 001 (13), high elf [HELF], 183
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+  1 (30).
+
+
+plain (73,19) in Bocholt, contains Ineault'y [city], 5421 peasants
+  (nomads), $48789.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $19 (Max: $20599).
+  Wanted: 144 grain [GRAI] at $21, 176 livestock [LIVE] at $27, 80
+    swords [SWOR] at $114, 81 chain armor [CARM] at $99, 55 plate
+    armor [PARM] at $554, 69 wagons [WAGO] at $159, 52 truffles [TRUF]
+    at $137, 50 velvet [VELV] at $137.
+  For Sale: 82 horses [HORS] at $84, 50 figurines [FIGU] at $90, 91
+    dye [DYE] at $89, 1084 nomads [NOMA] at $76, 216 leaders [LEAD] at
+    $152.
+  Entertainment available: $2439.
+  Products: 49 livestock [LIVE], 33 horses [HORS].
+
+Exits:
+  North : plain (73,17) in Bocholt.
+  Northeast : plain (74,18) in Bocholt.
+  Southeast : plain (74,20) in Bocholt.
+  South : plain (73,21) in Bocholt.
+  Southwest : plain (72,20) in Bocholt.
+  Northwest : plain (72,18) in Bocholt.
+
+- Sevellaeius (1081), Gragblod (7), avoiding, nomad [NOMA], stone
+  [STON], longbow [LBOW].
+* Izsitejs (1111), SuperNerrs 001 (13), avoiding, behind, revealing
+  faction, viking [VIKI], horse [HORS], 381 silver [SILV]. Weight: 60.
+  Capacity: 0/70/85/0. Skills: combat [COMB] 1 (30).
+- Cimonia (1157), Gragblod (7), 61 high elves [HELF], 61 horses
+  [HORS].
+- Manius (908), on guard, Gragblod (7), 275 sea elves [SELF], 251
+  horses [HORS].
+- Salecia (1236), Gragblod (7), 144 nomads [NOMA], 144 horses [HORS].
+- Jallius (1186), Gragblod (7), behind, leader [LEAD], horse [HORS].
+- Truffles (1859), on guard, New Horizons (16), tribal elf [TELF],
+  nomad [NOMA], 180 horses [HORS].
+- Unit (1185), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1237), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1269), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1277), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1341), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (1402), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Ranch (2212), New Horizons (16), avoiding, behind, 2 leaders [LEAD],
+  11 horses [HORS].
+- Ranch (2213), New Horizons (16), avoiding, behind, leader [LEAD].
+- Reilly (2214), New Horizons (16), avoiding, behind, leader [LEAD].
+- Comb 9 (2179), New Horizons (16), behind, 90 leaders [LEAD], 62
+  winged horses [WING].
+- Magnificent 7 (2312), New Horizons (16), behind, 17 leaders [LEAD].
+- Rawhide (2313), New Horizons (16), avoiding, behind, 17 nomads
+  [NOMA], 49 livestock [LIVE].
+- Aux (2314), New Horizons (16), behind, leader [LEAD].
+- 2 wise guys (2391), New Horizons (16), behind, 2 leaders [LEAD].
+- Wise Guy (2396), New Horizons (16), avoiding, behind, leader [LEAD].
+- 2 Ridi Guys (2476), New Horizons (16), avoiding, 2 leaders [LEAD].
+- Carp Guy (2477), New Horizons (16), behind, leader [LEAD].
+- Herb Guy (2480), New Horizons (16), avoiding, behind, leader [LEAD],
+  double bow [DBOW].
+- Hunt Guy (2483), New Horizons (16), avoiding, behind, 3 leaders
+  [LEAD].
+- Fish Guy (2484), New Horizons (16), avoiding, behind, 3 leaders
+  [LEAD], horse [HORS].
+- Ridi Guy (2485), New Horizons (16), avoiding, behind, leader [LEAD],
+  5 winged horses [WING].
+- Unit (1055), Gragblod (7), 623 vikings [VIKI], 623 horses [HORS],
+  chain armor [CARM], 4 swords [SWOR].
+- Weap (1839), New Horizons (16), avoiding, behind, leader [LEAD],
+  horse [HORS], 5 double bows [DBOW].
+- Mini (1860), New Horizons (16), avoiding, behind, leader [LEAD],
+  horse [HORS].
+- Ridi 5 (2519), New Horizons (16), avoiding, behind, 5 leaders
+  [LEAD].
+- Lumber Guy (2523), New Horizons (16), avoiding, behind, leader
+  [LEAD].
+- Unit (2171), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (2173), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Unit (2295), Gragblod (7), 10 leaders [LEAD], 10 horses [HORS].
+- Mini (2630), New Horizons (16), avoiding, behind, 4 leaders [LEAD].
+- Stealthy Guys (2631), New Horizons (16), avoiding, behind, 2 leaders
+  [LEAD].
+- Weap boys (2634), New Horizons (16), avoiding, behind, 2 leaders
+  [LEAD], 10 double bows [DBOW].
+- Ridi Guy (2745), New Horizons (16), avoiding, behind, leader [LEAD],
+  winged horse [WING].
+- Ridi Guy (2746), New Horizons (16), avoiding, behind, leader [LEAD],
+  winged horse [WING].
+- Mini Guys (3003), New Horizons (16), avoiding, behind, 4 leaders
+  [LEAD].
+- Carpenters (3004), New Horizons (16), avoiding, behind, 5 leaders
+  [LEAD], 85 ironwood [IRWD].
+- Yew Guys (3005), New Horizons (16), avoiding, behind, 5 leaders
+  [LEAD].
+- Unit (1534), Gragblod (7), 100 leaders [LEAD], 100 crossbows [XBOW],
+  42 horses [HORS].
+- Tact 5 (3027), New Horizons (16), avoiding, behind, 5 leaders
+  [LEAD].
+- Unit (888), Gragblod (7), 50 vikings [VIKI], 50 horses [HORS].
+- Hors Guys (3159), New Horizons (16), avoiding, behind, 10 leaders
+  [LEAD].
+- XBteacher (3241), New Horizons (16), avoiding, behind, leader
+  [LEAD], double bow [DBOW].
+- LBteacher (3242), New Horizons (16), avoiding, behind, leader
+  [LEAD], double bow [DBOW], 8 winged horses [WING].
+- Lbow guy (3243), New Horizons (16), behind, 6 leaders [LEAD], 4
+  double bows [DBOW], 8 winged horses [WING].
+- Xbow guy (3244), New Horizons (16), avoiding, behind, 6 leaders
+  [LEAD], double bow [DBOW].
+- Unit (2041), Gragblod (7), 184 nomads [NOMA], 119 crossbows [XBOW].
+- Globe theatre (3006), New Horizons (16), avoiding, behind, 30 wood
+  elves [WELF], 2 horses [HORS].
+- Xguy (3200), New Horizons (16), behind, leader [LEAD].
+- Unit (2670), Gragblod (7), 184 nomads [NOMA].
+- com guys (3275), New Horizons (16), 10 leaders [LEAD], 14 winged
+  horses [WING].
+- Yew (3279), New Horizons (16), avoiding, behind, 5 horses [HORS],
+  leader [LEAD].
+- Unit (1664), Gragblod (7), 60 nomads [NOMA].
+- Unit (1724), Gragblod (7), 100 nomads [NOMA].
+- Funny (3350), New Horizons (16), avoiding, behind, leader [LEAD],
+  horse [HORS].
+- Weap guys (3354), New Horizons (16), avoiding, behind, leader
+  [LEAD].
+- comb guy (3355), New Horizons (16), avoiding, behind, leader [LEAD].
+- Weap guys (3427), New Horizons (16), avoiding, behind, 15 leaders
+  [LEAD], 8 horses [HORS].
+- Aux Weap (3428), New Horizons (16), avoiding, behind, 3 leaders
+  [LEAD].
+- Courier (3349), New Horizons (16), avoiding, leader [LEAD].
+- Funny (3319), New Horizons (16), avoiding, behind, horse [HORS],
+  plainsman [PLAI].
+- Rawhide (1387), New Horizons (16), avoiding, behind, 8 horses
+  [HORS], 10 nomads [NOMA].
+- mini teacher (1411), New Horizons (16), avoiding, behind, leader
+  [LEAD].
+- Xguy (1413), New Horizons (16), behind, 7 leaders [LEAD], double bow
+  [DBOW].
+- Lguy (1457), New Horizons (16), avoiding, behind, 7 leaders [LEAD],
+  double bow [DBOW], 11 winged horses [WING].
+- mini teacher (1473), New Horizons (16), avoiding, behind, 5 leaders
+  [LEAD].
+- Funny (3318), New Horizons (16), avoiding, behind, plainsman [PLAI].
+- Unit (1234), Gragblod (7), 100 nomads [NOMA].
+- Funny (3289), New Horizons (16), avoiding, behind, plainsman [PLAI].
+- Taxeer (1747), New Horizons (16), leader [LEAD], 2 horses [HORS].
+- Funny (3299), New Horizons (16), avoiding, behind, plainsman [PLAI],
+  9 horses [HORS].
+- Rawhide (2228), New Horizons (16), avoiding, behind, 8 horses
+  [HORS], 10 nomads [NOMA].
+- Rawhide (2229), New Horizons (16), avoiding, behind, 8 horses
+  [HORS], 10 nomads [NOMA].
+- Courier (3245), New Horizons (16), avoiding, behind, leader [LEAD],
+  winged horse [WING], 30 horses [HORS].
+- womgers (2180), New Horizons (16), 2 winged horses [WING], leader
+  [LEAD].
+- courier (1481), New Horizons (16), avoiding, behind, leader [LEAD].
+- delivery (3148), New Horizons (16), avoiding, behind, leader [LEAD],
+  103 truffles [TRUF], horse [HORS].
+- Whatever (3395), New Horizons (16), avoiding, 50 figurines [FIGU],
+  leader [LEAD].
+- Lguy (3396), New Horizons (16), behind, leader [LEAD].
+- Xguy (3421), New Horizons (16), behind, leader [LEAD].
+- Lguy (3422), New Horizons (16), avoiding, behind, leader [LEAD].
+- Xguy (3430), New Horizons (16), avoiding, behind, leader [LEAD].
+- Consolidated (2730), New Horizons (16), avoiding, 3 horses [HORS],
+  leader [LEAD].
+- Courier (3431), New Horizons (16), avoiding, behind, 11 livestock
+  [LIVE], 7 winged horses [WING], leader [LEAD].
+- OK Coral (2851), New Horizons (16), avoiding, behind, horse [HORS],
+  leader [LEAD], 8 winged horses [WING].
+- Drover (3310), New Horizons (16), 8 horses [HORS], leader [LEAD], 7
+  yew [YEW], 9 ironwood [IRWD].
+
+
+plain (61,33) in Erisort, contains Mundmar [city], 5153 peasants
+  (plainsmen), $41224.
+------------------------------------------------------------
+  The weather was clear last month; it will be monsoon season next
+    month.
+  Wages: $18 (Max: $18550).
+  Wanted: 168 grain [GRAI] at $24, 130 livestock [LIVE] at $23, 62
+    longbows [LBOW] at $126, 60 plate armor [PARM] at $453, 55 wagons
+    [WAGO] at $165, 82 spices [SPIC] at $167, 97 cotton [COTT] at
+    $140.
+  For Sale: 55 horses [HORS] at $50, 82 crossbows [XBOW] at $131, 53
+    roses [ROSE] at $76, 54 velvet [VELV] at $74, 1030 plainsmen
+    [PLAI] at $72, 206 leaders [LEAD] at $144.
+  Entertainment available: $2061.
+  Products: 61 grain [GRAI], 27 horses [HORS].
+
+Exits:
+  North : plain (61,31) in Erisort.
+  Northeast : mountain (62,32) in Scourie.
+  Southeast : mountain (62,34) in Scourie.
+  South : mountain (61,35) in Scourie.
+  Southwest : plain (60,34) in Erisort.
+  Northwest : plain (60,32) in Erisort.
+
+- Sargi (1228), on guard, 99 plainsmen [PLAI], 9 nomads [NOMA], 4 yew
+  [YEW], 7 rootstone [ROOT], horse [HORS], cashmere [CASH], 8 ironwood
+  [IRWD], mithril sword [MSWO].
+* Izsitejs (1110), SuperNerrs 001 (13), avoiding, behind, viking
+  [VIKI], 296 silver [SILV], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: stealth [STEA] 2 (90).
+- TUVC (1469), 150 leaders [LEAD], floater hide [FLOA], 11 yew [YEW],
+  3 ironwood [IRWD], 50 swords [SWOR], 150 horses [HORS], 5 mithril
+  swords [MSWO], 7 chain armor [CARM], plate armor [PARM], mithril
+  armor [MARM].
+- TUVC skolotaji (1493), on guard, 15 leaders [LEAD], 16 winged horses
+  [WING], 15 mithril swords [MSWO], 6 mithril armor [MARM].
+* Unit (1558), SuperNerrs 001 (13), avoiding, behind, plainsman
+  [PLAI], 280 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30).
+- ARBA (1117), 954 leaders [LEAD], 359 horses [HORS], 944 crossbows
+  [XBOW], mink [MINK], 2 rootstone [ROOT], 8 yew [YEW], 11 double bows
+  [DBOW].
+- Arba Noma (1829), 354 nomads [NOMA], 232 horses [HORS], 356
+  crossbows [XBOW], 6 rootstone [ROOT], 22 yew [YEW], 4 ironwood
+  [IRWD], 4 mithril [MITH].
+- Unit (1986), Gragblod (7), behind, plainsman [PLAI].
+
+
+
+Orders Template (Long Format):
+
+#atlantis 13 "666999"
+
+;*** plain (55,1) in Githdoror, contains Bal-dor [city] ***
+
+unit 2547
+;Unit (2547), 246 silver [SILV], nomad [NOMA]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: none.
+@WORK
+
+;*** plain (56,2) in Rusila, contains Granport [city] ***
+
+unit 2176
+;Unit (2176), 316 silver [SILV], plainsman [PLAI]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: none.
+@WORK
+
+;*** plain (57,3) in Rusila, contains Linvoltan [city] ***
+
+unit 2196
+;Unit (2196), 438 silver [SILV], nomad [NOMA]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: none.
+@WORK
+
+;*** plain (56,4) in Rusila ***
+
+unit 1647
+;Unit (1647), on guard, 26 plainsmen [PLAI], 27109 silver [SILV], 6
+;  swords [SWOR]. Weight: 266. Capacity: 0/0/390/0. Skills: combat
+;  [COMB] 2 (90).
+@WORK
+@GUARD 1
+@TAX
+
+unit 2890
+;Unit (2890), behind, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 4 (390).
+@STUDY OBSE
+@BEHIND 1
+
+;*** plain (53,5) in Githdoror, contains Kul-kai [city] ***
+
+unit 2548
+;Unit (2548), 262 silver [SILV], nomad [NOMA]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: none.
+@WORK
+
+;*** plain (57,5) in Rusila ***
+
+unit 1648
+;Unit (1648), on guard, 26 plainsmen [PLAI], 28186 silver [SILV], sword
+;  [SWOR]. Weight: 261. Capacity: 0/0/390/0. Skills: combat [COMB] 2
+;  (90).
+@WORK
+@GUARD 1
+@TAX
+
+unit 2891
+;Unit (2891), behind, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 4 (360).
+@STUDY OBSE
+@BEHIND 1
+
+;*** plain (54,6) in Githdoror, contains Aman-ungol [city] ***
+
+unit 1446
+;Unit (1446), plainsman [PLAI], 216 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+@WORK
+
+;*** plain (56,6) in Rusila, contains Eloatanfel [city] ***
+
+unit 1176
+;Okskeris (1176), sea elf [SELF], 17 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+@BEHIND 0
+@work
+@;TAX
+@;GUARD 1
+
+unit 2186
+;Unit (2186), plainsman [PLAI], horse [HORS], 82 silver [SILV]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: none.
+@WORK
+
+unit 2573
+;Unit (2573), 300 nomads [NOMA], 109420 silver [SILV], 21 swords
+;  [SWOR]. Weight: 3021. Capacity: 0/0/4500/0. Skills: combat [COMB] 2
+;  (90).
+@work
+@GIVE 2549 70 SILV
+@give 2331 220 silv
+@tax
+
+unit 2549
+;Unit (2549), behind, leader [LEAD], 102 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450).
+@STUDY OBSE
+@behind 1
+
+unit 1360
+;VVZ2 (1360), on guard, 37 plainsmen [PLAI], 15749 silver [SILV], 7
+;  swords [SWOR]. Weight: 377. Capacity: 0/0/555/0. Skills: combat
+;  [COMB] 2 (90).
+@BEHIND 0
+@AVOID 0
+@work
+@TAX
+@GUARD 1
+
+unit 2181
+;Unit (2181), on guard, 196535 silver [SILV], 470 vikings [VIKI], 2
+;  furs [FUR], 2 fish [FISH], grain [GRAI], perfume [PERF], 28 swords
+;  [SWOR]. Weight: 4738. Capacity: 0/0/7050/0. Skills: combat [COMB] 3
+;  (180).
+@work
+@TAX
+@guard 1
+
+unit 2331
+;Unit (2331), behind, horse [HORS], leader [LEAD], 5 silver [SILV].
+;  Weight: 60. Capacity: 0/70/85/0. Skills: tactics [TACT] 4 (360).
+@behind 1
+@study tact
+
+unit 2892
+;Unit (2892), on guard, behind, 63621 silver [SILV], 74 nomads [NOMA],
+;  3 swords [SWOR], 74 crossbows [XBOW]. Weight: 817. Capacity:
+;  0/0/1110/0. Skills: crossbow [XBOW] 3 (180).
+@work
+@guard 1
+
+unit 2575
+;Unit (2575), behind, 14 horses [HORS], leader [LEAD]. Weight: 710.
+;  Capacity: 0/980/995/0. Skills: none.
+
+unit 3050
+;Unit (3050), behind, 22000 silver [SILV], 500 nomads [NOMA]. Weight:
+;  5000. Capacity: 0/0/7500/0. Skills: crossbow [XBOW] 2 (120).
+@STUDY XBOW
+@TAX
+
+unit 2110
+;Unit (2110), 300 vikings [VIKI], velvet [VELV], grain [GRAI], 4 fish
+;  [FISH], 2 livestock [LIVE], perfume [PERF], 126054 silver [SILV],
+;  chocolate [CHOC], herb [HERB], caviar [CAVI], 2 stone [STON], 175
+;  horses [HORS], chain armor [CARM]. Weight: 11972. Capacity:
+;  0/12250/16850/0. Skills: combat [COMB] 3 (180).
+@;WORK
+@TAX
+
+unit 2253
+;Unit (2253), 63076 silver [SILV], 400 vikings [VIKI], cotton [COTT], 2
+;  crossbows [XBOW], 2 silk [SILK], 4 livestock [LIVE], chocolate
+;  [CHOC], dye [DYE], 2 furs [FUR], 2 fish [FISH], perfume [PERF], iron
+;  [IRON], figurines [FIGU], cashmere [CASH], truffles [TRUF], jewelry
+;  [JEWE], stone [STON]. Weight: 4295. Capacity: 0/0/6200/0. Skills:
+;  combat [COMB] 3 (180).
+@work
+@TAX
+
+;*** mountain (49,7) in Cornon, contains Enddordor [town] ***
+
+unit 1174
+;Okskeris (1174), avoiding, behind, sea elf [SELF], horse [HORS], 351
+;  silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat
+;  [COMB] 1 (30).
+@BEHIND 1
+@AVOID 1
+@work
+@;TAX
+
+;*** plain (56,8) in Rusila ***
+
+unit 1213
+;Klaidoni (1213), 9 vikings [VIKI], 1433 silver [SILV], 2 swords
+;  [SWOR]. Weight: 92. Capacity: 0/0/135/0. Skills: combat [COMB] 3
+;  (180).
+@BEHIND 0
+@AVOID 0
+@WORK
+
+unit 1419
+;Vanagacs (1419), behind, leader [LEAD], 710 silver [SILV], sword
+;  [SWOR]. Weight: 11. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+;  (450), stealth [STEA] 5 (450), riding [RIDI] 2 (150).
+@BEHIND 1
+@STUDY RIDI
+
+unit 1447
+;Unit (1447), behind, 5 plainsmen [PLAI], 1417 silver [SILV], grain
+;  [GRAI], 3 swords [SWOR]. Weight: 58. Capacity: 0/0/75/0. Skills:
+;  entertainment [ENTE] 2 (90).
+@ENTERTAIN
+
+unit 1448
+;Unit (1448), behind, leader [LEAD], 410 silver [SILV], sword [SWOR].
+;  Weight: 11. Capacity: 0/0/15/0. Skills: stealth [STEA] 5 (450),
+;  observation [OBSE] 3 (180), tactics [TACT] 5 (450).
+@STUDY TACT
+@REVEAL
+
+unit 1440
+;Unit (1440), 18 plainsmen [PLAI], 22497 silver [SILV], fish [FISH],
+;  fur [FUR], livestock [LIVE], 2 swords [SWOR]. Weight: 234. Capacity:
+;  0/0/320/0. Skills: combat [COMB] 2 (90).
+@work
+@TAX
+@GIVE 1419 70 SILV
+@GIVE 1448 220 SILV
+@give 2574 220 silv
+
+unit 1688
+;Unit (1688), 15037 silver [SILV], 10 plainsmen [PLAI], cotton [COTT],
+;  vodka [VODK], 2 swords [SWOR]. Weight: 112. Capacity: 0/0/150/0.
+;  Skills: combat [COMB] 2 (90).
+@tax
+@work
+
+unit 2574
+;Unit (2574), behind, 613 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: tactics [TACT] 5 (450).
+@STUDY TACT
+
+;*** mountain (51,9) in Cornon ***
+
+unit 1418
+;bimbambo (1418), 104 silver [SILV], plainsman [PLAI]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+@WORK
+
+;*** plain (57,9) in Rusila, contains Wastenheim [city] ***
+
+unit 1194
+;Nerrotaji (1194), on guard, 307 vikings [VIKI], 41269 silver [SILV], 2
+;  iron [IRON], 2 crossbows [XBOW], 4 furs [FUR], 2 herbs [HERB], 4
+;  fish [FISH], livestock [LIVE], cotton [COTT], vodka [VODK],
+;  figurines [FIGU], stone [STON], plate armor [PARM], 14 swords
+;  [SWOR]. Weight: 3218. Capacity: 0/0/4655/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@behind 0
+@tax
+@GIVE 2116 210 SILV
+@guard 1
+
+unit 2116
+;Unit (2116), on guard, behind, 3 leaders [LEAD], 1068 silver [SILV], 4
+;  horses [HORS]. Weight: 230. Capacity: 0/280/325/0. Skills:
+;  observation [OBSE] 5 (450), riding [RIDI] 1 (60), combat [COMB] 2
+;  (120).
+@STUDY COMB
+@TAX
+@GUARD 1
+
+unit 2325
+;Unit (2325), 83596 silver [SILV], 300 vikings [VIKI], livestock
+;  [LIVE], chocolate [CHOC], 3 fish [FISH], 684 crossbows [XBOW],
+;  truffles [TRUF], roses [ROSE], wood [WOOD], cashmere [CASH], 2 furs
+;  [FUR]. Weight: 3756. Capacity: 0/0/4550/0. Skills: combat [COMB] 3
+;  (180).
+@work
+@TAX
+@buy 57 xbow
+
+unit 3057
+;Unit (3057), on guard, 158576 silver [SILV], 844 vikings [VIKI],
+;  jewelry [JEWE], 3 grain [GRAI], wine [WINE], fur [FUR], 2 figurines
+;  [FIGU], perfume [PERF]. Weight: 8465. Capacity: 0/0/12660/0. Skills:
+;  combat [COMB] 2 (120).
+@STUDY COMB
+@GUARD 1
+@TAX
+
+unit 3106
+;Unit (3106), on guard, 70706 silver [SILV], 168 leaders [LEAD], grain
+;  [GRAI]. Weight: 1685. Capacity: 0/0/2520/0. Skills: combat [COMB] 2
+;  (120).
+@STUDY COMB
+@GUARD 1
+@TAX
+
+;*** plain (56,10) in Rusila ***
+
+unit 1266
+;Viszinis (1266), behind, leader [LEAD], 3330 silver [SILV], 4 swords
+;  [SWOR], horse [HORS]. Weight: 64. Capacity: 0/70/85/0. Skills:
+;  tactics [TACT] 5 (450), riding [RIDI] 5 (450), stealth [STEA] 5
+;  (450), observation [OBSE] 2 (150).
+@STUDY OBSE
+@BEHIND 1
+@AVOID 0
+
+unit 1347
+;Unit (1347), avoiding, behind, leader [LEAD], 848 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: stealth [STEA] 5 (450),
+;  observation [OBSE] 5 (450), riding [RIDI] 3 (180).
+@STUDY ridi
+@AVOID 1
+@BEHIND 1
+@REVEAL
+
+unit 1361
+;VVZ3 (1361), on guard, 52 nomads [NOMA], 9 sea elves [SELF], 35168
+;  silver [SILV], figurines [FIGU], horse [HORS], 11 swords [SWOR].
+;  Weight: 672. Capacity: 0/70/985/0. Skills: combat [COMB] 2 (90).
+@BEHIND 0
+@TAX
+@GUARD 1
+@GIVE 1362 220 SILV
+@GIVE 1363 120 SILV
+@GIVE 1389 120 SILV
+@GIVE 1362 120 SILV
+@GIVE 1390 120 SILV
+@GIVE 1347 70 SILV
+@GIVE 1266 152 SILV
+@GIVE 893 120 SILV
+@GIVE 1421 69 SILV
+@GIVE 1266 68 SILV
+@WORK
+@GIVE 1531 150 SILV
+@AVOID 0
+@HOLD 0
+@NOAID 0
+
+unit 1362
+;Burvis ibn Nerrs Komarnijs II (1362), behind, leader [LEAD], 8422
+;  silver [SILV], 2 swords [SWOR], 2 imps [IMP]. Weight: 32. Capacity:
+;  0/0/45/0. Skills: force [FORC] 3 (225), fire [FIRE] 2 (90), spirit
+;  [SPIR] 3 (210), demon lore [DEMO] 3 (180), summon imps [SUIM] 2
+;  (120). Combat spell: fire [FIRE]. Can Study: fire [FIRE], force
+;  shield [FSHI], energy shield [ESHI], spirit shield [SSHI],
+;  necromancy [NECR], summon imps [SUIM], banish demons [BDEM].
+@STUDY SUIM
+@COMBAT FIRE
+@BEHIND 1
+@AVOID 0
+@CAST Summon_Imps
+@GIVE 1361 ALL IMP
+
+unit 1363
+;Burvis ibn Nerrs Komarnijs III (1363), behind, leader [LEAD], 920
+;  silver [SILV], fish [FISH], 2 imps [IMP]. Weight: 31. Capacity:
+;  0/0/45/0. Skills: force [FORC] 3 (180), fire [FIRE] 2 (90), spirit
+;  [SPIR] 3 (210), demon lore [DEMO] 3 (180), summon imps [SUIM] 2
+;  (120). Combat spell: fire [FIRE]. Can Study: fire [FIRE], force
+;  shield [FSHI], energy shield [ESHI], spirit shield [SSHI],
+;  necromancy [NECR], summon imps [SUIM], banish demons [BDEM].
+@STUDY SUIM
+@COMBAT FIRE
+@BEHIND 1
+@AVOID 0
+@CAST Summon_Imps
+@GIVE 1361 ALL IMP
+
+unit 1389
+;Burvis ibn Nerrs Komarnijs IV (1389), behind, leader [LEAD], 216
+;  silver [SILV], imp [IMP]. Weight: 20. Capacity: 0/0/30/0. Skills:
+;  force [FORC] 4 (405), fire [FIRE] 2 (90), pattern [PATT] 1 (30),
+;  magical healing [MHEA] 1 (30), spirit [SPIR] 3 (210), demon lore
+;  [DEMO] 2 (90), summon imps [SUIM] 1 (30). Combat spell: fire [FIRE].
+;  Can Study: fire [FIRE], earthquake [EQUA], force shield [FSHI],
+;  energy shield [ESHI], spirit shield [SSHI], gate lore [GATE],
+;  farsight [FARS], mind reading [MIND], weather lore [WEAT], earth
+;  lore [EART], necromancy [NECR], demon lore [DEMO], summon imps
+;  [SUIM], banish demons [BDEM], illusion [ILLU], artifact lore [ARTI].
+@STUDY FORC
+@COMBAT FIRE
+@BEHIND 1
+@AVOID 0
+@CAST Summon_Imps
+@GIVE 1361 ALL IMP
+
+unit 1390
+;Burvis ibn Nerrs Komarnijs V (1390), behind, leader [LEAD], 1016
+;  silver [SILV], imp [IMP]. Weight: 20. Capacity: 0/0/30/0. Skills:
+;  force [FORC] 3 (285), fire [FIRE] 2 (90), pattern [PATT] 1 (30),
+;  magical healing [MHEA] 1 (30), spirit [SPIR] 3 (210), demon lore
+;  [DEMO] 2 (90), summon imps [SUIM] 1 (30). Combat spell: fire [FIRE].
+;  Can Study: fire [FIRE], earthquake [EQUA], force shield [FSHI],
+;  energy shield [ESHI], spirit shield [SSHI], gate lore [GATE],
+;  farsight [FARS], mind reading [MIND], weather lore [WEAT], earth
+;  lore [EART], necromancy [NECR], demon lore [DEMO], summon imps
+;  [SUIM], banish demons [BDEM], illusion [ILLU], artifact lore [ARTI].
+@STUDY forc
+@COMBAT FIRE
+@BEHIND 1
+@AVOID 0
+@GIVE 1361 ALL IMP
+@CAST Summon_Imps
+
+unit 1421
+;Vanagacs (1421), behind, leader [LEAD], 669 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), stealth
+;  [STEA] 5 (450), riding [RIDI] 3 (180).
+@STUDY ridi
+
+unit 893
+;Varenais Mobijs Diks (893), behind, leader [LEAD], 1316 silver [SILV],
+;  imp [IMP]. Weight: 20. Capacity: 0/0/30/0. Skills: pattern [PATT] 1
+;  (30), spirit [SPIR] 4 (435), gate lore [GATE] 1 (30), force [FORC] 2
+;  (105), stealth [STEA] 2 (90), fire [FIRE] 2 (90), observation [OBSE]
+;  3 (240), demon lore [DEMO] 1 (30), summon imps [SUIM] 1 (30). Combat
+;  spell: fire [FIRE]. Can Study: earthquake [EQUA], force shield
+;  [FSHI], energy shield [ESHI], spirit shield [SSHI], magical healing
+;  [MHEA], farsight [FARS], mind reading [MIND], weather lore [WEAT],
+;  earth lore [EART], necromancy [NECR], demon lore [DEMO], banish
+;  demons [BDEM], illusion [ILLU], artifact lore [ARTI].
+@COMBAT FIRE
+@REVEAL
+@STUDY SPIR
+@AVOID 0
+@;DECLARE DEFAULT Unfriendly
+@DECLARE 2 HOSTILE
+@DECLARE 7 ALLY
+@DECLARE 10 ALLY
+@CAST Summon_Imps
+@GIVE 1361 ALL IMP
+
+unit 1531
+;Unit (1531), behind, 5 leaders [LEAD], 226 silver [SILV], sword
+;  [SWOR]. Weight: 51. Capacity: 0/0/75/0. Skills: crossbow [XBOW] 5
+;  (450), riding [RIDI] 5 (450), longbow [LBOW] 3 (180).
+@STUDY lbow
+
+;*** plain (57,11) in Brangrod, contains Treshrd [town] ***
+
+unit 1145
+;Nerrotaji (1145), on guard, 219 sea elves [SELF], 32307 silver [SILV],
+;  67 nomads [NOMA], 19 plainsmen [PLAI], 101 high elves [HELF], 2
+;  grain [GRAI], 3 perfume [PERF], 4 livestock [LIVE], velvet [VELV], 3
+;  furs [FUR], herb [HERB], roses [ROSE], dye [DYE], caviar [CAVI],
+;  wood [WOOD], 2 fish [FISH], 28 horses [HORS], ivory [IVOR], 49
+;  swords [SWOR], chain armor [CARM]. Weight: 5746. Capacity:
+;  0/1960/8250/0. Skills: combat [COMB] 2 (90).
+@work
+@BEHIND 0
+@AVOID 0
+@TAX
+@GUARD 1
+@buy 7 hors
+@GIVE 1532 350 SILV
+@GIVE 1690 800 SILV
+@give 1532 500 silv
+
+unit 1214
+;Jokdaris (1214), behind, sea elf [SELF], 183 silver [SILV]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: entertainment [ENTE] 1 (30).
+@ENTERTAIN
+
+unit 1532
+;Unit (1532), behind, 5 leaders [LEAD], 2155 silver [SILV], 5 horses
+;  [HORS]. Weight: 300. Capacity: 0/350/425/0. Skills: observation
+;  [OBSE] 5 (450), riding [RIDI] 4 (360).
+@STUDY ridi
+
+unit 1690
+;Unit (1690), behind, 40 nomads [NOMA], 6259 silver [SILV], livestock
+;  [LIVE], fish [FISH], 40 crossbows [XBOW], chain armor [CARM].
+;  Weight: 492. Capacity: 0/0/650/0. Skills: crossbow [XBOW] 3 (180).
+@WORK
+@TAX
+
+unit 2182
+;Unit (2182), 76 leaders [LEAD], grain [GRAI], 10852 silver [SILV],
+;  roses [ROSE], wagon [WAGO], longbow [LBOW], silk [SILK], fish
+;  [FISH]. Weight: 823. Capacity: 0/0/1140/0. Skills: combat [COMB] 5
+;  (450), riding [RIDI] 3 (180).
+@STUDY ridi
+@TAX
+
+unit 2550
+;Unit (2550), behind, high elf [HELF], 16 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: none.
+@work
+
+;*** plain (58,12) in Brangrod ***
+
+unit 1364
+;VVZ5 (1364), on guard, 12 sea elves [SELF], 39 high elves [HELF], 9
+;  swords [SWOR], 38785 silver [SILV]. Weight: 519. Capacity:
+;  0/0/765/0. Skills: combat [COMB] 2 (90).
+@BEHIND 0
+@AVOID 0
+@work
+@TAX
+@GUARD 1
+@give 1692 70 silv
+@give 1693 70 silv
+
+unit 1692
+;Unit (1692), behind, 260 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), stealth
+;  [STEA] 5 (450).
+@STUDY STEA
+
+unit 1693
+;Unit (1693), behind, 260 silver [SILV], leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: stealth [STEA] 5 (450), observation
+;  [OBSE] 5 (450).
+@STUDY OBSE
+
+;*** plain (59,13) in Brangrod ***
+
+unit 1451
+;VVZ99 (1451), on guard, high elf [HELF], 265 silver [SILV]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+@work
+@GUARD 1
+
+;*** plain (58,14) in Brangrod ***
+
+unit 1452
+;VVZ100 (1452), on guard, high elf [HELF], 183 silver [SILV]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+@GUARD 1
+@WORK
+@;TAX
+
+;*** plain (73,19) in Bocholt, contains Ineault'y [city] ***
+
+unit 1111
+;Izsitejs (1111), avoiding, behind, revealing faction, viking [VIKI],
+;  horse [HORS], 381 silver [SILV]. Weight: 60. Capacity: 0/70/85/0.
+;  Skills: combat [COMB] 1 (30).
+@;TAX
+@WORK
+
+;*** plain (61,33) in Erisort, contains Mundmar [city] ***
+
+unit 1110
+;Izsitejs (1110), avoiding, behind, viking [VIKI], 296 silver [SILV],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: stealth
+;  [STEA] 2 (90).
+@REVEAL
+@;ZAGLIS
+@work
+
+unit 1558
+;Unit (1558), avoiding, behind, plainsman [PLAI], 280 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+@WORK
+
+#end
+

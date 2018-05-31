@@ -1,0 +1,3470 @@
+Atlantis Report For:
+The Moon Brotherhood (12) (War 2, Trade 1, Magic 2)
+May, Year 8
+
+Atlantis Engine Version: 4.1.0
+Standard Atlantis, Version: 4.1.0
+
+Faction Status:
+Tax Regions: 19 (24)
+Trade Regions: 10 (10)
+Mages: 1 (2)
+
+Errors during turn:
+Brother Shiprite's assistants (2098): BUILD: Not a valid object name.
+Knights of the Full Moon (3276): Must be combat ready to be on guard.
+sailors (2268): SAIL: Can't sail that far; remaining moves queued.
+sailors (1187): SAIL: Can't sail that far; remaining moves queued.
+sailors (1417): SAIL: Can't sail that far; remaining moves queued.
+arras (3291): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+rassaphore (2013): MOVE: Unit has insufficient movement points;
+  remaining moves queued.
+rassaphore (2590): MOVE: Unit has insufficient movement points;
+  remaining moves queued.
+novices (3054): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Moon Riders (3059): MOVE: Unit has insufficient movement points;
+  remaining moves queued.
+
+Events during turn:
+Stavrophore vun Landtorm (1210): Gives 60 silver [SILV] to novices
+  (2329).
+Choir of Landtorm (1263): Gives 10 silver [SILV] to Sailor (1884).
+Choir of Landtorm (1263): Gives 380 silver [SILV] to novices (2329).
+novice (2160): Gives 35 silver [SILV] to novices (2329).
+novices (2329): Gives 6 wagons [WAGO] to Stavrophore vun Landtorm
+  (1210).
+novices (2329): Gives 55 silver [SILV] to Sailor (1884).
+rassaphore (1523): Gives 2502 silver [SILV] to novices (1482).
+peasants (1567): Gives 46 silver [SILV] to novices (1482).
+peasants (1567): Gives viking [VIKI] to rassaphore (1523).
+loggers (1408): Gives 72 silver [SILV] to novices (1482).
+novices (2315): Gives 12 silver [SILV] to novices (1482).
+novices (2315): Gives 6 wagons [WAGO] to Stavrophore vun Foresta
+  (1275).
+novices (1482): Gives 160 iron [IRON] to Stavrophore vun Foresta
+  (1275).
+novices (1482): Gives 30 iron [IRON] to novices (2315).
+novices (1482): Gives 6 wagons [WAGO] to Stavrophore vun Foresta
+  (1275).
+rassaphore (1369): Gives 1060 silver [SILV] to Knights of the Full
+  Moon (3201).
+rassaphore (1369): Gives 1996 silver [SILV] to Stavrophore Malleus
+  Maleficarum (1084).
+peasants (2567): Gives 350 silver [SILV] to Stavrophore Malleus
+  Maleficarum (1084).
+farmers (1289): Gives 16 grain [GRAI] to trader (1767).
+loggers (1722): Gives 12 wood [WOOD] to Stavrophore vun Soratgost
+  (1483).
+rassaphore (1068): Gives 15274 silver [SILV] to Stavrophore vun
+  Soratgost (1483).
+trader (1767): Gives 340 silver [SILV] to Stavrophore vun Soratgost
+  (1483).
+Megaloschemos Loon (1050): Gives 30 mithril swords [MSWO] to sailors
+  (2268).
+Choir of Saratgost (1685): Gives 700 silver [SILV] to Stavrophore vun
+  Soratgost (1483).
+arras (2328): Gives 10 silver [SILV] to Brother Sneekes (1569).
+arras (2328): Gives 10 silver [SILV] to Brother Mason (2226).
+arras (2328): Gives 10 silver [SILV] to Brother Smith (1273).
+arras (2328): Gives 10 silver [SILV] to Brother Sneekes (1410).
+arras (2328): Gives 40 silver [SILV] to Brother Sneekes (1410).
+arras (2328): Gives 100 silver [SILV] to Knights of the Full Moon
+  (1339).
+arras (2328): Gives 10 silver [SILV] to novice (1477).
+Brother Smith's assistants (1474): Gives 10 swords [SWOR] to
+  Megaloschemos Loon (1050).
+Brother Smith's assistants (1474): Gives 42 iron [IRON] to Brother
+  Smith's other assistants (1568).
+Brother Smith's assistants (1474): Gives 40 swords [SWOR] to sailors
+  (2268).
+Stavrophore vun Soratgost (1483): Gives mithril sword [MSWO] to
+  Knights of the Full Moon (1339).
+Stavrophore vun Soratgost (1483): Gives 50 silver [SILV] to sailors
+  (2268).
+Stavrophore vun Soratgost (1483): Gives 500 silver [SILV] to Unit
+  (2310).
+Stavrophore vun Soratgost (1483): Gives 900 silver [SILV] to Knights
+  of the Full Moon (1339).
+Stavrophore vun Soratgost (1483): Gives 200 silver [SILV] to Schemos
+  Polemo (1679).
+Stavrophore vun Soratgost (1483): Gives 27000 silver [SILV] to novices
+  (1073).
+Stavrophore vun Soratgost (1483): Gives 5000 silver [SILV] to novices
+  (3054).
+Brother Smith's other assistants (1568): Gives 42 chain armor [CARM]
+  to rassaphore (1068).
+novice (1477): Gives horse [HORS] to Knights of the Full Moon (1339).
+novices (1073): Gives 6 wagons [WAGO] to Stavrophore vun Soratgost
+  (1483).
+novices (1073): Gives 190 iron [IRON] to Brother Smith's assistants
+  (1474).
+novice (1072): Gives horse [HORS] to Knights of the Full Moon (1339).
+novice (1072): Gives viking [VIKI] to novices (1480).
+novices (3054): Gives 16 stone [STON] to Brother Mason (2226).
+Stavrophore (1871): Gives 100 silver [SILV] to Knights of the Full
+  Moon (2215).
+rassaphore (1940): Gives 795 silver [SILV] to Stavrophore (1871).
+rassaphore (1940): Gives 10 swords [SWOR] to Knights of the Full Moon
+  (2215).
+peasants (2668): Gives 498 silver [SILV] to Stavrophore (1871).
+Stavrophore vun Foresta (1313): Gives 100 silver [SILV] to Knights of
+  the Full Moon (2216).
+rassaphore (1526): Gives 518 silver [SILV] to Stavrophore vun Foresta
+  (1313).
+rassaphore (1526): Gives 10 vikings [VIKI] to peasants (2568).
+peasants (2568): Gives 176 silver [SILV] to Stavrophore vun Foresta
+  (1313).
+Stavrophore vun Marsh (1211): Gives 10 silver [SILV] to Fen dweller
+  (3051).
+rassaphore (1773): Gives 516 silver [SILV] to Stavrophore (1872).
+rassaphore (1773): Gives sword [SWOR] to Knights of the Full Moon
+  (2327).
+rassaphore (1773): Gives 4 swords [SWOR] to Knight of the Full Moon
+  (3204).
+Stavrophore (1872): Gives 40 silver [SILV] to Knight of the Full Moon
+  (3204).
+Stavrophore (1872): Gives 1060 silver [SILV] to Knights of the Full
+  Moon (3213).
+peasants (2338): Gives 50 silver [SILV] to Stavrophore (1872).
+peasants (2264): Gives 5 vikings [VIKI] to peasants (2338).
+Knights of the Full Moon (2327): Gives 4 leaders [LEAD] to Knight of
+  the Full Moon (3204).
+rassaphore (1941): Gives 4465 silver [SILV] to Stavrophore vun Foresta
+  (2879).
+peasants (2339): Gives 161 silver [SILV] to Stavrophore vun Foresta
+  (2879).
+Stavrophore vun Foresta (2879): Gives 50 silver [SILV] to Knights of
+  the Full Moon (2880).
+Stavrophore vun Foresta (1486): Gives 210 silver [SILV] to Knights of
+  the Full Moon (2241).
+Stavrophore vun Foresta (1486): Gives 10 silver [SILV] to Knight of
+  the Full Moon (3214).
+peasants (1475): Gives 128 silver [SILV] to Stavrophore vun Foresta
+  (1486).
+rassaphore (1300): Gives 1134 silver [SILV] to Stavrophore vun Foresta
+  (1486).
+rassaphore (1300): Gives 21 vikings [VIKI] to peasants (1475).
+soloist (1262): Gives 30 silver [SILV] to Stavrophore vun Foresta
+  (1486).
+Knight of the Full Moon (3214): Gives leader [LEAD] to Knights of the
+  Full Moon (2241).
+peasants (1804): Gives 0 silver [SILV] to Stavrophore vun Marsh
+  (1678).
+peasants (1844): Gives 5 silver [SILV] to Stavrophore vun Marsh
+  (1678).
+Stavrophore vun Marsh (1678): Gives 50 silver [SILV] to peasants
+  (1804).
+Stavrophore vun Marsh (1678): Gives 60 silver [SILV] to Knights of the
+  Full Moon (2356).
+Stavrophore vun Marsh (1678): Gives 30 silver [SILV] to Knights of the
+  Full Moon (2525).
+Stavrophore vun Marsh (1678): Gives 50 silver [SILV] to rassaphore
+  (2390).
+Stavrophore vun Marsh (1678): Gives 10 silver [SILV] to Knight of the
+  Full Moon (2569).
+Stavrophore vun Foresta (1343): Gives 1140 silver [SILV] to Knights of
+  the Full Moon (3274).
+rassaphore (1786): Gives 1117 silver [SILV] to Stavrophore vun Foresta
+  (1343).
+peasants (2570): Gives 87 silver [SILV] to rassaphore (1786).
+peasants (2340): Gives 14 vikings [VIKI] to peasants (2570).
+peasants (2340): Gives 210 silver [SILV] to Stavrophore vun Foresta
+  (1343).
+rassaphore (2108): Gives 220 silver [SILV] to peasants (2763).
+rassaphore (1681): Gives 358 silver [SILV] to Stavrophore vun Marsh
+  (1315).
+Stavrophore vun Marsh (1315): Gives 20 silver [SILV] to Knights of the
+  Full Moon (2735).
+Stavrophore vun Marsh (1315): Gives 10 silver [SILV] to Shaman (2343).
+peasants (2881): Gives 170 silver [SILV] to Stavrophore vun Marsh
+  (1315).
+peasants (2109): Gives 4421 silver [SILV] to rassaphore (2764).
+rassaphore (2764): Gives 684 silver [SILV] to Knights of the Full Moon
+  (3276).
+rassaphore (1782): Gives 795 silver [SILV] to Stavrophore (2150).
+Stavrophore (2150): Gives 1440 silver [SILV] to arras (3291).
+peasants (1586): Gives 336 silver [SILV] to Stavrophore (2150).
+erbsman (2344): Gives 18 silver [SILV] to Stavrophore (2150).
+rassaphore (1597): Gives 19284 silver [SILV] to rassaphore (3338).
+Stavrophore (1529): Gives 12000 silver [SILV] to sailors (1187).
+Stavrophore (1529): Gives 4524 silver [SILV] to rassaphore (3323).
+Stavrophore (1529): Gives 21372 silver [SILV] to rassaphore (3339).
+sailors (1187): Gives 91 swords [SWOR] to rassaphore (1597).
+rassaphore (2342): Gives 10 silver [SILV] to Knight of the Full Moon
+  (2888).
+rassaphore (2014): Gives 15 vikings [VIKI] to rassaphore (3341).
+rassaphore (2014): Gives 150 silver [SILV] to rassaphore (3341).
+Stavrophore (2884): Gives 1200 silver [SILV] to Knights of the Full
+  Moon (2990).
+choir of thanthielnost (2366): Gives 720 silver [SILV] to chorists
+  (3357).
+farmers (1624): Gives 60 grain [GRAI] to trader (3131).
+trader (3131): Gives 1628 silver [SILV] to Stavrophore (2883).
+arras (1577): Gives 720 silver [SILV] to chorists (3345).
+rassaphore (2508): Gives 15610 silver [SILV] to Knights of the Full
+  Moon (2393).
+rassaphore (2508): Gives 3650 silver [SILV] to rassophore (3346).
+rassaphore (2508): Gives 365 vikings [VIKI] to rassophore (3346).
+rassaphore (2508): Gives 100 silver [SILV] to Tamers (2729).
+rassaphore (2508): Gives 100 silver [SILV] to chorists (3357).
+rassaphore (2508): Gives 100 silver [SILV] to chorists (3345).
+Knights of the Full Moon (3128): Gives 10 silver [SILV] to Pastural
+  Carer (1683).
+farmers (1485): Gives 60 grain [GRAI] to trader (1752).
+trader (1752): Gives 617 silver [SILV] to Stavrophore vun Riltas
+  (2882).
+tamers (2572): Gives 5 horses [HORS] to Stavrophore (3060).
+tamers (2572): Gives 55 horses [HORS] to Moon Riders (3059).
+choir of riltas (1684): Gives 1290 silver [SILV] to Stavrophore vun
+  Riltas (2882).
+choir of riltas (1684): Gives 10 silver [SILV] to Abbot Abraham
+  (1432).
+Stavrophore vun Riltas (2882): Gives 10000 silver [SILV] to Knight of
+  the Full Moon (3358).
+Stavrophore vun Riltas (2882): Gives 50 silver [SILV] to Stavrophore
+  (3060).
+Stavrophore vun Riltas (2882): Gives 100 silver [SILV] to Arras
+  (2940).
+Knights of the Full Moon (3129): Gives 4 horses [HORS] to Moon Riders
+  (3059).
+Knights of the Full Moon (3129): Gives 4600 silver [SILV] to Knight of
+  the Full Moon (3358).
+Brother Shiprite's assistants (2098): Gives 20 wood [WOOD] to
+  fletchers (2748).
+Stavrophore (2885): Gives 1490 silver [SILV] to rassaphore (2590).
+Stavrophore (2885): Gives 1490 silver [SILV] to rassaphore (2590).
+rassaphore (3218): Gives 193 silver [SILV] to Schemos Polemo (1445).
+rassaphore (1523): Collects $362 in taxes in swamp (50,70) in
+  Dorantor.
+rassaphore (1369): Collects $650 in taxes in forest (52,70) in Surdel.
+rassaphore (1068): Collects $17092 in taxes in swamp (49,71) in
+  Dorantor.
+rassaphore (1940): Collects $750 in taxes in forest (51,71) in Surdel.
+Knights of the Full Moon (2216): Collects $500 in taxes in forest
+  (53,71) in Surdel.
+rassaphore (1773): Collects $592 in taxes in forest (52,72) in Surdel.
+Knights of the Full Moon (2241): Collects $1050 in taxes in forest
+  (53,73) in Surdel.
+Knights of the Full Moon (2356): Collects $300 in taxes in swamp
+  (50,74) in Dorantor.
+rassaphore (1786): Collects $1000 in taxes in forest (52,74) in
+  Surdel.
+rassaphore (1782): Collects $750 in taxes in forest (52,76) in Surdel.
+rassaphore (2341): Collects $500 in taxes in swamp (49,77) in
+  Dorantor.
+rassaphore (1597): Collects $20000 in taxes in plain (48,78) in
+  Stroma.
+rassaphore (2342): Collects $148 in taxes in plain (49,79) in Stroma.
+Knight of the Full Moon (2888): Collects $49 in taxes in plain (49,79)
+  in Stroma.
+rassaphore (1307): Collects $496 in taxes in plain (49,79) in Stroma.
+rassaphore (2014): Collects $2876 in taxes in plain (49,79) in Stroma.
+rassaphore (3341): Collects $745 in taxes in plain (49,79) in Stroma.
+rassaphore (3058): Collects $60000 in taxes in plain (48,80) in
+  Stroma.
+Knights of the Full Moon (2990): Collects $6000 in taxes in plain
+  (48,80) in Stroma.
+rassaphore (1308): Collects $1000 in taxes in plain (48,80) in Stroma.
+arras (1577): Collects $2250 in taxes in plain (50,80) in Stroma.
+Knights of the Full Moon (2393): Collects $5000 in taxes in plain
+  (50,80) in Stroma.
+rassaphore (2508): Collects $5000 in taxes in plain (50,80) in Stroma.
+rassaphore (2736): Collects $15000 in taxes in plain (50,80) in
+  Stroma.
+Knights of the Full Moon (3128): Collects $2000 in taxes in plain
+  (50,80) in Stroma.
+rassophore (3346): Collects $18250 in taxes in plain (50,80) in
+  Stroma.
+rassaphore (2975): Collects $50 in taxes in plain (48,82) in Stroma.
+rassaphore (2590): Collects $7450 in taxes in plain (48,82) in Stroma.
+Stavrophore (1330): Collects $50 in taxes in plain (50,82) in Stroma.
+Stavrophore (1333): Collects $50 in taxes in plain (52,82) in Stroma.
+rassaphore (3218): Collects $4450 in taxes in plain (49,85) in Stroma.
+rassaphore (2875): Collects $10000 in taxes in plain (49,85) in
+  Stroma.
+rassaphore (1334): Collects $8400 in taxes in plain (49,85) in Stroma.
+rassaphore (1306): Collects $8400 in taxes in plain (49,85) in Stroma.
+Megaloschemos Loon (1050): Enchants 10 mithril swords.
+trader (1767): Sells 16 grain [GRAI] at $21 each.
+trader (3131): Sells 60 grain [GRAI] at $27 each.
+trader (1752): Sells 60 grain [GRAI] at $27 each.
+novices (2329): Buys 98 swords [SWOR] at $150 each.
+Knights of the Full Moon (3201): Buys 10 leaders [LEAD] at $96 each.
+Knights of the Full Moon (3213): Buys 10 leaders [LEAD] at $96 each.
+Knights of the Full Moon (3274): Buys 10 leaders [LEAD] at $104 each.
+Knights of the Full Moon (3276): Buys 6 leaders [LEAD] at $104 each.
+arras (3291): Buys 20 wood elves [WELF] at $52 each.
+sailors (1187): Buys 22 plate armor [PARM] at $537 each.
+rassaphore (3323): Buys 58 vikings [VIKI] at $68 each.
+rassaphore (3338): Buys 168 vikings [VIKI] at $68 each.
+rassaphore (3339): Buys 274 vikings [VIKI] at $68 each.
+Knights of the Full Moon (2393): Buys 50 plate armor [PARM] at $472
+  each.
+chorists (3345): Buys 10 high elves [HELF] at $72 each.
+chorists (3357): Buys 10 high elves [HELF] at $72 each.
+Knight of the Full Moon (3358): Buys 100 leaders [LEAD] at $136 each.
+Bad Moon Rising [104] sails from swamp (49,71) in Dorantor to ocean
+  (48,72) in Atlantis Ocean.
+Bad Moon Rising [104] sails from ocean (48,72) in Atlantis Ocean to
+  ocean (48,74) in Atlantis Ocean.
+Bark at the Moon [103] sails from plain (48,78) in Stroma to ocean
+  (48,76) in Atlantis Ocean.
+Bark at the Moon [103] sails from ocean (48,76) in Atlantis Ocean to
+  ocean (48,74) in Atlantis Ocean.
+Moonlight Sonata [102] sails from ocean (60,94) in Atlantis Ocean to
+  ocean (61,93) in Atlantis Ocean.
+Moonlight Sonata [102] sails from ocean (61,93) in Atlantis Ocean to
+  ocean (62,92) in Atlantis Ocean.
+novices (2329): Rides from forest (51,69) in Surdel to swamp (50,70)
+  in Dorantor.
+novices (2315): Rides from swamp (50,70) in Dorantor to swamp (49,71)
+  in Dorantor.
+novices (1482): Rides from swamp (50,70) in Dorantor to forest (51,69)
+  in Surdel.
+novices (1073): Rides from swamp (49,71) in Dorantor to swamp (50,70)
+  in Dorantor.
+novices (3054): Rides from swamp (49,71) in Dorantor to swamp (50,72)
+  in Dorantor.
+rassaphore (2013): Walks from plain (48,78) in Stroma to plain (48,80)
+  in Stroma.
+novice (2889): Walks from plain (48,78) in Stroma to plain (48,80) in
+  Stroma.
+fisherman (2669): Walks from plain (50,80) in Stroma to plain (51,81)
+  in Stroma.
+Brother Shiprite (1441): Walks from plain (50,80) in Stroma to plain
+  (51,81) in Stroma.
+Moon Riders (3059): Rides from plain (51,81) in Stroma to plain
+  (50,80) in Stroma.
+rassaphore (2590): Walks from plain (48,82) in Stroma to plain (49,83)
+  in Stroma.
+Novice (1409): Rides from plain (52,94) in Lorthalm to plain (51,95)
+  in Aleccer.
+Moon Riders (3059): Rides from plain (50,80) in Stroma to plain
+  (49,79) in Stroma.
+Captain (1400): Teaches fishing to Sailor (1884).
+Stavrophore Malleus Maleficarum (1084): Teaches combat to Knights of
+  the Full Moon (3201).
+Stavrophore vun Soratgost (1483): Teaches observation to Unit (2310).
+Knights of the Full Moon (2327): Teaches combat to Knights of the Full
+  Moon (3213).
+Stavrophore vun Foresta (1343): Teaches combat to Knights of the Full
+  Moon (3274).
+Knights of the Full Moon (2990): Teaches combat to rassaphore (3058).
+Brother Tombooker (2096): Teaches horse training to Tamers (2729).
+Brother Joplin (2097): Teaches entertainment to chorists (3345).
+Chorist (2671): Teaches entertainment to chorists (3357).
+Knights of the Full Moon (3128): Teaches combat to rassaphore (2736).
+Knights of the Full Moon (3128): Teaches combat to rassaphore (2508).
+Novice (1070): Earns 16 silver working in plain (55,65) in Almeria.
+rassaphore (2874): Earns 91 silver working in swamp (49,69) in
+  Dorantor.
+Sailor (1884): Studies fishing.
+novice (2160): Earns 17 silver working in forest (51,69) in Surdel.
+Stavrophore vun Landtorm (1210): Earns 60 silver entertaining in
+  forest (51,69) in Surdel.
+Choir of Landtorm (1263): Earns 120 silver entertaining in forest
+  (51,69) in Surdel.
+rassaphore (1523): Earns 96 silver working in swamp (50,70) in
+  Dorantor.
+peasants (1567): Earns 24 silver working in swamp (50,70) in Dorantor.
+loggers (1408): Earns 72 silver working in swamp (50,70) in Dorantor.
+Stavrophore vun Foresta (1275): Earns 18 silver entertaining in swamp
+  (50,70) in Dorantor.
+Knights of the Full Moon (3201): Studies combat.
+rassaphore (1369): Earns 156 silver working in forest (52,70) in
+  Surdel.
+peasants (2567): Earns 420 silver working in forest (52,70) in Surdel.
+Brother Sneekes (1410): Studies observation.
+Schemos Polemo (1679): Studies longbow.
+Knights of the Full Moon (1339): Studies riding.
+Unit (2310): Studies observation.
+Brother Smith (1273): Studies weaponsmith.
+Brother Sneekes (1569): Studies entertainment.
+novice (1477): Studies riding.
+farmers (1289): Produces 16 grain [GRAI] in swamp (49,71) in Dorantor.
+loggers (1722): Produces 12 wood [WOOD] in swamp (49,71) in Dorantor.
+rassaphore (1068): Earns 4788 silver working in swamp (49,71) in
+  Dorantor.
+trader (1767): Earns 14 silver working in swamp (49,71) in Dorantor.
+Megaloschemos Loon (1050): Earns 14 silver working in swamp (49,71) in
+  Dorantor.
+arras (2328): Earns 182 silver working in swamp (49,71) in Dorantor.
+Brother Woody (1439): Earns 14 silver working in swamp (49,71) in
+  Dorantor.
+novices (1480): Earns 42 silver working in swamp (49,71) in Dorantor.
+sailors (2017): Earns 70 silver working in swamp (49,71) in Dorantor.
+Choir of Saratgost (1685): Earns 840 silver entertaining in swamp
+  (49,71) in Dorantor.
+Brother Smith's assistants (1474): Produces 50 swords [SWOR] in swamp
+  (49,71) in Dorantor.
+Brother Smith's other assistants (1568): Produces 42 chain armor
+  [CARM] in swamp (49,71) in Dorantor.
+Brother Mason (2226): Performs construction on Building [1].
+Stavrophore (1871): Studies tactics.
+Knights of the Full Moon (2215): Studies combat.
+rassaphore (1940): Earns 195 silver working in forest (51,71) in
+  Surdel.
+peasants (2668): Earns 338 silver working in forest (51,71) in Surdel.
+Stavrophore vun Foresta (1313): Studies tactics.
+Knights of the Full Moon (2216): Studies combat.
+peasants (2568): Earns 612 silver working in forest (53,71) in Surdel.
+Unit (2334): Earns 25 silver entertaining in forest (53,71) in Surdel.
+fishermen (1230): Produces 12 fish [FISH] in ocean (48,72) in Atlantis
+  Ocean.
+Stavrophore vun Marsh (1211): Studies stealth.
+Fen dweller (3051): Studies hunting.
+loggers (1939): Produces 15 wood [WOOD] in swamp (50,72) in Dorantor.
+Fen Dwellers (2272): Produces 15 floater hides [FLOA] in swamp (50,72)
+  in Dorantor.
+rassaphore (1340): Earns 72 silver working in swamp (50,72) in
+  Dorantor.
+peasants (2857): Earns 276 silver working in swamp (50,72) in
+  Dorantor.
+Stavrophore (1872): Studies tactics.
+Knight of the Full Moon (3204): Studies combat.
+Knights of the Full Moon (3213): Studies combat.
+rassaphore (1773): Earns 144 silver working in forest (52,72) in
+  Surdel.
+peasants (2338): Earns 360 silver working in forest (52,72) in Surdel.
+Stavrophore (1937): Studies entertainment.
+Choir (2147): Earns 400 silver entertaining in plain (64,72) in Ranaw.
+Stavrophore vun Foresta (2879): Studies observation.
+Knights of the Full Moon (2880): Studies combat.
+erbsmen (3216): Produces 12 herbs [HERB] in forest (51,73) in Surdel.
+logger (1938): Produces 3 ironwood [IRWD] in forest (51,73) in Surdel.
+rassaphore (1941): Earns 381 silver working in forest (51,73) in
+  Surdel.
+peasants (2339): Earns 613 silver working in forest (51,73) in Surdel.
+Stavrophore vun Foresta (1486): Studies combat.
+Knight of the Full Moon (3214): Studies riding.
+Knights of the Full Moon (2241): Studies combat.
+peasants (1475): Earns 742 silver working in forest (53,73) in Surdel.
+soloist (1262): Earns 40 silver entertaining in forest (53,73) in
+  Surdel.
+peasants (1804): Studies combat.
+Stavrophore vun Marsh (1678): Studies tactics.
+Knight of the Full Moon (2569): Studies combat.
+Knights of the Full Moon (2356): Studies combat.
+Knights of the Full Moon (2525): Studies combat.
+erbsmen (3215): Produces 11 herbs [HERB] in swamp (50,74) in Dorantor.
+rassaphore (1680): Earns 65 silver working in swamp (50,74) in
+  Dorantor.
+peasants (1844): Earns 65 silver working in swamp (50,74) in Dorantor.
+rassaphore (2390): Earns 65 silver working in swamp (50,74) in
+  Dorantor.
+Knights of the Full Moon (3274): Studies combat.
+erbsmen (3217): Produces 18 herbs [HERB] in forest (52,74) in Surdel.
+rassaphore (1786): Earns 260 silver working in forest (52,74) in
+  Surdel.
+peasants (2570): Earns 559 silver working in forest (52,74) in Surdel.
+healer (2765): Earns 13 silver working in forest (52,74) in Surdel.
+rassaphore (2108): Earns 130 silver working in swamp (49,75) in
+  Dorantor.
+peasants (2763): Earns 286 silver working in swamp (49,75) in
+  Dorantor.
+Shaman (2343): Studies healing.
+Knights of the Full Moon (2735): Studies combat.
+erbsmen (2066): Produces 15 herbs [HERB] in swamp (51,75) in Dorantor.
+rassaphore (1681): Earns 108 silver working in swamp (51,75) in
+  Dorantor.
+peasants (2881): Earns 324 silver working in swamp (51,75) in
+  Dorantor.
+Stavrophore vun Marsh (1315): Earns 20 silver entertaining in swamp
+  (51,75) in Dorantor.
+Knights of the Full Moon (3276): Studies combat.
+peasants (2109): Earns 117 silver working in swamp (50,76) in
+  Dorantor.
+rassaphore (2764): Earns 130 silver working in swamp (50,76) in
+  Dorantor.
+Stavrophore (2150): Studies tactics.
+rassaphore (1782): Earns 195 silver working in forest (52,76) in
+  Surdel.
+peasants (1586): Earns 364 silver working in forest (52,76) in Surdel.
+erbsman (2344): Earns 13 silver working in forest (52,76) in Surdel.
+Novice (2886): Earns 13 silver working in forest (47,77) in Yahevoru.
+rassaphore (2341): Earns 130 silver working in swamp (49,77) in
+  Dorantor.
+novice (2571): Earns 13 silver working in swamp (51,77) in Dorantor.
+Stavrophore (1529): Studies entertainment.
+rassaphore (3323): Studies combat.
+rassaphore (3338): Studies combat.
+rassaphore (3339): Studies combat.
+rassaphore (1597): Earns 6800 silver working in plain (48,78) in
+  Stroma.
+Brother Joplin (1476): Earns 100 silver entertaining in plain (48,78)
+  in Stroma.
+peasant (1988): Earns 13 silver working in swamp (50,78) in Dorantor.
+novice (2346): Earns 20 silver entertaining in forest (45,79) in
+  Yahevoru.
+Knight of the Full Moon (2888): Studies combat.
+Stavrophore (2976): Studies entertainment.
+rassaphore (1307): Studies combat.
+rassaphore (2014): Studies combat.
+rassaphore (3341): Studies combat.
+rassaphore (2342): Earns 48 silver working in plain (49,79) in Stroma.
+novice (2887): Earns 13 silver working in forest (46,80) in Yahevoru.
+Stavrophore (2884): Studies entertainment.
+rassaphore (3058): Studies combat.
+rassaphore (1308): Studies combat.
+Pastural Carer (1683): Studies farming.
+Stavrophore (2883): Studies tactics.
+Knights of the Full Moon (2393): Studies combat.
+rassaphore (2508): Studies combat.
+rassaphore (2736): Studies combat.
+Tamers (2729): Studies horse training.
+chorists (3345): Studies entertainment.
+rassophore (3346): Studies combat.
+chorists (3357): Studies entertainment.
+farmers (1624): Produces 60 grain [GRAI] in plain (50,80) in Stroma.
+trader (3131): Earns 18 silver working in plain (50,80) in Stroma.
+arras (1577): Earns 810 silver working in plain (50,80) in Stroma.
+choir of thanthielnost (2366): Earns 1140 silver entertaining in plain
+  (50,80) in Stroma.
+Abbot Abraham (1432): Studies horse training.
+Stavrophore vun Riltas (2882): Studies tactics.
+Stavrophore (3060): Studies riding.
+Arras (2940): Studies longbow.
+Knight of the Full Moon (3358): Studies riding.
+farmers (1485): Produces 60 grain [GRAI] in plain (51,81) in Stroma.
+tamers (2572): Produces 30 horses [HORS] in plain (51,81) in Stroma.
+trader (1752): Earns 17 silver working in plain (51,81) in Stroma.
+Knights of the Full Moon (3129): Earns 1632 silver working in plain
+  (51,81) in Stroma.
+choir of riltas (1684): Earns 1560 silver entertaining in plain
+  (51,81) in Stroma.
+fletchers (2748): Produces 20 longbows [LBOW] in plain (51,81) in
+  Stroma.
+Stavrophore (2885): Studies stealth.
+rassaphore (2975): Earns 17 silver working in plain (48,82) in Stroma.
+Stavrophore (1330): Earns 16 silver working in plain (50,82) in
+  Stroma.
+Stavrophore (1333): Earns 14 silver working in plain (52,82) in
+  Stroma.
+novice (2269): Earns 40 silver entertaining in mountain (63,83) in
+  Baibur.
+Schemos Polemo (1445): Studies tactics.
+rassaphore (1334): Studies combat.
+Stavrophore (1310): Studies entertainment.
+rassaphore (1306): Studies combat.
+rassaphore (3218): Earns 1513 silver working in plain (49,85) in
+  Stroma.
+rassaphore (2875): Earns 3400 silver working in plain (49,85) in
+  Stroma.
+novice (3132): Earns 19 silver working in plain (51,87) in Grimrot.
+fishermen (1351): Produces 6 fish [FISH] in ocean (62,92) in Atlantis
+  Ocean.
+
+Skill reports:
+
+hunting [HUNT] 4: No skill report.
+
+Declared Attitudes (default Unfriendly):
+Hostile : none.
+Unfriendly : Multiple Bite Wounds (10).
+Neutral : none.
+Friendly : none.
+Ally : none.
+
+Unclaimed silver: 0.
+
+plain (55,65) in Almeria, 591 peasants (high elves), $3546.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $16 (Max: $1891).
+  Wanted: none.
+  For Sale: 118 high elves [HELF] at $64, 23 leaders [LEAD] at $128.
+  Entertainment available: $177.
+  Products: 48 grain [GRAI], 28 horses [HORS].
+
+Exits:
+  North : ocean (55,63) in Atlantis Ocean.
+  Northeast : plain (56,64) in Almeria.
+  Southeast : plain (56,66) in Almeria.
+  South : swamp (55,67) in Handan.
+  Southwest : ocean (54,66) in Atlantis Ocean.
+  Northwest : plain (54,64) in Almeria.
+
+- TUVC (1434), 22 leaders [LEAD], wine [WINE], 3 figurines [FIGU],
+  jewelry [JEWE], 2 horses [HORS].
+- TUVC (1346), 8 leaders [LEAD], spices [SPIC], 8 horses [HORS].
+* Novice (1070), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, viking [VIKI], 84 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: stealth [STEA] 2
+  (90); An earnest looking young man. His eyes dart here and there
+  taking everything in.
+
++ Ruin [1] : Ruin, closed to player units.
+
+
+swamp (49,69) in Dorantor, 114 peasants (sea elves), $342.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $296).
+  Wanted: none.
+  For Sale: 22 sea elves [SELF] at $52, 4 leaders [LEAD] at $104.
+  Entertainment available: $17.
+  Products: 14 grain [GRAI], 14 wood [WOOD], 14 herbs [HERB].
+
+Exits:
+  North : ocean (49,67) in Atlantis Ocean.
+  Northeast : ocean (50,68) in Atlantis Ocean.
+  Southeast : swamp (50,70) in Dorantor.
+  South : swamp (49,71) in Dorantor, contains Soratgost [city].
+  Southwest : ocean (48,70) in Atlantis Ocean.
+  Northwest : swamp (48,68) in Dorantor.
+
+* rassaphore (2874), on guard, The Moon Brotherhood (12), revealing
+  faction, 7 vikings [VIKI], 4789 silver [SILV]. Weight: 70. Capacity:
+  0/0/105/0. Skills: combat [COMB] 3 (180).
+
++ Crypt [1] : Crypt, closed to player units.
+
+
+forest (51,69) in Surdel, contains Landtorm [city], 5349 peasants
+  (vikings), $37443.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $17 (Max: $90933).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited vikings [VIKI] at $68, unlimited
+    leaders [LEAD] at $136.
+  Entertainment available: $1872.
+  Products: 33 grain [GRAI], 27 wood [WOOD], 16 furs [FUR], 18 herbs
+    [HERB].
+
+Exits:
+  North : ocean (51,67) in Atlantis Ocean.
+  Northeast : forest (52,68) in Surdel.
+  Southeast : forest (52,70) in Surdel.
+  South : forest (51,71) in Surdel.
+  Southwest : swamp (50,70) in Dorantor.
+  Northwest : ocean (50,68) in Atlantis Ocean.
+
+- City Guard (163), on guard, The Guardsmen (1), 120 leaders [LEAD],
+  120 swords [SWOR].
+- Landtorm Stradnieki (1066), Multiple Bite Wounds (10), avoiding,
+  behind, 4541 vikings [VIKI].
+* Stavrophore vun Landtorm (1210), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, receiving no aid, leader
+  [LEAD], 6 wagons [WAGO], 20 silver [SILV]. Weight: 310. Capacity:
+  0/0/15/0. Skills: observation [OBSE] 5 (450), entertainment [ENTE] 3
+  (180).
+* Choir of Landtorm (1263), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, receiving no aid, 3 vikings [VIKI], 90
+  silver [SILV]. Weight: 30. Capacity: 0/0/45/0. Skills: entertainment
+  [ENTE] 2 (90).
+- SCOUT (1129), 2 horses [HORS], leader [LEAD].
+- Vadoniic (1522), Multiple Bite Wounds (10), avoiding, behind, leader
+  [LEAD].
+* novice (2160), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, sea elf [SELF], 7 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: riding [RIDI] 2 (90).
+* novices (1482), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 6 vikings [VIKI], 12 horses [HORS], 2592 silver
+  [SILV]. Weight: 660. Capacity: 0/840/930/0. Skills: riding [RIDI] 2
+  (90).
+
++ Lost Moon [100] : Longboat, needs 5.
+  * Captain (1400), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, holding, leader [LEAD]. Weight: 10. Capacity:
+    0/0/15/0. Skills: sailing [SAIL] 3 (210), riding [RIDI] 1 (30),
+    fishing [FISH] 3 (180); A ruddy faced, barrel chested seaman. What
+    he doesn't know about the sea isn't worth knowing.
+  * Sailor (1884), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, leader [LEAD], 35 silver [SILV]. Weight: 10.
+    Capacity: 0/0/15/0. Skills: sailing [SAIL] 2 (90), fishing [FISH]
+    2 (90).
+
+
+swamp (50,70) in Dorantor, 180 peasants (sea elves), $360.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $432).
+  Wanted: none.
+  For Sale: 36 sea elves [SELF] at $48, 7 leaders [LEAD] at $96.
+  Entertainment available: $18.
+  Products: 15 grain [GRAI], 19 wood [WOOD], 18 herbs [HERB].
+
+Exits:
+  North : ocean (50,68) in Atlantis Ocean.
+  Northeast : forest (51,69) in Surdel, contains Landtorm [city].
+  Southeast : forest (51,71) in Surdel.
+  South : swamp (50,72) in Dorantor.
+  Southwest : swamp (49,71) in Dorantor, contains Soratgost [city].
+  Northwest : swamp (49,69) in Dorantor.
+
+* rassaphore (1523), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 8 vikings [VIKI], 316 silver [SILV]. Weight: 80.
+  Capacity: 0/0/120/0. Skills: combat [COMB] 3 (180).
+* peasants (1567), The Moon Brotherhood (12), revealing faction, 2
+  vikings [VIKI], 4 silver [SILV]. Weight: 20. Capacity: 0/0/30/0.
+  Skills: combat [COMB] 3 (180).
+* Stavrophore vun Foresta (1275), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD], 350 iron [IRON], 12 wagons
+  [WAGO]. Weight: 2360. Capacity: 0/0/15/0. Skills: observation [OBSE]
+  5 (450), stealth [STEA] 5 (450), combat [COMB] 1 (30), tactics
+  [TACT] 1 (30), entertainment [ENTE] 1 (30).
+* loggers (1408), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 6 vikings [VIKI], 208 wood [WOOD], 12 silver
+  [SILV]. Weight: 1100. Capacity: 0/0/90/0. Skills: lumberjack [LUMB]
+  3 (180); They handle their axes like experts. That's 'ex' as in
+  'hasbeen' and 'spurt' as in 'a drip under pressure'.
+* novices (2329), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, 6 vikings [VIKI], 12 horses
+  [HORS], 98 swords [SWOR]. Weight: 758. Capacity: 0/840/930/0.
+  Skills: riding [RIDI] 2 (90).
+* novices (1073), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, receiving no aid, 6 vikings [VIKI], 12
+  horses [HORS], 26940 silver [SILV]. Weight: 660. Capacity:
+  0/840/930/0. Skills: riding [RIDI] 2 (90); With long matted hair and
+  huge beards, they fit the viking cliche to a 'T'.
+
+
+forest (52,70) in Surdel, 332 peasants (vikings), $664.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $796).
+  Wanted: none.
+  For Sale: 66 vikings [VIKI] at $48, 13 leaders [LEAD] at $96.
+  Entertainment available: $33.
+  Products: 33 livestock [LIVE], 37 wood [WOOD], 10 furs [FUR], 19
+    herbs [HERB].
+
+Exits:
+  North : forest (52,68) in Surdel.
+  Northeast : swamp (53,69) in Handan.
+  Southeast : forest (53,71) in Surdel.
+  South : forest (52,72) in Surdel.
+  Southwest : forest (51,71) in Surdel.
+  Northwest : forest (51,69) in Surdel, contains Landtorm [city].
+
+* Stavrophore Malleus Maleficarum (1084), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, leader [LEAD], 3168 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+  (450), entertainment [ENTE] 1 (30), combat [COMB] 3 (270), tactics
+  [TACT] 3 (240).
+* rassaphore (1369), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 13 vikings [VIKI], 676 silver [SILV]. Weight: 130.
+  Capacity: 0/0/195/0. Skills: combat [COMB] 3 (180).
+* peasants (2567), The Moon Brotherhood (12), revealing faction, 35
+  vikings [VIKI], 70 silver [SILV]. Weight: 350. Capacity: 0/0/525/0.
+  Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (3201), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, 10 leaders [LEAD]. Weight: 100.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60).
+
+
+swamp (49,71) in Dorantor, contains Soratgost [city], 4273 peasants
+  (vikings), $17092.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $14 (Max: $11964).
+  Wanted: 150 grain [GRAI] at $21, 100 livestock [LIVE] at $24, 106
+    fish [FISH] at $29, 68 plate armor [PARM] at $476, 23 double bows
+    [DBOW] at $422, 58 wine [WINE] at $167, 99 truffles [TRUF] at
+    $137.
+  For Sale: 62 herbs [HERB] at $56, 69 wagons [WAGO] at $166, 76 ivory
+    [IVOR] at $76, 57 silk [SILK] at $84, 854 vikings [VIKI] at $56,
+    170 leaders [LEAD] at $112.
+  Entertainment available: $854.
+  Products: 16 grain [GRAI], 18 wood [WOOD], 17 herbs [HERB].
+
+Exits:
+  North : swamp (49,69) in Dorantor.
+  Northeast : swamp (50,70) in Dorantor.
+  Southeast : swamp (50,72) in Dorantor.
+  South : ocean (49,73) in Atlantis Ocean.
+  Southwest : ocean (48,72) in Atlantis Ocean.
+  Northwest : ocean (48,70) in Atlantis Ocean.
+
+* Brother Sneekes (1410), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: stealth [STEA] 5 (450), entertainment [ENTE] 3 (240), riding
+  [RIDI] 1 (30), observation [OBSE] 1 (30).
+* farmers (1289), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 10 vikings [VIKI], 16 grain [GRAI]. Weight: 180.
+  Capacity: 0/0/150/0. Skills: farming [FARM] 2 (90); A group of
+  rather miserable looking vikings. Viking hands were made for rowing
+  and wielding axes, not ploughs!.
+* loggers (1722), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 4 vikings [VIKI], 12 wood [WOOD]. Weight: 100.
+  Capacity: 0/0/60/0. Skills: lumberjack [LUMB] 3 (180).
+* Schemos Polemo (1679), The Moon Brotherhood (12), behind, revealing
+  faction, leader [LEAD], double bow [DBOW]. Weight: 11. Capacity:
+  0/0/15/0. Skills: tactics [TACT] 5 (450), entertainment [ENTE] 1
+  (30), longbow [LBOW] 3 (240).
+* rassaphore (1068), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 342 vikings [VIKI], 342 swords [SWOR], 84 chain
+  armor [CARM], 15684 silver [SILV]. Weight: 3846. Capacity:
+  0/0/5130/0. Skills: combat [COMB] 3 (180); An unruly rabble of young
+  men, their long hair and beards dirty and scruffy looking.
+* trader (1767), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, viking [VIKI], 2 tarot cards [TARO], mink [MINK],
+  2 roses [ROSE], jewelry [JEWE], 3 truffles [TRUF], 3 furs [FUR], 2
+  figurines [FIGU], spices [SPIC], 2 pearls [PEAR], velvet [VELV], 30
+  fish [FISH], 340 silver [SILV]. Weight: 66. Capacity: 0/0/15/0.
+  Skills: none.
+* Knights of the Full Moon (1339), The Moon Brotherhood (12),
+  revealing faction, 100 leaders [LEAD], 56 horses [HORS], 16 herbs
+  [HERB], 100 mithril swords [MSWO], 85 chain armor [CARM], 14 plate
+  armor [PARM]. Weight: 4027. Capacity: 0/3920/5420/0. Skills: combat
+  [COMB] 5 (450), riding [RIDI] 3 (210), healing [HEAL] 1 (30).
+* Megaloschemos Loon (1050), The Moon Brotherhood (12), behind,
+  revealing faction, leader [LEAD], 10 mithril swords [MSWO]. Weight:
+  20. Capacity: 0/0/15/0. Skills: pattern [PATT] 2 (90), spirit [SPIR]
+  2 (90), gate lore [GATE] 1 (30), farsight [FARS] 1 (30),
+  entertainment [ENTE] 1 (30), force [FORC] 2 (90), artifact lore
+  [ARTI] 2 (90), enchant swords [ESWO] 2 (90), riding [RIDI] 1 (30),
+  earthquake [EQUA] 2 (90). Combat spell: earthquake [EQUA]. Can
+  Study: fire [FIRE], force shield [FSHI], energy shield [ESHI],
+  spirit shield [SSHI], magical healing [MHEA], gate lore [GATE],
+  farsight [FARS], mind reading [MIND], weather lore [WEAT], earth
+  lore [EART], necromancy [NECR], demon lore [DEMO], illusion [ILLU],
+  enchant armor [EARM]; A man of indeterminate age, with no
+  distinguishing features. In short, a remarkably unremarkable man.
+* Choir of Saratgost (1685), The Moon Brotherhood (12), avoiding,
+  revealing faction, 14 wood elves [WELF], 700 silver [SILV]. Weight:
+  140. Capacity: 0/0/210/0. Skills: entertainment [ENTE] 3 (180).
+* arras (2328), The Moon Brotherhood (12), avoiding, behind, revealing
+  faction, holding, 13 sea elves [SELF], 32 longbows [LBOW], 104
+  silver [SILV]. Weight: 162. Capacity: 0/0/195/0. Skills: longbow
+  [LBOW] 3 (180).
+* Brother Woody (1439), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, viking [VIKI], 2 wagons [WAGO], 16 silver [SILV].
+  Weight: 110. Capacity: 0/0/15/0. Skills: carpenter [CARP] 2 (90).
+* Unit (2310), The Moon Brotherhood (12), avoiding, behind, revealing
+  faction, 10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: stealth [STEA] 5 (450), observation [OBSE] 5 (450).
+* Brother Smith (1273), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: weaponsmith [WEAP] 4 (360), armorer [ARMO] 5 (450); With his
+  soot stained face, brawny arms, and sweaty brow he doesn't look much
+  like a religious man. And if you could hear the language on the
+  occasion he smacks his thumb with a hammer you wouldn't think he
+  sounded like one either.
+* Brother Smith's assistants (1474), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, holding, 25 vikings [VIKI], 321
+  iron [IRON], 50 swords [SWOR]. Weight: 1905. Capacity: 0/0/375/0.
+  Skills: weaponsmith [WEAP] 2 (90).
+* Brother Sneekes (1569), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: entertainment [ENTE] 3 (240), stealth [STEA] 5 (450), riding
+  [RIDI] 1 (30), observation [OBSE] 1 (30).
+* Stavrophore vun Soratgost (1483), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, leader [LEAD], 12409 silver
+  [SILV], mink [MINK], 48 wood [WOOD], 9 mithril swords [MSWO], 6
+  wagons [WAGO]. Weight: 564. Capacity: 0/0/15/0. Skills: observation
+  [OBSE] 5 (450), entertainment [ENTE] 1 (30), combat [COMB] 2 (90),
+  tactics [TACT] 3 (210).
+* Brother Smith's other assistants (1568), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, 21 vikings [VIKI], 42 chain
+  armor [CARM]. Weight: 252. Capacity: 0/0/315/0. Skills: armorer
+  [ARMO] 2 (90).
+* novices (1480), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 3 vikings [VIKI], 12 silver [SILV]. Weight: 30.
+  Capacity: 0/0/45/0. Skills: riding [RIDI] 1 (60).
+* novice (1477), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, viking [VIKI]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: riding [RIDI] 1 (60).
+* novices (2315), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, receiving no aid, 6 vikings [VIKI], 12
+  horses [HORS], 30 iron [IRON]. Weight: 810. Capacity: 0/840/930/0.
+  Skills: riding [RIDI] 2 (90).
+
++ Moonlight Shadow [105] : Galleon.
+  * sailors (2017), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, 5 vikings [VIKI], 20 silver [SILV]. Weight: 50.
+    Capacity: 0/0/75/0. Skills: sailing [SAIL] 3 (180).
+
++ Building [1] : Tower, needs 8.
+  * Brother Mason (2226), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, 20 stone [STON], leader [LEAD]. Weight: 1010.
+    Capacity: 0/0/15/0. Skills: building [BUIL] 2 (120).
+
+
+forest (51,71) in Surdel, 257 peasants (vikings), $771.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $668).
+  Wanted: none.
+  For Sale: 51 vikings [VIKI] at $52, 10 leaders [LEAD] at $104.
+  Entertainment available: $38.
+  Products: 39 grain [GRAI], 38 wood [WOOD], 12 furs [FUR], 18 herbs
+    [HERB].
+
+Exits:
+  North : forest (51,69) in Surdel, contains Landtorm [city].
+  Northeast : forest (52,70) in Surdel.
+  Southeast : forest (52,72) in Surdel.
+  South : forest (51,73) in Surdel.
+  Southwest : swamp (50,72) in Dorantor.
+  Northwest : swamp (50,70) in Dorantor.
+
+* Stavrophore (1871), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 17032 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+  entertainment [ENTE] 1 (30), stealth [STEA] 3 (180), combat [COMB] 3
+  (180), tactics [TACT] 2 (150).
+* rassaphore (1940), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 15 vikings [VIKI], 5 swords [SWOR], 795 silver
+  [SILV]. Weight: 155. Capacity: 0/0/225/0. Skills: combat [COMB] 3
+  (180); As tough as old booze. And that is tough.
+* peasants (2668), The Moon Brotherhood (12), revealing faction, 26
+  vikings [VIKI], 78 silver [SILV]. Weight: 260. Capacity: 0/0/390/0.
+  Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (2215), The Moon Brotherhood (12),
+  revealing faction, 10 leaders [LEAD], 10 swords [SWOR]. Weight: 110.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 4 (300).
+
+
+forest (53,71) in Surdel, 257 peasants (vikings), $514.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $616).
+  Wanted: none.
+  For Sale: 51 vikings [VIKI] at $48, 10 leaders [LEAD] at $96.
+  Entertainment available: $25.
+  Products: 25 grain [GRAI], 26 wood [WOOD], 11 furs [FUR], 17 herbs
+    [HERB].
+
+Exits:
+  North : swamp (53,69) in Handan.
+  Northeast : ocean (54,70) in Atlantis Ocean.
+  Southeast : ocean (54,72) in Atlantis Ocean.
+  South : forest (53,73) in Surdel.
+  Southwest : forest (52,72) in Surdel.
+  Northwest : forest (52,70) in Surdel.
+
+* Stavrophore vun Foresta (1313), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD], wood [WOOD], 1514 silver
+  [SILV]. Weight: 15. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+  (450), entertainment [ENTE] 1 (30), combat [COMB] 3 (210), tactics
+  [TACT] 1 (30).
+* peasants (2568), The Moon Brotherhood (12), revealing faction, 51
+  vikings [VIKI], 102 silver [SILV]. Weight: 510. Capacity: 0/0/765/0.
+  Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (2216), on guard, The Moon Brotherhood
+  (12), revealing faction, taxing, 10 leaders [LEAD], 300 silver
+  [SILV]. Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 4
+  (300).
+* Unit (2334), The Moon Brotherhood (12), avoiding, behind, leader
+  [LEAD], horse [HORS], 44 silver [SILV]. Weight: 60. Capacity:
+  0/70/85/0. Skills: observation [OBSE] 5 (450), stealth [STEA] 5
+  (450), entertainment [ENTE] 2 (90), riding [RIDI] 1 (30).
+
+
+ocean (48,72) in Atlantis Ocean.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $0.
+  Wanted: none.
+  For Sale: none.
+  Products: 36 fish [FISH].
+
+Exits:
+  North : ocean (48,70) in Atlantis Ocean.
+  Northeast : swamp (49,71) in Dorantor, contains Soratgost [city].
+  Southeast : ocean (49,73) in Atlantis Ocean.
+  South : ocean (48,74) in Atlantis Ocean.
+  Southwest : ocean (47,73) in Atlantis Ocean.
+  Northwest : ocean (47,71) in Atlantis Ocean.
+
+
++ Ship [108] : Longboat.
+  * sailor (2078), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, holding, consuming faction's food, viking
+    [VIKI]. Weight: 10. Capacity: 0/0/15/0. Skills: sailing [SAIL] 3
+    (180).
+  * fishermen (1230), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, consuming unit's food, 4 sea elves [SELF], 18
+    fish [FISH]. Weight: 58. Capacity: 0/0/60/0. Skills: fishing
+    [FISH] 3 (180).
+  * sailor (3125), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, consuming faction's food, viking [VIKI].
+    Weight: 10. Capacity: 0/0/15/0. Skills: sailing [SAIL] 2 (90).
+
+
+swamp (50,72) in Dorantor, 148 peasants (sea elves), $296.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $355).
+  Wanted: none.
+  For Sale: 29 sea elves [SELF] at $48, 5 leaders [LEAD] at $96.
+  Entertainment available: $14.
+  Products: 19 grain [GRAI], 15 wood [WOOD], 19 floater hides [FLOA],
+    10 herbs [HERB].
+
+Exits:
+  North : swamp (50,70) in Dorantor.
+  Northeast : forest (51,71) in Surdel.
+  Southeast : forest (51,73) in Surdel.
+  South : swamp (50,74) in Dorantor.
+  Southwest : ocean (49,73) in Atlantis Ocean.
+  Northwest : swamp (49,71) in Dorantor, contains Soratgost [city].
+
+* rassaphore (1340), on guard, The Moon Brotherhood (12), revealing
+  faction, 6 vikings [VIKI]. Weight: 60. Capacity: 0/0/90/0. Skills:
+  combat [COMB] 3 (180).
+* loggers (1939), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 5 vikings [VIKI], 60 wood [WOOD]. Weight: 350.
+  Capacity: 0/0/75/0. Skills: lumberjack [LUMB] 3 (180).
+* Stavrophore vun Marsh (1211), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD]. Weight: 10. Capacity:
+  0/0/15/0. Skills: observation [OBSE] 5 (450), stealth [STEA] 2
+  (150), entertainment [ENTE] 1 (30), combat [COMB] 3 (180), tactics
+  [TACT] 2 (150).
+* peasants (2857), The Moon Brotherhood (12), revealing faction, 23
+  vikings [VIKI]. Weight: 230. Capacity: 0/0/345/0. Skills: combat
+  [COMB] 2 (120).
+* Fen Dwellers (2272), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, 5 leaders [LEAD], 45 floater hides
+  [FLOA]. Weight: 95. Capacity: 0/0/75/0. Skills: hunting [HUNT] 3
+  (180).
+* Fen dweller (3051), The Moon Brotherhood (12), revealing faction,
+  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: hunting
+  [HUNT] 4 (300); There ain't no dawgs in Fiddler's Marsh.
+* novices (3054), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 30 vikings [VIKI], 60 horses [HORS], 4672 silver
+  [SILV]. Weight: 3300. Capacity: 0/4200/4650/0. Skills: riding [RIDI]
+  2 (90).
+
+
+forest (52,72) in Surdel, 296 peasants (vikings), $592.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $710).
+  Wanted: none.
+  For Sale: 59 vikings [VIKI] at $48, 11 leaders [LEAD] at $96.
+  Entertainment available: $29.
+  Products: 29 livestock [LIVE], 29 wood [WOOD], 13 furs [FUR], 12
+    herbs [HERB].
+
+Exits:
+  North : forest (52,70) in Surdel.
+  Northeast : forest (53,71) in Surdel.
+  Southeast : forest (53,73) in Surdel.
+  South : forest (52,74) in Surdel.
+  Southwest : forest (51,73) in Surdel.
+  Northwest : forest (51,71) in Surdel.
+
+* rassaphore (1773), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 12 vikings [VIKI], 6 swords [SWOR], 316 silver
+  [SILV]. Weight: 126. Capacity: 0/0/180/0. Skills: combat [COMB] 3
+  (180).
+* Stavrophore (1872), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 8422 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+  entertainment [ENTE] 1 (30), combat [COMB] 3 (210), tactics [TACT] 1
+  (30).
+* peasants (2338), The Moon Brotherhood (12), revealing faction, 30
+  vikings [VIKI], 60 silver [SILV]. Weight: 300. Capacity: 0/0/450/0.
+  Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (2327), on guard, The Moon Brotherhood
+  (12), revealing faction, leader [LEAD], sword [SWOR]. Weight: 11.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 3 (210).
+* Knight of the Full Moon (3204), The Moon Brotherhood (12), revealing
+  faction, 4 swords [SWOR], 4 leaders [LEAD]. Weight: 44. Capacity:
+  0/0/60/0. Skills: combat [COMB] 3 (240).
+* Knights of the Full Moon (3213), The Moon Brotherhood (12),
+  revealing faction, 10 leaders [LEAD]. Weight: 100. Capacity:
+  0/0/150/0. Skills: combat [COMB] 1 (60).
+
+
+plain (64,72) in Ranaw, contains Quataia [city], 6045 peasants
+  (plainsmen), $54405.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $19 (Max: $22971).
+  Wanted: 124 grain [GRAI] at $27, 134 livestock [LIVE] at $23, 190
+    fish [FISH] at $23, 85 herbs [HERB] at $56, 63 swords [SWOR] at
+    $89, 73 longbows [LBOW] at $126, 53 vodka [VODK] at $140, 83 wool
+    [WOOL] at $162.
+  For Sale: 59 tarot cards [TARO] at $72, 66 perfume [PERF] at $60,
+    1209 plainsmen [PLAI] at $76, 241 leaders [LEAD] at $152.
+  Entertainment available: $2720.
+  Products: 57 livestock [LIVE], 32 horses [HORS].
+
+Exits:
+  North : plain (64,70) in Ranaw.
+  Northeast : jungle (65,71) in Belver.
+  Southeast : swamp (65,73) in Tourlanque.
+  South : ocean (64,74) in Atlantis Ocean.
+  Southwest : ocean (63,73) in Atlantis Ocean.
+  Northwest : mountain (63,71) in Rothrila.
+
+- City Guard (170), on guard, The Guardsmen (1), 120 leaders [LEAD],
+  120 swords [SWOR].
+* Stavrophore (1937), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, consuming faction's food, leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), stealth
+  [STEA] 1 (30), entertainment [ENTE] 2 (150), fishing [FISH] 1 (30).
+* Choir (2147), The Moon Brotherhood (12), avoiding, behind, revealing
+  faction, consuming faction's food, 10 plainsmen [PLAI], 582 silver
+  [SILV]. Weight: 100. Capacity: 0/0/150/0. Skills: entertainment
+  [ENTE] 2 (90).
+
+
+forest (51,73) in Surdel, 356 peasants (vikings), $1424.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $14 (Max: $996).
+  Wanted: none.
+  For Sale: 71 vikings [VIKI] at $56, 14 leaders [LEAD] at $112.
+  Entertainment available: $71.
+  Products: 36 grain [GRAI], 33 wood [WOOD], 19 furs [FUR], 12 herbs
+    [HERB], 6 ironwood [IRWD].
+
+Exits:
+  North : forest (51,71) in Surdel.
+  Northeast : forest (52,72) in Surdel.
+  Southeast : forest (52,74) in Surdel.
+  South : swamp (51,75) in Dorantor.
+  Southwest : swamp (50,74) in Dorantor.
+  Northwest : swamp (50,72) in Dorantor.
+
+* rassaphore (1941), on guard, The Moon Brotherhood (12), revealing
+  faction, 28 vikings [VIKI], 22 swords [SWOR]. Weight: 302. Capacity:
+  0/0/420/0. Skills: combat [COMB] 3 (180); As tough as old boots.
+* logger (1938), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, viking [VIKI], 81 ironwood [IRWD]. Weight: 820.
+  Capacity: 0/0/15/0. Skills: lumberjack [LUMB] 3 (180); He's okay.
+* peasants (2339), The Moon Brotherhood (12), revealing faction, 45
+  vikings [VIKI], 114 silver [SILV]. Weight: 450. Capacity: 0/0/675/0.
+  Skills: combat [COMB] 3 (180).
+* Stavrophore vun Foresta (2879), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD], wool [WOOL], fur [FUR],
+  caviar [CAVI], 2 mink [MINK], 8960 silver [SILV]. Weight: 27.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450).
+* Knights of the Full Moon (2880), The Moon Brotherhood (12),
+  revealing faction, 5 leaders [LEAD], 5 swords [SWOR]. Weight: 55.
+  Capacity: 0/0/75/0. Skills: combat [COMB] 4 (420).
+* erbsmen (3216), The Moon Brotherhood (12), revealing faction, 4
+  tribesmen [TMAN], 96 herbs [HERB]. Weight: 40. Capacity: 0/0/60/0.
+  Skills: herb lore [HERB] 3 (180).
+
+
+forest (53,73) in Surdel, 267 peasants (vikings), $1068.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $14 (Max: $747).
+  Wanted: none.
+  For Sale: 53 vikings [VIKI] at $56, 10 leaders [LEAD] at $112.
+  Entertainment available: $53.
+  Products: 27 livestock [LIVE], 34 wood [WOOD], 18 furs [FUR], 13
+    herbs [HERB].
+
+Exits:
+  North : forest (53,71) in Surdel.
+  Northeast : ocean (54,72) in Atlantis Ocean.
+  Southeast : ocean (54,74) in Atlantis Ocean.
+  South : ocean (53,75) in Atlantis Ocean.
+  Southwest : forest (52,74) in Surdel.
+  Northwest : forest (52,72) in Surdel.
+
+* Stavrophore vun Foresta (1486), The Moon Brotherhood (12), avoiding,
+  revealing faction, holding, receiving no aid, leader [LEAD], 6781
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: observation
+  [OBSE] 5 (450), combat [COMB] 5 (450), tactics [TACT] 3 (180).
+* peasants (1475), The Moon Brotherhood (12), revealing faction, 53
+  vikings [VIKI], 212 silver [SILV]. Weight: 530. Capacity: 0/0/795/0.
+  Skills: combat [COMB] 3 (180).
+* soloist (1262), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, viking [VIKI], 30 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: entertainment [ENTE] 2 (90).
+* Knight of the Full Moon (3214), The Moon Brotherhood (12), revealing
+  faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 3 (210), riding [RIDI] 1 (30).
+* Knights of the Full Moon (2241), on guard, The Moon Brotherhood
+  (12), revealing faction, taxing, 21 leaders [LEAD], 630 silver
+  [SILV]. Weight: 210. Capacity: 0/0/315/0. Skills: combat [COMB] 3
+  (240).
+
+
+ocean (48,74) in Atlantis Ocean.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $0.
+  Wanted: none.
+  For Sale: none.
+  Products: 21 fish [FISH].
+
+Exits:
+  North : ocean (48,72) in Atlantis Ocean.
+  Northeast : ocean (49,73) in Atlantis Ocean.
+  Southeast : swamp (49,75) in Dorantor.
+  South : ocean (48,76) in Atlantis Ocean.
+  Southwest : ocean (47,75) in Atlantis Ocean.
+  Northwest : ocean (47,73) in Atlantis Ocean.
+
+
++ Bad Moon Rising [104] : Galleon.
+  * sailors (2268), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, 5 vikings [VIKI], 30 mithril swords [MSWO], 40
+    swords [SWOR]. Weight: 120. Capacity: 0/0/75/0. Skills: sailing
+    [SAIL] 3 (180).
+
++ Bark at the Moon [103] : Longboat; Some kind of fishing vessel, by
+  the look of it.
+  * sailors (1187), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, 2 sea elves [SELF], 226 silver [SILV], 22 plate
+    armor [PARM]. Weight: 86. Capacity: 0/0/30/0. Skills: sailing
+    [SAIL] 3 (180).
+
+
+swamp (50,74) in Dorantor, 186 peasants (sea elves), $558.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $483).
+  Wanted: none.
+  For Sale: 37 sea elves [SELF] at $52, 7 leaders [LEAD] at $104.
+  Entertainment available: $27.
+  Products: 16 grain [GRAI], 14 wood [WOOD], 11 herbs [HERB].
+
+Exits:
+  North : swamp (50,72) in Dorantor.
+  Northeast : forest (51,73) in Surdel.
+  Southeast : swamp (51,75) in Dorantor.
+  South : swamp (50,76) in Dorantor.
+  Southwest : swamp (49,75) in Dorantor.
+  Northwest : ocean (49,73) in Atlantis Ocean.
+
+* rassaphore (1680), on guard, The Moon Brotherhood (12), revealing
+  faction, holding, 5 vikings [VIKI]. Weight: 50. Capacity: 0/0/75/0.
+  Skills: combat [COMB] 3 (180).
+* peasants (1804), The Moon Brotherhood (12), revealing faction, 5 sea
+  elves [SELF]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB]
+  1 (30).
+* peasants (1844), The Moon Brotherhood (12), revealing faction, 5 sea
+  elves [SELF]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB]
+  1 (30).
+* Stavrophore vun Marsh (1678), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD], 7082 silver [SILV].
+  Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+  entertainment [ENTE] 1 (30), combat [COMB] 5 (450), tactics [TACT] 1
+  (30).
+* Knight of the Full Moon (2569), The Moon Brotherhood (12), revealing
+  faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 4 (390).
+* erbsmen (3215), The Moon Brotherhood (12), revealing faction, 4
+  tribesmen [TMAN], 88 herbs [HERB]. Weight: 40. Capacity: 0/0/60/0.
+  Skills: herb lore [HERB] 3 (180).
+* Knights of the Full Moon (2356), The Moon Brotherhood (12),
+  revealing faction, taxing, 6 leaders [LEAD], 180 silver [SILV].
+  Weight: 60. Capacity: 0/0/90/0. Skills: combat [COMB] 4 (360).
+* Knights of the Full Moon (2525), The Moon Brotherhood (12),
+  revealing faction, 3 leaders [LEAD]. Weight: 30. Capacity: 0/0/45/0.
+  Skills: combat [COMB] 3 (270).
+* rassaphore (2390), The Moon Brotherhood (12), revealing faction, 5
+  vikings [VIKI], 65 silver [SILV]. Weight: 50. Capacity: 0/0/75/0.
+  Skills: combat [COMB] 2 (90).
+
+
+forest (52,74) in Surdel, 339 peasants (vikings), $1017.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $881).
+  Wanted: none.
+  For Sale: 67 vikings [VIKI] at $52, 13 leaders [LEAD] at $104.
+  Entertainment available: $50.
+  Products: 24 grain [GRAI], 37 wood [WOOD], 12 furs [FUR], 19 herbs
+    [HERB].
+
+Exits:
+  North : forest (52,72) in Surdel.
+  Northeast : forest (53,73) in Surdel.
+  Southeast : ocean (53,75) in Atlantis Ocean.
+  South : forest (52,76) in Surdel.
+  Southwest : swamp (51,75) in Dorantor.
+  Northwest : forest (51,73) in Surdel.
+
+* Stavrophore vun Foresta (1343), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, holding, leader [LEAD], cashmere [CASH],
+  herb [HERB], mink [MINK], dye [DYE], crossbow [XBOW], 7359 silver
+  [SILV]. Weight: 26. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+  (450), entertainment [ENTE] 1 (30), combat [COMB] 3 (180), tactics
+  [TACT] 1 (60).
+* rassaphore (1786), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 20 vikings [VIKI], 1147 silver [SILV]. Weight: 200.
+  Capacity: 0/0/300/0. Skills: combat [COMB] 3 (180).
+* peasants (2570), The Moon Brotherhood (12), revealing faction,
+  holding, 43 vikings [VIKI], 129 silver [SILV]. Weight: 430.
+  Capacity: 0/0/645/0. Skills: combat [COMB] 2 (121).
+* healer (2765), The Moon Brotherhood (12), revealing faction,
+  tribesman [TMAN], 15 silver [SILV], 10 herbs [HERB]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: healing [HEAL] 3 (180).
+* erbsmen (3217), The Moon Brotherhood (12), revealing faction, 6
+  tribesmen [TMAN], 134 herbs [HERB]. Weight: 60. Capacity: 0/0/90/0.
+  Skills: herb lore [HERB] 3 (180).
+* Knights of the Full Moon (3274), The Moon Brotherhood (12),
+  revealing faction, 10 leaders [LEAD]. Weight: 100. Capacity:
+  0/0/150/0. Skills: combat [COMB] 1 (60).
+
+
+swamp (49,75) in Dorantor, 162 peasants (vikings), $486.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $421).
+  Wanted: none.
+  For Sale: 32 vikings [VIKI] at $52, 6 leaders [LEAD] at $104.
+  Entertainment available: $24.
+  Products: 11 grain [GRAI], 11 wood [WOOD], 15 herbs [HERB].
+
+Exits:
+  North : ocean (49,73) in Atlantis Ocean.
+  Northeast : swamp (50,74) in Dorantor.
+  Southeast : swamp (50,76) in Dorantor.
+  South : swamp (49,77) in Dorantor.
+  Southwest : ocean (48,76) in Atlantis Ocean.
+  Northwest : ocean (48,74) in Atlantis Ocean.
+
+* rassaphore (2108), on guard, The Moon Brotherhood (12), revealing
+  faction, 10 vikings [VIKI], 3201 silver [SILV], chain armor [CARM],
+  mink [MINK], roses [ROSE], silk [SILK], fur [FUR]. Weight: 113.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 3 (180).
+* peasants (2763), The Moon Brotherhood (12), revealing faction, 22
+  vikings [VIKI], 2860 silver [SILV]. Weight: 220. Capacity:
+  0/0/330/0. Skills: combat [COMB] 3 (180).
+
+
+swamp (51,75) in Dorantor, 227 peasants (tribesmen), $454.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $12 (Max: $544).
+  Wanted: none.
+  For Sale: 45 tribesmen [TMAN] at $48, 9 leaders [LEAD] at $96.
+  Entertainment available: $22.
+  Products: 14 grain [GRAI], 13 wood [WOOD], 16 herbs [HERB].
+
+Exits:
+  North : forest (51,73) in Surdel.
+  Northeast : forest (52,74) in Surdel.
+  Southeast : forest (52,76) in Surdel.
+  South : swamp (51,77) in Dorantor.
+  Southwest : swamp (50,76) in Dorantor.
+  Northwest : swamp (50,74) in Dorantor.
+
+* rassaphore (1681), on guard, The Moon Brotherhood (12), revealing
+  faction, 9 vikings [VIKI]. Weight: 90. Capacity: 0/0/135/0. Skills:
+  combat [COMB] 3 (180).
+* Stavrophore vun Marsh (1315), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD], 1936 silver [SILV].
+  Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+  entertainment [ENTE] 1 (30), combat [COMB] 3 (180), tactics [TACT] 1
+  (30).
+* erbsmen (2066), The Moon Brotherhood (12), revealing faction, 5
+  tribesmen [TMAN], 135 herbs [HERB]. Weight: 50. Capacity: 0/0/75/0.
+  Skills: herb lore [HERB] 3 (180).
+* Shaman (2343), The Moon Brotherhood (12), revealing faction, leader
+  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: herb lore [HERB] 3
+  (180), healing [HEAL] 4 (330); The hierarchy might not approve of
+  his methods, but they certainly admire his results.
+* peasants (2881), The Moon Brotherhood (12), revealing faction, 27
+  vikings [VIKI], 54 silver [SILV]. Weight: 270. Capacity: 0/0/405/0.
+  Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (2735), The Moon Brotherhood (12),
+  avoiding, behind, revealing faction, 2 leaders [LEAD]. Weight: 20.
+  Capacity: 0/0/30/0. Skills: combat [COMB] 3 (240).
+
+
+swamp (50,76) in Dorantor, 159 peasants (tribesmen), $477.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $413).
+  Wanted: none.
+  For Sale: 31 tribesmen [TMAN] at $52, 6 leaders [LEAD] at $104.
+  Entertainment available: $23.
+  Products: 14 livestock [LIVE], 13 wood [WOOD], 17 herbs [HERB].
+
+Exits:
+  North : swamp (50,74) in Dorantor.
+  Northeast : swamp (51,75) in Dorantor.
+  Southeast : swamp (51,77) in Dorantor.
+  South : swamp (50,78) in Dorantor.
+  Southwest : swamp (49,77) in Dorantor.
+  Northwest : swamp (49,75) in Dorantor.
+
+* peasants (2109), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 9 tribesmen [TMAN]. Weight: 90. Capacity:
+  0/0/135/0. Skills: none.
+* rassaphore (2764), on guard, The Moon Brotherhood (12), revealing
+  faction, 10 vikings [VIKI], 8070 silver [SILV]. Weight: 100.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (3276), The Moon Brotherhood (12),
+  revealing faction, 6 leaders [LEAD]. Weight: 60. Capacity: 0/0/90/0.
+  Skills: combat [COMB] 1 (30).
+
+
+forest (52,76) in Surdel, 258 peasants (wood elves), $774.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $670).
+  Wanted: none.
+  For Sale: 51 wood elves [WELF] at $52, 10 leaders [LEAD] at $104.
+  Entertainment available: $38.
+  Products: 25 livestock [LIVE], 22 wood [WOOD], 16 furs [FUR], 13
+    herbs [HERB].
+
+Exits:
+  North : forest (52,74) in Surdel.
+  Northeast : ocean (53,75) in Atlantis Ocean.
+  Southeast : ocean (53,77) in Atlantis Ocean.
+  South : ocean (52,78) in Atlantis Ocean.
+  Southwest : swamp (51,77) in Dorantor.
+  Northwest : swamp (51,75) in Dorantor.
+
+* rassaphore (1782), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 15 vikings [VIKI], 795 silver [SILV]. Weight: 150.
+  Capacity: 0/0/225/0. Skills: combat [COMB] 3 (180).
+* Stavrophore (2150), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 5150 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), tactics
+  [TACT] 3 (240), combat [COMB] 3 (180).
+* peasants (1586), The Moon Brotherhood (12), revealing faction, 28
+  vikings [VIKI], 84 silver [SILV]. Weight: 280. Capacity: 0/0/420/0.
+  Skills: combat [COMB] 3 (180).
+* erbsman (2344), The Moon Brotherhood (12), behind, revealing
+  faction, tribesman [TMAN], 3 herbs [HERB], 3 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: herb lore [HERB] 3 (180).
+* arras (3291), The Moon Brotherhood (12), avoiding, behind, revealing
+  faction, 200 silver [SILV], 20 wood elves [WELF]. Weight: 200.
+  Capacity: 0/0/300/0. Skills: none.
+
+
+forest (47,77) in Yahevoru, 251 peasants (sea elves), $753.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $652).
+  Wanted: none.
+  For Sale: 50 sea elves [SELF] at $52, 10 leaders [LEAD] at $104.
+  Entertainment available: $37.
+  Products: 21 grain [GRAI], 26 wood [WOOD], 15 furs [FUR], 10 herbs
+    [HERB].
+
+Exits:
+  North : ocean (47,75) in Atlantis Ocean.
+  Northeast : ocean (48,76) in Atlantis Ocean.
+  Southeast : plain (48,78) in Stroma, contains Lorforin [city].
+  South : forest (47,79) in Yahevoru.
+  Southwest : forest (46,78) in Yahevoru.
+  Northwest : ocean (46,76) in Atlantis Ocean.
+
+* Novice (2886), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, viking [VIKI], 42 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+swamp (49,77) in Dorantor, 171 peasants (tribal elves), $513.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $444).
+  Wanted: none.
+  For Sale: 34 tribal elves [TELF] at $52, 6 leaders [LEAD] at $104.
+  Entertainment available: $25.
+  Products: 18 grain [GRAI], 12 wood [WOOD], 11 herbs [HERB].
+
+Exits:
+  North : swamp (49,75) in Dorantor.
+  Northeast : swamp (50,76) in Dorantor.
+  Southeast : swamp (50,78) in Dorantor.
+  South : plain (49,79) in Stroma.
+  Southwest : plain (48,78) in Stroma, contains Lorforin [city].
+  Northwest : ocean (48,76) in Atlantis Ocean.
+
+* rassaphore (2341), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 10 vikings [VIKI], 8534 silver [SILV], wool [WOOL],
+  roses [ROSE], fur [FUR]. Weight: 107. Capacity: 0/0/150/0. Skills:
+  combat [COMB] 3 (180).
+
++ Ruin [1] : Ruin, closed to player units.
+
+
+swamp (51,77) in Dorantor, 174 peasants (sea elves), $522.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $452).
+  Wanted: none.
+  For Sale: 34 sea elves [SELF] at $52, 6 leaders [LEAD] at $104.
+  Entertainment available: $26.
+  Products: 19 grain [GRAI], 10 wood [WOOD], 14 herbs [HERB].
+
+Exits:
+  North : swamp (51,75) in Dorantor.
+  Northeast : forest (52,76) in Surdel.
+  Southeast : ocean (52,78) in Atlantis Ocean.
+  South : plain (51,79) in Stroma.
+  Southwest : swamp (50,78) in Dorantor.
+  Northwest : swamp (50,76) in Dorantor.
+
+* novice (2571), The Moon Brotherhood (12), avoiding, revealing
+  faction, tribesman [TMAN], 45 silver [SILV]. Weight: 10. Capacity:
+  0/0/15/0. Skills: none.
+
+
+plain (48,78) in Stroma, contains Lorforin [city], 2904 peasants
+  (vikings), $20328.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $17 (Max: $9873).
+  Wanted: 100 grain [GRAI] at $23, 132 livestock [LIVE] at $21, 25
+    iron [IRON] at $47, 32 wood [WOOD] at $53, 148 fish [FISH] at $18,
+    34 crossbows [XBOW] at $87, 27 longbows [LBOW] at $117, 14 wagons
+    [WAGO] at $155, 16 roses [ROSE] at $146, 8 cashmere [CASH] at
+    $143.
+  For Sale: 24 horses [HORS] at $52, 22 plate armor [PARM] at $575, 9
+    mink [MINK] at $66, 580 vikings [VIKI] at $68, 116 leaders [LEAD]
+    at $136.
+  Entertainment available: $1016.
+  Products: 67 grain [GRAI], 37 horses [HORS].
+
+Exits:
+  North : ocean (48,76) in Atlantis Ocean.
+  Northeast : swamp (49,77) in Dorantor.
+  Southeast : plain (49,79) in Stroma.
+  South : plain (48,80) in Stroma, contains Ragolmar [city].
+  Southwest : forest (47,79) in Yahevoru.
+  Northwest : forest (47,77) in Yahevoru.
+
+* rassaphore (1597), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 400 vikings [VIKI], 130 swords [SWOR], 43842 silver
+  [SILV]. Weight: 4130. Capacity: 0/0/6000/0. Skills: combat [COMB] 3
+  (180).
+* Stavrophore (1529), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 459 wood [WOOD], 10 ironwood
+  [IRWD], 40034 silver [SILV]. Weight: 2405. Capacity: 0/0/15/0.
+  Skills: observation [OBSE] 5 (450), entertainment [ENTE] 2 (90),
+  tactics [TACT] 5 (450), combat [COMB] 1 (30).
+* Brother Joplin (1476), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 540 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: entertainment [ENTE] 5 (450).
+* rassaphore (3323), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 58 vikings [VIKI]. Weight: 580. Capacity:
+  0/0/870/0. Skills: combat [COMB] 1 (30).
+* rassaphore (3338), The Moon Brotherhood (12), revealing faction,
+  4500 silver [SILV], 168 vikings [VIKI]. Weight: 1680. Capacity:
+  0/0/2520/0. Skills: combat [COMB] 1 (30).
+* rassaphore (3339), The Moon Brotherhood (12), revealing faction, 274
+  vikings [VIKI]. Weight: 2740. Capacity: 0/0/4110/0. Skills: combat
+  [COMB] 1 (30).
+
+
+swamp (50,78) in Dorantor, 183 peasants (tribal elves), $549.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $475).
+  Wanted: none.
+  For Sale: 36 tribal elves [TELF] at $52, 7 leaders [LEAD] at $104.
+  Entertainment available: $27.
+  Products: 16 grain [GRAI], 15 wood [WOOD], 13 herbs [HERB].
+
+Exits:
+  North : swamp (50,76) in Dorantor.
+  Northeast : swamp (51,77) in Dorantor.
+  Southeast : plain (51,79) in Stroma.
+  South : plain (50,80) in Stroma, contains Thanthielnost [city].
+  Southwest : plain (49,79) in Stroma.
+  Northwest : swamp (49,77) in Dorantor.
+
+* peasant (1988), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, tribesman [TMAN], 3 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: none.
+
+
+forest (45,79) in Yahevoru, contains Lloyer [city], 2797 peasants
+  (wood elves), $13985.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $15 (Max: $8391).
+  Wanted: 168 grain [GRAI] at $26, 186 livestock [LIVE] at $18, 39
+    swords [SWOR] at $98, 30 crossbows [XBOW] at $86, 36 chain armor
+    [CARM] at $87, 29 dye [DYE] at $168, 19 wool [WOOL] at $171.
+  For Sale: 45 furs [FUR] at $45, 32 herbs [HERB] at $45, 15 tarot
+    cards [TARO] at $75, 559 wood elves [WELF] at $60, 111 leaders
+    [LEAD] at $120.
+  Entertainment available: $699.
+  Products: 34 grain [GRAI], 28 wood [WOOD], 10 furs [FUR], 15 herbs
+    [HERB].
+
+Exits:
+  North : forest (45,77) in Yahevoru.
+  Northeast : forest (46,78) in Yahevoru.
+  Southeast : forest (46,80) in Yahevoru.
+  South : forest (45,81) in Gorbad.
+  Southwest : forest (44,80) in Yahevoru.
+  Northwest : forest (44,78) in Yahevoru.
+
+- City Guard (189), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* novice (2346), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, consuming unit's food, sea elf [SELF], 60 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+  1 (30).
+
+
+plain (49,79) in Stroma, 719 peasants (high elves), $4314.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $16 (Max: $2300).
+  Wanted: none.
+  For Sale: 143 high elves [HELF] at $64, 28 leaders [LEAD] at $128.
+  Entertainment available: $215.
+  Products: 59 livestock [LIVE], 37 horses [HORS].
+
+Exits:
+  North : swamp (49,77) in Dorantor.
+  Northeast : swamp (50,78) in Dorantor.
+  Southeast : plain (50,80) in Stroma, contains Thanthielnost [city].
+  South : plain (49,81) in Stroma.
+  Southwest : plain (48,80) in Stroma, contains Ragolmar [city].
+  Northwest : plain (48,78) in Stroma, contains Lorforin [city].
+
+* rassaphore (2342), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 3 vikings [VIKI], 1301 silver [SILV]. Weight: 30.
+  Capacity: 0/0/45/0. Skills: combat [COMB] 3 (180).
+* Knight of the Full Moon (2888), on guard, The Moon Brotherhood (12),
+  revealing faction, taxing, leader [LEAD], 198 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450).
+* Stavrophore (2976), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: observation [OBSE] 5 (450), combat [COMB] 1 (30),
+  entertainment [ENTE] 1 (60).
+* rassaphore (1307), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 686 silver [SILV], 10 vikings [VIKI]. Weight: 100.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 2 (90).
+* rassaphore (2014), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 58 vikings [VIKI], 4415 silver [SILV]. Weight: 580.
+  Capacity: 0/0/870/0. Skills: combat [COMB] 2 (90).
+* rassaphore (3341), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 15 vikings [VIKI], 595 silver [SILV]. Weight: 150.
+  Capacity: 0/0/225/0. Skills: combat [COMB] 2 (90).
+* Moon Riders (3059), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, 10 leaders [LEAD], 173 horses
+  [HORS]. Weight: 8750. Capacity: 0/12110/12260/0. Skills: riding
+  [RIDI] 4 (360).
+
+
+forest (46,80) in Yahevoru, 253 peasants (wood elves), $759.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $13 (Max: $657).
+  Wanted: none.
+  For Sale: 50 wood elves [WELF] at $52, 10 leaders [LEAD] at $104.
+  Entertainment available: $37.
+  Products: 38 livestock [LIVE], 31 wood [WOOD], 11 furs [FUR], 12
+    herbs [HERB].
+
+Exits:
+  North : forest (46,78) in Yahevoru.
+  Northeast : forest (47,79) in Yahevoru.
+  Southeast : ocean (47,81) in Atlantis Ocean.
+  South : forest (46,82) in Gorbad.
+  Southwest : forest (45,81) in Gorbad.
+  Northwest : forest (45,79) in Yahevoru, contains Lloyer [city].
+
+* novice (2887), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, viking [VIKI], 16 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+plain (48,80) in Stroma, contains Ragolmar [city], 7447 peasants (high
+  elves), $67023.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $19 (Max: $28298).
+  Wanted: 156 grain [GRAI] at $18, 136 livestock [LIVE] at $18, 130
+    fish [FISH] at $24, 78 herbs [HERB] at $45, 68 swords [SWOR] at
+    $108, 91 chain armor [CARM] at $101, 63 plate armor [PARM] at
+    $543, 96 wagons [WAGO] at $152, 74 figurines [FIGU] at $141, 73
+    roses [ROSE] at $149.
+  For Sale: 56 horses [HORS] at $47, 95 wine [WINE] at $66, 72 mink
+    [MINK] at $84, 1489 high elves [HELF] at $76, 297 leaders [LEAD]
+    at $152.
+  Entertainment available: $3351.
+  Products: 70 livestock [LIVE], 21 horses [HORS].
+
+Exits:
+  North : plain (48,78) in Stroma, contains Lorforin [city].
+  Northeast : plain (49,79) in Stroma.
+  Southeast : plain (49,81) in Stroma.
+  South : plain (48,82) in Stroma, contains Nildss [village].
+  Southwest : ocean (47,81) in Atlantis Ocean.
+  Northwest : forest (47,79) in Yahevoru.
+
+* Stavrophore (2884), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 24089 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+  entertainment [ENTE] 1 (60).
+* rassaphore (3058), on guard, The Moon Brotherhood (12), revealing
+  faction, holding, taxing, 1200 vikings [VIKI], 215695 silver [SILV].
+  Weight: 12000. Capacity: 0/0/18000/0. Skills: combat [COMB] 3 (180).
+* Knights of the Full Moon (2990), The Moon Brotherhood (12),
+  revealing faction, 120 leaders [LEAD], 41 swords [SWOR], 4800 silver
+  [SILV]. Weight: 1241. Capacity: 0/0/1800/0. Skills: combat [COMB] 3
+  (180).
+* rassaphore (1308), on guard, The Moon Brotherhood (12), revealing
+  faction, holding, taxing, 2000 silver [SILV], 20 vikings [VIKI].
+  Weight: 200. Capacity: 0/0/300/0. Skills: combat [COMB] 2 (150).
+* rassaphore (2013), The Moon Brotherhood (12), revealing faction,
+  2820 silver [SILV], 168 vikings [VIKI]. Weight: 1680. Capacity:
+  0/0/2520/0. Skills: combat [COMB] 1 (30).
+* novice (2889), The Moon Brotherhood (12), avoiding, revealing
+  faction, high elf [HELF]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  none.
+
+
+plain (50,80) in Stroma, contains Thanthielnost [city], 6485 peasants
+  (high elves), $51880.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $18 (Max: $23346).
+  Wanted: 132 grain [GRAI] at $27, 112 livestock [LIVE] at $23, 72
+    swords [SWOR] at $86, 63 chain armor [CARM] at $93, 94 figurines
+    [FIGU] at $144, 71 truffles [TRUF] at $143.
+  For Sale: 65 horses [HORS] at $59, 51 plate armor [PARM] at $518, 88
+    caviar [CAVI] at $79, 71 perfume [PERF] at $66, 1297 high elves
+    [HELF] at $72, 259 leaders [LEAD] at $144.
+  Entertainment available: $2594.
+  Products: 77 grain [GRAI], 28 horses [HORS], 6 winged horses [WING].
+
+Exits:
+  North : swamp (50,78) in Dorantor.
+  Northeast : plain (51,79) in Stroma.
+  Southeast : plain (51,81) in Stroma, contains Riltas [city].
+  South : plain (50,82) in Stroma.
+  Southwest : plain (49,81) in Stroma.
+  Northwest : plain (49,79) in Stroma.
+
+* choir of thanthielnost (2366), The Moon Brotherhood (12), avoiding,
+  revealing faction, 19 high elves [HELF], 440 silver [SILV]. Weight:
+  190. Capacity: 0/0/285/0. Skills: entertainment [ENTE] 3 (180).
+* Pastural Carer (1683), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, leader [LEAD]. Weight: 10. Capacity:
+  0/0/15/0. Skills: farming [FARM] 4 (420), riding [RIDI] 1 (30).
+* farmers (1624), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, receiving no aid, 20 high elves [HELF],
+  60 grain [GRAI]. Weight: 500. Capacity: 0/0/300/0. Skills: farming
+  [FARM] 3 (180).
+* Brother Tombooker (2096), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD]. Weight: 10. Capacity:
+  0/0/15/0. Skills: horse training [HORS] 5 (450).
+* Stavrophore (2883), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 6638 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), tactics
+  [TACT] 4 (360).
+* Brother Joplin (2097), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: entertainment [ENTE] 4 (300).
+* trader (3131), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, receiving no aid, high elf [HELF], 1628
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+* arras (1577), on guard, The Moon Brotherhood (12), behind, revealing
+  faction, 45 wood elves [WELF], 45 longbows [LBOW], 8490 silver
+  [SILV]. Weight: 495. Capacity: 0/0/675/0. Skills: longbow [LBOW] 3
+  (180).
+* Chorist (2671), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: entertainment [ENTE] 3 (270).
+* Knights of the Full Moon (2393), on guard, The Moon Brotherhood
+  (12), revealing faction, taxing, 88 swords [SWOR], 100 leaders
+  [LEAD], 3000 silver [SILV], 50 plate armor [PARM]. Weight: 1238.
+  Capacity: 0/0/1500/0. Skills: combat [COMB] 3 (210).
+* rassaphore (2508), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 100 vikings [VIKI], 28630 silver [SILV]. Weight:
+  1000. Capacity: 0/0/1500/0. Skills: combat [COMB] 2 (150).
+* rassaphore (2736), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 300 vikings [VIKI], 38000 silver [SILV]. Weight:
+  3000. Capacity: 0/0/4500/0. Skills: combat [COMB] 3 (180).
+* Tamers (2729), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 10 leaders [LEAD]. Weight: 100. Capacity:
+  0/0/150/0. Skills: horse training [HORS] 3 (240).
+* Knights of the Full Moon (3128), The Moon Brotherhood (12),
+  revealing faction, 40 leaders [LEAD], 40 swords [SWOR], 40 plate
+  armor [PARM], 40 horses [HORS], 4370 silver [SILV]. Weight: 2560.
+  Capacity: 0/2800/3400/0. Skills: combat [COMB] 3 (240).
+* chorists (3345), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 10 high elves [HELF]. Weight: 100. Capacity:
+  0/0/150/0. Skills: entertainment [ENTE] 1 (60).
+* rassophore (3346), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 14600 silver [SILV], 365 vikings [VIKI]. Weight:
+  3650. Capacity: 0/0/5475/0. Skills: combat [COMB] 2 (120).
+* chorists (3357), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 10 high elves [HELF]. Weight: 100. Capacity:
+  0/0/150/0. Skills: entertainment [ENTE] 1 (60).
+
+
+plain (51,81) in Stroma, contains Riltas [city], 5081 peasants (high
+  elves), $35567.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $17 (Max: $17275).
+  Wanted: 174 grain [GRAI] at $27, 156 livestock [LIVE] at $20, 134
+    fish [FISH] at $20, 52 swords [SWOR] at $110, 76 longbows [LBOW]
+    at $95, 56 chain armor [CARM] at $122, 62 plate armor [PARM] at
+    $509, 30 mithril swords [MSWO] at $410, 86 chocolate [CHOC] at
+    $164, 91 wool [WOOL] at $146.
+  For Sale: 59 horses [HORS] at $49, 66 caviar [CAVI] at $63, 97 silk
+    [SILK] at $67, 1016 high elves [HELF] at $68, 203 leaders [LEAD]
+    at $136.
+  Entertainment available: $1778.
+  Products: 79 grain [GRAI], 32 horses [HORS].
+
+Exits:
+  North : plain (51,79) in Stroma.
+  Northeast : ocean (52,80) in Atlantis Ocean.
+  Southeast : plain (52,82) in Stroma.
+  South : plain (51,83) in Stroma.
+  Southwest : plain (50,82) in Stroma.
+  Northwest : plain (50,80) in Stroma, contains Thanthielnost [city].
+
+- City Guard (196), on guard, The Guardsmen (1), 120 leaders [LEAD],
+  120 swords [SWOR].
+* farmers (1485), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 20 high elves [HELF], 60 grain [GRAI]. Weight:
+  500. Capacity: 0/0/300/0. Skills: farming [FARM] 3 (180).
+* trader (1752), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, high elf [HELF]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: none.
+* tamers (2572), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 10 high elves [HELF], 30 horses [HORS]. Weight:
+  1600. Capacity: 0/2100/2250/0. Skills: horse training [HORS] 3
+  (180).
+* choir of riltas (1684), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, 26 wood elves [WELF], 77 silver [SILV].
+  Weight: 260. Capacity: 0/0/390/0. Skills: entertainment [ENTE] 3
+  (180).
+* Abbot Abraham (1432), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, leader [LEAD], horse [HORS].
+  Weight: 60. Capacity: 0/70/85/0. Skills: riding [RIDI] 5 (450),
+  horse training [HORS] 2 (90).
+* Stavrophore vun Riltas (2882), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD], 3141 silver [SILV].
+  Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+  tactics [TACT] 3 (180).
+* Stavrophore (3060), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 5 leaders [LEAD], 5 horses [HORS]. Weight: 300.
+  Capacity: 0/350/425/0. Skills: observation [OBSE] 5 (450), combat
+  [COMB] 1 (30), riding [RIDI] 1 (30).
+* fletchers (2748), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 10 high elves [HELF], 20 longbows [LBOW]. Weight:
+  120. Capacity: 0/0/150/0. Skills: weaponsmith [WEAP] 2 (90).
+* Arras (2940), The Moon Brotherhood (12), avoiding, behind, revealing
+  faction, 10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: longbow [LBOW] 2 (120).
+* Knights of the Full Moon (3129), The Moon Brotherhood (12),
+  revealing faction, 96 leaders [LEAD], 5566 silver [SILV], 96 horses
+  [HORS], 34 swords [SWOR], 62 mithril swords [MSWO]. Weight: 5856.
+  Capacity: 0/6720/8160/0. Skills: combat [COMB] 4 (360), riding
+  [RIDI] 1 (30).
+* Knight of the Full Moon (3358), The Moon Brotherhood (12), revealing
+  faction, 100 leaders [LEAD]. Weight: 1000. Capacity: 0/0/1500/0.
+  Skills: riding [RIDI] 1 (30).
+* fisherman (2669), The Moon Brotherhood (12), avoiding, revealing
+  faction, sea elf [SELF]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  fishing [FISH] 3 (180).
+* Brother Shiprite (1441), The Moon Brotherhood (12), avoiding,
+  behind, revealing faction, leader [LEAD]. Weight: 10. Capacity:
+  0/0/15/0. Skills: shipbuilding [SHIP] 5 (450), sailing [SAIL] 3
+  (210).
+
++ Ship [121] : Galleon, needs 45.
+  * Brother Shiprite's assistants (2098), The Moon Brotherhood (12),
+    avoiding, behind, revealing faction, 10 vikings [VIKI], 26 wood
+    [WOOD]. Weight: 230. Capacity: 0/0/150/0. Skills: shipbuilding
+    [SHIP] 3 (180).
+
+
+plain (48,82) in Stroma, contains Nildss [village], 1206 peasants
+  (nomads), $8442.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $17 (Max: $4100).
+  Wanted: 112 grain [GRAI] at $27, 115 livestock [LIVE] at $24, 85
+    fish [FISH] at $18.
+  For Sale: 241 nomads [NOMA] at $68, 48 leaders [LEAD] at $136.
+  Entertainment available: $422.
+  Products: 59 grain [GRAI], 37 horses [HORS].
+
+Exits:
+  North : plain (48,80) in Stroma, contains Ragolmar [city].
+  Northeast : plain (49,81) in Stroma.
+  Southeast : plain (49,83) in Stroma.
+  South : plain (48,84) in Stroma.
+  Southwest : forest (47,83) in Gorbad.
+  Northwest : ocean (47,81) in Atlantis Ocean.
+
+* rassaphore (2975), on guard, The Moon Brotherhood (12), revealing
+  faction, holding, taxing, viking [VIKI], 4740 silver [SILV], 25
+  swords [SWOR]. Weight: 35. Capacity: 0/0/15/0. Skills: combat [COMB]
+  3 (180).
+* Stavrophore (2885), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, leader [LEAD], 21543 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), stealth
+  [STEA] 2 (150).
+
+
+plain (50,82) in Stroma, 626 peasants (plainsmen), $3756.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $16 (Max: $2003).
+  Wanted: none.
+  For Sale: 125 plainsmen [PLAI] at $64, 25 leaders [LEAD] at $128.
+  Entertainment available: $187.
+  Products: 65 grain [GRAI], 32 horses [HORS].
+
+Exits:
+  North : plain (50,80) in Stroma, contains Thanthielnost [city].
+  Northeast : plain (51,81) in Stroma, contains Riltas [city].
+  Southeast : plain (51,83) in Stroma.
+  South : plain (50,84) in Stroma.
+  Southwest : plain (49,83) in Stroma.
+  Northwest : plain (49,81) in Stroma.
+
+* Stavrophore (1330), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, taxing, 146 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), combat
+  [COMB] 1 (60).
+
+
+plain (52,82) in Stroma, 743 peasants (plainsmen), $2972.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $14 (Max: $2080).
+  Wanted: none.
+  For Sale: 148 plainsmen [PLAI] at $56, 29 leaders [LEAD] at $112.
+  Entertainment available: $148.
+  Products: 59 livestock [LIVE], 37 horses [HORS].
+
+Exits:
+  North : ocean (52,80) in Atlantis Ocean.
+  Northeast : ocean (53,81) in Atlantis Ocean.
+  Southeast : ocean (53,83) in Atlantis Ocean.
+  South : plain (52,84) in Grimrot.
+  Southwest : plain (51,83) in Stroma.
+  Northwest : plain (51,81) in Stroma, contains Riltas [city].
+
+* Stavrophore (1333), on guard, The Moon Brotherhood (12), behind,
+  revealing faction, taxing, 144 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), combat
+  [COMB] 1 (60).
+
+
+plain (49,83) in Stroma, 535 peasants (plainsmen), $3210.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $16 (Max: $1712).
+  Wanted: none.
+  For Sale: 107 plainsmen [PLAI] at $64, 21 leaders [LEAD] at $128.
+  Entertainment available: $160.
+  Products: 63 grain [GRAI], 35 horses [HORS].
+
+Exits:
+  North : plain (49,81) in Stroma.
+  Northeast : plain (50,82) in Stroma.
+  Southeast : plain (50,84) in Stroma.
+  South : plain (49,85) in Stroma, contains Co-cil [city].
+  Southwest : plain (48,84) in Stroma.
+  Northwest : plain (48,82) in Stroma, contains Nildss [village].
+
+* rassaphore (2590), The Moon Brotherhood (12), revealing faction,
+  taxing, 149 vikings [VIKI], 8940 silver [SILV]. Weight: 1490.
+  Capacity: 0/0/2235/0. Skills: combat [COMB] 1 (30).
+- Wolf Pack (342), 9 wolves [WOLF].
+
+
+mountain (63,83) in Baibur, contains Dunfanaghy [city], 4172 peasants
+  (hill dwarves), $20860.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $15 (Max: $12516).
+  Wanted: 144 grain [GRAI] at $26, 100 livestock [LIVE] at $20, 110
+    fish [FISH] at $26, 71 herbs [HERB] at $41, 76 swords [SWOR] at
+    $101, 81 longbows [LBOW] at $113, 82 plate armor [PARM] at $416,
+    67 caviar [CAVI] at $149, 72 roses [ROSE] at $147.
+  For Sale: 48 stone [STON] at $57, 55 wagons [WAGO] at $177, 75 vodka
+    [VODK] at $82, 51 perfume [PERF] at $83, 834 hill dwarves [HDWA]
+    at $60, 166 leaders [LEAD] at $120.
+  Entertainment available: $1043.
+  Products: 37 grain [GRAI], 34 iron [IRON], 11 stone [STON].
+
+Exits:
+  North : mountain (63,81) in Baibur.
+  Northeast : mountain (64,82) in Baibur, contains Belport [city].
+  Southeast : ocean (64,84) in Atlantis Ocean.
+  South : forest (63,85) in Baechahoela.
+  Southwest : forest (62,84) in Baechahoela.
+  Northwest : forest (62,82) in Baechahoela.
+
+- City Guard (206), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Grey Scout (1927), Grey Wind (17), avoiding, behind, barbarian
+  [BARB].
+* novice (2269), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, holding, consuming faction's food, viking [VIKI],
+  45 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  entertainment [ENTE] 2 (90).
+
+
+plain (49,85) in Stroma, contains Co-cil [city], 5847 peasants (high
+  elves), $40929.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $17 (Max: $19879).
+  Wanted: 154 grain [GRAI] at $18, 162 livestock [LIVE] at $21, 67
+    chain armor [CARM] at $119, 99 tarot cards [TARO] at $141, 70
+    perfume [PERF] at $146.
+  For Sale: 76 horses [HORS] at $52, 73 wagons [WAGO] at $195, 86
+    spices [SPIC] at $60, 86 wool [WOOL] at $79, 1169 high elves
+    [HELF] at $68, 233 leaders [LEAD] at $136.
+  Entertainment available: $2046.
+  Products: 68 grain [GRAI], 35 horses [HORS].
+
+Exits:
+  North : plain (49,83) in Stroma.
+  Northeast : plain (50,84) in Stroma.
+  Southeast : plain (50,86) in Stroma.
+  South : plain (49,87) in Stroma.
+  Southwest : plain (48,86) in Stroma.
+  Northwest : plain (48,84) in Stroma.
+
+* Schemos Polemo (1445), The Moon Brotherhood (12), behind, revealing
+  faction, leader [LEAD], double bow [DBOW]. Weight: 11. Capacity:
+  0/0/15/0. Skills: tactics [TACT] 4 (360), longbow [LBOW] 4 (300).
+* rassaphore (3218), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 89 vikings [VIKI], 23296 silver [SILV], 89 swords
+  [SWOR]. Weight: 979. Capacity: 0/0/1335/0. Skills: combat [COMB] 3
+  (180).
+* rassaphore (2875), on guard, The Moon Brotherhood (12), revealing
+  faction, taxing, 200 vikings [VIKI], 38593 silver [SILV], 200 swords
+  [SWOR]. Weight: 2200. Capacity: 0/0/3000/0. Skills: combat [COMB] 3
+  (180).
+* rassaphore (1334), The Moon Brotherhood (12), revealing faction,
+  holding, taxing, 168 vikings [VIKI], 10073 silver [SILV], 60 swords
+  [SWOR]. Weight: 1740. Capacity: 0/0/2520/0. Skills: combat [COMB] 3
+  (180).
+* Stavrophore (1310), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, 30 silver [SILV], leader [LEAD]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), combat
+  [COMB] 1 (30), entertainment [ENTE] 1 (30).
+* rassaphore (1306), The Moon Brotherhood (12), revealing faction,
+  taxing, 168 vikings [VIKI], 11753 silver [SILV]. Weight: 1680.
+  Capacity: 0/0/2520/0. Skills: combat [COMB] 1 (60).
+
+
+plain (51,87) in Grimrot, contains Mundfeld [city], 6286 peasants
+  (high elves), $56574.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $19 (Max: $23886).
+  Wanted: 148 grain [GRAI] at $20, 162 livestock [LIVE] at $23, 91
+    stone [STON] at $50, 78 swords [SWOR] at $98, 53 chain armor
+    [CARM] at $120, 57 perfume [PERF] at $143, 73 cashmere [CASH] at
+    $141.
+  For Sale: 94 velvet [VELV] at $79, 94 wool [WOOL] at $69, 1257 high
+    elves [HELF] at $76, 251 leaders [LEAD] at $152.
+  Entertainment available: $2828.
+  Products: 77 livestock [LIVE], 36 horses [HORS].
+
+Exits:
+  North : plain (51,85) in Stroma, contains Aweville [city].
+  Northeast : plain (52,86) in Grimrot.
+  Southeast : plain (52,88) in Grimrot.
+  South : plain (51,89) in Grimrot.
+  Southwest : plain (50,88) in Grimrot.
+  Northwest : plain (50,86) in Stroma.
+
+- City Guard (218), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* novice (3132), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, high elf [HELF], 70 silver
+  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+
+ocean (62,92) in Atlantis Ocean.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $0.
+  Wanted: none.
+  For Sale: none.
+  Products: 29 fish [FISH].
+
+Exits:
+  North : forest (62,90) in Soratuen.
+  Northeast : ocean (63,91) in Atlantis Ocean.
+  Southeast : ocean (63,93) in Atlantis Ocean.
+  South : ocean (62,94) in Atlantis Ocean.
+  Southwest : ocean (61,93) in Atlantis Ocean.
+  Northwest : ocean (61,91) in Atlantis Ocean.
+
+
++ Moonlight Sonata [102] : Longboat; A longship, of traditional viking
+  design.
+  * sailors (1417), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, holding, consuming faction's food, 2 vikings
+    [VIKI]. Weight: 20. Capacity: 0/0/30/0. Skills: sailing [SAIL] 3
+    (180).
+  * fishermen (1351), The Moon Brotherhood (12), avoiding, behind,
+    revealing faction, consuming unit's food, 2 sea elves [SELF], 40
+    silver [SILV], 12 fish [FISH]. Weight: 32. Capacity: 0/0/30/0.
+    Skills: fishing [FISH] 3 (180).
+
+
+plain (51,95) in Aleccer, contains Chaold [city], 2734 peasants (high
+  elves), $21872.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $18 (Max: $9842).
+  Wanted: 122 grain [GRAI] at $21, 122 livestock [LIVE] at $20, 38
+    iron [IRON] at $41, 36 longbows [LBOW] at $120, 20 wine [WINE] at
+    $158, 4 perfume [PERF] at $152.
+  For Sale: 21 horses [HORS] at $56, 15 spices [SPIC] at $70, 546 high
+    elves [HELF] at $72, 109 leaders [LEAD] at $144.
+  Entertainment available: $1093.
+  Products: 71 livestock [LIVE], 27 horses [HORS].
+
+Exits:
+  North : plain (51,93) in Aleccer.
+  Northeast : plain (52,94) in Lorthalm.
+  Northwest : plain (50,94) in Aleccer, contains Byvneld [city].
+
+- City Guard (245), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+* Novice (1409), The Moon Brotherhood (12), avoiding, behind,
+  revealing faction, receiving no aid, leader [LEAD], horse [HORS],
+  942 silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: riding
+  [RIDI] 1 (30), combat [COMB] 1 (30).
+
+
+
+Orders Template (Long Format):
+
+#atlantis 12 "scumbuckets"
+
+;*** plain (55,65) in Almeria ***
+
+unit 1070
+;Novice (1070), avoiding, behind, revealing faction, receiving no aid,
+;  viking [VIKI], 84 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: stealth [STEA] 2 (90); An earnest looking young man. His
+;  eyes dart here and there taking everything in.
+@WORK
+
+;*** swamp (49,69) in Dorantor ***
+
+unit 2874
+;rassaphore (2874), on guard, revealing faction, 7 vikings [VIKI], 4789
+;  silver [SILV]. Weight: 70. Capacity: 0/0/105/0. Skills: combat
+;  [COMB] 3 (180).
+@WORK
+
+;*** forest (51,69) in Surdel, contains Landtorm [city] ***
+
+unit 1210
+;Stavrophore vun Landtorm (1210), avoiding, behind, revealing faction,
+;  receiving no aid, leader [LEAD], 6 wagons [WAGO], 20 silver [SILV].
+;  Weight: 310. Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+;  entertainment [ENTE] 3 (180).
+@ENTERTAIN
+
+unit 1263
+;Choir of Landtorm (1263), avoiding, behind, revealing faction,
+;  receiving no aid, 3 vikings [VIKI], 90 silver [SILV]. Weight: 30.
+;  Capacity: 0/0/45/0. Skills: entertainment [ENTE] 2 (90).
+@ENTERTAIN
+@GIVE 1884 10 silver
+
+unit 2160
+;novice (2160), avoiding, behind, revealing faction, sea elf [SELF], 7
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: riding [RIDI]
+;  2 (90).
+@WORK
+
+unit 1482
+;novices (1482), avoiding, behind, revealing faction, 6 vikings [VIKI],
+;  12 horses [HORS], 2592 silver [SILV]. Weight: 660. Capacity:
+;  0/840/930/0. Skills: riding [RIDI] 2 (90).
+BUY 190 iron
+MOVE sw
+@TURN
+MOVE ne
+GIVE 2315 ALL iron
+ENDTURN
+@TURN
+BUY 190 iron
+MOVE sw
+ENDTURN
+
+unit 1400
+;Captain (1400), avoiding, behind, revealing faction, holding, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: sailing [SAIL] 3
+;  (210), riding [RIDI] 1 (30), fishing [FISH] 3 (180); A ruddy faced,
+;  barrel chested seaman. What he doesn't know about the sea isn't
+;  worth knowing.
+
+unit 1884
+;Sailor (1884), avoiding, behind, revealing faction, leader [LEAD], 35
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: sailing
+;  [SAIL] 2 (90), fishing [FISH] 2 (90).
+@STUDY FISH
+
+;*** swamp (50,70) in Dorantor ***
+
+unit 1523
+;rassaphore (1523), on guard, revealing faction, taxing, 8 vikings
+;  [VIKI], 316 silver [SILV]. Weight: 80. Capacity: 0/0/120/0. Skills:
+;  combat [COMB] 3 (180).
+@WORK
+
+unit 1567
+;peasants (1567), revealing faction, 2 vikings [VIKI], 4 silver [SILV].
+;  Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 3 (180).
+@WORK
+
+unit 1275
+;Stavrophore vun Foresta (1275), avoiding, behind, revealing faction,
+;  leader [LEAD], 350 iron [IRON], 12 wagons [WAGO]. Weight: 2360.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), stealth
+;  [STEA] 5 (450), combat [COMB] 1 (30), tactics [TACT] 1 (30),
+;  entertainment [ENTE] 1 (30).
+@ENTERTAIN
+
+unit 1408
+;loggers (1408), avoiding, behind, revealing faction, 6 vikings [VIKI],
+;  208 wood [WOOD], 12 silver [SILV]. Weight: 1100. Capacity: 0/0/90/0.
+;  Skills: lumberjack [LUMB] 3 (180); They handle their axes like
+;  experts. That's 'ex' as in 'hasbeen' and 'spurt' as in 'a drip under
+;  pressure'.
+@WORK
+
+unit 2329
+;novices (2329), avoiding, behind, revealing faction, receiving no aid,
+;  6 vikings [VIKI], 12 horses [HORS], 98 swords [SWOR]. Weight: 758.
+;  Capacity: 0/840/930/0. Skills: riding [RIDI] 2 (90).
+MOVE ne
+GIVE 1073 ALL iron
+@TURN
+BUY 190 iron
+MOVE sw
+ENDTURN
+@TURN
+MOVE ne
+GIVE 1073 ALL iron
+ENDTURN
+
+unit 1073
+;novices (1073), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 6 vikings [VIKI], 12 horses [HORS], 26940 silver
+;  [SILV]. Weight: 660. Capacity: 0/840/930/0. Skills: riding [RIDI] 2
+;  (90); With long matted hair and huge beards, they fit the viking
+;  cliche to a 'T'.
+GIVE 2329 ALL silver
+MOVE sw
+@TURN
+GIVE 1474 ALL iron
+MOVE ne
+ENDTURN
+@TURN
+GIVE 2329 ALL silver
+MOVE sw
+ENDTURN
+
+;*** forest (52,70) in Surdel ***
+
+unit 1084
+;Stavrophore Malleus Maleficarum (1084), avoiding, behind, revealing
+;  faction, leader [LEAD], 3168 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: observation [OBSE] 5 (450), entertainment [ENTE] 1
+;  (30), combat [COMB] 3 (270), tactics [TACT] 3 (240).
+
+unit 1369
+;rassaphore (1369), on guard, revealing faction, taxing, 13 vikings
+;  [VIKI], 676 silver [SILV]. Weight: 130. Capacity: 0/0/195/0. Skills:
+;  combat [COMB] 3 (180).
+@WORK
+
+unit 2567
+;peasants (2567), revealing faction, 35 vikings [VIKI], 70 silver
+;  [SILV]. Weight: 350. Capacity: 0/0/525/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 1084 ALL silver
+
+unit 3201
+;Knights of the Full Moon (3201), avoiding, behind, revealing faction,
+;  10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills: combat
+;  [COMB] 1 (60).
+
+;*** swamp (49,71) in Dorantor, contains Soratgost [city] ***
+
+unit 1410
+;Brother Sneekes (1410), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: stealth [STEA] 5
+;  (450), entertainment [ENTE] 3 (240), riding [RIDI] 1 (30),
+;  observation [OBSE] 1 (30).
+
+unit 1289
+;farmers (1289), avoiding, behind, revealing faction, 10 vikings
+;  [VIKI], 16 grain [GRAI]. Weight: 180. Capacity: 0/0/150/0. Skills:
+;  farming [FARM] 2 (90); A group of rather miserable looking vikings.
+;  Viking hands were made for rowing and wielding axes, not ploughs!.
+@PRODUCE grain
+@GIVE 1767 ALL grain
+
+unit 1722
+;loggers (1722), avoiding, behind, revealing faction, 4 vikings [VIKI],
+;  12 wood [WOOD]. Weight: 100. Capacity: 0/0/60/0. Skills: lumberjack
+;  [LUMB] 3 (180).
+@PRODUCE wood
+@GIVE 1483 ALL wood
+
+unit 1679
+;Schemos Polemo (1679), behind, revealing faction, leader [LEAD],
+;  double bow [DBOW]. Weight: 11. Capacity: 0/0/15/0. Skills: tactics
+;  [TACT] 5 (450), entertainment [ENTE] 1 (30), longbow [LBOW] 3 (240).
+@STUDY LBOW
+
+unit 1068
+;rassaphore (1068), on guard, revealing faction, taxing, 342 vikings
+;  [VIKI], 342 swords [SWOR], 84 chain armor [CARM], 15684 silver
+;  [SILV]. Weight: 3846. Capacity: 0/0/5130/0. Skills: combat [COMB] 3
+;  (180); An unruly rabble of young men, their long hair and beards
+;  dirty and scruffy looking.
+@WORK
+@GIVE 1483 ALL silver
+
+unit 1767
+;trader (1767), avoiding, behind, revealing faction, viking [VIKI], 2
+;  tarot cards [TARO], mink [MINK], 2 roses [ROSE], jewelry [JEWE], 3
+;  truffles [TRUF], 3 furs [FUR], 2 figurines [FIGU], spices [SPIC], 2
+;  pearls [PEAR], velvet [VELV], 30 fish [FISH], 340 silver [SILV].
+;  Weight: 66. Capacity: 0/0/15/0. Skills: none.
+@WORK
+@SELL ALL grain
+@GIVE 1483 ALL silver
+
+unit 1339
+;Knights of the Full Moon (1339), revealing faction, 100 leaders
+;  [LEAD], 56 horses [HORS], 16 herbs [HERB], 100 mithril swords
+;  [MSWO], 85 chain armor [CARM], 14 plate armor [PARM]. Weight: 4027.
+;  Capacity: 0/3920/5420/0. Skills: combat [COMB] 5 (450), riding
+;  [RIDI] 3 (210), healing [HEAL] 1 (30).
+@STUDY riding
+
+unit 1050
+;Megaloschemos Loon (1050), behind, revealing faction, leader [LEAD],
+;  10 mithril swords [MSWO]. Weight: 20. Capacity: 0/0/15/0. Skills:
+;  pattern [PATT] 2 (90), spirit [SPIR] 2 (90), gate lore [GATE] 1
+;  (30), farsight [FARS] 1 (30), entertainment [ENTE] 1 (30), force
+;  [FORC] 2 (90), artifact lore [ARTI] 2 (90), enchant swords [ESWO] 2
+;  (90), riding [RIDI] 1 (30), earthquake [EQUA] 2 (90). Combat spell:
+;  earthquake [EQUA]. Can Study: fire [FIRE], force shield [FSHI],
+;  energy shield [ESHI], spirit shield [SSHI], magical healing [MHEA],
+;  gate lore [GATE], farsight [FARS], mind reading [MIND], weather lore
+;  [WEAT], earth lore [EART], necromancy [NECR], demon lore [DEMO],
+;  illusion [ILLU], enchant armor [EARM]; A man of indeterminate age,
+;  with no distinguishing features. In short, a remarkably unremarkable
+;  man.
+@CAST "enchant swords"
+@WORK
+
+unit 1685
+;Choir of Saratgost (1685), avoiding, revealing faction, 14 wood elves
+;  [WELF], 700 silver [SILV]. Weight: 140. Capacity: 0/0/210/0. Skills:
+;  entertainment [ENTE] 3 (180).
+@ENTERTAIN
+@GIVE 1483 ALL silver
+
+unit 2328
+;arras (2328), avoiding, behind, revealing faction, holding, 13 sea
+;  elves [SELF], 32 longbows [LBOW], 104 silver [SILV]. Weight: 162.
+;  Capacity: 0/0/195/0. Skills: longbow [LBOW] 3 (180).
+@WORK
+
+unit 1439
+;Brother Woody (1439), avoiding, behind, revealing faction, viking
+;  [VIKI], 2 wagons [WAGO], 16 silver [SILV]. Weight: 110. Capacity:
+;  0/0/15/0. Skills: carpenter [CARP] 2 (90).
+@WORK
+
+unit 2310
+;Unit (2310), avoiding, behind, revealing faction, 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: stealth [STEA] 5 (450),
+;  observation [OBSE] 5 (450).
+@STUDY observation
+
+unit 1273
+;Brother Smith (1273), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: weaponsmith [WEAP] 4
+;  (360), armorer [ARMO] 5 (450); With his soot stained face, brawny
+;  arms, and sweaty brow he doesn't look much like a religious man. And
+;  if you could hear the language on the occasion he smacks his thumb
+;  with a hammer you wouldn't think he sounded like one either.
+@STUDY weaponsmith
+
+unit 1474
+;Brother Smith's assistants (1474), avoiding, behind, revealing
+;  faction, holding, 25 vikings [VIKI], 321 iron [IRON], 50 swords
+;  [SWOR]. Weight: 1905. Capacity: 0/0/375/0. Skills: weaponsmith
+;  [WEAP] 2 (90).
+@PRODUCE swords
+@GIVE 1050 10 swords
+@GIVE 1568 42 iron
+
+unit 1569
+;Brother Sneekes (1569), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+;  3 (240), stealth [STEA] 5 (450), riding [RIDI] 1 (30), observation
+;  [OBSE] 1 (30).
+
+unit 1483
+;Stavrophore vun Soratgost (1483), avoiding, behind, revealing faction,
+;  leader [LEAD], 12409 silver [SILV], mink [MINK], 48 wood [WOOD], 9
+;  mithril swords [MSWO], 6 wagons [WAGO]. Weight: 564. Capacity:
+;  0/0/15/0. Skills: observation [OBSE] 5 (450), entertainment [ENTE] 1
+;  (30), combat [COMB] 2 (90), tactics [TACT] 3 (210).
+@GIVE 2310 500 silver
+@GIVE 1339 900 silver
+@GIVE 1679 200 silver
+TEACH 2310
+GIVE 2315 27000 silver
+@TURN
+GIVE 1073 27000 silver
+TEACH 2310
+ENDTURN
+@TURN
+TEACH 2310
+GIVE 2315 27000 silver
+ENDTURN
+
+unit 1568
+;Brother Smith's other assistants (1568), avoiding, behind, revealing
+;  faction, 21 vikings [VIKI], 42 chain armor [CARM]. Weight: 252.
+;  Capacity: 0/0/315/0. Skills: armorer [ARMO] 2 (90).
+@PRODUCE CARM
+@GIVE 1068 ALL CARM
+
+unit 1480
+;novices (1480), avoiding, behind, revealing faction, 3 vikings [VIKI],
+;  12 silver [SILV]. Weight: 30. Capacity: 0/0/45/0. Skills: riding
+;  [RIDI] 1 (60).
+
+unit 1477
+;novice (1477), avoiding, behind, revealing faction, viking [VIKI].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: riding [RIDI] 1 (60).
+
+unit 2315
+;novices (2315), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 6 vikings [VIKI], 12 horses [HORS], 30 iron
+;  [IRON]. Weight: 810. Capacity: 0/840/930/0. Skills: riding [RIDI] 2
+;  (90).
+GIVE 1474 ALL iron
+MOVE ne
+@TURN
+GIVE 1482 ALL silver
+MOVE sw
+ENDTURN
+@TURN
+GIVE 1474 ALL iron
+MOVE ne
+ENDTURN
+
+unit 2017
+;sailors (2017), avoiding, behind, revealing faction, 5 vikings [VIKI],
+;  20 silver [SILV]. Weight: 50. Capacity: 0/0/75/0. Skills: sailing
+;  [SAIL] 3 (180).
+
+unit 2226
+;Brother Mason (2226), avoiding, behind, revealing faction, 20 stone
+;  [STON], leader [LEAD]. Weight: 1010. Capacity: 0/0/15/0. Skills:
+;  building [BUIL] 2 (120).
+
+;*** forest (51,71) in Surdel ***
+
+unit 1871
+;Stavrophore (1871), avoiding, behind, revealing faction, leader
+;  [LEAD], 17032 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), entertainment [ENTE] 1 (30), stealth
+;  [STEA] 3 (180), combat [COMB] 3 (180), tactics [TACT] 2 (150).
+@STUDY tactics
+@GIVE 2215 100 silver
+
+unit 1940
+;rassaphore (1940), on guard, revealing faction, taxing, 15 vikings
+;  [VIKI], 5 swords [SWOR], 795 silver [SILV]. Weight: 155. Capacity:
+;  0/0/225/0. Skills: combat [COMB] 3 (180); As tough as old booze. And
+;  that is tough.
+@WORK
+@GIVE 1871 ALL silver
+
+unit 2668
+;peasants (2668), revealing faction, 26 vikings [VIKI], 78 silver
+;  [SILV]. Weight: 260. Capacity: 0/0/390/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 1871 ALL silver
+
+unit 2215
+;Knights of the Full Moon (2215), revealing faction, 10 leaders [LEAD],
+;  10 swords [SWOR]. Weight: 110. Capacity: 0/0/150/0. Skills: combat
+;  [COMB] 4 (300).
+@STUDY combat
+
+;*** forest (53,71) in Surdel ***
+
+unit 1313
+;Stavrophore vun Foresta (1313), avoiding, behind, revealing faction,
+;  leader [LEAD], wood [WOOD], 1514 silver [SILV]. Weight: 15.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+;  entertainment [ENTE] 1 (30), combat [COMB] 3 (210), tactics [TACT] 1
+;  (30).
+@STUDY tactics
+@GIVE 2216 100 silver
+
+unit 2568
+;peasants (2568), revealing faction, 51 vikings [VIKI], 102 silver
+;  [SILV]. Weight: 510. Capacity: 0/0/765/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 1313 ALL silver
+
+unit 2216
+;Knights of the Full Moon (2216), on guard, revealing faction, taxing,
+;  10 leaders [LEAD], 300 silver [SILV]. Weight: 100. Capacity:
+;  0/0/150/0. Skills: combat [COMB] 4 (300).
+@STUDY combat
+
+unit 2334
+;Unit (2334), avoiding, behind, leader [LEAD], horse [HORS], 44 silver
+;  [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: observation [OBSE]
+;  5 (450), stealth [STEA] 5 (450), entertainment [ENTE] 2 (90), riding
+;  [RIDI] 1 (30).
+
+;*** ocean (48,72) in Atlantis Ocean ***
+
+unit 2078
+;sailor (2078), avoiding, behind, revealing faction, holding, consuming
+;  faction's food, viking [VIKI]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: sailing [SAIL] 3 (180).
+@SAIL
+
+unit 1230
+;fishermen (1230), avoiding, behind, revealing faction, consuming
+;  unit's food, 4 sea elves [SELF], 18 fish [FISH]. Weight: 58.
+;  Capacity: 0/0/60/0. Skills: fishing [FISH] 3 (180).
+@PRODUCE FISH
+
+unit 3125
+;sailor (3125), avoiding, behind, revealing faction, consuming
+;  faction's food, viking [VIKI]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: sailing [SAIL] 2 (90).
+@SAIL
+
+;*** swamp (50,72) in Dorantor ***
+
+unit 1340
+;rassaphore (1340), on guard, revealing faction, 6 vikings [VIKI].
+;  Weight: 60. Capacity: 0/0/90/0. Skills: combat [COMB] 3 (180).
+@WORK
+
+unit 1939
+;loggers (1939), avoiding, behind, revealing faction, 5 vikings [VIKI],
+;  60 wood [WOOD]. Weight: 350. Capacity: 0/0/75/0. Skills: lumberjack
+;  [LUMB] 3 (180).
+@PRODUCE wood
+
+unit 1211
+;Stavrophore vun Marsh (1211), avoiding, behind, revealing faction,
+;  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: observation
+;  [OBSE] 5 (450), stealth [STEA] 2 (150), entertainment [ENTE] 1 (30),
+;  combat [COMB] 3 (180), tactics [TACT] 2 (150).
+@STUDY stealth
+
+unit 2857
+;peasants (2857), revealing faction, 23 vikings [VIKI]. Weight: 230.
+;  Capacity: 0/0/345/0. Skills: combat [COMB] 2 (120).
+@WORK
+
+unit 2272
+;Fen Dwellers (2272), avoiding, behind, revealing faction, holding, 5
+;  leaders [LEAD], 45 floater hides [FLOA]. Weight: 95. Capacity:
+;  0/0/75/0. Skills: hunting [HUNT] 3 (180).
+@PRODUCE FLOA
+
+unit 3051
+;Fen dweller (3051), revealing faction, leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: hunting [HUNT] 4 (300); There ain't no
+;  dawgs in Fiddler's Marsh.
+@STUDY hunting
+
+unit 3054
+;novices (3054), avoiding, behind, revealing faction, 30 vikings
+;  [VIKI], 60 horses [HORS], 4672 silver [SILV]. Weight: 3300.
+;  Capacity: 0/4200/4650/0. Skills: riding [RIDI] 2 (90).
+MOVE SE
+
+;*** forest (52,72) in Surdel ***
+
+unit 1773
+;rassaphore (1773), on guard, revealing faction, taxing, 12 vikings
+;  [VIKI], 6 swords [SWOR], 316 silver [SILV]. Weight: 126. Capacity:
+;  0/0/180/0. Skills: combat [COMB] 3 (180).
+@WORK
+@GIVE 1872 ALL silver
+
+unit 1872
+;Stavrophore (1872), avoiding, behind, revealing faction, leader
+;  [LEAD], 8422 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), entertainment [ENTE] 1 (30), combat
+;  [COMB] 3 (210), tactics [TACT] 1 (30).
+
+unit 2338
+;peasants (2338), revealing faction, 30 vikings [VIKI], 60 silver
+;  [SILV]. Weight: 300. Capacity: 0/0/450/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 1872 ALL silver
+
+unit 2327
+;Knights of the Full Moon (2327), on guard, revealing faction, leader
+;  [LEAD], sword [SWOR]. Weight: 11. Capacity: 0/0/15/0. Skills: combat
+;  [COMB] 3 (210).
+
+unit 3204
+;Knight of the Full Moon (3204), revealing faction, 4 swords [SWOR], 4
+;  leaders [LEAD]. Weight: 44. Capacity: 0/0/60/0. Skills: combat
+;  [COMB] 3 (240).
+
+unit 3213
+;Knights of the Full Moon (3213), revealing faction, 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60).
+@STUDY combat
+
+;*** plain (64,72) in Ranaw, contains Quataia [city] ***
+
+unit 1937
+;Stavrophore (1937), avoiding, behind, revealing faction, consuming
+;  faction's food, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 5 (450), stealth [STEA] 1 (30),
+;  entertainment [ENTE] 2 (150), fishing [FISH] 1 (30).
+
+unit 2147
+;Choir (2147), avoiding, behind, revealing faction, consuming faction's
+;  food, 10 plainsmen [PLAI], 582 silver [SILV]. Weight: 100. Capacity:
+;  0/0/150/0. Skills: entertainment [ENTE] 2 (90).
+
+;*** forest (51,73) in Surdel ***
+
+unit 1941
+;rassaphore (1941), on guard, revealing faction, 28 vikings [VIKI], 22
+;  swords [SWOR]. Weight: 302. Capacity: 0/0/420/0. Skills: combat
+;  [COMB] 3 (180); As tough as old boots.
+@WORK
+@GIVE 2879 ALL silver
+
+unit 1938
+;logger (1938), avoiding, behind, revealing faction, viking [VIKI], 81
+;  ironwood [IRWD]. Weight: 820. Capacity: 0/0/15/0. Skills: lumberjack
+;  [LUMB] 3 (180); He's okay.
+@PRODUCE IRWD
+
+unit 2339
+;peasants (2339), revealing faction, 45 vikings [VIKI], 114 silver
+;  [SILV]. Weight: 450. Capacity: 0/0/675/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 2879 ALL silver
+
+unit 2879
+;Stavrophore vun Foresta (2879), avoiding, behind, revealing faction,
+;  leader [LEAD], wool [WOOL], fur [FUR], caviar [CAVI], 2 mink [MINK],
+;  8960 silver [SILV]. Weight: 27. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450).
+@GIVE 2880 50 silver
+@STUDY observation
+
+unit 2880
+;Knights of the Full Moon (2880), revealing faction, 5 leaders [LEAD],
+;  5 swords [SWOR]. Weight: 55. Capacity: 0/0/75/0. Skills: combat
+;  [COMB] 4 (420).
+@STUDY combat
+
+unit 3216
+;erbsmen (3216), revealing faction, 4 tribesmen [TMAN], 96 herbs
+;  [HERB]. Weight: 40. Capacity: 0/0/60/0. Skills: herb lore [HERB] 3
+;  (180).
+@PRODUCE HERB
+
+;*** forest (53,73) in Surdel ***
+
+unit 1486
+;Stavrophore vun Foresta (1486), avoiding, revealing faction, holding,
+;  receiving no aid, leader [LEAD], 6781 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450), combat
+;  [COMB] 5 (450), tactics [TACT] 3 (180).
+@GIVE 2241 210 silver
+@GIVE 3214 10 silver
+@STUDY combat
+
+unit 1475
+;peasants (1475), revealing faction, 53 vikings [VIKI], 212 silver
+;  [SILV]. Weight: 530. Capacity: 0/0/795/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 1486 ALL silver
+
+unit 1262
+;soloist (1262), avoiding, behind, revealing faction, viking [VIKI], 30
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment
+;  [ENTE] 2 (90).
+@ENTERTAIN
+@GIVE 1486 ALL silver
+
+unit 3214
+;Knight of the Full Moon (3214), revealing faction, leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 3 (210),
+;  riding [RIDI] 1 (30).
+
+unit 2241
+;Knights of the Full Moon (2241), on guard, revealing faction, taxing,
+;  21 leaders [LEAD], 630 silver [SILV]. Weight: 210. Capacity:
+;  0/0/315/0. Skills: combat [COMB] 3 (240).
+@STUDY combat
+
+;*** ocean (48,74) in Atlantis Ocean ***
+
+unit 2268
+;sailors (2268), avoiding, behind, revealing faction, 5 vikings [VIKI],
+;  30 mithril swords [MSWO], 40 swords [SWOR]. Weight: 120. Capacity:
+;  0/0/75/0. Skills: sailing [SAIL] 3 (180).
+SAIL S S
+
+unit 1187
+;sailors (1187), avoiding, behind, revealing faction, 2 sea elves
+;  [SELF], 226 silver [SILV], 22 plate armor [PARM]. Weight: 86.
+;  Capacity: 0/0/30/0. Skills: sailing [SAIL] 3 (180).
+SAIL N NE
+
+;*** swamp (50,74) in Dorantor ***
+
+unit 1680
+;rassaphore (1680), on guard, revealing faction, holding, 5 vikings
+;  [VIKI]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+
+unit 1804
+;peasants (1804), revealing faction, 5 sea elves [SELF]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: combat [COMB] 1 (30).
+@GIVE 1678 ALL silver
+
+unit 1844
+;peasants (1844), revealing faction, 5 sea elves [SELF]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: combat [COMB] 1 (30).
+@WORK
+@GIVE 1678 ALL silver
+
+unit 1678
+;Stavrophore vun Marsh (1678), avoiding, behind, revealing faction,
+;  leader [LEAD], 7082 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 5 (450), entertainment [ENTE] 1 (30),
+;  combat [COMB] 5 (450), tactics [TACT] 1 (30).
+@GIVE 2356 60 silver
+@GIVE 2525 30 silver
+@GIVE 2390 50 silver
+@GIVE 2569 10 silver
+
+unit 2569
+;Knight of the Full Moon (2569), revealing faction, leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 4 (390).
+
+unit 3215
+;erbsmen (3215), revealing faction, 4 tribesmen [TMAN], 88 herbs
+;  [HERB]. Weight: 40. Capacity: 0/0/60/0. Skills: herb lore [HERB] 3
+;  (180).
+@PRODUCE HERB
+
+unit 2356
+;Knights of the Full Moon (2356), revealing faction, taxing, 6 leaders
+;  [LEAD], 180 silver [SILV]. Weight: 60. Capacity: 0/0/90/0. Skills:
+;  combat [COMB] 4 (360).
+@STUDY combat
+
+unit 2525
+;Knights of the Full Moon (2525), revealing faction, 3 leaders [LEAD].
+;  Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 3 (270).
+@STUDY combat
+
+unit 2390
+;rassaphore (2390), revealing faction, 5 vikings [VIKI], 65 silver
+;  [SILV]. Weight: 50. Capacity: 0/0/75/0. Skills: combat [COMB] 2
+;  (90).
+
+;*** forest (52,74) in Surdel ***
+
+unit 1343
+;Stavrophore vun Foresta (1343), avoiding, behind, revealing faction,
+;  holding, leader [LEAD], cashmere [CASH], herb [HERB], mink [MINK],
+;  dye [DYE], crossbow [XBOW], 7359 silver [SILV]. Weight: 26.
+;  Capacity: 0/0/15/0. Skills: observation [OBSE] 5 (450),
+;  entertainment [ENTE] 1 (30), combat [COMB] 3 (180), tactics [TACT] 1
+;  (60).
+
+unit 1786
+;rassaphore (1786), on guard, revealing faction, taxing, 20 vikings
+;  [VIKI], 1147 silver [SILV]. Weight: 200. Capacity: 0/0/300/0.
+;  Skills: combat [COMB] 3 (180).
+@WORK
+@GIVE 1343 ALL silver
+
+unit 2570
+;peasants (2570), revealing faction, holding, 43 vikings [VIKI], 129
+;  silver [SILV]. Weight: 430. Capacity: 0/0/645/0. Skills: combat
+;  [COMB] 2 (121).
+@WORK
+@GIVE 1786 ALL silver
+
+unit 2765
+;healer (2765), revealing faction, tribesman [TMAN], 15 silver [SILV],
+;  10 herbs [HERB]. Weight: 10. Capacity: 0/0/15/0. Skills: healing
+;  [HEAL] 3 (180).
+@WORK
+
+unit 3217
+;erbsmen (3217), revealing faction, 6 tribesmen [TMAN], 134 herbs
+;  [HERB]. Weight: 60. Capacity: 0/0/90/0. Skills: herb lore [HERB] 3
+;  (180).
+@PRODUCE HERB
+
+unit 3274
+;Knights of the Full Moon (3274), revealing faction, 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60).
+
+;*** swamp (49,75) in Dorantor ***
+
+unit 2108
+;rassaphore (2108), on guard, revealing faction, 10 vikings [VIKI],
+;  3201 silver [SILV], chain armor [CARM], mink [MINK], roses [ROSE],
+;  silk [SILK], fur [FUR]. Weight: 113. Capacity: 0/0/150/0. Skills:
+;  combat [COMB] 3 (180).
+@WORK
+@GIVE 2763 220 silver
+
+unit 2763
+;peasants (2763), revealing faction, 22 vikings [VIKI], 2860 silver
+;  [SILV]. Weight: 220. Capacity: 0/0/330/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+
+;*** swamp (51,75) in Dorantor ***
+
+unit 1681
+;rassaphore (1681), on guard, revealing faction, 9 vikings [VIKI].
+;  Weight: 90. Capacity: 0/0/135/0. Skills: combat [COMB] 3 (180).
+@WORK
+@GIVE 1315 ALL silver
+
+unit 1315
+;Stavrophore vun Marsh (1315), avoiding, behind, revealing faction,
+;  leader [LEAD], 1936 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 5 (450), entertainment [ENTE] 1 (30),
+;  combat [COMB] 3 (180), tactics [TACT] 1 (30).
+@GIVE 2735 20 silver
+@GIVE 2343 10 silver
+
+unit 2066
+;erbsmen (2066), revealing faction, 5 tribesmen [TMAN], 135 herbs
+;  [HERB]. Weight: 50. Capacity: 0/0/75/0. Skills: herb lore [HERB] 3
+;  (180).
+@PRODUCE HERB
+
+unit 2343
+;Shaman (2343), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: herb lore [HERB] 3 (180), healing [HEAL] 4 (330);
+;  The hierarchy might not approve of his methods, but they certainly
+;  admire his results.
+@STUDY healing
+
+unit 2881
+;peasants (2881), revealing faction, 27 vikings [VIKI], 54 silver
+;  [SILV]. Weight: 270. Capacity: 0/0/405/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 1315 ALL silver
+
+unit 2735
+;Knights of the Full Moon (2735), avoiding, behind, revealing faction,
+;  2 leaders [LEAD]. Weight: 20. Capacity: 0/0/30/0. Skills: combat
+;  [COMB] 3 (240).
+@STUDY combat
+
+;*** swamp (50,76) in Dorantor ***
+
+unit 2109
+;peasants (2109), avoiding, behind, revealing faction, 9 tribesmen
+;  [TMAN]. Weight: 90. Capacity: 0/0/135/0. Skills: none.
+@GIVE 2764 ALL silver
+@WORK
+
+unit 2764
+;rassaphore (2764), on guard, revealing faction, 10 vikings [VIKI],
+;  8070 silver [SILV]. Weight: 100. Capacity: 0/0/150/0. Skills: combat
+;  [COMB] 3 (180).
+@WORK
+
+unit 3276
+;Knights of the Full Moon (3276), revealing faction, 6 leaders [LEAD].
+;  Weight: 60. Capacity: 0/0/90/0. Skills: combat [COMB] 1 (30).
+
+;*** forest (52,76) in Surdel ***
+
+unit 1782
+;rassaphore (1782), on guard, revealing faction, taxing, 15 vikings
+;  [VIKI], 795 silver [SILV]. Weight: 150. Capacity: 0/0/225/0. Skills:
+;  combat [COMB] 3 (180).
+@WORK
+@GIVE 2150 ALL silver
+
+unit 2150
+;Stavrophore (2150), avoiding, behind, revealing faction, leader
+;  [LEAD], 5150 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), tactics [TACT] 3 (240), combat [COMB] 3
+;  (180).
+@GIVE NEW 2150 1440 silver
+@STUDY tactics
+
+unit 1586
+;peasants (1586), revealing faction, 28 vikings [VIKI], 84 silver
+;  [SILV]. Weight: 280. Capacity: 0/0/420/0. Skills: combat [COMB] 3
+;  (180).
+@WORK
+@GIVE 2150 ALL silver
+
+unit 2344
+;erbsman (2344), behind, revealing faction, tribesman [TMAN], 3 herbs
+;  [HERB], 3 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  herb lore [HERB] 3 (180).
+@WORK
+@GIVE 2150 ALL silver
+
+unit 3291
+;arras (3291), avoiding, behind, revealing faction, 200 silver [SILV],
+;  20 wood elves [WELF]. Weight: 200. Capacity: 0/0/300/0. Skills:
+;  none.
+MOVE SW SW S
+
+;*** forest (47,77) in Yahevoru ***
+
+unit 2886
+;Novice (2886), avoiding, behind, revealing faction, receiving no aid,
+;  viking [VIKI], 42 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: none.
+@WORK
+
+;*** swamp (49,77) in Dorantor ***
+
+unit 2341
+;rassaphore (2341), on guard, revealing faction, taxing, 10 vikings
+;  [VIKI], 8534 silver [SILV], wool [WOOL], roses [ROSE], fur [FUR].
+;  Weight: 107. Capacity: 0/0/150/0. Skills: combat [COMB] 3 (180).
+@WORK
+
+;*** swamp (51,77) in Dorantor ***
+
+unit 2571
+;novice (2571), avoiding, revealing faction, tribesman [TMAN], 45
+;  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@WORK
+
+;*** plain (48,78) in Stroma, contains Lorforin [city] ***
+
+unit 1597
+;rassaphore (1597), on guard, revealing faction, taxing, 400 vikings
+;  [VIKI], 130 swords [SWOR], 43842 silver [SILV]. Weight: 4130.
+;  Capacity: 0/0/6000/0. Skills: combat [COMB] 3 (180).
+FORM 1597
+NAME UNIT "rassaphore"
+BUY 168 vikings
+STUDY combat
+AUTOTAX 0
+GUARD 0
+END
+GIVE NEW 1597 19284 silver
+WORK
+@TURN
+FORM 1597
+NAME UNIT "rassaphore"
+BUY 168 vikings
+STUDY combat
+AUTOTAX 0
+GUARD 0
+END
+GIVE NEW 1597 19284 silver
+WORK
+ENDTURN
+
+unit 1529
+;Stavrophore (1529), avoiding, behind, revealing faction, leader
+;  [LEAD], 459 wood [WOOD], 10 ironwood [IRWD], 40034 silver [SILV].
+;  Weight: 2405. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+;  (450), entertainment [ENTE] 2 (90), tactics [TACT] 5 (450), combat
+;  [COMB] 1 (30).
+
+unit 1476
+;Brother Joplin (1476), avoiding, behind, revealing faction, leader
+;  [LEAD], 540 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  entertainment [ENTE] 5 (450).
+@ENTERTAIN
+
+unit 3323
+;rassaphore (3323), avoiding, behind, revealing faction, 58 vikings
+;  [VIKI]. Weight: 580. Capacity: 0/0/870/0. Skills: combat [COMB] 1
+;  (30).
+MOVE se
+
+unit 3338
+;rassaphore (3338), revealing faction, 4500 silver [SILV], 168 vikings
+;  [VIKI]. Weight: 1680. Capacity: 0/0/2520/0. Skills: combat [COMB] 1
+;  (30).
+
+unit 3339
+;rassaphore (3339), revealing faction, 274 vikings [VIKI]. Weight:
+;  2740. Capacity: 0/0/4110/0. Skills: combat [COMB] 1 (30).
+
+;*** swamp (50,78) in Dorantor ***
+
+unit 1988
+;peasant (1988), avoiding, behind, revealing faction, tribesman [TMAN],
+;  3 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: none.
+
+;*** forest (45,79) in Yahevoru, contains Lloyer [city] ***
+
+unit 2346
+;novice (2346), avoiding, behind, revealing faction, consuming unit's
+;  food, sea elf [SELF], 60 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: entertainment [ENTE] 1 (30).
+
+;*** plain (49,79) in Stroma ***
+
+unit 2342
+;rassaphore (2342), on guard, revealing faction, taxing, 3 vikings
+;  [VIKI], 1301 silver [SILV]. Weight: 30. Capacity: 0/0/45/0. Skills:
+;  combat [COMB] 3 (180).
+@GIVE 2888 10 silver
+@WORK
+
+unit 2888
+;Knight of the Full Moon (2888), on guard, revealing faction, taxing,
+;  leader [LEAD], 198 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 5 (450).
+TEACH 1307
+
+unit 2976
+;Stavrophore (2976), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: observation [OBSE] 5
+;  (450), combat [COMB] 1 (30), entertainment [ENTE] 1 (60).
+@STUDY entertainment
+
+unit 1307
+;rassaphore (1307), on guard, revealing faction, taxing, 686 silver
+;  [SILV], 10 vikings [VIKI]. Weight: 100. Capacity: 0/0/150/0. Skills:
+;  combat [COMB] 2 (90).
+@STUDY combat
+
+unit 2014
+;rassaphore (2014), on guard, revealing faction, taxing, 58 vikings
+;  [VIKI], 4415 silver [SILV]. Weight: 580. Capacity: 0/0/870/0.
+;  Skills: combat [COMB] 2 (90).
+MOVE s
+
+unit 3341
+;rassaphore (3341), on guard, revealing faction, taxing, 15 vikings
+;  [VIKI], 595 silver [SILV]. Weight: 150. Capacity: 0/0/225/0. Skills:
+;  combat [COMB] 2 (90).
+
+unit 3059
+;Moon Riders (3059), avoiding, behind, revealing faction, receiving no
+;  aid, 10 leaders [LEAD], 173 horses [HORS]. Weight: 8750. Capacity:
+;  0/12110/12260/0. Skills: riding [RIDI] 4 (360).
+MOVE NW
+
+;*** forest (46,80) in Yahevoru ***
+
+unit 2887
+;novice (2887), avoiding, behind, revealing faction, receiving no aid,
+;  viking [VIKI], 16 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: none.
+@WORK
+
+;*** plain (48,80) in Stroma, contains Ragolmar [city] ***
+
+unit 2884
+;Stavrophore (2884), avoiding, behind, revealing faction, leader
+;  [LEAD], 24089 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), entertainment [ENTE] 1 (60).
+@STUDY entertainment
+@GIVE 2990 1200 silver
+
+unit 3058
+;rassaphore (3058), on guard, revealing faction, holding, taxing, 1200
+;  vikings [VIKI], 215695 silver [SILV]. Weight: 12000. Capacity:
+;  0/0/18000/0. Skills: combat [COMB] 3 (180).
+
+unit 2990
+;Knights of the Full Moon (2990), revealing faction, 120 leaders
+;  [LEAD], 41 swords [SWOR], 4800 silver [SILV]. Weight: 1241.
+;  Capacity: 0/0/1800/0. Skills: combat [COMB] 3 (180).
+STUDY riding
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+TURN
+STUDY combat
+ENDTURN
+
+unit 1308
+;rassaphore (1308), on guard, revealing faction, holding, taxing, 2000
+;  silver [SILV], 20 vikings [VIKI]. Weight: 200. Capacity: 0/0/300/0.
+;  Skills: combat [COMB] 2 (150).
+@STUDY combat
+
+unit 2013
+;rassaphore (2013), revealing faction, 2820 silver [SILV], 168 vikings
+;  [VIKI]. Weight: 1680. Capacity: 0/0/2520/0. Skills: combat [COMB] 1
+;  (30).
+MOVE S SE S
+
+unit 2889
+;novice (2889), avoiding, revealing faction, high elf [HELF]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: none.
+MOVE n
+@TURN
+MOVE s
+GIVE 1529 ALL silver
+ENDTURN
+@TURN
+MOVE n
+ENDTURN
+
+;*** plain (50,80) in Stroma, contains Thanthielnost [city] ***
+
+unit 2366
+;choir of thanthielnost (2366), avoiding, revealing faction, 19 high
+;  elves [HELF], 440 silver [SILV]. Weight: 190. Capacity: 0/0/285/0.
+;  Skills: entertainment [ENTE] 3 (180).
+@ENTERTAIN
+
+unit 1683
+;Pastural Carer (1683), avoiding, behind, revealing faction, holding,
+;  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: farming
+;  [FARM] 4 (420), riding [RIDI] 1 (30).
+@STUDY farming
+
+unit 1624
+;farmers (1624), avoiding, behind, revealing faction, holding,
+;  receiving no aid, 20 high elves [HELF], 60 grain [GRAI]. Weight:
+;  500. Capacity: 0/0/300/0. Skills: farming [FARM] 3 (180).
+@PRODUCE grain
+@GIVE 3131 ALL grain
+
+unit 2096
+;Brother Tombooker (2096), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: horse training
+;  [HORS] 5 (450).
+@TEACH 2729
+
+unit 2883
+;Stavrophore (2883), avoiding, behind, revealing faction, leader
+;  [LEAD], 6638 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), tactics [TACT] 4 (360).
+@STUDY tactics
+
+unit 2097
+;Brother Joplin (2097), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE]
+;  4 (300).
+@TEACH NEW 2097
+
+unit 3131
+;trader (3131), avoiding, behind, revealing faction, holding, receiving
+;  no aid, high elf [HELF], 1628 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: none.
+@WORK
+@SELL ALL grain
+@GIVE 2883 ALL silver
+
+unit 1577
+;arras (1577), on guard, behind, revealing faction, 45 wood elves
+;  [WELF], 45 longbows [LBOW], 8490 silver [SILV]. Weight: 495.
+;  Capacity: 0/0/675/0. Skills: longbow [LBOW] 3 (180).
+
+unit 2671
+;Chorist (2671), avoiding, behind, revealing faction, leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: entertainment [ENTE] 3
+;  (270).
+@TEACH NEW 2671
+
+unit 2393
+;Knights of the Full Moon (2393), on guard, revealing faction, taxing,
+;  88 swords [SWOR], 100 leaders [LEAD], 3000 silver [SILV], 50 plate
+;  armor [PARM]. Weight: 1238. Capacity: 0/0/1500/0. Skills: combat
+;  [COMB] 3 (210).
+@STUDY combat
+BUY 50 PARM
+
+unit 2508
+;rassaphore (2508), on guard, revealing faction, taxing, 100 vikings
+;  [VIKI], 28630 silver [SILV]. Weight: 1000. Capacity: 0/0/1500/0.
+;  Skills: combat [COMB] 2 (150).
+
+unit 2736
+;rassaphore (2736), on guard, revealing faction, taxing, 300 vikings
+;  [VIKI], 38000 silver [SILV]. Weight: 3000. Capacity: 0/0/4500/0.
+;  Skills: combat [COMB] 3 (180).
+
+unit 2729
+;Tamers (2729), avoiding, behind, revealing faction, 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: horse training [HORS] 3
+;  (240).
+@STUDY HORS
+
+unit 3128
+;Knights of the Full Moon (3128), revealing faction, 40 leaders [LEAD],
+;  40 swords [SWOR], 40 plate armor [PARM], 40 horses [HORS], 4370
+;  silver [SILV]. Weight: 2560. Capacity: 0/2800/3400/0. Skills: combat
+;  [COMB] 3 (240).
+
+unit 3345
+;chorists (3345), avoiding, behind, revealing faction, 10 high elves
+;  [HELF]. Weight: 100. Capacity: 0/0/150/0. Skills: entertainment
+;  [ENTE] 1 (60).
+@STUDY entertainment
+
+unit 3346
+;rassophore (3346), on guard, revealing faction, taxing, 14600 silver
+;  [SILV], 365 vikings [VIKI]. Weight: 3650. Capacity: 0/0/5475/0.
+;  Skills: combat [COMB] 2 (120).
+
+unit 3357
+;chorists (3357), avoiding, behind, revealing faction, 10 high elves
+;  [HELF]. Weight: 100. Capacity: 0/0/150/0. Skills: entertainment
+;  [ENTE] 1 (60).
+@STUDY entertainment
+
+;*** plain (51,81) in Stroma, contains Riltas [city] ***
+
+unit 1485
+;farmers (1485), avoiding, behind, revealing faction, 20 high elves
+;  [HELF], 60 grain [GRAI]. Weight: 500. Capacity: 0/0/300/0. Skills:
+;  farming [FARM] 3 (180).
+@PRODUCE grain
+@GIVE 1752 ALL grain
+
+unit 1752
+;trader (1752), avoiding, behind, revealing faction, high elf [HELF].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: none.
+@WORK
+@SELL ALL grain
+@GIVE 2882 ALL silver
+
+unit 2572
+;tamers (2572), avoiding, behind, revealing faction, 10 high elves
+;  [HELF], 30 horses [HORS]. Weight: 1600. Capacity: 0/2100/2250/0.
+;  Skills: horse training [HORS] 3 (180).
+@PRODUCE horses
+
+unit 1684
+;choir of riltas (1684), avoiding, behind, revealing faction, holding,
+;  26 wood elves [WELF], 77 silver [SILV]. Weight: 260. Capacity:
+;  0/0/390/0. Skills: entertainment [ENTE] 3 (180).
+@ENTERTAIN
+@GIVE 2882 ALL silver EXCEPT 10
+@GIVE 1432 10 silver
+
+unit 1432
+;Abbot Abraham (1432), avoiding, behind, revealing faction, receiving
+;  no aid, leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+;  0/70/85/0. Skills: riding [RIDI] 5 (450), horse training [HORS] 2
+;  (90).
+@STUDY HORS
+
+unit 2882
+;Stavrophore vun Riltas (2882), avoiding, behind, revealing faction,
+;  leader [LEAD], 3141 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 5 (450), tactics [TACT] 3 (180).
+@STUDY tactics
+
+unit 3060
+;Stavrophore (3060), avoiding, behind, revealing faction, 5 leaders
+;  [LEAD], 5 horses [HORS]. Weight: 300. Capacity: 0/350/425/0. Skills:
+;  observation [OBSE] 5 (450), combat [COMB] 1 (30), riding [RIDI] 1
+;  (30).
+
+unit 2748
+;fletchers (2748), avoiding, behind, revealing faction, 10 high elves
+;  [HELF], 20 longbows [LBOW]. Weight: 120. Capacity: 0/0/150/0.
+;  Skills: weaponsmith [WEAP] 2 (90).
+
+unit 2940
+;Arras (2940), avoiding, behind, revealing faction, 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: longbow [LBOW] 2 (120).
+@STUDY LBOW
+
+unit 3129
+;Knights of the Full Moon (3129), revealing faction, 96 leaders [LEAD],
+;  5566 silver [SILV], 96 horses [HORS], 34 swords [SWOR], 62 mithril
+;  swords [MSWO]. Weight: 5856. Capacity: 0/6720/8160/0. Skills: combat
+;  [COMB] 4 (360), riding [RIDI] 1 (30).
+
+unit 3358
+;Knight of the Full Moon (3358), revealing faction, 100 leaders [LEAD].
+;  Weight: 1000. Capacity: 0/0/1500/0. Skills: riding [RIDI] 1 (30).
+
+unit 2669
+;fisherman (2669), avoiding, revealing faction, sea elf [SELF]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: fishing [FISH] 3 (180).
+
+unit 1441
+;Brother Shiprite (1441), avoiding, behind, revealing faction, leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: shipbuilding [SHIP]
+;  5 (450), sailing [SAIL] 3 (210).
+
+unit 2098
+;Brother Shiprite's assistants (2098), avoiding, behind, revealing
+;  faction, 10 vikings [VIKI], 26 wood [WOOD]. Weight: 230. Capacity:
+;  0/0/150/0. Skills: shipbuilding [SHIP] 3 (180).
+@GIVE 2748 20 wood
+
+;*** plain (48,82) in Stroma, contains Nildss [village] ***
+
+unit 2975
+;rassaphore (2975), on guard, revealing faction, holding, taxing,
+;  viking [VIKI], 4740 silver [SILV], 25 swords [SWOR]. Weight: 35.
+;  Capacity: 0/0/15/0. Skills: combat [COMB] 3 (180).
+
+unit 2885
+;Stavrophore (2885), avoiding, behind, revealing faction, leader
+;  [LEAD], 21543 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), stealth [STEA] 2 (150).
+@STUDY stealth
+
+;*** plain (50,82) in Stroma ***
+
+unit 1330
+;Stavrophore (1330), avoiding, behind, revealing faction, taxing, 146
+;  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 5 (450), combat [COMB] 1 (60).
+
+;*** plain (52,82) in Stroma ***
+
+unit 1333
+;Stavrophore (1333), on guard, behind, revealing faction, taxing, 144
+;  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: observation [OBSE] 5 (450), combat [COMB] 1 (60).
+
+;*** plain (49,83) in Stroma ***
+
+unit 2590
+;rassaphore (2590), revealing faction, taxing, 149 vikings [VIKI], 8940
+;  silver [SILV]. Weight: 1490. Capacity: 0/0/2235/0. Skills: combat
+;  [COMB] 1 (30).
+MOVE S
+
+;*** mountain (63,83) in Baibur, contains Dunfanaghy [city] ***
+
+unit 2269
+;novice (2269), avoiding, behind, revealing faction, holding, consuming
+;  faction's food, viking [VIKI], 45 silver [SILV]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: entertainment [ENTE] 2 (90).
+@ENTERTAIN
+
+;*** plain (49,85) in Stroma, contains Co-cil [city] ***
+
+unit 1445
+;Schemos Polemo (1445), behind, revealing faction, leader [LEAD],
+;  double bow [DBOW]. Weight: 11. Capacity: 0/0/15/0. Skills: tactics
+;  [TACT] 4 (360), longbow [LBOW] 4 (300).
+
+unit 3218
+;rassaphore (3218), on guard, revealing faction, taxing, 89 vikings
+;  [VIKI], 23296 silver [SILV], 89 swords [SWOR]. Weight: 979.
+;  Capacity: 0/0/1335/0. Skills: combat [COMB] 3 (180).
+@WORK
+
+unit 2875
+;rassaphore (2875), on guard, revealing faction, taxing, 200 vikings
+;  [VIKI], 38593 silver [SILV], 200 swords [SWOR]. Weight: 2200.
+;  Capacity: 0/0/3000/0. Skills: combat [COMB] 3 (180).
+@WORK
+
+unit 1334
+;rassaphore (1334), revealing faction, holding, taxing, 168 vikings
+;  [VIKI], 10073 silver [SILV], 60 swords [SWOR]. Weight: 1740.
+;  Capacity: 0/0/2520/0. Skills: combat [COMB] 3 (180).
+
+unit 1310
+;Stavrophore (1310), avoiding, behind, revealing faction, 30 silver
+;  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  observation [OBSE] 5 (450), combat [COMB] 1 (30), entertainment
+;  [ENTE] 1 (30).
+
+unit 1306
+;rassaphore (1306), revealing faction, taxing, 168 vikings [VIKI],
+;  11753 silver [SILV]. Weight: 1680. Capacity: 0/0/2520/0. Skills:
+;  combat [COMB] 1 (60).
+@STUDY combat
+
+;*** plain (51,87) in Grimrot, contains Mundfeld [city] ***
+
+unit 3132
+;novice (3132), avoiding, behind, revealing faction, receiving no aid,
+;  high elf [HELF], 70 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: none.
+@WORK
+
+;*** ocean (62,92) in Atlantis Ocean ***
+
+unit 1417
+;sailors (1417), avoiding, behind, revealing faction, holding,
+;  consuming faction's food, 2 vikings [VIKI]. Weight: 20. Capacity:
+;  0/0/30/0. Skills: sailing [SAIL] 3 (180).
+SAIL NE NE
+
+unit 1351
+;fishermen (1351), avoiding, behind, revealing faction, consuming
+;  unit's food, 2 sea elves [SELF], 40 silver [SILV], 12 fish [FISH].
+;  Weight: 32. Capacity: 0/0/30/0. Skills: fishing [FISH] 3 (180).
+@PRODUCE FISH
+
+;*** plain (51,95) in Aleccer, contains Chaold [city] ***
+
+unit 1409
+;Novice (1409), avoiding, behind, revealing faction, receiving no aid,
+;  leader [LEAD], horse [HORS], 942 silver [SILV]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: riding [RIDI] 1 (30), combat [COMB] 1
+;  (30).
+
+#end
+

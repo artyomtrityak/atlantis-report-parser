@@ -1,0 +1,119 @@
+Atlantis Report For:
+The Testress Slaves (21) (War 1, Trade 1, Magic 1)
+May, Year 8
+
+Atlantis Engine Version: 4.1.0
+Standard Atlantis, Version: 4.1.0
+
+Faction Status:
+Tax Regions: 0 (10)
+Trade Regions: 0 (10)
+Mages: 1 (1)
+
+Errors during turn:
+Slaves class B (3479): BUY: Unit attempted to buy more than it could
+  afford.
+Slaves (3478): STUDY: Not enough funds.
+Slaves class B (3479): STUDY: Not enough funds.
+
+Events during turn:
+Slaves (3478): Claims $1860.
+Slaves class B (3479): Claims $5460.
+Slaves class B (3479): Buys 30 swords [SWOR] at $150 each.
+Slaves (3478): Buys 30 barbarians [BARB] at $60 each.
+Slaves class B (3479): Buys 16 barbarians [BARB] at $60 each.
+Mistress Ariala (14): Claims 20 silver for maintenance.
+Slaves (3478): Claims 240 silver for maintenance.
+Slaves class B (3479): Claims 160 silver for maintenance.
+
+Item reports:
+
+sword [SWOR], weight 1. This is a  slashing weapon. No skill is needed
+  to wield this weapon. This weapon grants a bonus of 2 on attack and
+  defense. Wielders of this weapon, if mounted, get their riding skill
+  bonus on combat attack and defense. There is a 50% chance that the
+  wielder of this weapon gets a chance to attack in any given round.
+  This weapon attacks versus the target's defense against melee
+  attacks. This weapon allows 1 attack  per round. Units with
+  weaponsmith [WEAP] 1 may PRODUCE this item from 1 iron at a rate of
+  1 per man-month.
+
+barbarian [BARB], weight 10, walking capacity 5. This race may study
+  mining [MINI], hunting [HUNT], weaponsmith [WEAP], combat [COMB] to
+  level 3 and all others to level 2
+
+Declared Attitudes (default Neutral):
+Hostile : none.
+Unfriendly : none.
+Neutral : none.
+Friendly : none.
+Ally : none.
+
+Unclaimed silver: 1520.
+
+mountain (64,82) in Baibur, contains Belport [city], 5211 peasants
+  (barbarians), $26055.
+------------------------------------------------------------
+  It was winter last month; it will be winter next month.
+  Wages: $15 (Max: $78165).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited barbarians [BARB] at $60,
+    unlimited leaders [LEAD] at $120.
+  Entertainment available: $1302.
+  Products: 22 grain [GRAI], 32 iron [IRON], 18 stone [STON].
+
+Exits:
+  North : mountain (64,80) in Baibur.
+  Northeast : mountain (65,81) in Baibur, contains Navenby [city].
+  Southeast : ocean (65,83) in Atlantis Ocean.
+  South : ocean (64,84) in Atlantis Ocean.
+  Southwest : mountain (63,83) in Baibur, contains Dunfanaghy [city].
+  Northwest : mountain (63,81) in Baibur.
+
+There is a Gate here (Gate 29 of 82).
+
+- City Guard (203), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Workers (2093), 33 barbarians [BARB].
+- Workers (2951), Grey Wind (17), avoiding, behind, 2 barbarians
+  [BARB].
+* Mistress Ariala (14), The Testress Slaves (21), revealing faction,
+  leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: pattern
+  [PATT] 1 (30), spirit [SPIR] 1 (30), gate lore [GATE] 1 (30). Can
+  Study: magical healing [MHEA], farsight [FARS], mind reading [MIND],
+  earth lore [EART].
+* Slaves (3478), The Testress Slaves (21), revealing faction, 30
+  barbarians [BARB]. Weight: 300. Capacity: 0/0/450/0. Skills: none.
+* Slaves class B (3479), The Testress Slaves (21), revealing faction,
+  30 swords [SWOR], 16 barbarians [BARB]. Weight: 190. Capacity:
+  0/0/240/0. Skills: none.
+
+
+
+Orders Template (Long Format):
+
+#atlantis 21 "test1234"
+
+;*** mountain (64,82) in Baibur, contains Belport [city] ***
+
+unit 14
+;Mistress Ariala (14), revealing faction, leader [LEAD]. Weight: 10.
+;  Capacity: 0/0/15/0. Skills: pattern [PATT] 1 (30), spirit [SPIR] 1
+;  (30), gate lore [GATE] 1 (30). Can Study: magical healing [MHEA],
+;  farsight [FARS], mind reading [MIND], earth lore [EART].
+
+unit 3478
+;Slaves (3478), revealing faction, 30 barbarians [BARB]. Weight: 300.
+;  Capacity: 0/0/450/0. Skills: none.
+
+unit 3479
+;Slaves class B (3479), revealing faction, 30 swords [SWOR], 16
+;  barbarians [BARB]. Weight: 190. Capacity: 0/0/240/0. Skills: none.
+
+#end
+

@@ -1,0 +1,2962 @@
+Atlantis Report For:
+Warlords Inc (19) (War 1, Trade 1, Magic 3)
+May, Year 8
+
+Atlantis Engine Version: 4.1.0
+Standard Atlantis, Version: 4.1.0
+
+Faction Status:
+Tax Regions: 8 (10)
+Trade Regions: 10 (10)
+Mages: 3 (3)
+
+Errors during turn:
+Unit (2762): GIVE: Nonexistant target (3154).
+Unit (3252): GIVE: Nonexistant target (3247).
+Unit (2771): GIVE: Not enough.
+Unit (1714): GIVE: Not enough.
+Dortania (1618): GIVE: Nonexistant target (2409).
+Unit (2542): GIVE: Nonexistant target (1382).
+Unit (1725): TAX: Unit cannot tax.
+Unit (2495): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Unit (2849): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Unit (3171): MOVE: Unit has insufficient movement points; remaining
+  moves queued.
+Unit (3254): STUDY: Not enough funds.
+Unit (2770): STUDY: Maximum level for skill reached.
+Unit (3192): STUDY: Not enough funds.
+Unit (3272): STUDY: Not enough funds.
+
+Events during turn:
+The address of The Guardsmen (1) is NoAddress.
+The address of Creatures (2) is NoAddress.
+The address of Gragblod (7) is gragblod.atlantis@gmail.com.
+The address of Multiple Bite Wounds (10) is beigtais@gmail.com.
+The address of The Moon Brotherhood (12) is atlantis@garydjones.name.
+The address of SuperNerrs 001 (13) is nerrs@com.lmt.lv.
+The address of SkyRaiders (14) is Loudeo@ngs.ru.
+The address of New Horizons (16) is coolbreezea3@gmail.com.
+The address of Grey Wind (17) is atlantis@janka.net.
+The address of Warlords Inc (19) is bobcato28@gmail.com.
+The address of Sol Invictus (20) is david.of.m00@googlemail.com.
+The address of The Testress Slaves (21) is Loria@Phantasia.org.
+Unit (2762): Gives 5 crossbows [XBOW] to Etrius (1137).
+Unit (2762): Gives 30 crossbows [XBOW] to Unit (2849).
+Unit (2850): Gives horse [HORS] to Unit (2849).
+Unit (3097): Gives 30 wood [WOOD] to Unit (2762).
+Unit (3097): Gives 10 horses [HORS] to Unit (2849).
+Unit (3174): Gives 1500 silver [SILV] to Unit (3098).
+Unit (3255): Gives 50 silver [SILV] to Unit (3257).
+Unit (2535): Gives 10 wood [WOOD] to Unit (3263).
+Unit (2771): Gives 0 wood [WOOD] to Unit (3263).
+Unit (3101): Gives 5 ironwood [IRWD] to Unit (2771).
+Unit (2324): Gives 14 wood [WOOD] to Unit (3263).
+Unit (1714): Gives 0 wood [WOOD] to Unit (3263).
+Unit (3327): Gives 2 winged horses [WING] to Gratera (1349).
+Unit (3327): Gives 2 winged horses [WING] to Cullius (1140).
+Dortania (1618): Gives 1000 silver [SILV] to Unit (2406).
+Dortania (1618): Gives 1000 silver [SILV] to Unit (2502).
+Dortania (1618): Gives 50 silver [SILV] to Unit (2500).
+Dortania (1618): Gives 50 silver [SILV] to Unit (2408).
+Dortania (1618): Gives 70 silver [SILV] to Castulo (1617).
+Dortania (1618): Gives 500 silver [SILV] to Unit (3443).
+Dortania (1618): Gives 500 silver [SILV] to Unit (3336).
+Dortania (1618): Gives 500 silver [SILV] to Unit (3335).
+Dortania (1618): Gives 100 silver [SILV] to Unit (3334).
+Dortania (1618): Gives 150 silver [SILV] to Unit (3266).
+Dortania (1618): Gives 100 silver [SILV] to Unit (3445).
+Dortania (1618): Gives 120 silver [SILV] to Unit (1716).
+Dortania (1618): Gives 1200 silver [SILV] to Unit (3453).
+Dortania (1618): Gives 200 silver [SILV] to Unit (3171).
+Dortania (1618): Gives 300 silver [SILV] to Unit (2063).
+Unit (2407): Gives 2500 silver [SILV] to Unit (3335).
+Unit (2536): Gives 15 horses [HORS] to Cateius (1388).
+Unit (3266): Gives 2 horses [HORS] to Unit (3103).
+Unit (3171): Gives 10 mithril swords [MSWO] to Unit (3334).
+Unit (3171): Gives 8 mithril swords [MSWO] to Unit (2659).
+Unit (3268): Gives 500 silver [SILV] to Unit (3269).
+Unit (2402): Gives 500 silver [SILV] to Unit (1725).
+Unit (1725): Gives 9 crossbows [XBOW] to Unit (3268).
+Unit (3332): Gives 2 winged horses [WING] to Unit (1822).
+Unit (3332): Gives 9 winged horses [WING] to Unit (2412).
+Unit (2243): Gives 2000 silver [SILV] to Unit (3471).
+Unit (3173): Gives 1000 silver [SILV] to Unit (3194).
+Unit (3272): Gives leader [LEAD] to Unit (3472).
+Unit (2239): Gives 100 silver [SILV] to Unit (2172).
+Unit (2239): Gives 90 silver [SILV] to Unit (2540).
+Unit (2239): Gives 5000 silver [SILV] to Unit (3473).
+Unit (2503): Gives 9 horses [HORS] to Unit (1662).
+Unit (1718): Gives leader [LEAD] to Unit (3326).
+Malus (1083): Gives 1100 silver [SILV] to Unit (3447).
+Unit (2495): Gives 60 silver [SILV] to Unit (3104).
+Unit (1928): Receives 250 silver [SILV] from Mertus (366).
+Unit (1929): Receives 250 silver [SILV] from Mertus (366).
+Unit (54): Receives 250 silver [SILV] from Mertus (366).
+Unit (2221): Receives 900 silver [SILV] from Bulius (1488).
+Unit (2245): Gives 10 stone [STON] to Unit (3474).
+Unit (2245): Gives 10 stone [STON] to Unit (3475).
+Unit (3195): Gives 300 silver [SILV] to Unit (1931).
+Unit (2221): Gives 6 mithril [MITH] to Unit (2222).
+Unit (2222): Gives 3 mithril swords [MSWO] to Bulius (1488).
+Unit (2222): Gives 3 mithril swords [MSWO] to Unit (3452).
+Unit (3273): Gives 21 iron [IRON] to Unit (3195).
+Unit (3273): Gives 4 leaders [LEAD] to Unit (3474).
+Unit (2092): Gives 4 tribesmen [TMAN] to Unit (3475).
+Unit (3450): Gives 200 silver [SILV] to Unit (3452).
+Unit (2544): Gives 1000 silver [SILV] to Unit (3452).
+Unit (1932): Gives 500 silver [SILV] to Unit (3476).
+Unit (1932): Gives 500 silver [SILV] to Unit (1729).
+Unit (2247): Receives 1000 silver [SILV] from Pespor (1042).
+Unit (3176): Receives 11 rootstone [ROOT] from Poenius (1120).
+Unit (2246): Gives 6 mithril [MITH] to Unit (2247).
+Unit (2247): Gives 3 mithril swords [MSWO] to Pespor (1042).
+Unit (3176): Gives 60 iron [IRON] to Unit (3337).
+Unit (3191): Gives leader [LEAD] to Unit (3190).
+Unit (3191): Gives 4 horses [HORS] to Unit (3477).
+Unit (3191): Gives 3 horses [HORS] to Unit (3190).
+Unit (3191): Gives 7480 silver [SILV] to Unit (3477).
+Unit (1934): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (1933): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (2650): Collects $49 in taxes in forest (59,17) in Nugyru.
+Unit (2762): Collects $73 in taxes in forest (59,17) in Nugyru.
+Unit (2849): Collects $196 in taxes in forest (59,17) in Nugyru.
+Unit (2850): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (3098): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (3145): Collects $73 in taxes in forest (59,17) in Nugyru.
+Unit (3174): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (3253): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (3255): Collects $123 in taxes in forest (59,17) in Nugyru.
+Unit (3256): Collects $24 in taxes in forest (59,17) in Nugyru.
+Unit (3257): Collects $99 in taxes in forest (59,17) in Nugyru.
+Unit (3259): Collects $99 in taxes in forest (59,17) in Nugyru.
+Unit (3260): Collects $25 in taxes in forest (59,17) in Nugyru.
+Unit (3252): Collects $75 in taxes in forest (59,17) in Nugyru.
+Unit (2494): Collects $114 in taxes in forest (59,19) in Nugyru.
+Unit (2535): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2651): Collects $57 in taxes in forest (59,19) in Nugyru.
+Unit (2653): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2654): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2655): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2656): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2657): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2658): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (2770): Collects $57 in taxes in forest (59,19) in Nugyru.
+Unit (2771): Collects $57 in taxes in forest (59,19) in Nugyru.
+Unit (2773): Collects $115 in taxes in forest (59,19) in Nugyru.
+Unit (3099): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (3101): Collects $57 in taxes in forest (59,19) in Nugyru.
+Unit (3147): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (3178): Collects $28 in taxes in forest (59,19) in Nugyru.
+Unit (3262): Collects $29 in taxes in forest (59,19) in Nugyru.
+Unit (3263): Collects $290 in taxes in forest (59,19) in Nugyru.
+Unit (1935): Collects $50 in taxes in plain (60,20) in Satiasam.
+Unit (2660): Collects $1000 in taxes in plain (60,20) in Satiasam.
+Unit (3146): Collects $500 in taxes in plain (60,20) in Satiasam.
+Unit (3186): Collects $50 in taxes in plain (60,20) in Satiasam.
+Unit (3264): Collects $500 in taxes in plain (60,20) in Satiasam.
+Unit (2403): Collects $50 in taxes in plain (60,20) in Satiasam.
+Unit (3325): Collects $50 in taxes in plain (60,20) in Satiasam.
+Unit (2496): Collects $100 in taxes in plain (60,20) in Satiasam.
+Dortania (1618): Collects $14689 in taxes in plain (62,20) in
+  Satiasam.
+Unit (1209): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2405): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2406): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2407): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2408): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2498): Collects $87 in taxes in plain (62,20) in Satiasam.
+Unit (2499): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2500): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2501): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2502): Collects $87 in taxes in plain (62,20) in Satiasam.
+Unit (2536): Collects $439 in taxes in plain (62,20) in Satiasam.
+Unit (2538): Collects $439 in taxes in plain (62,20) in Satiasam.
+Unit (2539): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2659): Collects $1800 in taxes in plain (62,20) in Satiasam.
+Unit (2661): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (2775): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (3102): Collects $439 in taxes in plain (62,20) in Satiasam.
+Unit (3103): Collects $43 in taxes in plain (62,20) in Satiasam.
+Unit (3150): Collects $2200 in taxes in plain (62,20) in Satiasam.
+Unit (3165): Collects $220 in taxes in plain (62,20) in Satiasam.
+Unit (2537): Collects $100 in taxes in forest (59,21) in Nugyru.
+Unit (2774): Collects $50 in taxes in forest (59,21) in Nugyru.
+Unit (2541): Collects $50 in taxes in forest (59,21) in Nugyru.
+Unit (3105): Collects $150 in taxes in forest (59,21) in Nugyru.
+Unit (3193): Collects $500 in taxes in forest (59,21) in Nugyru.
+Unit (3268): Collects $500 in taxes in forest (59,21) in Nugyru.
+Unit (2402): Collects $50 in taxes in forest (59,21) in Nugyru.
+Unit (3332): Collects $50 in taxes in plain (61,21) in Satiasam.
+Unit (3328): Collects $50 in taxes in plain (61,21) in Satiasam.
+Unit (2412): Collects $100 in taxes in plain (61,21) in Satiasam.
+Unit (2243): Collects $1800 in taxes in plain (61,21) in Satiasam.
+Unit (2411): Collects $50 in taxes in plain (61,21) in Satiasam.
+Unit (3315): Collects $500 in taxes in plain (61,21) in Satiasam.
+Unit (2172): Collects $50 in taxes in plain (63,21) in Satiasam.
+Unit (2239): Collects $1500 in taxes in plain (63,21) in Satiasam.
+Unit (2240): Collects $50 in taxes in plain (63,21) in Satiasam.
+Unit (2326): Collects $50 in taxes in plain (63,21) in Satiasam.
+Unit (2662): Collects $100 in taxes in plain (63,21) in Satiasam.
+Unit (3167): Collects $500 in taxes in plain (63,21) in Satiasam.
+Unit (3168): Collects $500 in taxes in plain (63,21) in Satiasam.
+Unit (3169): Collects $500 in taxes in plain (63,21) in Satiasam.
+Unit (3187): Collects $100 in taxes in plain (63,21) in Satiasam.
+Unit (2497): Collects $100 in taxes in plain (63,21) in Satiasam.
+Unit (2245): Collects $116 in taxes in mountain (70,26) in Phidyntia.
+Unit (3175): Collects $38 in taxes in mountain (70,26) in Phidyntia.
+Unit (3195): Collects $77 in taxes in mountain (70,26) in Phidyntia.
+Unit (1931): Collects $38 in taxes in mountain (70,26) in Phidyntia.
+Unit (2060): Collects $38 in taxes in mountain (70,26) in Phidyntia.
+Unit (1930): Collects $38 in taxes in mountain (70,26) in Phidyntia.
+Unit (2221): Collects $78 in taxes in mountain (70,26) in Phidyntia.
+Unit (2222): Collects $78 in taxes in mountain (70,26) in Phidyntia.
+Unit (2664): Collects $39 in taxes in mountain (70,26) in Phidyntia.
+Unit (3273): Collects $39 in taxes in mountain (70,26) in Phidyntia.
+Unit (2092): Collects $39 in taxes in mountain (70,26) in Phidyntia.
+Unit (3189): Collects $39 in taxes in mountain (70,26) in Phidyntia.
+Unit (3452): Collects $780 in taxes in mountain (70,26) in Phidyntia.
+Unit (2544): Collects $39 in taxes in mountain (70,26) in Phidyntia.
+Bear (592) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Unit (54): Casts Earth Lore, raising 72 silver.
+Unit (1928): Casts Earth Lore, raising 72 silver.
+Unit (1929): Casts Earth Lore, raising 72 silver.
+Cougar (2489) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Water Buffalo (2488) uses earth lore [EART] in mountain (68,26) in
+  Phidyntia, contains Oroldu [city].
+Tirelius (1039) uses earth lore [EART] in mountain (68,26) in
+  Phidyntia, contains Oroldu [city].
+Caspus (1040) uses earth lore [EART] in mountain (68,26) in Phidyntia,
+  contains Oroldu [city].
+Unit (2498): Sells 9 livestock [LIVE] at $24 each.
+Unit (2543): Sells 183 livestock [LIVE] at $24 each.
+Unit (3471): Buys 9 leaders [LEAD] at $120 each.
+Unit (2239): Buys 2 high elves [HELF] at $64 each.
+Unit (3473): Buys 10 high elves [HELF] at $64 each.
+Unit (3447): Buys 12 nomads [NOMA] at $56 each.
+Unit (3476): Buys 3 leaders [LEAD] at $96 each.
+Unit (3477): Buys 10 leaders [LEAD] at $96 each.
+Unit (2849): Rides from forest (59,17) in Nugyru to plain (60,18) in
+  Satiasam.
+Unit (3174): Rides from forest (59,17) in Nugyru to plain (60,18) in
+  Satiasam.
+Unit (3258): Walks from forest (59,17) in Nugyru to forest (59,19) in
+  Nugyru.
+Unit (3103): Rides from plain (62,20) in Satiasam to plain (61,19) in
+  Satiasam.
+Unit (3331): Rides from plain (62,20) in Satiasam to plain (63,21) in
+  Satiasam.
+Unit (3171): Rides from plain (62,20) in Satiasam to plain (63,21) in
+  Satiasam.
+Unit (2063): Rides from plain (62,20) in Satiasam to plain (61,21) in
+  Satiasam.
+Unit (3453): Rides from plain (62,20) in Satiasam to plain (63,21) in
+  Satiasam.
+Unit (2412): Flies from plain (61,21) in Satiasam to plain (62,22) in
+  Satiasam.
+Malus (1083): Rides from plain (64,22) in Satiasam to swamp (65,23) in
+  Skelid.
+Unit (2495): Rides from plain (64,22) in Satiasam to plain (63,21) in
+  Satiasam.
+Unit (3330): Rides from plain (60,24) in Satiasam to forest (60,22) in
+  Nugyru.
+Unit (2776): Rides from plain (60,24) in Satiasam to forest (60,22) in
+  Nugyru.
+Unit (2404): Rides from jungle (67,25) in Sefitat to jungle (67,27) in
+  Sefitat.
+Unit (3190): Discovers that ocean (69,25) in Atlantis Ocean is ocean.
+Unit (2849): Rides from plain (60,18) in Satiasam to plain (61,19) in
+  Satiasam.
+Unit (3174): Rides from plain (60,18) in Satiasam to plain (60,20) in
+  Satiasam.
+Unit (3103): Rides from plain (61,19) in Satiasam to plain (60,20) in
+  Satiasam.
+Unit (2063): Rides from plain (61,21) in Satiasam to forest (60,22) in
+  Nugyru.
+Unit (3171): Rides from plain (63,21) in Satiasam to plain (64,22) in
+  Satiasam.
+Unit (2495): Rides from plain (63,21) in Satiasam to plain (62,20) in
+  Satiasam.
+Unit (2412): Flies from plain (62,22) in Satiasam to swamp (63,23) in
+  Skelid.
+Unit (3332): Forbids entry to Grey Scout (2943), Grey Wind (17).
+Unit (2849): Rides from plain (61,19) in Satiasam to plain (62,20) in
+  Satiasam.
+Unit (3103): Rides from plain (60,20) in Satiasam to forest (59,21) in
+  Nugyru.
+Unit (2495): Rides from plain (62,20) in Satiasam to plain (61,21) in
+  Satiasam.
+Unit (3330): Rides from forest (60,22) in Nugyru to plain (61,21) in
+  Satiasam.
+Unit (3171): Rides from plain (64,22) in Satiasam to swamp (65,23) in
+  Skelid.
+Unit (2412): Flies from swamp (63,23) in Skelid to swamp (64,24) in
+  Skelid.
+Malus (1083): Rides from swamp (65,23) in Skelid to jungle (66,24) in
+  Sefitat.
+Unit (2849): Rides from plain (62,20) in Satiasam to plain (63,21) in
+  Satiasam.
+Unit (2412): Flies from swamp (64,24) in Skelid to swamp (65,25) in
+  Skelid.
+Unit (2412): Flies from swamp (65,25) in Skelid to jungle (66,26) in
+  Sefitat.
+Unit (2412): Flies from jungle (66,26) in Sefitat to jungle (67,27) in
+  Sefitat.
+Unit (3253): Teaches lumberjack to Unit (3254).
+Unit (2651): Teaches weaponsmith to Unit (2658).
+Unit (3186): Teaches combat to Unit (3146).
+Unit (2407): Teaches stealth to Unit (3335).
+Unit (2499): Teaches riding to Unit (2538).
+Unit (2500): Teaches stealth to Unit (1209).
+Unit (2500): Teaches stealth to Unit (2406).
+Unit (2500): Teaches stealth to Unit (2502).
+Unit (2500): Teaches stealth to Unit (2408).
+Unit (2501): Teaches observation to Unit (3336).
+Unit (3445): Teaches crossbow to Unit (3443).
+Unit (3446): Teaches weaponsmith to Unit (1725).
+Unit (3446): Teaches weaponsmith to Unit (2402).
+Unit (2411): Teaches horse training to Unit (3194).
+Unit (3173): Teaches crossbow to Unit (3110).
+Unit (3173): Teaches crossbow to Unit (3471).
+Unit (3472): Teaches crossbow to Unit (3315).
+Unit (2240): Teaches farming to Unit (3473).
+Unit (3449): Teaches crossbow to Unit (3447).
+Unit (3449): Teaches crossbow to Unit (3448).
+Unit (3451): Teaches combat to Unit (3452).
+Unit (2059): Teaches combat to Unit (3476).
+Unit (2059): Teaches farming to Unit (1729).
+Unit (3191): Teaches combat to Unit (3477).
+Unit (3454): Teaches weaponsmith to Unit (3455).
+Unit (2850): Studies weaponsmith.
+Unit (3098): Studies lumberjack.
+Unit (3255): Studies weaponsmith.
+Unit (3256): Studies crossbow.
+Unit (3259): Studies crossbow.
+Unit (3260): Studies riding.
+Unit (3288): Studies herb lore.
+Unit (2409): Studies crossbow.
+Unit (2650): Produces 10 wood [WOOD] in forest (59,17) in Nugyru.
+Unit (3097): Produces 30 wood [WOOD] in forest (59,17) in Nugyru.
+Unit (1934): Earns 14 silver working in forest (59,17) in Nugyru.
+Unit (1933): Earns 14 silver working in forest (59,17) in Nugyru.
+Unit (2762): Produces 9 crossbows [XBOW] in forest (59,17) in Nugyru.
+Unit (3145): Produces 0 crossbows [XBOW] in forest (59,17) in Nugyru.
+Unit (3257): Produces 0 crossbows [XBOW] in forest (59,17) in Nugyru.
+Unit (3252): Performs construction on Building [3].
+Unit (3166): Earns 32 silver working in plain (60,18) in Satiasam.
+Unit (3333): Earns 16 silver working in plain (60,18) in Satiasam.
+Unit (2658): Studies weaponsmith.
+Unit (2773): Studies herb lore.
+Unit (3099): Studies healing.
+Unit (3147): Studies stealth.
+Unit (3178): Studies riding.
+Unit (3262): Studies riding.
+Unit (2535): Produces 5 wood [WOOD] in forest (59,19) in Nugyru.
+Unit (2653): Produces 5 wood [WOOD] in forest (59,19) in Nugyru.
+Unit (2324): Produces 12 wood [WOOD] in forest (59,19) in Nugyru.
+Unit (1714): Produces 12 wood [WOOD] in forest (59,19) in Nugyru.
+Unit (3101): Produces 5 ironwood [IRWD] in forest (59,19) in Nugyru.
+Unit (2494): Earns 56 silver working in forest (59,19) in Nugyru.
+Unit (3263): Produces 24 crossbows [XBOW] in forest (59,19) in Nugyru.
+Unit (3261): Performs construction on Building [5].
+Unit (3327): Produces 5 winged horses [WING] in plain (63,19) in
+  Satiasam.
+Unit (2660): Studies weaponsmith.
+Unit (3164): Studies combat.
+Unit (3146): Studies combat.
+Unit (3264): Studies horse training.
+Unit (2403): Studies riding.
+Unit (1935): Earns 16 silver working in plain (60,20) in Satiasam.
+Unit (2496): Earns 32 silver working in plain (60,20) in Satiasam.
+Castulo (1617): Studies crossbow.
+Unit (1209): Studies stealth.
+Unit (2405): Studies ranching.
+Unit (2406): Studies stealth.
+Unit (2408): Studies stealth.
+Unit (2502): Studies stealth.
+Unit (2538): Studies riding.
+Unit (2539): Studies herb lore.
+Unit (2659): Studies riding.
+Unit (2661): Studies riding.
+Unit (2775): Studies lumberjack.
+Unit (3102): Studies lumberjack.
+Unit (3150): Studies combat.
+Unit (3165): Studies combat.
+Unit (3266): Studies crossbow.
+Unit (3312): Studies crossbow.
+Unit (3313): Studies crossbow.
+Unit (3334): Studies riding.
+Unit (3335): Studies stealth.
+Unit (3336): Studies observation.
+Unit (3443): Studies crossbow.
+Unit (1716): Studies weaponsmith.
+Unit (3188): Studies combat.
+Unit (2498): Produces 10 livestock [LIVE] in plain (62,20) in
+  Satiasam.
+Unit (2536): Produces 30 horses [HORS] in plain (62,20) in Satiasam.
+Unit (3329): Produces 5 horses [HORS] in plain (62,20) in Satiasam.
+Dortania (1618): Earns 5695 silver working in plain (62,20) in
+  Satiasam.
+Unit (2774): Studies weaponsmith.
+Unit (2541): Studies combat.
+Unit (3105): Studies lumberjack.
+Unit (3193): Studies armorer.
+Unit (3185): Studies riding.
+Unit (3268): Studies crossbow.
+Unit (3269): Studies stealth.
+Unit (2402): Studies weaponsmith.
+Unit (1725): Studies weaponsmith.
+Unit (3107): Produces 21 wood [WOOD] in forest (59,21) in Nugyru.
+Unit (3314): Produces 9 ironwood [IRWD] in forest (59,21) in Nugyru.
+Unit (2537): Produces 8 yew [YEW] in forest (59,21) in Nugyru.
+Unit (3110): Studies crossbow.
+Unit (3194): Studies horse training.
+Unit (3315): Studies crossbow.
+Unit (3471): Studies crossbow.
+Unit (3328): Produces 5 horses [HORS] in plain (61,21) in Satiasam.
+Unit (3332): Produces 5 winged horses [WING] in plain (61,21) in
+  Satiasam.
+Unit (2243): Earns 540 silver working in plain (61,21) in Satiasam.
+Unit (2172): Studies stealth.
+Unit (2239): Studies combat.
+Unit (2662): Studies stealth.
+Unit (3167): Studies crossbow.
+Unit (3168): Studies armorer.
+Unit (3169): Studies healing.
+Unit (3187): Studies riding.
+Unit (2497): Studies combat.
+Unit (3473): Studies farming.
+Unit (2540): Produces 27 grain [GRAI] in plain (63,21) in Satiasam.
+Unit (2503): Produces 16 horses [HORS] in plain (63,21) in Satiasam.
+Unit (3270): Produces 18 horses [HORS] in plain (63,21) in Satiasam.
+Unit (2326): Produces 5 winged horses [WING] in plain (63,21) in
+  Satiasam.
+Unit (3326): Produces 6 yew [YEW] in forest (60,22) in Nugyru.
+Unit (3447): Studies crossbow.
+Unit (3448): Studies crossbow.
+Unit (3104): Studies weaponsmith.
+Unit (54): Studies force.
+Unit (1928): Studies spirit.
+Unit (1929): Studies spirit.
+Unit (3111): Earns 18 silver working in mountain (68,26) in Phidyntia.
+Unit (3175): Studies quarrying.
+Unit (1931): Studies tactics.
+Unit (2060): Studies quarrying.
+Unit (3189): Studies riding.
+Unit (3450): Studies weaponsmith.
+Unit (3452): Studies combat.
+Unit (2092): Produces 3 grain [GRAI] in mountain (70,26) in Phidyntia.
+Unit (3273): Produces 3 iron [IRON] in mountain (70,26) in Phidyntia.
+Unit (2245): Produces 9 stone [STON] in mountain (70,26) in Phidyntia.
+Unit (2221): Produces 6 mithril [MITH] in mountain (70,26) in
+  Phidyntia.
+Unit (2544): Earns 14 silver working in mountain (70,26) in Phidyntia.
+Unit (3195): Produces 6 swords [SWOR] in mountain (70,26) in
+  Phidyntia.
+Unit (2222): Produces 6 mithril swords [MSWO] in mountain (70,26) in
+  Phidyntia.
+Unit (2664): Produces 0 swords [SWOR] in mountain (70,26) in
+  Phidyntia.
+Unit (3474): Performs construction on Building [2].
+Unit (3475): Performs construction on Building [3].
+Unit (1729): Studies farming.
+Unit (3476): Studies combat.
+Unit (2061): Studies mining.
+Unit (3455): Studies weaponsmith.
+Unit (3477): Studies combat.
+Unit (3176): Produces 12 iron [IRON] in mountain (69,27) in Phidyntia.
+Unit (2246): Produces 6 mithril [MITH] in mountain (69,27) in
+  Phidyntia.
+Unit (2247): Produces 4 mithril swords [MSWO] in mountain (69,27) in
+  Phidyntia.
+Unit (3337): Produces 27 swords [SWOR] in mountain (69,27) in
+  Phidyntia.
+
+Skill reports:
+
+crossbow [XBOW] 4: No skill report.
+
+armorer [ARMO] 4: No skill report.
+
+healing [HEAL] 4: No skill report.
+
+quarrying [QUAR] 5: No skill report.
+
+Declared Attitudes (default Unfriendly):
+Hostile : none.
+Unfriendly : none.
+Neutral : none.
+Friendly : none.
+Ally : Gragblod (7), New Horizons (16).
+
+Unclaimed silver: 755.
+
+forest (59,17) in Nugyru, 248 peasants (vikings), $992.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $694).
+  Wanted: none.
+  For Sale: 49 vikings [VIKI] at $56, 9 leaders [LEAD] at $112.
+  Entertainment available: $49.
+  Products: 20 grain [GRAI], 41 wood [WOOD], 19 furs [FUR], 16 herbs
+    [HERB].
+
+Exits:
+  North : ocean (59,15) in Atlantis Ocean.
+  Northeast : ocean (60,16) in Atlantis Ocean.
+  Southeast : plain (60,18) in Satiasam.
+  South : forest (59,19) in Nugyru.
+  Southwest : forest (58,18) in Nugyru.
+  Northwest : ocean (58,16) in Atlantis Ocean.
+
+- Etrius (1137), Gragblod (7), 2 vikings [VIKI], 19 crossbows [XBOW].
+- Izluks (1995), viking [VIKI].
+* Unit (1934), on guard, Warlords Inc (19), revealing faction,
+  holding, receiving no aid, viking [VIKI], horse [HORS]. Weight: 60.
+  Capacity: 0/70/85/0. Skills: combat [COMB] 3 (180).
+* Unit (1933), Warlords Inc (19), revealing faction, viking [VIKI],
+  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+  3 (180).
+* Unit (2650), Warlords Inc (19), revealing faction, 2 leaders [LEAD],
+  10 wood [WOOD]. Weight: 70. Capacity: 0/0/30/0. Skills: combat
+  [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+* Unit (2762), Warlords Inc (19), revealing faction, holding,
+  receiving no aid, 3 leaders [LEAD], 137 wood [WOOD], 3 horses
+  [HORS], 9 crossbows [XBOW]. Weight: 874. Capacity: 0/210/255/0.
+  Skills: combat [COMB] 1 (60), weaponsmith [WEAP] 3 (210).
+* Unit (2850), Warlords Inc (19), revealing faction, leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+  weaponsmith [WEAP] 4 (300).
+* Unit (3097), Warlords Inc (19), revealing faction, holding,
+  receiving no aid, 10 vikings [VIKI], 30 wood [WOOD]. Weight: 250.
+  Capacity: 0/0/150/0. Skills: lumberjack [LUMB] 3 (180).
+* Unit (3098), Warlords Inc (19), revealing faction, leader [LEAD],
+  1390 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat
+  [COMB] 1 (30), lumberjack [LUMB] 4 (417).
+* Unit (3145), Warlords Inc (19), revealing faction, 67 silver [SILV],
+  3 leaders [LEAD]. Weight: 30. Capacity: 0/0/45/0. Skills: combat
+  [COMB] 1 (60), lumberjack [LUMB] 2 (117), weaponsmith [WEAP] 3
+  (180).
+* Unit (3253), Warlords Inc (19), revealing faction, leader [LEAD], 38
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+  1 (30), lumberjack [LUMB] 4 (330).
+* Unit (3254), Warlords Inc (19), revealing faction, 7 vikings [VIKI].
+  Weight: 70. Capacity: 0/0/105/0. Skills: lumberjack [LUMB] 2 (147).
+* Unit (3255), Warlords Inc (19), revealing faction, holding,
+  receiving no aid, 5 leaders [LEAD], 49 silver [SILV]. Weight: 50.
+  Capacity: 0/0/75/0. Skills: combat [COMB] 1 (60), weaponsmith [WEAP]
+  3 (240).
+* Unit (3256), Warlords Inc (19), revealing faction, leader [LEAD],
+  crossbow [XBOW]. Weight: 11. Capacity: 0/0/15/0. Skills: crossbow
+  [XBOW] 3 (210), combat [COMB] 1 (30).
+* Unit (3257), Warlords Inc (19), revealing faction, 4 leaders [LEAD],
+  93 silver [SILV]. Weight: 40. Capacity: 0/0/60/0. Skills: combat
+  [COMB] 1 (60), weaponsmith [WEAP] 3 (210).
+* Unit (3259), Warlords Inc (19), behind, revealing faction, 48 silver
+  [SILV], 4 leaders [LEAD], 4 crossbows [XBOW]. Weight: 44. Capacity:
+  0/0/60/0. Skills: combat [COMB] 1 (60), crossbow [XBOW] 3 (210).
+* Unit (3260), Warlords Inc (19), revealing faction, 106 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 5 (450), riding [RIDI] 1 (60).
+* Unit (3288), Warlords Inc (19), revealing faction, 380 silver
+  [SILV], 3 leaders [LEAD]. Weight: 30. Capacity: 0/0/45/0. Skills:
+  combat [COMB] 1 (60), herb lore [HERB] 3 (270).
+* Unit (3271), Warlords Inc (19), revealing faction, 27 horses [HORS],
+  1737 silver [SILV], 2 high elves [HELF]. Weight: 1370. Capacity:
+  0/1890/1920/0. Skills: stealth [STEA] 1 (30).
+* Unit (2409), Warlords Inc (19), behind, revealing faction, leader
+  [LEAD], 385 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (60), tactics [TACT] 5 (450), crossbow [XBOW] 1
+  (30).
+
++ Building [1] : Timber Yard.
+
++ Building [2] : Timber Yard.
+
++ Building [3] : Timber Yard.
+  * Unit (3252), Warlords Inc (19), revealing faction, 3 leaders
+    [LEAD], 119 silver [SILV]. Weight: 30. Capacity: 0/0/45/0. Skills:
+    combat [COMB] 1 (30), lumberjack [LUMB] 4 (330).
+
+
+plain (60,18) in Satiasam, 549 peasants (sea elves), $3294.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1756).
+  Wanted: none.
+  For Sale: 109 sea elves [SELF] at $64, 21 leaders [LEAD] at $128.
+  Entertainment available: $164.
+  Products: 76 grain [GRAI], 37 horses [HORS].
+
+Exits:
+  North : ocean (60,16) in Atlantis Ocean.
+  Northeast : ocean (61,17) in Atlantis Ocean.
+  Southeast : plain (61,19) in Satiasam.
+  South : plain (60,20) in Satiasam.
+  Southwest : forest (59,19) in Nugyru.
+  Northwest : forest (59,17) in Nugyru.
+
+- Unit (1888), Gragblod (7), 10 sea elves [SELF].
+- Unit (1035), Gragblod (7), 5 sea elves [SELF].
+- Unit (1134), Gragblod (7), sea elf [SELF].
+* Unit (3166), Warlords Inc (19), avoiding, revealing faction, 2
+  horses [HORS], 1024 silver [SILV], 2 high elves [HELF]. Weight: 120.
+  Capacity: 0/140/170/0. Skills: riding [RIDI] 1 (30).
+* Unit (3333), Warlords Inc (19), revealing faction, leader [LEAD], 28
+  silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), horse training [HORS] 5 (450).
+
+
+forest (57,19) in Nugyru, 365 peasants (sea elves), $730.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $876).
+  Wanted: none.
+  For Sale: 73 sea elves [SELF] at $48, 14 leaders [LEAD] at $96.
+  Entertainment available: $36.
+  Products: 22 livestock [LIVE], 22 wood [WOOD], 18 furs [FUR], 14
+    herbs [HERB], 9 ironwood [IRWD].
+
+Exits:
+  North : ocean (57,17) in Atlantis Ocean.
+  Northeast : forest (58,18) in Nugyru.
+  Southeast : forest (58,20) in Nugyru.
+  South : ocean (57,21) in Atlantis Ocean.
+  Southwest : ocean (56,20) in Atlantis Ocean.
+  Northwest : ocean (56,18) in Atlantis Ocean.
+
+- Izluks (1429), sea elf [SELF].
+- Mantius (1116), Gragblod (7), avoiding, viking [VIKI].
+- Lufanius (1309), Gragblod (7), avoiding, sea elf [SELF].
+- Unit (1061), Gragblod (7), avoiding, sea elf [SELF].
+* Unit (2410), Warlords Inc (19), revealing faction, 259 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+
+
+forest (59,19) in Nugyru, 270 peasants (vikings), $1080.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $756).
+  Wanted: none.
+  For Sale: 54 vikings [VIKI] at $56, 10 leaders [LEAD] at $112.
+  Entertainment available: $54.
+  Products: 30 grain [GRAI], 47 wood [WOOD], 18 furs [FUR], 12 herbs
+    [HERB], 5 ironwood [IRWD].
+
+Exits:
+  North : forest (59,17) in Nugyru.
+  Northeast : plain (60,18) in Satiasam.
+  Southeast : plain (60,20) in Satiasam.
+  South : forest (59,21) in Nugyru.
+  Southwest : forest (58,20) in Nugyru.
+  Northwest : forest (58,18) in Nugyru.
+
+- Cirrunia (1132), Gragblod (7), 3 vikings [VIKI].
+- Izluks (1092), viking [VIKI].
+* Unit (2494), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, 1049 silver [SILV], 4 vikings [VIKI].
+  Weight: 40. Capacity: 0/0/60/0. Skills: combat [COMB] 3 (180).
+* Unit (2535), on guard, Warlords Inc (19), revealing faction, 550
+  silver [SILV], leader [LEAD], 5 wood [WOOD]. Weight: 35. Capacity:
+  0/0/15/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+* Unit (2651), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 277 silver [SILV].
+  Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 1 (30),
+  weaponsmith [WEAP] 5 (450).
+* Unit (2653), Warlords Inc (19), revealing faction, 204 silver
+  [SILV], leader [LEAD], 5 wood [WOOD]. Weight: 35. Capacity:
+  0/0/15/0. Skills: combat [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+* Unit (2654), Warlords Inc (19), revealing faction, 175 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30), carpenter [CARP] 5 (450).
+* Unit (2655), Warlords Inc (19), revealing faction, 175 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30), farming [FARM] 5 (450).
+* Unit (2656), Warlords Inc (19), revealing faction, 185 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30), hunting [HUNT] 5 (450).
+* Unit (2657), Warlords Inc (19), revealing faction, 175 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30), herb lore [HERB] 5 (450).
+* Unit (2658), Warlords Inc (19), revealing faction, 195 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30), weaponsmith [WEAP] 4 (420).
+* Unit (2770), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 347 silver [SILV].
+  Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 1 (30),
+  farming [FARM] 5 (450).
+* Unit (2771), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 350 silver [SILV], 55
+  ironwood [IRWD]. Weight: 570. Capacity: 0/0/30/0. Skills: combat
+  [COMB] 1 (30), carpenter [CARP] 5 (450).
+* Unit (2773), Warlords Inc (19), revealing faction, holding,
+  receiving no aid, 4 leaders [LEAD], 732 silver [SILV]. Weight: 40.
+  Capacity: 0/0/60/0. Skills: combat [COMB] 1 (30), herb lore [HERB] 1
+  (60), hunting [HUNT] 5 (450).
+* Unit (3099), on guard, Warlords Inc (19), revealing faction, leader
+  [LEAD], 121 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 2 (90), lumberjack [LUMB] 3 (210), healing [HEAL] 2
+  (90).
+* Unit (3101), on guard, Warlords Inc (19), revealing faction, 2
+  leaders [LEAD], 175 silver [SILV], 5 ironwood [IRWD]. Weight: 70.
+  Capacity: 0/0/30/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB]
+  3 (180).
+* Unit (3147), Warlords Inc (19), behind, leader [LEAD], horse [HORS],
+  667 silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat
+  [COMB] 2 (90), tactics [TACT] 5 (450), stealth [STEA] 3 (270).
+* Unit (3178), Warlords Inc (19), revealing faction, 5647 silver
+  [SILV], 2 horses [HORS], leader [LEAD]. Weight: 110. Capacity:
+  0/140/155/0. Skills: combat [COMB] 5 (450), riding [RIDI] 2 (120).
+* Unit (3262), Warlords Inc (19), revealing faction, 138 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 5 (450), riding [RIDI] 2 (120).
+* Unit (3263), Warlords Inc (19), revealing faction, 200 silver
+  [SILV], 10 leaders [LEAD], 24 crossbows [XBOW]. Weight: 124.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60), weaponsmith
+  [WEAP] 3 (270).
+* Unit (3172), Warlords Inc (19), revealing faction, 286 silver
+  [SILV], 10 nomads [NOMA], 10 horses [HORS]. Weight: 600. Capacity:
+  0/700/850/0. Skills: crossbow [XBOW] 3 (180).
+* Unit (3258), Warlords Inc (19), revealing faction, leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), herb
+  lore [HERB] 1 (60).
+
++ Building [1] : Timber Yard.
+  * Unit (2324), Warlords Inc (19), avoiding, revealing faction,
+    holding, receiving no aid, 3 wood elves [WELF], 239 silver [SILV],
+    viking [VIKI], 12 wood [WOOD]. Weight: 100. Capacity: 0/0/60/0.
+    Skills: lumberjack [LUMB] 3 (180).
+
++ Building [2] : Timber Yard.
+  * Unit (1714), Warlords Inc (19), avoiding, revealing faction,
+    holding, receiving no aid, 4 vikings [VIKI], 12 wood [WOOD].
+    Weight: 100. Capacity: 0/0/60/0. Skills: lumberjack [LUMB] 3
+    (180).
+
++ Building [3] : Timber Yard.
+
++ Building [4] : Timber Yard.
+
++ Building [5] : Timber Yard, needs 5.
+  * Unit (3261), Warlords Inc (19), revealing faction, 5 vikings
+    [VIKI]. Weight: 50. Capacity: 0/0/75/0. Skills: lumberjack [LUMB]
+    3 (180).
+
+
+plain (63,19) in Satiasam, contains Dun-krag [city], 7505 peasants
+  (nomads), $52535.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $17 (Max: $25517).
+  Wanted: 188 grain [GRAI] at $20, 144 livestock [LIVE] at $27, 74
+    iron [IRON] at $62, 95 wood [WOOD] at $48, 132 fish [FISH] at $27,
+    50 swords [SWOR] at $117, 87 chain armor [CARM] at $110, 64 plate
+    armor [PARM] at $446, 91 truffles [TRUF] at $173, 86 perfume
+    [PERF] at $173.
+  For Sale: 60 mink [MINK] at $84, 60 cotton [COTT] at $87, 1501
+    nomads [NOMA] at $68, 300 leaders [LEAD] at $136.
+  Entertainment available: $2626.
+  Products: 63 livestock [LIVE], 26 horses [HORS], 5 winged horses
+    [WING].
+
+Exits:
+  North : ocean (63,17) in Atlantis Ocean.
+  Northeast : plain (64,18) in Satiasam.
+  Southeast : plain (64,20) in Satiasam.
+  South : plain (63,21) in Satiasam.
+  Southwest : plain (62,20) in Satiasam, contains Oufodale [city].
+  Northwest : ocean (62,18) in Atlantis Ocean.
+
+- Cullius (1140), Gragblod (7), 2 nomads [NOMA], 4 winged horses
+  [WING].
+- Izluks (1412), Multiple Bite Wounds (10), avoiding, behind, sea elf
+  [SELF].
+- Gratera (1349), on guard, Gragblod (7), 10 leaders [LEAD], 2 winged
+  horses [WING].
+- Unit (890), on guard, Gragblod (7), 100 leaders [LEAD], sword
+  [SWOR].
+- Unit (1025), on guard, Gragblod (7), 100 leaders [LEAD], 2 swords
+  [SWOR].
+- Unit (1115), on guard, Gragblod (7), 100 leaders [LEAD], 2 swords
+  [SWOR].
+- Unit (235), Gragblod (7), 2168 vikings [VIKI], 7 swords [SWOR], 160
+  horses [HORS].
+- Unit (2165), Gragblod (7), behind, leader [LEAD].
+- Unit (1478), Gragblod (7), behind, leader [LEAD].
+- Unit (1159), Gragblod (7), leader [LEAD].
+* Unit (3327), Warlords Inc (19), revealing faction, leader [LEAD],
+  19980 silver [SILV], horse [HORS], 11 winged horses [WING]. Weight:
+  610. Capacity: 770/840/855/0. Skills: combat [COMB] 1 (60), horse
+  training [HORS] 5 (450).
+- Unit (1467), Gragblod (7), nomad [NOMA], 27 horses [HORS].
+- Unit (2296), Gragblod (7), tribesman [TMAN], horse [HORS].
+
+
+plain (60,20) in Satiasam, 603 peasants (plainsmen), $3618.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $1929).
+  Wanted: none.
+  For Sale: 120 plainsmen [PLAI] at $64, 24 leaders [LEAD] at $128.
+  Entertainment available: $180.
+  Products: 71 livestock [LIVE], 36 horses [HORS].
+
+Exits:
+  North : plain (60,18) in Satiasam.
+  Northeast : plain (61,19) in Satiasam.
+  Southeast : plain (61,21) in Satiasam.
+  South : forest (60,22) in Nugyru, contains Soroldel [city].
+  Southwest : forest (59,21) in Nugyru.
+  Northwest : forest (59,19) in Nugyru.
+
+- Unit (1889), Gragblod (7), 10 sea elves [SELF].
+* Unit (1935), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, viking [VIKI], horse [HORS], 900 silver
+  [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 3
+  (180).
+* Unit (2660), Warlords Inc (19), revealing faction, 6063 silver
+  [SILV], 20 leaders [LEAD], 10 horses [HORS]. Weight: 700. Capacity:
+  0/700/1000/0. Skills: combat [COMB] 1 (52), weaponsmith [WEAP] 5
+  (450).
+- Unit (1379), Gragblod (7), 5 plainsmen [PLAI].
+* Unit (3164), Warlords Inc (19), behind, revealing faction, leader
+  [LEAD], 7700 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 4 (330), tactics [TACT] 5 (450).
+* Unit (3146), Warlords Inc (19), revealing faction, 2220 silver
+  [SILV], 10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills:
+  combat [COMB] 5 (450).
+* Unit (3186), Warlords Inc (19), revealing faction, 9831 silver
+  [SILV], 2 horses [HORS], leader [LEAD]. Weight: 110. Capacity:
+  0/140/155/0. Skills: combat [COMB] 5 (450).
+* Unit (3264), Warlords Inc (19), behind, revealing faction, 2122
+  silver [SILV], 10 leaders [LEAD], 27 horses [HORS]. Weight: 1450.
+  Capacity: 0/1890/2040/0. Skills: combat [COMB] 1 (60), horse
+  training [HORS] 4 (300).
+* Unit (2403), Warlords Inc (19), revealing faction, 441 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (60), horse training [HORS] 3 (270), riding [RIDI] 2
+  (90).
+* Unit (3325), Warlords Inc (19), revealing faction, leader [LEAD], 80
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+  4 (417).
+* Unit (2496), Warlords Inc (19), revealing faction, 1599 silver
+  [SILV], 2 leaders [LEAD], 10 horses [HORS]. Weight: 520. Capacity:
+  0/700/730/0. Skills: combat [COMB] 1 (60), horse training [HORS] 5
+  (450).
+* Unit (2174), Warlords Inc (19), revealing faction, leader [LEAD], 10
+  silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB]
+  1 (30), horse training [HORS] 5 (450).
+* Unit (2244), Warlords Inc (19), revealing faction, 4210 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 5 (450).
+* Unit (3174), Warlords Inc (19), revealing faction, 2 horses [HORS],
+  92 silver [SILV], leader [LEAD]. Weight: 110. Capacity: 0/140/155/0.
+  Skills: combat [COMB] 5 (450).
+
+
+plain (62,20) in Satiasam, contains Oufodale [city], 2995 peasants
+  (sea elves), $20965.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $17 (Max: $10183).
+  Wanted: 180 grain [GRAI] at $24, 192 livestock [LIVE] at $23, 176
+    fish [FISH] at $26, 31 crossbows [XBOW] at $104, 32 longbows
+    [LBOW] at $104, 20 chain armor [CARM] at $107, 16 wagons [WAGO] at
+    $170, 16 vodka [VODK] at $149, 2 dye [DYE] at $124.
+  For Sale: 15 chocolate [CHOC] at $81, 599 sea elves [SELF] at $68,
+    119 leaders [LEAD] at $136.
+  Entertainment available: $1048.
+  Products: 74 livestock [LIVE], 36 horses [HORS].
+
+Exits:
+  North : ocean (62,18) in Atlantis Ocean.
+  Northeast : plain (63,19) in Satiasam, contains Dun-krag [city].
+  Southeast : plain (63,21) in Satiasam.
+  South : plain (62,22) in Satiasam.
+  Southwest : plain (61,21) in Satiasam.
+  Northwest : plain (61,19) in Satiasam.
+
+- Izluks (1270), Multiple Bite Wounds (10), avoiding, sea elf [SELF].
+- Maro (1276), Gragblod (7), high elf [HELF].
+- Cateius (1388), Gragblod (7), 2 sea elves [SELF], 15 horses [HORS].
+* Castulo (1617), Warlords Inc (19), behind, revealing faction, 7
+  leaders [LEAD], 7 horses [HORS]. Weight: 420. Capacity: 0/490/595/0.
+  Skills: combat [COMB] 2 (90), tactics [TACT] 5 (450), crossbow
+  [XBOW] 2 (90).
+* Dortania (1618), on guard, Warlords Inc (19), revealing faction, 284
+  sea elves [SELF], 103567 silver [SILV], 25 high elves [HELF], 25
+  nomads [NOMA], tribesman [TMAN]. Weight: 3350. Capacity: 0/0/5025/0.
+  Skills: combat [COMB] 2 (90).
+* Unit (1209), Warlords Inc (19), revealing faction, leader [LEAD],
+  145 silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 5 (450), stealth [STEA] 3 (210).
+* Unit (2405), Warlords Inc (19), revealing faction, 354 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), ranching [RANC] 5 (450).
+* Unit (2406), Warlords Inc (19), revealing faction, 19178 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), riding [RIDI] 5 (450),
+  stealth [STEA] 3 (210).
+* Unit (2407), Warlords Inc (19), revealing faction, 314 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450).
+* Unit (2408), Warlords Inc (19), revealing faction, leader [LEAD],
+  289 silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), observation [OBSE] 5 (450), stealth
+  [STEA] 1 (60).
+* Unit (2498), Warlords Inc (19), revealing faction, 1656 silver
+  [SILV], 2 leaders [LEAD], 2 horses [HORS], 11 livestock [LIVE].
+  Weight: 670. Capacity: 0/140/720/0. Skills: combat [COMB] 1 (60),
+  ranching [RANC] 5 (450), stealth [STEA] 1 (30).
+* Unit (2499), Warlords Inc (19), revealing faction, 174 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), riding [RIDI] 5 (450).
+* Unit (2500), Warlords Inc (19), revealing faction, leader [LEAD],
+  horse [HORS], 321 silver [SILV]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), stealth [STEA] 5 (450).
+* Unit (2501), Warlords Inc (19), revealing faction, 114 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), observation [OBSE] 5 (450).
+* Unit (2502), Warlords Inc (19), revealing faction, 9354 silver
+  [SILV], 2 leaders [LEAD], horse [HORS]. Weight: 70. Capacity:
+  0/70/100/0. Skills: combat [COMB] 1 (30), tactics [TACT] 5 (450),
+  stealth [STEA] 2 (150), crossbow [XBOW] 1 (30).
+* Unit (2536), Warlords Inc (19), revealing faction, 3435 silver
+  [SILV], 10 leaders [LEAD], 129 horses [HORS]. Weight: 6550.
+  Capacity: 0/9030/9180/0. Skills: combat [COMB] 1 (54), horse
+  training [HORS] 3 (240).
+* Unit (2538), Warlords Inc (19), revealing faction, 4321 silver
+  [SILV], 10 leaders [LEAD], 10 horses [HORS]. Weight: 600. Capacity:
+  0/700/850/0. Skills: combat [COMB] 5 (450), riding [RIDI] 1 (60).
+* Unit (2539), Warlords Inc (19), revealing faction, 374 silver
+  [SILV], leader [LEAD], horse [HORS]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60), horse training [HORS] 4
+  (420), herb lore [HERB] 2 (120).
+* Unit (2659), Warlords Inc (19), revealing faction, 41 leaders
+  [LEAD], 7242 silver [SILV], 8 mithril swords [MSWO]. Weight: 418.
+  Capacity: 0/0/615/0. Skills: combat [COMB] 5 (450), riding [RIDI] 3
+  (180).
+* Unit (2661), Warlords Inc (19), revealing faction, leader [LEAD],
+  190 silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), horse training [HORS] 5 (450), riding
+  [RIDI] 2 (90).
+* Unit (2775), Warlords Inc (19), revealing faction, leader [LEAD],
+  280 silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+* Unit (3102), Warlords Inc (19), revealing faction, 1533 silver
+  [SILV], 10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills:
+  combat [COMB] 1 (30), lumberjack [LUMB] 5 (450).
+* Unit (3150), Warlords Inc (19), revealing faction, 5094 silver
+  [SILV], 50 leaders [LEAD]. Weight: 500. Capacity: 0/0/750/0. Skills:
+  combat [COMB] 5 (450).
+* Unit (3165), Warlords Inc (19), revealing faction, 5 leaders [LEAD],
+  5 horses [HORS], 372 silver [SILV]. Weight: 300. Capacity:
+  0/350/425/0. Skills: combat [COMB] 5 (450).
+* Unit (3266), Warlords Inc (19), revealing faction, 15 leaders
+  [LEAD], 18 horses [HORS]. Weight: 1050. Capacity: 0/1260/1485/0.
+  Skills: crossbow [XBOW] 4 (300).
+* Unit (3312), Warlords Inc (19), revealing faction, 3 leaders [LEAD],
+  3 horses [HORS], 460 silver [SILV]. Weight: 180. Capacity:
+  0/210/255/0. Skills: weaponsmith [WEAP] 5 (450), crossbow [XBOW] 1
+  (30).
+* Unit (3313), Warlords Inc (19), revealing faction, leader [LEAD],
+  820 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  weaponsmith [WEAP] 5 (450), crossbow [XBOW] 1 (30).
+* Unit (3334), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD], 10 mithril swords [MSWO]. Weight: 110. Capacity: 0/0/150/0.
+  Skills: combat [COMB] 5 (450), riding [RIDI] 2 (150).
+* Unit (3335), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD], 2300 silver [SILV]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: combat [COMB] 5 (450), stealth [STEA] 3 (180).
+* Unit (3336), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 5
+  (450), observation [OBSE] 3 (180).
+* Unit (3443), Warlords Inc (19), revealing faction, 50 leaders
+  [LEAD]. Weight: 500. Capacity: 0/0/750/0. Skills: crossbow [XBOW] 3
+  (180).
+* Unit (3445), Warlords Inc (19), revealing faction, 5 leaders [LEAD].
+  Weight: 50. Capacity: 0/0/75/0. Skills: crossbow [XBOW] 3 (180).
+* Unit (3329), Warlords Inc (19), revealing faction, leader [LEAD], 14
+  horses [HORS]. Weight: 710. Capacity: 0/980/995/0. Skills: combat
+  [COMB] 1 (60), horse training [HORS] 5 (450).
+* Unit (1716), Warlords Inc (19), revealing faction, 4 leaders [LEAD],
+  4 horses [HORS]. Weight: 240. Capacity: 0/280/340/0. Skills:
+  weaponsmith [WEAP] 5 (450).
+* Unit (2543), Warlords Inc (19), revealing faction, 9 nomads [NOMA],
+  6 livestock [LIVE], 4302 silver [SILV]. Weight: 390. Capacity:
+  0/0/435/0. Skills: ranching [RANC] 3 (180).
+* Unit (3188), Warlords Inc (19), revealing faction, 7960 silver
+  [SILV], 4 horses [HORS], 2 leaders [LEAD]. Weight: 220. Capacity:
+  0/280/310/0. Skills: combat [COMB] 4 (417).
+- Unit (1433), Gragblod (7), nomad [NOMA].
+
+
+forest (59,21) in Nugyru, 373 peasants (wood elves), $1492.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1044).
+  Wanted: none.
+  For Sale: 74 wood elves [WELF] at $56, 14 leaders [LEAD] at $112.
+  Entertainment available: $74.
+  Products: 23 grain [GRAI], 30 wood [WOOD], 11 furs [FUR], 12 herbs
+    [HERB], 9 ironwood [IRWD], 8 yew [YEW].
+
+Exits:
+  North : forest (59,19) in Nugyru.
+  Northeast : plain (60,20) in Satiasam.
+  Southeast : forest (60,22) in Nugyru, contains Soroldel [city].
+  South : forest (59,23) in Nugyru.
+  Southwest : forest (58,22) in Nugyru.
+  Northwest : forest (58,20) in Nugyru.
+
+* Unit (2537), Warlords Inc (19), revealing faction, 2 leaders [LEAD],
+  4 horses [HORS], 24 yew [YEW]. Weight: 340. Capacity: 0/280/310/0.
+  Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+* Unit (2774), Warlords Inc (19), behind, leader [LEAD], 100 silver
+  [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills:
+  combat [COMB] 2 (90), tactics [TACT] 5 (450), stealth [STEA] 3
+  (210), weaponsmith [WEAP] 2 (150).
+* Unit (2541), Warlords Inc (19), revealing faction, leader [LEAD], 3
+  horses [HORS], 274 silver [SILV]. Weight: 160. Capacity:
+  0/210/225/0. Skills: combat [COMB] 4 (390), armorer [ARMO] 1 (30).
+* Unit (3105), Warlords Inc (19), revealing faction, 3 leaders [LEAD],
+  45 ironwood [IRWD], 667 silver [SILV]. Weight: 480. Capacity:
+  0/0/45/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB] 4 (390).
+* Unit (3107), Warlords Inc (19), revealing faction, 7 wood elves
+  [WELF], 63 wood [WOOD]. Weight: 385. Capacity: 0/0/105/0. Skills:
+  lumberjack [LUMB] 3 (180).
+* Unit (3192), Warlords Inc (19), revealing faction, leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60),
+  lumberjack [LUMB] 3 (240).
+* Unit (3193), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD], 2160 silver [SILV]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: combat [COMB] 1 (60), armorer [ARMO] 4 (300).
+* Unit (3185), on guard, Warlords Inc (19), revealing faction, 4700
+  silver [SILV], 2 horses [HORS], leader [LEAD]. Weight: 110.
+  Capacity: 0/140/155/0. Skills: combat [COMB] 5 (450), riding [RIDI]
+  2 (120).
+* Unit (3268), Warlords Inc (19), revealing faction, 543 silver
+  [SILV], 10 leaders [LEAD], 9 crossbows [XBOW]. Weight: 109.
+  Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60), crossbow [XBOW] 3
+  (240).
+* Unit (3269), Warlords Inc (19), revealing faction, leader [LEAD],
+  430 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat
+  [COMB] 5 (450), stealth [STEA] 1 (30).
+* Unit (3314), Warlords Inc (19), revealing faction, 3 wood elves
+  [WELF], 63 ironwood [IRWD]. Weight: 660. Capacity: 0/0/45/0. Skills:
+  lumberjack [LUMB] 3 (180).
+* Unit (2402), Warlords Inc (19), behind, revealing faction, 195
+  silver [SILV], leader [LEAD], horse [HORS], 5 yew [YEW]. Weight: 85.
+  Capacity: 0/70/85/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB]
+  5 (450), weaponsmith [WEAP] 2 (120).
+* Unit (3446), Warlords Inc (19), behind, revealing faction, 500
+  silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+  Skills: weaponsmith [WEAP] 2 (90).
+* Unit (1725), Warlords Inc (19), behind, revealing faction, 75 wood
+  [WOOD], 9 leaders [LEAD], 230 silver [SILV]. Weight: 465. Capacity:
+  0/0/135/0. Skills: weaponsmith [WEAP] 2 (90).
+- Unit (1241), Gragblod (7), wood elf [WELF].
+* Unit (3103), Warlords Inc (19), revealing faction, leader [LEAD],
+  104 silver [SILV], 3 horses [HORS]. Weight: 160. Capacity:
+  0/210/225/0. Skills: combat [COMB] 1 (60), weaponsmith [WEAP] 5
+  (450).
+
++ Lair [1] : Lair, closed to player units.
+
+
+plain (61,21) in Satiasam, 720 peasants (high elves), $3600.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $2160).
+  Wanted: none.
+  For Sale: 144 high elves [HELF] at $60, 28 leaders [LEAD] at $120.
+  Entertainment available: $180.
+  Products: 62 grain [GRAI], 33 horses [HORS], 5 winged horses [WING].
+
+Exits:
+  North : plain (61,19) in Satiasam.
+  Northeast : plain (62,20) in Satiasam, contains Oufodale [city].
+  Southeast : plain (62,22) in Satiasam.
+  South : plain (61,23) in Satiasam, contains Sul'em'uq [village].
+  Southwest : forest (60,22) in Nugyru, contains Soroldel [city].
+  Northwest : plain (60,20) in Satiasam.
+
+- Unit (1822), on guard, Gragblod (7), 10 sea elves [SELF], 6 winged
+  horses [WING].
+- Unit (1948), Gragblod (7), 3 high elves [HELF].
+- Unit (1549), Gragblod (7), high elf [HELF].
+* Unit (3332), on guard, Warlords Inc (19), revealing faction, leader
+  [LEAD], horse [HORS], 5 winged horses [WING]. Weight: 310. Capacity:
+  350/420/435/0. Skills: combat [COMB] 1 (60), horse training [HORS] 5
+  (450).
+* Unit (3328), Warlords Inc (19), revealing faction, leader [LEAD], 6
+  horses [HORS]. Weight: 310. Capacity: 0/420/435/0. Skills: combat
+  [COMB] 1 (60), horse training [HORS] 5 (450).
+* Unit (2542), Warlords Inc (19), revealing faction, 9 nomads [NOMA],
+  30 horses [HORS]. Weight: 1590. Capacity: 0/2100/2235/0. Skills:
+  horse training [HORS] 3 (180).
+* Unit (2243), Warlords Inc (19), revealing faction, 36 nomads [NOMA],
+  3720 silver [SILV]. Weight: 360. Capacity: 0/0/540/0. Skills: combat
+  [COMB] 1 (61).
+* Unit (2411), Warlords Inc (19), revealing faction, leader [LEAD],
+  190 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat
+  [COMB] 1 (30), horse training [HORS] 4 (360).
+* Unit (3110), Warlords Inc (19), revealing faction, leader [LEAD],
+  780 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: crossbow
+  [XBOW] 2 (150).
+* Unit (3173), Warlords Inc (19), revealing faction, 230 silver
+  [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  crossbow [XBOW] 3 (210).
+* Unit (3194), Warlords Inc (19), revealing faction, 10 nomads [NOMA],
+  800 silver [SILV]. Weight: 100. Capacity: 0/0/150/0. Skills: horse
+  training [HORS] 3 (180).
+* Unit (3272), Warlords Inc (19), revealing faction, 3 leaders [LEAD].
+  Weight: 30. Capacity: 0/0/45/0. Skills: crossbow [XBOW] 3 (180).
+* Unit (3315), Warlords Inc (19), revealing faction, 2180 silver
+  [SILV], 10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills:
+  combat [COMB] 1 (60), crossbow [XBOW] 2 (120).
+* Unit (3471), Warlords Inc (19), revealing faction, 650 silver
+  [SILV], 9 leaders [LEAD]. Weight: 90. Capacity: 0/0/135/0. Skills:
+  crossbow [XBOW] 1 (60).
+* Unit (3472), Warlords Inc (19), revealing faction, leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: crossbow [XBOW] 3 (180).
+* Unit (2495), Warlords Inc (19), revealing faction, leader [LEAD],
+  289 silver [SILV], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+  Skills: combat [COMB] 1 (60), weaponsmith [WEAP] 5 (450).
+* Unit (3330), Warlords Inc (19), revealing faction, leader [LEAD],
+  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+  1 (60), horse training [HORS] 5 (450).
+
+
+plain (63,21) in Satiasam, 859 peasants (high elves), $5154.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $2748).
+  Wanted: none.
+  For Sale: 171 high elves [HELF] at $64, 34 leaders [LEAD] at $128.
+  Entertainment available: $257.
+  Products: 52 grain [GRAI], 34 horses [HORS], 5 winged horses [WING].
+
+Exits:
+  North : plain (63,19) in Satiasam, contains Dun-krag [city].
+  Northeast : plain (64,20) in Satiasam.
+  Southeast : plain (64,22) in Satiasam.
+  South : swamp (63,23) in Skelid.
+  Southwest : plain (62,22) in Satiasam.
+  Northwest : plain (62,20) in Satiasam, contains Oufodale [city].
+
+- Unit (1662), Gragblod (7), 10 nomads [NOMA], 9 horses [HORS].
+* Unit (2172), Warlords Inc (19), revealing faction, leader [LEAD],
+  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+  1 (60), farming [FARM] 1 (30), horse training [HORS] 5 (450),
+  stealth [STEA] 2 (120).
+* Unit (2239), on guard, Warlords Inc (19), revealing faction, 32 high
+  elves [HELF], 10676 silver [SILV]. Weight: 320. Capacity: 0/0/480/0.
+  Skills: combat [COMB] 1 (86).
+* Unit (2240), Warlords Inc (19), revealing faction, leader [LEAD],
+  330 silver [SILV], 30 horses [HORS]. Weight: 1510. Capacity:
+  0/2100/2115/0. Skills: combat [COMB] 1 (30), farming [FARM] 5 (450),
+  horse training [HORS] 1 (30).
+* Unit (2326), Warlords Inc (19), revealing faction, leader [LEAD],
+  260 silver [SILV], 2 horses [HORS], 5 winged horses [WING]. Weight:
+  360. Capacity: 350/490/505/0. Skills: horse training [HORS] 5 (450),
+  combat [COMB] 1 (30).
+* Unit (2503), Warlords Inc (19), revealing faction, 9 high elves
+  [HELF], 52 horses [HORS]. Weight: 2690. Capacity: 0/3640/3775/0.
+  Skills: horse training [HORS] 3 (180).
+* Unit (2540), Warlords Inc (19), revealing faction, 9 high elves
+  [HELF], 243 grain [GRAI]. Weight: 1305. Capacity: 0/0/135/0. Skills:
+  farming [FARM] 3 (180).
+* Unit (2662), Warlords Inc (19), revealing faction, 2 leaders [LEAD],
+  280 silver [SILV]. Weight: 20. Capacity: 0/0/30/0. Skills: combat
+  [COMB] 5 (450), stealth [STEA] 1 (30).
+* Unit (3167), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD], 1800 silver [SILV]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: combat [COMB] 1 (60), crossbow [XBOW] 4 (300).
+* Unit (3168), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD], 1700 silver [SILV]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: combat [COMB] 1 (60), armorer [ARMO] 4 (300).
+* Unit (3169), Warlords Inc (19), revealing faction, 10 leaders
+  [LEAD], 1800 silver [SILV]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: combat [COMB] 1 (60), healing [HEAL] 4 (300).
+* Unit (3187), Warlords Inc (19), revealing faction, 9040 silver
+  [SILV], 2 horses [HORS], 2 leaders [LEAD]. Weight: 120. Capacity:
+  0/140/170/0. Skills: combat [COMB] 5 (450), riding [RIDI] 2 (120).
+* Unit (3270), Warlords Inc (19), revealing faction, 160 silver
+  [SILV], 10 high elves [HELF], 18 horses [HORS]. Weight: 1000.
+  Capacity: 0/1260/1410/0. Skills: horse training [HORS] 3 (180).
+* Unit (2497), Warlords Inc (19), revealing faction, 779 silver
+  [SILV], 2 leaders [LEAD], 2 horses [HORS]. Weight: 120. Capacity:
+  0/140/170/0. Skills: combat [COMB] 2 (90), farming [FARM] 5 (450).
+* Unit (3473), Warlords Inc (19), revealing faction, 4160 silver
+  [SILV], 10 high elves [HELF]. Weight: 100. Capacity: 0/0/150/0.
+  Skills: farming [FARM] 1 (60).
+- Unit (1394), Gragblod (7), nomad [NOMA].
+- Unit (191), Gragblod (7), nomad [NOMA].
+* Unit (3331), Warlords Inc (19), revealing faction, leader [LEAD], 11
+  horses [HORS]. Weight: 560. Capacity: 0/770/785/0. Skills: combat
+  [COMB] 1 (60), horse training [HORS] 5 (450).
+* Unit (3453), Warlords Inc (19), revealing faction, 1040 silver
+  [SILV], 20 horses [HORS], 20 tribesmen [TMAN]. Weight: 1200.
+  Capacity: 0/1400/1700/0. Skills: none.
+* Unit (2849), Warlords Inc (19), revealing faction, 8 leaders [LEAD],
+  19 horses [HORS], 30 crossbows [XBOW], 36 silver [SILV]. Weight:
+  1060. Capacity: 0/1330/1450/0. Skills: combat [COMB] 4 (390).
+
+
+forest (60,22) in Nugyru, contains Soroldel [city], 5842 peasants
+  (wood elves), $35052.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $16 (Max: $18694).
+  Wanted: 158 grain [GRAI] at $27, 160 livestock [LIVE] at $26, 74
+    stone [STON] at $57, 51 swords [SWOR] at $126, 86 plate armor
+    [PARM] at $554, 86 caviar [CAVI] at $131, 89 dye [DYE] at $132.
+  For Sale: 96 furs [FUR] at $58, 64 wagons [WAGO] at $152, 94
+    cashmere [CASH] at $83, 71 wool [WOOL] at $74, 1168 wood elves
+    [WELF] at $64, 233 leaders [LEAD] at $128.
+  Entertainment available: $1752.
+  Products: 38 grain [GRAI], 32 wood [WOOD], 17 furs [FUR], 19 herbs
+    [HERB], 6 yew [YEW].
+
+Exits:
+  North : plain (60,20) in Satiasam.
+  Northeast : plain (61,21) in Satiasam.
+  Southeast : plain (61,23) in Satiasam, contains Sul'em'uq [village].
+  South : plain (60,24) in Satiasam, contains Mikedale [town].
+  Southwest : forest (59,23) in Nugyru.
+  Northwest : forest (59,21) in Nugyru.
+
+- Justinia (1229), Gragblod (7), 3 wood elves [WELF].
+- Izluks (1502), nomad [NOMA].
+- Unit (1787), on guard, Gragblod (7), leader [LEAD].
+- Ilfius (1094), Gragblod (7), 1018 high elves [HELF], 8 mithril
+  swords [MSWO], 6 mithril armor [MARM].
+- Cnician (1179), Gragblod (7), 3 tribesmen [TMAN], 31 rootstone
+  [ROOT], 10 double bows [DBOW], 3 chocolate [CHOC], 5 figurines
+  [FIGU], 14 floater hides [FLOA], 30 ironwood [IRWD], 2 jewelry
+  [JEWE], 4 livestock [LIVE], 10 mithril [MITH], stone [STON], 4
+  velvet [VELV], vodka [VODK], 2 wagons [WAGO], 2 wood [WOOD], 10 yew
+  [YEW], winged horse [WING].
+- Unit (278), Gragblod (7), 100 leaders [LEAD], 89 horses [HORS].
+- Unit (281), Gragblod (7), 100 leaders [LEAD], 89 horses [HORS],
+  mithril armor [MARM].
+- Unit (2504), Gragblod (7), 10 leaders [LEAD], winged horse [WING].
+- Unit (2188), Gragblod (7), leader [LEAD].
+- Unit (1670), Gragblod (7), leader [LEAD].
+* Unit (3326), Warlords Inc (19), revealing faction, 20 silver [SILV],
+  2 leaders [LEAD], horse [HORS], 21 yew [YEW]. Weight: 175. Capacity:
+  0/70/100/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+* Unit (2776), Warlords Inc (19), revealing faction, 2 leaders [LEAD],
+  267 silver [SILV], 20 horses [HORS]. Weight: 1020. Capacity:
+  0/1400/1430/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5
+  (450).
+* Unit (2063), Warlords Inc (19), behind, revealing faction, 2 tribal
+  elves [TELF], 6 herbs [HERB], 2 horses [HORS], 280 silver [SILV].
+  Weight: 120. Capacity: 0/140/170/0. Skills: herb lore [HERB] 3
+  (180).
+
+
+plain (64,22) in Satiasam, 693 peasants (nomads), $2772.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1940).
+  Wanted: none.
+  For Sale: 138 nomads [NOMA] at $56, 27 leaders [LEAD] at $112.
+  Entertainment available: $138.
+  Products: 79 livestock [LIVE], 37 horses [HORS].
+
+Exits:
+  North : plain (64,20) in Satiasam.
+  Northeast : ocean (65,21) in Atlantis Ocean.
+  Southeast : swamp (65,23) in Skelid, contains W'tiaenth [city].
+  South : swamp (64,24) in Skelid.
+  Southwest : swamp (63,23) in Skelid.
+  Northwest : plain (63,21) in Satiasam.
+
+- Rumituris (1382), Gragblod (7), tribesman [TMAN], 10 sea elves
+  [SELF].
+* Unit (3447), Warlords Inc (19), revealing faction, 67 nomads [NOMA],
+  8756 silver [SILV]. Weight: 670. Capacity: 0/0/1005/0. Skills:
+  crossbow [XBOW] 2 (141).
+* Unit (3448), Warlords Inc (19), revealing faction, 5 leaders [LEAD],
+  4550 silver [SILV]. Weight: 50. Capacity: 0/0/75/0. Skills: crossbow
+  [XBOW] 3 (221).
+* Unit (3449), Warlords Inc (19), revealing faction, 5 leaders [LEAD].
+  Weight: 50. Capacity: 0/0/75/0. Skills: crossbow [XBOW] 3 (180).
+* Unit (3104), Warlords Inc (19), revealing faction, 2 leaders [LEAD],
+  2 horses [HORS]. Weight: 120. Capacity: 0/140/170/0. Skills:
+  weaponsmith [WEAP] 5 (450).
+
++ Ruin [1] : Ruin, closed to player units.
+
+
+swamp (65,23) in Skelid, contains W'tiaenth [city], 3884 peasants
+  (tribesmen), $19420.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $15 (Max: $11652).
+  Wanted: 110 grain [GRAI] at $27, 190 livestock [LIVE] at $18, 170
+    fish [FISH] at $29, 83 swords [SWOR] at $123, 55 chain armor
+    [CARM] at $92, 76 wagons [WAGO] at $204, 76 figurines [FIGU] at
+    $165, 56 chocolate [CHOC] at $141.
+  For Sale: 61 wood [WOOD] at $54, 64 herbs [HERB] at $59, 79 velvet
+    [VELV] at $66, 75 mink [MINK] at $70, 776 tribesmen [TMAN] at $60,
+    155 leaders [LEAD] at $120.
+  Entertainment available: $971.
+  Products: 11 grain [GRAI], 18 wood [WOOD], 16 herbs [HERB].
+
+Exits:
+  North : ocean (65,21) in Atlantis Ocean.
+  Northeast : ocean (66,22) in Atlantis Ocean.
+  Southeast : jungle (66,24) in Sefitat.
+  South : swamp (65,25) in Skelid.
+  Southwest : swamp (64,24) in Skelid.
+  Northwest : plain (64,22) in Satiasam.
+
+- Izluks (1374), tribesman [TMAN].
+- Trupsilius (584), Gragblod (7), 8 tribesmen [TMAN].
+- Unit (299), Gragblod (7), 5 tribesmen [TMAN], 5 dye [DYE], 12
+  livestock [LIVE], wagon [WAGO], 5 wood [WOOD], 3 figurines [FIGU],
+  stone [STON], tarot cards [TARO].
+- Unit (925), on guard, Gragblod (7), 100 leaders [LEAD], 4 floater
+  hides [FLOA], sword [SWOR].
+- Unit (972), on guard, Gragblod (7), 100 tribesmen [TMAN], sword
+  [SWOR].
+- Unit (976), on guard, Gragblod (7), 100 tribesmen [TMAN], 4 floater
+  hides [FLOA].
+- Unit (1982), Gragblod (7), 100 tribesmen [TMAN], 2 floater hides
+  [FLOA].
+- Unit (2263), Gragblod (7), leader [LEAD].
+- Unit (1993), Gragblod (7), leader [LEAD].
+- Workers (3142), Grey Wind (17), avoiding, behind, tribesman [TMAN].
+* Unit (3171), Warlords Inc (19), revealing faction, 3 horses [HORS],
+  2 nomads [NOMA], 180 silver [SILV]. Weight: 170. Capacity:
+  0/210/240/0. Skills: none.
+
+
+jungle (66,24) in Sefitat, 107 peasants (tribesmen), $321.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $13 (Max: $278).
+  Wanted: none.
+  For Sale: 21 tribesmen [TMAN] at $52, 4 leaders [LEAD] at $104.
+  Entertainment available: $16.
+  Products: 21 grain [GRAI], 10 wood [WOOD], 33 herbs [HERB].
+
+Exits:
+  North : ocean (66,22) in Atlantis Ocean.
+  Northeast : jungle (67,23) in Sefitat.
+  Southeast : jungle (67,25) in Sefitat.
+  South : jungle (66,26) in Sefitat.
+  Southwest : swamp (65,25) in Skelid.
+  Northwest : swamp (65,23) in Skelid, contains W'tiaenth [city].
+
+- Hotulius (1156), Gragblod (7), 5 tribal elves [TELF], floater hide
+  [FLOA].
+- Unit (615), on guard, Gragblod (7), 14 tribesmen [TMAN].
+- Unit (2788), Gragblod (7), avoiding, leader [LEAD].
+* Malus (1083), Warlords Inc (19), revealing faction, high elf [HELF],
+  12 silver [SILV], 10 horses [HORS]. Weight: 510. Capacity:
+  0/700/715/0. Skills: entertainment [ENTE] 1 (30).
+
+
+mountain (68,26) in Phidyntia, contains Oroldu [city], 5208 peasants
+  (vikings), $41664.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $18 (Max: $93744).
+  Wanted: none.
+  For Sale: unlimited iron [IRON] at $75, unlimited wood [WOOD] at
+    $75, unlimited stone [STON] at $75, unlimited furs [FUR] at $75,
+    unlimited herbs [HERB] at $75, unlimited horses [HORS] at $75,
+    unlimited swords [SWOR] at $150, unlimited crossbows [XBOW] at
+    $150, unlimited longbows [LBOW] at $150, unlimited chain armor
+    [CARM] at $150, unlimited plate armor [PARM] at $625, unlimited
+    wagons [WAGO] at $250, unlimited vikings [VIKI] at $68, unlimited
+    leaders [LEAD] at $136.
+  Entertainment available: $2083.
+  Products: 40 grain [GRAI], 31 iron [IRON], 14 stone [STON].
+
+Exits:
+  North : ocean (68,24) in Atlantis Ocean.
+  Northeast : ocean (69,25) in Atlantis Ocean.
+  Southeast : mountain (69,27) in Phidyntia.
+  South : jungle (68,28) in Sefitat.
+  Southwest : jungle (67,27) in Sefitat.
+  Northwest : jungle (67,25) in Sefitat.
+
+There is a Gate here (Gate 9 of 82).
+
+- City Guard (52), on guard, 120 leaders [LEAD], 120 swords [SWOR].
+- Sitenius (1038), Gragblod (7), behind, 112 vikings [VIKI].
+- Jartinnus (1041), Gragblod (7), avoiding, behind, leader [LEAD],
+  horse [HORS].
+- Oroldu stradnieks (1188), Multiple Bite Wounds (10), 81 vikings
+  [VIKI].
+- Gralus (1671), Gragblod (7), behind, 18 tribal elves [TELF], 18
+  longbows [LBOW], 18 horses [HORS].
+- Grey Ambassador (1840), Grey Wind (17), avoiding, behind, leader
+  [LEAD].
+- Thor (1861), New Horizons (16), avoiding, behind, 9 leaders [LEAD].
+- Harpers (1863), Grey Wind (17), avoiding, behind, 5 vikings [VIKI].
+- Workers (2080), Grey Wind (17), avoiding, behind, 120 vikings
+  [VIKI].
+- Scout (2223), 6 vikings [VIKI].
+- Thor (2217), New Horizons (16), avoiding, behind, leader [LEAD].
+- Armo Guy (2526), New Horizons (16), avoiding, behind, leader [LEAD].
+- Unit (661), Gragblod (7), behind, 30 vikings [VIKI], 30 crossbows
+  [XBOW], 30 horses [HORS].
+- Unit (871), Gragblod (7), behind, 30 tribal elves [TELF], 30
+  longbows [LBOW], 30 horses [HORS].
+- Unit (2960), Gragblod (7), 20 vikings [VIKI], 20 horses [HORS], 20
+  swords [SWOR].
+- Frulvius (1299), Gragblod (7), avoiding, behind, leader [LEAD],
+  sword [SWOR], horse [HORS].
+- Unit (3019), Gragblod (7), behind, 17 sea elves [SELF], 17 longbows
+  [LBOW], 17 horses [HORS].
+- Armo (3246), New Horizons (16), avoiding, behind, 3 leaders [LEAD].
+* Unit (3111), Warlords Inc (19), behind, revealing faction, viking
+  [VIKI], 48 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30).
+- Unit (1105), Gragblod (7), behind, 400 nomads [NOMA], 400 crossbows
+  [XBOW], 400 horses [HORS].
+- Asmore (3311), New Horizons (16), avoiding, behind, 2 leaders
+  [LEAD].
+- Unit (2782), Gragblod (7), avoiding, behind, nomad [NOMA], horse
+  [HORS].
+- Armo (3432), New Horizons (16), avoiding, behind, leader [LEAD].
+- Armo (3433), New Horizons (16), avoiding, behind, leader [LEAD].
+- Armo (3434), New Horizons (16), avoiding, behind, leader [LEAD].
+- Unit (232), Gragblod (7), 5 horses [HORS], nomad [NOMA].
+- Unit (1803), Gragblod (7), tribesman [TMAN].
+- Unit (1983), Gragblod (7), viking [VIKI], horse [HORS].
+- Unit (263), Gragblod (7), avoiding, behind, 42 horses [HORS], nomad
+  [NOMA], sword [SWOR].
+
++ Gragblod Tower [1] : Tower.
+  - Fuspilius (1368), Gragblod (7), 10 vikings [VIKI], 2 iron [IRON],
+    ivory [IVOR], 3 mithril [MITH], 2 rootstone [ROOT].
+  - Acus (1239), Gragblod (7), behind, 7 tribal elves [TELF], 7
+    longbows [LBOW], 7 horses [HORS].
+  - Bear (592), New Horizons (16), leader [LEAD].
+  * Unit (54), Warlords Inc (19), behind, revealing faction, leader
+    [LEAD], 658 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+    pattern [PATT] 3 (240), spirit [SPIR] 3 (180), gate lore [GATE] 1
+    (30), force [FORC] 3 (210), earth lore [EART] 2 (120), weather
+    lore [WEAT] 3 (180), summon tornado [STOR] 3 (180), clear skies
+    [CLEA] 1 (30). Combat spell: summon tornado [STOR]. Can Study:
+    fire [FIRE], earthquake [EQUA], force shield [FSHI], energy shield
+    [ESHI], spirit shield [SSHI], magical healing [MHEA], gate lore
+    [GATE], farsight [FARS], mind reading [MIND], summon wind [SWIN],
+    summon storm [SSTO], clear skies [CLEA], earth lore [EART], wolf
+    lore [WOLF], bird lore [BIRD], necromancy [NECR], demon lore
+    [DEMO], illusion [ILLU], artifact lore [ARTI].
+  * Unit (1928), Warlords Inc (19), behind, revealing faction, 922
+    silver [SILV], leader [LEAD]. Weight: 10. Capacity: 0/0/15/0.
+    Skills: force [FORC] 3 (240), pattern [PATT] 3 (210), earth lore
+    [EART] 2 (120), weather lore [WEAT] 3 (180), spirit [SPIR] 3
+    (210), summon tornado [STOR] 3 (180). Combat spell: summon tornado
+    [STOR]. Can Study: fire [FIRE], earthquake [EQUA], force shield
+    [FSHI], energy shield [ESHI], spirit shield [SSHI], magical
+    healing [MHEA], gate lore [GATE], farsight [FARS], mind reading
+    [MIND], summon wind [SWIN], summon storm [SSTO], clear skies
+    [CLEA], earth lore [EART], wolf lore [WOLF], bird lore [BIRD],
+    necromancy [NECR], demon lore [DEMO], illusion [ILLU], artifact
+    lore [ARTI].
+  * Unit (1929), Warlords Inc (19), behind, revealing faction, leader
+    [LEAD], 1072 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+    Skills: force [FORC] 3 (210), pattern [PATT] 5 (450), earth lore
+    [EART] 2 (120), weather lore [WEAT] 3 (210), summon tornado [STOR]
+    3 (180), spirit [SPIR] 2 (90). Can Study: fire [FIRE], earthquake
+    [EQUA], force shield [FSHI], energy shield [ESHI], spirit shield
+    [SSHI], magical healing [MHEA], gate lore [GATE], farsight [FARS],
+    mind reading [MIND], summon wind [SWIN], summon storm [SSTO],
+    clear skies [CLEA], earth lore [EART], wolf lore [WOLF], bird lore
+    [BIRD], necromancy [NECR], demon lore [DEMO], illusion [ILLU],
+    artifact lore [ARTI].
+  - Cougar (2489), New Horizons (16), behind, leader [LEAD].
+  - Water Buffalo (2488), New Horizons (16), behind, leader [LEAD].
+  - Tirelius (1039), Gragblod (7), behind, leader [LEAD], horse
+    [HORS], balrog [BALR].
+  - Caspus (1040), Gragblod (7), behind, leader [LEAD], horse [HORS].
+
+
+mountain (70,26) in Phidyntia, 365 peasants (orcs), $1460.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $14 (Max: $1022).
+  Wanted: none.
+  For Sale: 73 orcs [ORC] at $56, 14 leaders [LEAD] at $112.
+  Entertainment available: $73.
+  Products: 46 grain [GRAI], 41 iron [IRON], 10 stone [STON], 6
+    mithril [MITH].
+
+Exits:
+  North : ocean (70,24) in Atlantis Ocean.
+  Northeast : ocean (71,25) in Atlantis Ocean.
+  Southeast : mountain (71,27) in Phidyntia.
+  South : mountain (70,28) in Phidyntia.
+  Southwest : mountain (69,27) in Phidyntia.
+  Northwest : ocean (69,25) in Atlantis Ocean.
+
+- Bulius (1488), Gragblod (7), 9 vikings [VIKI], 9 mithril swords
+  [MSWO], 3 swords [SWOR].
+* Unit (2245), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, consuming faction's food, 3 leaders
+  [LEAD], 674 silver [SILV], 61 stone [STON]. Weight: 3080. Capacity:
+  0/0/45/0. Skills: quarrying [QUAR] 3 (180), combat [COMB] 1 (60).
+* Unit (3175), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, consuming faction's food, leader [LEAD],
+  328 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: quarrying
+  [QUAR] 5 (450), combat [COMB] 1 (60).
+* Unit (3195), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, 126 silver [SILV], 2 leaders [LEAD], 33
+  iron [IRON], 18 swords [SWOR]. Weight: 203. Capacity: 0/0/30/0.
+  Skills: combat [COMB] 1 (30), weaponsmith [WEAP] 3 (210).
+* Unit (1931), Warlords Inc (19), behind, revealing faction, leader
+  [LEAD], 226 silver [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills:
+  combat [COMB] 1 (30), tactics [TACT] 4 (330).
+* Unit (2060), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 118 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), quarrying
+  [QUAR] 4 (360).
+* Unit (1930), Warlords Inc (19), behind, revealing faction, leader
+  [LEAD], 128 silver [SILV], sword [SWOR]. Weight: 11. Capacity:
+  0/0/15/0. Skills: entertainment [ENTE] 1 (30), combat [COMB] 5
+  (450).
+* Unit (2221), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 1328 silver [SILV], 6
+  mithril [MITH]. Weight: 80. Capacity: 0/0/30/0. Skills: mining
+  [MINI] 3 (180), combat [COMB] 1 (30).
+* Unit (2222), Warlords Inc (19), avoiding, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 408 silver [SILV], 15
+  mithril [MITH], 6 mithril swords [MSWO]. Weight: 176. Capacity:
+  0/0/30/0. Skills: weaponsmith [WEAP] 3 (270), combat [COMB] 1 (45).
+* Unit (2664), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 79 silver [SILV]. Weight:
+  10. Capacity: 0/0/15/0. Skills: weaponsmith [WEAP] 5 (450), combat
+  [COMB] 1 (30).
+* Unit (3273), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, consuming faction's food, leader [LEAD],
+  1349 silver [SILV], 3 iron [IRON]. Weight: 25. Capacity: 0/0/15/0.
+  Skills: combat [COMB] 1 (30), mining [MINI] 3 (186).
+* Unit (2092), Warlords Inc (19), behind, revealing faction, consuming
+  faction's food, tribesman [TMAN], 2 swords [SWOR], 5 horses [HORS],
+  1039 silver [SILV]. Weight: 262. Capacity: 0/350/365/0. Skills:
+  farming [FARM] 3 (180).
+* Unit (3189), Warlords Inc (19), revealing faction, 8009 silver
+  [SILV], 2 horses [HORS], leader [LEAD], 2 swords [SWOR]. Weight:
+  112. Capacity: 0/140/155/0. Skills: combat [COMB] 5 (450), riding
+  [RIDI] 1 (30).
+* Unit (3450), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, 10 leaders [LEAD]. Weight: 100. Capacity:
+  0/0/150/0. Skills: weaponsmith [WEAP] 3 (180).
+* Unit (3451), Warlords Inc (19), revealing faction, leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 4 (387).
+* Unit (3452), Warlords Inc (19), revealing faction, 20 orcs [ORC], 3
+  swords [SWOR], 9 mithril swords [MSWO], 1580 silver [SILV]. Weight:
+  212. Capacity: 0/0/300/0. Skills: combat [COMB] 2 (165).
+* Unit (2544), Warlords Inc (19), behind, revealing faction, horse
+  [HORS], viking [VIKI], 1122 silver [SILV]. Weight: 60. Capacity:
+  0/70/85/0. Skills: combat [COMB] 1 (60).
+
++ Lair [1] : Lair, closed to player units.
+
++ Building [2] : Mine.
+  * Unit (3474), Warlords Inc (19), avoiding, behind, revealing
+    faction, holding, receiving no aid, consuming faction's food, 4
+    leaders [LEAD]. Weight: 40. Capacity: 0/0/60/0. Skills: combat
+    [COMB] 1 (30), mining [MINI] 3 (186).
+
++ Building [3] : Farm.
+  * Unit (3475), Warlords Inc (19), behind, revealing faction,
+    consuming faction's food, 4 tribesmen [TMAN]. Weight: 40.
+    Capacity: 0/0/60/0. Skills: farming [FARM] 3 (180).
+
+
+jungle (67,27) in Sefitat, 177 peasants (tribesmen), $354.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $424).
+  Wanted: none.
+  For Sale: 35 tribesmen [TMAN] at $48, 7 leaders [LEAD] at $96.
+  Entertainment available: $17.
+  Products: 30 livestock [LIVE], 11 wood [WOOD], 35 herbs [HERB].
+
+Exits:
+  North : jungle (67,25) in Sefitat.
+  Northeast : mountain (68,26) in Phidyntia, contains Oroldu [city].
+  Southeast : jungle (68,28) in Sefitat.
+  South : jungle (67,29) in Sefitat.
+  Southwest : jungle (66,28) in Sefitat.
+  Northwest : jungle (66,26) in Sefitat.
+
+- Fumilus (1184), Gragblod (7), behind, tribal elf [TELF].
+- Sidilio (1713), on guard, Gragblod (7), tribesman [TMAN].
+- Invedius (1717), Gragblod (7), sea elf [SELF].
+- Unit (1175), Gragblod (7), 19 tribesmen [TMAN].
+* Unit (2059), Warlords Inc (19), behind, revealing faction, consuming
+  faction's food, leader [LEAD], sword [SWOR], horse [HORS]. Weight:
+  61. Capacity: 0/70/85/0. Skills: farming [FARM] 3 (180), combat
+  [COMB] 1 (30).
+* Unit (1729), Warlords Inc (19), behind, revealing faction, consuming
+  faction's food, 7 tribesmen [TMAN], 340 silver [SILV]. Weight: 70.
+  Capacity: 0/0/105/0. Skills: farming [FARM] 2 (120).
+* Unit (1932), Warlords Inc (19), avoiding, behind, revealing faction,
+  receiving no aid, viking [VIKI], 681 silver [SILV]. Weight: 10.
+  Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30).
+* Unit (3476), Warlords Inc (19), behind, revealing faction, consuming
+  faction's food, 122 silver [SILV], 3 leaders [LEAD]. Weight: 30.
+  Capacity: 0/0/45/0. Skills: combat [COMB] 1 (60).
+- Capania (1344), Gragblod (7), tribal elf [TELF], 8 horses [HORS].
+* Unit (2404), Warlords Inc (19), revealing faction, 217 silver
+  [SILV], leader [LEAD], 19 horses [HORS]. Weight: 960. Capacity:
+  0/1330/1345/0. Skills: combat [COMB] 1 (60), farming [FARM] 5 (450).
+- Unit (742), Gragblod (7), 381 vikings [VIKI], mithril armor [MARM],
+  400 horses [HORS], 394 swords [SWOR], 6 mithril swords [MSWO].
+- Unit (2287), Gragblod (7), behind, 1000 crossbows [XBOW], 1000
+  vikings [VIKI], 1000 horses [HORS].
+- Mertus (366), Gragblod (7), 691 vikings [VIKI], mithril armor
+  [MARM], 691 horses [HORS], 691 swords [SWOR].
+- Poenius (1120), Gragblod (7), behind, leader [LEAD], horse [HORS],
+  double bow [DBOW].
+* Unit (2412), Warlords Inc (19), revealing faction, 2 leaders [LEAD],
+  19900 silver [SILV], 12 winged horses [WING]. Weight: 620. Capacity:
+  840/840/870/0. Skills: combat [COMB] 1 (30), ranching [RANC] 5
+  (450).
+
++ Lair [1] : Lair, closed to player units.
+
+
+mountain (69,27) in Phidyntia, 252 peasants (vikings), $504.
+------------------------------------------------------------
+  The weather was clear last month; it will be clear next month.
+  Wages: $12 (Max: $604).
+  Wanted: none.
+  For Sale: 50 vikings [VIKI] at $48, 10 leaders [LEAD] at $96.
+  Entertainment available: $25.
+  Products: 22 grain [GRAI], 26 iron [IRON], 15 stone [STON], 6
+    mithril [MITH].
+
+Exits:
+  North : ocean (69,25) in Atlantis Ocean.
+  Northeast : mountain (70,26) in Phidyntia.
+  Southeast : mountain (70,28) in Phidyntia.
+  South : ocean (69,29) in Atlantis Ocean.
+  Southwest : jungle (68,28) in Sefitat.
+  Northwest : mountain (68,26) in Phidyntia, contains Oroldu [city].
+
+- Pespor (1042), on guard, Gragblod (7), 32 vikings [VIKI], 29 mithril
+  swords [MSWO], 6 swords [SWOR], 32 horses [HORS].
+- Culiliusus (1158), Gragblod (7), behind, leader [LEAD], double bow
+  [DBOW].
+* Unit (2246), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, 2 leaders [LEAD], 8 stone [STON], 6
+  mithril [MITH]. Weight: 480. Capacity: 0/0/30/0. Skills: mining
+  [MINI] 3 (270), combat [COMB] 1 (30).
+* Unit (2247), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 2 swords [SWOR], 9 mithril
+  swords [MSWO], 6 mithril [MITH], 1660 silver [SILV]. Weight: 81.
+  Capacity: 0/0/15/0. Skills: weaponsmith [WEAP] 4 (300), combat
+  [COMB] 1 (30).
+* Unit (3176), Warlords Inc (19), revealing faction, 4 leaders [LEAD],
+  11 rootstone [ROOT], 12 iron [IRON]. Weight: 650. Capacity:
+  0/0/60/0. Skills: combat [COMB] 1 (30), mining [MINI] 3 (180).
+* Unit (2061), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD], 2654 silver [SILV].
+  Weight: 10. Capacity: 0/0/15/0. Skills: mining [MINI] 4 (360),
+  combat [COMB] 1 (60).
+* Unit (3190), Warlords Inc (19), revealing faction, 3900 silver
+  [SILV], 5 horses [HORS], 3 leaders [LEAD]. Weight: 280. Capacity:
+  0/350/395/0. Skills: combat [COMB] 5 (450).
+* Unit (3191), Warlords Inc (19), revealing faction, leader [LEAD].
+  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450).
+* Unit (3337), Warlords Inc (19), revealing faction, 9 leaders [LEAD],
+  10 silver [SILV], 33 iron [IRON], 27 swords [SWOR]. Weight: 282.
+  Capacity: 0/0/135/0. Skills: weaponsmith [WEAP] 3 (210).
+* Unit (3454), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, leader [LEAD]. Weight: 10. Capacity:
+  0/0/15/0. Skills: weaponsmith [WEAP] 4 (300), combat [COMB] 1 (30).
+* Unit (3455), Warlords Inc (19), avoiding, behind, revealing faction,
+  holding, receiving no aid, 284 silver [SILV], leader [LEAD]. Weight:
+  10. Capacity: 0/0/15/0. Skills: weaponsmith [WEAP] 3 (210).
+* Unit (3170), Warlords Inc (19), revealing faction, 1044 silver
+  [SILV], nomad [NOMA], 20 horses [HORS]. Weight: 1010. Capacity:
+  0/1400/1415/0. Skills: combat [COMB] 1 (30).
+* Unit (3477), Warlords Inc (19), revealing faction, 4 horses [HORS],
+  6220 silver [SILV], 10 leaders [LEAD]. Weight: 300. Capacity:
+  0/280/430/0. Skills: combat [COMB] 1 (60).
+
+
+
+Orders Template (Long Format):
+
+#atlantis 19 "soxees"
+
+;*** forest (59,17) in Nugyru ***
+
+unit 1934
+;Unit (1934), on guard, revealing faction, holding, receiving no aid,
+;  viking [VIKI], horse [HORS]. Weight: 60. Capacity: 0/70/85/0.
+;  Skills: combat [COMB] 3 (180).
+@tax
+@work
+
+unit 1933
+;Unit (1933), revealing faction, viking [VIKI], horse [HORS]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: combat [COMB] 3 (180).
+@tax
+@work
+
+unit 2650
+;Unit (2650), revealing faction, 2 leaders [LEAD], 10 wood [WOOD].
+;  Weight: 70. Capacity: 0/0/30/0. Skills: combat [COMB] 1 (30),
+;  lumberjack [LUMB] 5 (450).
+@tax
+@produce wood
+
+unit 2762
+;Unit (2762), revealing faction, holding, receiving no aid, 3 leaders
+;  [LEAD], 137 wood [WOOD], 3 horses [HORS], 9 crossbows [XBOW].
+;  Weight: 874. Capacity: 0/210/255/0. Skills: combat [COMB] 1 (60),
+;  weaponsmith [WEAP] 3 (210).
+@tax
+@produce xbow
+@give 1137 5 xbow
+
+unit 2850
+;Unit (2850), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (30), weaponsmith [WEAP] 4 (300).
+@tax
+
+unit 3097
+;Unit (3097), revealing faction, holding, receiving no aid, 10 vikings
+;  [VIKI], 30 wood [WOOD]. Weight: 250. Capacity: 0/0/150/0. Skills:
+;  lumberjack [LUMB] 3 (180).
+@produce wood
+@give 2762 30 wood
+
+unit 3098
+;Unit (3098), revealing faction, leader [LEAD], 1390 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  lumberjack [LUMB] 4 (417).
+@tax
+@study lumb
+
+unit 3145
+;Unit (3145), revealing faction, 67 silver [SILV], 3 leaders [LEAD].
+;  Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 1 (60),
+;  lumberjack [LUMB] 2 (117), weaponsmith [WEAP] 3 (180).
+@tax
+
+unit 3253
+;Unit (3253), revealing faction, leader [LEAD], 38 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  lumberjack [LUMB] 4 (330).
+@tax
+@teach 3254
+move se s s
+
+unit 3254
+;Unit (3254), revealing faction, 7 vikings [VIKI]. Weight: 70.
+;  Capacity: 0/0/105/0. Skills: lumberjack [LUMB] 2 (147).
+@study lumb
+
+unit 3255
+;Unit (3255), revealing faction, holding, receiving no aid, 5 leaders
+;  [LEAD], 49 silver [SILV]. Weight: 50. Capacity: 0/0/75/0. Skills:
+;  combat [COMB] 1 (60), weaponsmith [WEAP] 3 (240).
+@tax
+@study weap
+
+unit 3256
+;Unit (3256), revealing faction, leader [LEAD], crossbow [XBOW].
+;  Weight: 11. Capacity: 0/0/15/0. Skills: crossbow [XBOW] 3 (210),
+;  combat [COMB] 1 (30).
+@tax
+@study xbow
+
+unit 3257
+;Unit (3257), revealing faction, 4 leaders [LEAD], 93 silver [SILV].
+;  Weight: 40. Capacity: 0/0/60/0. Skills: combat [COMB] 1 (60),
+;  weaponsmith [WEAP] 3 (210).
+@tax
+@produce xbow
+
+unit 3259
+;Unit (3259), behind, revealing faction, 48 silver [SILV], 4 leaders
+;  [LEAD], 4 crossbows [XBOW]. Weight: 44. Capacity: 0/0/60/0. Skills:
+;  combat [COMB] 1 (60), crossbow [XBOW] 3 (210).
+@study xbow
+@tax
+
+unit 3260
+;Unit (3260), revealing faction, 106 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450),
+;  riding [RIDI] 1 (60).
+@tax
+@study ridi
+
+unit 3288
+;Unit (3288), revealing faction, 380 silver [SILV], 3 leaders [LEAD].
+;  Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 1 (60), herb
+;  lore [HERB] 3 (270).
+@study herb
+
+unit 3271
+;Unit (3271), revealing faction, 27 horses [HORS], 1737 silver [SILV],
+;  2 high elves [HELF]. Weight: 1370. Capacity: 0/1890/1920/0. Skills:
+;  stealth [STEA] 1 (30).
+
+unit 2409
+;Unit (2409), behind, revealing faction, leader [LEAD], 385 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (60), tactics [TACT] 5 (450), crossbow [XBOW] 1 (30).
+@study xbow
+
+unit 3252
+;Unit (3252), revealing faction, 3 leaders [LEAD], 119 silver [SILV].
+;  Weight: 30. Capacity: 0/0/45/0. Skills: combat [COMB] 1 (30),
+;  lumberjack [LUMB] 4 (330).
+@tax
+@build "timber yard"
+
+;*** plain (60,18) in Satiasam ***
+
+unit 3166
+;Unit (3166), avoiding, revealing faction, 2 horses [HORS], 1024 silver
+;  [SILV], 2 high elves [HELF]. Weight: 120. Capacity: 0/140/170/0.
+;  Skills: riding [RIDI] 1 (30).
+@work
+
+unit 3333
+;Unit (3333), revealing faction, leader [LEAD], 28 silver [SILV], horse
+;  [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 1
+;  (60), horse training [HORS] 5 (450).
+@work
+
+;*** forest (57,19) in Nugyru ***
+
+unit 2410
+;Unit (2410), revealing faction, 259 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), lumberjack [LUMB] 5 (450).
+
+;*** forest (59,19) in Nugyru ***
+
+unit 2494
+;Unit (2494), avoiding, revealing faction, holding, receiving no aid,
+;  1049 silver [SILV], 4 vikings [VIKI]. Weight: 40. Capacity:
+;  0/0/60/0. Skills: combat [COMB] 3 (180).
+@tax
+@work
+
+unit 2535
+;Unit (2535), on guard, revealing faction, 550 silver [SILV], leader
+;  [LEAD], 5 wood [WOOD]. Weight: 35. Capacity: 0/0/15/0. Skills:
+;  combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+@tax
+@produce wood
+
+unit 2651
+;Unit (2651), avoiding, revealing faction, holding, receiving no aid, 2
+;  leaders [LEAD], 277 silver [SILV]. Weight: 20. Capacity: 0/0/30/0.
+;  Skills: combat [COMB] 1 (30), weaponsmith [WEAP] 5 (450).
+@tax
+
+unit 2653
+;Unit (2653), revealing faction, 204 silver [SILV], leader [LEAD], 5
+;  wood [WOOD]. Weight: 35. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (30), lumberjack [LUMB] 5 (450).
+@tax
+@produce wood
+
+unit 2654
+;Unit (2654), revealing faction, 175 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  carpenter [CARP] 5 (450).
+@tax
+
+unit 2655
+;Unit (2655), revealing faction, 175 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  farming [FARM] 5 (450).
+@tax
+
+unit 2656
+;Unit (2656), revealing faction, 185 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  hunting [HUNT] 5 (450).
+@tax
+
+unit 2657
+;Unit (2657), revealing faction, 175 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), herb
+;  lore [HERB] 5 (450).
+@tax
+
+unit 2658
+;Unit (2658), revealing faction, 195 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30),
+;  weaponsmith [WEAP] 4 (420).
+@tax
+@study weap
+
+unit 2770
+;Unit (2770), avoiding, revealing faction, holding, receiving no aid, 2
+;  leaders [LEAD], 347 silver [SILV]. Weight: 20. Capacity: 0/0/30/0.
+;  Skills: combat [COMB] 1 (30), farming [FARM] 5 (450).
+@tax
+@study farm
+
+unit 2771
+;Unit (2771), avoiding, revealing faction, holding, receiving no aid, 2
+;  leaders [LEAD], 350 silver [SILV], 55 ironwood [IRWD]. Weight: 570.
+;  Capacity: 0/0/30/0. Skills: combat [COMB] 1 (30), carpenter [CARP] 5
+;  (450).
+@tax
+
+unit 2773
+;Unit (2773), revealing faction, holding, receiving no aid, 4 leaders
+;  [LEAD], 732 silver [SILV]. Weight: 40. Capacity: 0/0/60/0. Skills:
+;  combat [COMB] 1 (30), herb lore [HERB] 1 (60), hunting [HUNT] 5
+;  (450).
+@tax
+@study herb
+
+unit 3099
+;Unit (3099), on guard, revealing faction, leader [LEAD], 121 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 2
+;  (90), lumberjack [LUMB] 3 (210), healing [HEAL] 2 (90).
+@tax
+@study heal
+
+unit 3101
+;Unit (3101), on guard, revealing faction, 2 leaders [LEAD], 175 silver
+;  [SILV], 5 ironwood [IRWD]. Weight: 70. Capacity: 0/0/30/0. Skills:
+;  combat [COMB] 1 (60), lumberjack [LUMB] 3 (180).
+@produce irwd
+@give 2771 5 irwd
+@tax
+
+unit 3147
+;Unit (3147), behind, leader [LEAD], horse [HORS], 667 silver [SILV].
+;  Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 2 (90),
+;  tactics [TACT] 5 (450), stealth [STEA] 3 (270).
+@study stea
+@tax
+
+unit 3178
+;Unit (3178), revealing faction, 5647 silver [SILV], 2 horses [HORS],
+;  leader [LEAD]. Weight: 110. Capacity: 0/140/155/0. Skills: combat
+;  [COMB] 5 (450), riding [RIDI] 2 (120).
+@study ridi
+@tax
+
+unit 3262
+;Unit (3262), revealing faction, 138 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450),
+;  riding [RIDI] 2 (120).
+@study ridi
+@tax
+
+unit 3263
+;Unit (3263), revealing faction, 200 silver [SILV], 10 leaders [LEAD],
+;  24 crossbows [XBOW]. Weight: 124. Capacity: 0/0/150/0. Skills:
+;  combat [COMB] 1 (60), weaponsmith [WEAP] 3 (270).
+@produce xbow
+@tax
+
+unit 3172
+;Unit (3172), revealing faction, 286 silver [SILV], 10 nomads [NOMA],
+;  10 horses [HORS]. Weight: 600. Capacity: 0/700/850/0. Skills:
+;  crossbow [XBOW] 3 (180).
+
+unit 3258
+;Unit (3258), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (60), herb lore [HERB] 1 (60).
+
+unit 2324
+;Unit (2324), avoiding, revealing faction, holding, receiving no aid, 3
+;  wood elves [WELF], 239 silver [SILV], viking [VIKI], 12 wood [WOOD].
+;  Weight: 100. Capacity: 0/0/60/0. Skills: lumberjack [LUMB] 3 (180).
+
+unit 1714
+;Unit (1714), avoiding, revealing faction, holding, receiving no aid, 4
+;  vikings [VIKI], 12 wood [WOOD]. Weight: 100. Capacity: 0/0/60/0.
+;  Skills: lumberjack [LUMB] 3 (180).
+@produce wood
+
+unit 3261
+;Unit (3261), revealing faction, 5 vikings [VIKI]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: lumberjack [LUMB] 3 (180).
+@produce wood
+
+;*** plain (63,19) in Satiasam, contains Dun-krag [city] ***
+
+unit 3327
+;Unit (3327), revealing faction, leader [LEAD], 19980 silver [SILV],
+;  horse [HORS], 11 winged horses [WING]. Weight: 610. Capacity:
+;  770/840/855/0. Skills: combat [COMB] 1 (60), horse training [HORS] 5
+;  (450).
+@produce wing
+@give 1349 2 wing
+
+;*** plain (60,20) in Satiasam ***
+
+unit 1935
+;Unit (1935), avoiding, revealing faction, holding, receiving no aid,
+;  viking [VIKI], horse [HORS], 900 silver [SILV]. Weight: 60.
+;  Capacity: 0/70/85/0. Skills: combat [COMB] 3 (180).
+@tax
+@work
+
+unit 2660
+;Unit (2660), revealing faction, 6063 silver [SILV], 20 leaders [LEAD],
+;  10 horses [HORS]. Weight: 700. Capacity: 0/700/1000/0. Skills:
+;  combat [COMB] 1 (52), weaponsmith [WEAP] 5 (450).
+@tax
+
+unit 3164
+;Unit (3164), behind, revealing faction, leader [LEAD], 7700 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 4
+;  (330), tactics [TACT] 5 (450).
+@study comb
+
+unit 3146
+;Unit (3146), revealing faction, 2220 silver [SILV], 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 5 (450).
+@tax
+study ridi
+
+unit 3186
+;Unit (3186), revealing faction, 9831 silver [SILV], 2 horses [HORS],
+;  leader [LEAD]. Weight: 110. Capacity: 0/140/155/0. Skills: combat
+;  [COMB] 5 (450).
+@tax
+
+unit 3264
+;Unit (3264), behind, revealing faction, 2122 silver [SILV], 10 leaders
+;  [LEAD], 27 horses [HORS]. Weight: 1450. Capacity: 0/1890/2040/0.
+;  Skills: combat [COMB] 1 (60), horse training [HORS] 4 (300).
+@tax
+@study hors
+
+unit 2403
+;Unit (2403), revealing faction, 441 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (60), horse
+;  training [HORS] 3 (270), riding [RIDI] 2 (90).
+@tax
+teach 3146
+
+unit 3325
+;Unit (3325), revealing faction, leader [LEAD], 80 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 4 (417).
+@tax
+
+unit 2496
+;Unit (2496), revealing faction, 1599 silver [SILV], 2 leaders [LEAD],
+;  10 horses [HORS]. Weight: 520. Capacity: 0/700/730/0. Skills: combat
+;  [COMB] 1 (60), horse training [HORS] 5 (450).
+@work
+@tax
+
+unit 2174
+;Unit (2174), revealing faction, leader [LEAD], 10 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), horse
+;  training [HORS] 5 (450).
+
+unit 2244
+;Unit (2244), revealing faction, 4210 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450).
+
+unit 3174
+;Unit (3174), revealing faction, 2 horses [HORS], 92 silver [SILV],
+;  leader [LEAD]. Weight: 110. Capacity: 0/140/155/0. Skills: combat
+;  [COMB] 5 (450).
+@tax
+
+;*** plain (62,20) in Satiasam, contains Oufodale [city] ***
+
+unit 1617
+;Castulo (1617), behind, revealing faction, 7 leaders [LEAD], 7 horses
+;  [HORS]. Weight: 420. Capacity: 0/490/595/0. Skills: combat [COMB] 2
+;  (90), tactics [TACT] 5 (450), crossbow [XBOW] 2 (90).
+@study xbow
+
+unit 1618
+;Dortania (1618), on guard, revealing faction, 284 sea elves [SELF],
+;  103567 silver [SILV], 25 high elves [HELF], 25 nomads [NOMA],
+;  tribesman [TMAN]. Weight: 3350. Capacity: 0/0/5025/0. Skills: combat
+;  [COMB] 2 (90).
+@tax
+@give 2406 1000 silv
+@give 2502 1000 silv
+@give 2500 50 silv
+@give 2409 200 silv
+@give 2408 50 silv
+@give 1617 70 silv
+@give 3443 500 silv
+@give 3336 500 silv
+@give 3335 500 silv
+@give 3334 100 silv
+@give 3266 150 silv
+@give 3445 100 silv
+@give 1716 120 silv
+@work
+
+unit 1209
+;Unit (1209), revealing faction, leader [LEAD], 145 silver [SILV],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  5 (450), stealth [STEA] 3 (210).
+@tax
+@study stea
+
+unit 2405
+;Unit (2405), revealing faction, 354 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), ranching [RANC] 5 (450).
+@tax
+@study ranc
+
+unit 2406
+;Unit (2406), revealing faction, 19178 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), riding [RIDI] 5 (450), stealth [STEA] 3 (210).
+@tax
+@study stea
+
+unit 2407
+;Unit (2407), revealing faction, 314 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), stealth [STEA] 5 (450).
+@tax
+@teach 3335
+
+unit 2408
+;Unit (2408), revealing faction, leader [LEAD], 289 silver [SILV],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), observation [OBSE] 5 (450), stealth [STEA] 1 (60).
+@tax
+@study stea
+
+unit 2498
+;Unit (2498), revealing faction, 1656 silver [SILV], 2 leaders [LEAD],
+;  2 horses [HORS], 11 livestock [LIVE]. Weight: 670. Capacity:
+;  0/140/720/0. Skills: combat [COMB] 1 (60), ranching [RANC] 5 (450),
+;  stealth [STEA] 1 (30).
+@tax
+@produce live
+@sell 10 live
+
+unit 2499
+;Unit (2499), revealing faction, 174 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), riding [RIDI] 5 (450).
+@tax
+@teach 2538
+
+unit 2500
+;Unit (2500), revealing faction, leader [LEAD], horse [HORS], 321
+;  silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat
+;  [COMB] 1 (60), stealth [STEA] 5 (450).
+@tax
+@teach 1209 2406 2502 2408
+
+unit 2501
+;Unit (2501), revealing faction, 114 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), observation [OBSE] 5 (450).
+@tax
+@teach 3336
+
+unit 2502
+;Unit (2502), revealing faction, 9354 silver [SILV], 2 leaders [LEAD],
+;  horse [HORS]. Weight: 70. Capacity: 0/70/100/0. Skills: combat
+;  [COMB] 1 (30), tactics [TACT] 5 (450), stealth [STEA] 2 (150),
+;  crossbow [XBOW] 1 (30).
+@tax
+@study stea
+
+unit 2536
+;Unit (2536), revealing faction, 3435 silver [SILV], 10 leaders [LEAD],
+;  129 horses [HORS]. Weight: 6550. Capacity: 0/9030/9180/0. Skills:
+;  combat [COMB] 1 (54), horse training [HORS] 3 (240).
+@tax
+@produce hors
+@give 1388 15 hors
+
+unit 2538
+;Unit (2538), revealing faction, 4321 silver [SILV], 10 leaders [LEAD],
+;  10 horses [HORS]. Weight: 600. Capacity: 0/700/850/0. Skills: combat
+;  [COMB] 5 (450), riding [RIDI] 1 (60).
+@tax
+@study ridi
+
+unit 2539
+;Unit (2539), revealing faction, 374 silver [SILV], leader [LEAD],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), horse training [HORS] 4 (420), herb lore [HERB] 2 (120).
+@tax
+@study herb
+
+unit 2659
+;Unit (2659), revealing faction, 41 leaders [LEAD], 7242 silver [SILV],
+;  8 mithril swords [MSWO]. Weight: 418. Capacity: 0/0/615/0. Skills:
+;  combat [COMB] 5 (450), riding [RIDI] 3 (180).
+@study ridi
+@tax
+
+unit 2661
+;Unit (2661), revealing faction, leader [LEAD], 190 silver [SILV],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), horse training [HORS] 5 (450), riding [RIDI] 2 (90).
+@tax
+@study ridi
+
+unit 2775
+;Unit (2775), revealing faction, leader [LEAD], 280 silver [SILV],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), lumberjack [LUMB] 5 (450).
+@tax
+@study lumb
+
+unit 3102
+;Unit (3102), revealing faction, 1533 silver [SILV], 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (30),
+;  lumberjack [LUMB] 5 (450).
+@study lumb
+@tax
+
+unit 3150
+;Unit (3150), revealing faction, 5094 silver [SILV], 50 leaders [LEAD].
+;  Weight: 500. Capacity: 0/0/750/0. Skills: combat [COMB] 5 (450).
+@study comb
+@tax
+
+unit 3165
+;Unit (3165), revealing faction, 5 leaders [LEAD], 5 horses [HORS], 372
+;  silver [SILV]. Weight: 300. Capacity: 0/350/425/0. Skills: combat
+;  [COMB] 5 (450).
+@tax
+@study comb
+
+unit 3266
+;Unit (3266), revealing faction, 15 leaders [LEAD], 18 horses [HORS].
+;  Weight: 1050. Capacity: 0/1260/1485/0. Skills: crossbow [XBOW] 4
+;  (300).
+@study xbow
+
+unit 3312
+;Unit (3312), revealing faction, 3 leaders [LEAD], 3 horses [HORS], 460
+;  silver [SILV]. Weight: 180. Capacity: 0/210/255/0. Skills:
+;  weaponsmith [WEAP] 5 (450), crossbow [XBOW] 1 (30).
+
+unit 3313
+;Unit (3313), revealing faction, leader [LEAD], 820 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: weaponsmith [WEAP] 5 (450),
+;  crossbow [XBOW] 1 (30).
+
+unit 3334
+;Unit (3334), revealing faction, 10 leaders [LEAD], 10 mithril swords
+;  [MSWO]. Weight: 110. Capacity: 0/0/150/0. Skills: combat [COMB] 5
+;  (450), riding [RIDI] 2 (150).
+@study ridi
+
+unit 3335
+;Unit (3335), revealing faction, 10 leaders [LEAD], 2300 silver [SILV].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 5 (450),
+;  stealth [STEA] 3 (180).
+@study stea
+
+unit 3336
+;Unit (3336), revealing faction, 10 leaders [LEAD]. Weight: 100.
+;  Capacity: 0/0/150/0. Skills: combat [COMB] 5 (450), observation
+;  [OBSE] 3 (180).
+@study obse
+
+unit 3443
+;Unit (3443), revealing faction, 50 leaders [LEAD]. Weight: 500.
+;  Capacity: 0/0/750/0. Skills: crossbow [XBOW] 3 (180).
+@study xbow
+
+unit 3445
+;Unit (3445), revealing faction, 5 leaders [LEAD]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: crossbow [XBOW] 3 (180).
+@study xbow
+
+unit 3329
+;Unit (3329), revealing faction, leader [LEAD], 14 horses [HORS].
+;  Weight: 710. Capacity: 0/980/995/0. Skills: combat [COMB] 1 (60),
+;  horse training [HORS] 5 (450).
+@produce hors
+
+unit 1716
+;Unit (1716), revealing faction, 4 leaders [LEAD], 4 horses [HORS].
+;  Weight: 240. Capacity: 0/280/340/0. Skills: weaponsmith [WEAP] 5
+;  (450).
+study xbow
+
+unit 2543
+;Unit (2543), revealing faction, 9 nomads [NOMA], 6 livestock [LIVE],
+;  4302 silver [SILV]. Weight: 390. Capacity: 0/0/435/0. Skills:
+;  ranching [RANC] 3 (180).
+
+unit 3188
+;Unit (3188), revealing faction, 7960 silver [SILV], 4 horses [HORS], 2
+;  leaders [LEAD]. Weight: 220. Capacity: 0/280/310/0. Skills: combat
+;  [COMB] 4 (417).
+@study comb
+
+;*** forest (59,21) in Nugyru ***
+
+unit 2537
+;Unit (2537), revealing faction, 2 leaders [LEAD], 4 horses [HORS], 24
+;  yew [YEW]. Weight: 340. Capacity: 0/280/310/0. Skills: combat [COMB]
+;  1 (60), lumberjack [LUMB] 5 (450).
+@tax
+@produce yew
+
+unit 2774
+;Unit (2774), behind, leader [LEAD], 100 silver [SILV], horse [HORS].
+;  Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB] 2 (90),
+;  tactics [TACT] 5 (450), stealth [STEA] 3 (210), weaponsmith [WEAP] 2
+;  (150).
+@tax
+@study weap
+
+unit 2541
+;Unit (2541), revealing faction, leader [LEAD], 3 horses [HORS], 274
+;  silver [SILV]. Weight: 160. Capacity: 0/210/225/0. Skills: combat
+;  [COMB] 4 (390), armorer [ARMO] 1 (30).
+@tax
+@study comb
+
+unit 3105
+;Unit (3105), revealing faction, 3 leaders [LEAD], 45 ironwood [IRWD],
+;  667 silver [SILV]. Weight: 480. Capacity: 0/0/45/0. Skills: combat
+;  [COMB] 1 (60), lumberjack [LUMB] 4 (390).
+@tax
+@study lumb
+
+unit 3107
+;Unit (3107), revealing faction, 7 wood elves [WELF], 63 wood [WOOD].
+;  Weight: 385. Capacity: 0/0/105/0. Skills: lumberjack [LUMB] 3 (180).
+@produce wood
+
+unit 3192
+;Unit (3192), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (60), lumberjack [LUMB] 3 (240).
+
+unit 3193
+;Unit (3193), revealing faction, 10 leaders [LEAD], 2160 silver [SILV].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60),
+;  armorer [ARMO] 4 (300).
+@study armo
+@tax
+
+unit 3185
+;Unit (3185), on guard, revealing faction, 4700 silver [SILV], 2 horses
+;  [HORS], leader [LEAD]. Weight: 110. Capacity: 0/140/155/0. Skills:
+;  combat [COMB] 5 (450), riding [RIDI] 2 (120).
+@study ridi
+
+unit 3268
+;Unit (3268), revealing faction, 543 silver [SILV], 10 leaders [LEAD],
+;  9 crossbows [XBOW]. Weight: 109. Capacity: 0/0/150/0. Skills: combat
+;  [COMB] 1 (60), crossbow [XBOW] 3 (240).
+@tax
+@study xbow
+
+unit 3269
+;Unit (3269), revealing faction, leader [LEAD], 430 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 5 (450),
+;  stealth [STEA] 1 (30).
+@study stea
+
+unit 3314
+;Unit (3314), revealing faction, 3 wood elves [WELF], 63 ironwood
+;  [IRWD]. Weight: 660. Capacity: 0/0/45/0. Skills: lumberjack [LUMB] 3
+;  (180).
+@produce irwd
+
+unit 2402
+;Unit (2402), behind, revealing faction, 195 silver [SILV], leader
+;  [LEAD], horse [HORS], 5 yew [YEW]. Weight: 85. Capacity: 0/70/85/0.
+;  Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450), weaponsmith
+;  [WEAP] 2 (120).
+@tax
+
+unit 3446
+;Unit (3446), behind, revealing faction, 500 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: weaponsmith [WEAP] 2
+;  (90).
+@;have 1 study 2 turns and the other 9 produce xbow
+
+unit 1725
+;Unit (1725), behind, revealing faction, 75 wood [WOOD], 9 leaders
+;  [LEAD], 230 silver [SILV]. Weight: 465. Capacity: 0/0/135/0. Skills:
+;  weaponsmith [WEAP] 2 (90).
+@tax
+
+unit 3103
+;Unit (3103), revealing faction, leader [LEAD], 104 silver [SILV], 3
+;  horses [HORS]. Weight: 160. Capacity: 0/210/225/0. Skills: combat
+;  [COMB] 1 (60), weaponsmith [WEAP] 5 (450).
+@tax
+
+;*** plain (61,21) in Satiasam ***
+
+unit 3332
+;Unit (3332), on guard, revealing faction, leader [LEAD], horse [HORS],
+;  5 winged horses [WING]. Weight: 310. Capacity: 350/420/435/0.
+;  Skills: combat [COMB] 1 (60), horse training [HORS] 5 (450).
+@produce wing
+@give 1822 2 wing
+@tax
+
+unit 3328
+;Unit (3328), revealing faction, leader [LEAD], 6 horses [HORS].
+;  Weight: 310. Capacity: 0/420/435/0. Skills: combat [COMB] 1 (60),
+;  horse training [HORS] 5 (450).
+@produce hors
+@tax
+
+unit 2542
+;Unit (2542), revealing faction, 9 nomads [NOMA], 30 horses [HORS].
+;  Weight: 1590. Capacity: 0/2100/2235/0. Skills: horse training [HORS]
+;  3 (180).
+@give 1382 15 hors
+
+unit 2243
+;Unit (2243), revealing faction, 36 nomads [NOMA], 3720 silver [SILV].
+;  Weight: 360. Capacity: 0/0/540/0. Skills: combat [COMB] 1 (61).
+@tax
+@work
+
+unit 2411
+;Unit (2411), revealing faction, leader [LEAD], 190 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1 (30), horse
+;  training [HORS] 4 (360).
+@tax
+
+unit 3110
+;Unit (3110), revealing faction, leader [LEAD], 780 silver [SILV].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: crossbow [XBOW] 2 (150).
+
+unit 3173
+;Unit (3173), revealing faction, 230 silver [SILV], leader [LEAD].
+;  Weight: 10. Capacity: 0/0/15/0. Skills: crossbow [XBOW] 3 (210).
+
+unit 3194
+;Unit (3194), revealing faction, 10 nomads [NOMA], 800 silver [SILV].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: horse training [HORS] 3
+;  (180).
+
+unit 3272
+;Unit (3272), revealing faction, 3 leaders [LEAD]. Weight: 30.
+;  Capacity: 0/0/45/0. Skills: crossbow [XBOW] 3 (180).
+@study xbow
+
+unit 3315
+;Unit (3315), revealing faction, 2180 silver [SILV], 10 leaders [LEAD].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60),
+;  crossbow [XBOW] 2 (120).
+@tax
+@study xbow
+
+unit 3471
+;Unit (3471), revealing faction, 650 silver [SILV], 9 leaders [LEAD].
+;  Weight: 90. Capacity: 0/0/135/0. Skills: crossbow [XBOW] 1 (60).
+
+unit 3472
+;Unit (3472), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: crossbow [XBOW] 3 (180).
+
+unit 2495
+;Unit (2495), revealing faction, leader [LEAD], 289 silver [SILV],
+;  horse [HORS]. Weight: 60. Capacity: 0/70/85/0. Skills: combat [COMB]
+;  1 (60), weaponsmith [WEAP] 5 (450).
+MOVE SW
+
+unit 3330
+;Unit (3330), revealing faction, leader [LEAD], horse [HORS]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: combat [COMB] 1 (60), horse
+;  training [HORS] 5 (450).
+
+;*** plain (63,21) in Satiasam ***
+
+unit 2172
+;Unit (2172), revealing faction, leader [LEAD], horse [HORS]. Weight:
+;  60. Capacity: 0/70/85/0. Skills: combat [COMB] 1 (60), farming
+;  [FARM] 1 (30), horse training [HORS] 5 (450), stealth [STEA] 2
+;  (120).
+@tax
+@study stea
+
+unit 2239
+;Unit (2239), on guard, revealing faction, 32 high elves [HELF], 10676
+;  silver [SILV]. Weight: 320. Capacity: 0/0/480/0. Skills: combat
+;  [COMB] 1 (86).
+@tax
+@study comb
+@give 2172 100 silv
+@give 2540 90 silv
+
+unit 2240
+;Unit (2240), revealing faction, leader [LEAD], 330 silver [SILV], 30
+;  horses [HORS]. Weight: 1510. Capacity: 0/2100/2115/0. Skills: combat
+;  [COMB] 1 (30), farming [FARM] 5 (450), horse training [HORS] 1 (30).
+@tax
+
+unit 2326
+;Unit (2326), revealing faction, leader [LEAD], 260 silver [SILV], 2
+;  horses [HORS], 5 winged horses [WING]. Weight: 360. Capacity:
+;  350/490/505/0. Skills: horse training [HORS] 5 (450), combat [COMB]
+;  1 (30).
+@tax
+@produce wing
+
+unit 2503
+;Unit (2503), revealing faction, 9 high elves [HELF], 52 horses [HORS].
+;  Weight: 2690. Capacity: 0/3640/3775/0. Skills: horse training [HORS]
+;  3 (180).
+@produce hors
+@give 1662 9 hors
+
+unit 2540
+;Unit (2540), revealing faction, 9 high elves [HELF], 243 grain [GRAI].
+;  Weight: 1305. Capacity: 0/0/135/0. Skills: farming [FARM] 3 (180).
+@produce grai
+
+unit 2662
+;Unit (2662), revealing faction, 2 leaders [LEAD], 280 silver [SILV].
+;  Weight: 20. Capacity: 0/0/30/0. Skills: combat [COMB] 5 (450),
+;  stealth [STEA] 1 (30).
+@tax
+@study stea
+
+unit 3167
+;Unit (3167), revealing faction, 10 leaders [LEAD], 1800 silver [SILV].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60),
+;  crossbow [XBOW] 4 (300).
+@study xbow
+@tax
+
+unit 3168
+;Unit (3168), revealing faction, 10 leaders [LEAD], 1700 silver [SILV].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60),
+;  armorer [ARMO] 4 (300).
+@study armo
+@tax
+
+unit 3169
+;Unit (3169), revealing faction, 10 leaders [LEAD], 1800 silver [SILV].
+;  Weight: 100. Capacity: 0/0/150/0. Skills: combat [COMB] 1 (60),
+;  healing [HEAL] 4 (300).
+@study heal
+@tax
+
+unit 3187
+;Unit (3187), revealing faction, 9040 silver [SILV], 2 horses [HORS], 2
+;  leaders [LEAD]. Weight: 120. Capacity: 0/140/170/0. Skills: combat
+;  [COMB] 5 (450), riding [RIDI] 2 (120).
+@tax
+@study ridi
+
+unit 3270
+;Unit (3270), revealing faction, 160 silver [SILV], 10 high elves
+;  [HELF], 18 horses [HORS]. Weight: 1000. Capacity: 0/1260/1410/0.
+;  Skills: horse training [HORS] 3 (180).
+@produce hors
+
+unit 2497
+;Unit (2497), revealing faction, 779 silver [SILV], 2 leaders [LEAD], 2
+;  horses [HORS]. Weight: 120. Capacity: 0/140/170/0. Skills: combat
+;  [COMB] 2 (90), farming [FARM] 5 (450).
+@tax
+@study comb
+@teach 3453
+
+unit 3473
+;Unit (3473), revealing faction, 4160 silver [SILV], 10 high elves
+;  [HELF]. Weight: 100. Capacity: 0/0/150/0. Skills: farming [FARM] 1
+;  (60).
+
+unit 3331
+;Unit (3331), revealing faction, leader [LEAD], 11 horses [HORS].
+;  Weight: 560. Capacity: 0/770/785/0. Skills: combat [COMB] 1 (60),
+;  horse training [HORS] 5 (450).
+
+unit 3453
+;Unit (3453), revealing faction, 1040 silver [SILV], 20 horses [HORS],
+;  20 tribesmen [TMAN]. Weight: 1200. Capacity: 0/1400/1700/0. Skills:
+;  none.
+study farm
+
+unit 2849
+;Unit (2849), revealing faction, 8 leaders [LEAD], 19 horses [HORS], 30
+;  crossbows [XBOW], 36 silver [SILV]. Weight: 1060. Capacity:
+;  0/1330/1450/0. Skills: combat [COMB] 4 (390).
+@tax
+MOVE SE
+
+;*** forest (60,22) in Nugyru, contains Soroldel [city] ***
+
+unit 3326
+;Unit (3326), revealing faction, 20 silver [SILV], 2 leaders [LEAD],
+;  horse [HORS], 21 yew [YEW]. Weight: 175. Capacity: 0/70/100/0.
+;  Skills: combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+@produce yew
+
+unit 2776
+;Unit (2776), revealing faction, 2 leaders [LEAD], 267 silver [SILV],
+;  20 horses [HORS]. Weight: 1020. Capacity: 0/1400/1430/0. Skills:
+;  combat [COMB] 1 (60), lumberjack [LUMB] 5 (450).
+
+unit 2063
+;Unit (2063), behind, revealing faction, 2 tribal elves [TELF], 6 herbs
+;  [HERB], 2 horses [HORS], 280 silver [SILV]. Weight: 120. Capacity:
+;  0/140/170/0. Skills: herb lore [HERB] 3 (180).
+
+;*** plain (64,22) in Satiasam ***
+
+unit 3447
+;Unit (3447), revealing faction, 67 nomads [NOMA], 8756 silver [SILV].
+;  Weight: 670. Capacity: 0/0/1005/0. Skills: crossbow [XBOW] 2 (141).
+@study xbow
+
+unit 3448
+;Unit (3448), revealing faction, 5 leaders [LEAD], 4550 silver [SILV].
+;  Weight: 50. Capacity: 0/0/75/0. Skills: crossbow [XBOW] 3 (221).
+@study xbow
+
+unit 3449
+;Unit (3449), revealing faction, 5 leaders [LEAD]. Weight: 50.
+;  Capacity: 0/0/75/0. Skills: crossbow [XBOW] 3 (180).
+@teach 3447 3448
+
+unit 3104
+;Unit (3104), revealing faction, 2 leaders [LEAD], 2 horses [HORS].
+;  Weight: 120. Capacity: 0/140/170/0. Skills: weaponsmith [WEAP] 5
+;  (450).
+
+;*** swamp (65,23) in Skelid, contains W'tiaenth [city] ***
+
+unit 3171
+;Unit (3171), revealing faction, 3 horses [HORS], 2 nomads [NOMA], 180
+;  silver [SILV]. Weight: 170. Capacity: 0/210/240/0. Skills: none.
+MOVE SE SE SE SE
+
+;*** jungle (66,24) in Sefitat ***
+
+unit 1083
+;Malus (1083), revealing faction, high elf [HELF], 12 silver [SILV], 10
+;  horses [HORS]. Weight: 510. Capacity: 0/700/715/0. Skills:
+;  entertainment [ENTE] 1 (30).
+
+;*** mountain (68,26) in Phidyntia, contains Oroldu [city] ***
+
+unit 3111
+;Unit (3111), behind, revealing faction, viking [VIKI], 48 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (30).
+@work
+
+unit 54
+;Unit (54), behind, revealing faction, leader [LEAD], 658 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: pattern [PATT] 3
+;  (240), spirit [SPIR] 3 (180), gate lore [GATE] 1 (30), force [FORC]
+;  3 (210), earth lore [EART] 2 (120), weather lore [WEAT] 3 (180),
+;  summon tornado [STOR] 3 (180), clear skies [CLEA] 1 (30). Combat
+;  spell: summon tornado [STOR]. Can Study: fire [FIRE], earthquake
+;  [EQUA], force shield [FSHI], energy shield [ESHI], spirit shield
+;  [SSHI], magical healing [MHEA], gate lore [GATE], farsight [FARS],
+;  mind reading [MIND], summon wind [SWIN], summon storm [SSTO], clear
+;  skies [CLEA], earth lore [EART], wolf lore [WOLF], bird lore [BIRD],
+;  necromancy [NECR], demon lore [DEMO], illusion [ILLU], artifact lore
+;  [ARTI].
+@find all
+@cast eart
+@;teach 1928 1929 54 1368 1028 1039 592 2489 2488
+study patt
+TURN
+teach 1928 1929 54 1368 1028 1039 592 2489 2488
+ENDTURN
+
+unit 1928
+;Unit (1928), behind, revealing faction, 922 silver [SILV], leader
+;  [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills: force [FORC] 3
+;  (240), pattern [PATT] 3 (210), earth lore [EART] 2 (120), weather
+;  lore [WEAT] 3 (180), spirit [SPIR] 3 (210), summon tornado [STOR] 3
+;  (180). Combat spell: summon tornado [STOR]. Can Study: fire [FIRE],
+;  earthquake [EQUA], force shield [FSHI], energy shield [ESHI], spirit
+;  shield [SSHI], magical healing [MHEA], gate lore [GATE], farsight
+;  [FARS], mind reading [MIND], summon wind [SWIN], summon storm
+;  [SSTO], clear skies [CLEA], earth lore [EART], wolf lore [WOLF],
+;  bird lore [BIRD], necromancy [NECR], demon lore [DEMO], illusion
+;  [ILLU], artifact lore [ARTI].
+@cast eart
+study patt
+TURN
+teach 1928 1929 54 1368 1028 1039 592 2489 2488
+ENDTURN
+
+unit 1929
+;Unit (1929), behind, revealing faction, leader [LEAD], 1072 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: force [FORC] 3
+;  (210), pattern [PATT] 5 (450), earth lore [EART] 2 (120), weather
+;  lore [WEAT] 3 (210), summon tornado [STOR] 3 (180), spirit [SPIR] 2
+;  (90). Can Study: fire [FIRE], earthquake [EQUA], force shield
+;  [FSHI], energy shield [ESHI], spirit shield [SSHI], magical healing
+;  [MHEA], gate lore [GATE], farsight [FARS], mind reading [MIND],
+;  summon wind [SWIN], summon storm [SSTO], clear skies [CLEA], earth
+;  lore [EART], wolf lore [WOLF], bird lore [BIRD], necromancy [NECR],
+;  demon lore [DEMO], illusion [ILLU], artifact lore [ARTI].
+@cast eart
+teach 1928 1929 54 1368 1028 1039 592 2489 2488
+TURN
+teach 1928 1929 54 1368 1028 1039 592 2489 2488
+ENDTURN
+
+;*** mountain (70,26) in Phidyntia ***
+
+unit 2245
+;Unit (2245), avoiding, behind, revealing faction, holding, receiving
+;  no aid, consuming faction's food, 3 leaders [LEAD], 674 silver
+;  [SILV], 61 stone [STON]. Weight: 3080. Capacity: 0/0/45/0. Skills:
+;  quarrying [QUAR] 3 (180), combat [COMB] 1 (60).
+@tax
+@produce stone
+
+unit 3175
+;Unit (3175), avoiding, revealing faction, holding, receiving no aid,
+;  consuming faction's food, leader [LEAD], 328 silver [SILV]. Weight:
+;  10. Capacity: 0/0/15/0. Skills: quarrying [QUAR] 5 (450), combat
+;  [COMB] 1 (60).
+@tax
+@study quar
+
+unit 3195
+;Unit (3195), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 126 silver [SILV], 2 leaders [LEAD], 33 iron [IRON], 18
+;  swords [SWOR]. Weight: 203. Capacity: 0/0/30/0. Skills: combat
+;  [COMB] 1 (30), weaponsmith [WEAP] 3 (210).
+@produce swor
+@tax
+
+unit 1931
+;Unit (1931), behind, revealing faction, leader [LEAD], 226 silver
+;  [SILV]. Weight: 10. Capacity: 0/0/15/0. Skills: combat [COMB] 1
+;  (30), tactics [TACT] 4 (330).
+@study tact
+@tax
+
+unit 2060
+;Unit (2060), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 118 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 1 (30), quarrying [QUAR] 4 (360).
+@tax
+@study quar
+
+unit 1930
+;Unit (1930), behind, revealing faction, leader [LEAD], 128 silver
+;  [SILV], sword [SWOR]. Weight: 11. Capacity: 0/0/15/0. Skills:
+;  entertainment [ENTE] 1 (30), combat [COMB] 5 (450).
+@tax
+
+unit 2221
+;Unit (2221), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 2 leaders [LEAD], 1328 silver [SILV], 6 mithril [MITH].
+;  Weight: 80. Capacity: 0/0/30/0. Skills: mining [MINI] 3 (180),
+;  combat [COMB] 1 (30).
+@tax
+@produce mith
+@give 2222 6 mith
+
+unit 2222
+;Unit (2222), avoiding, revealing faction, holding, receiving no aid, 2
+;  leaders [LEAD], 408 silver [SILV], 15 mithril [MITH], 6 mithril
+;  swords [MSWO]. Weight: 176. Capacity: 0/0/30/0. Skills: weaponsmith
+;  [WEAP] 3 (270), combat [COMB] 1 (45).
+@tax
+@produce mswo
+@give 1488 3 mswo
+@give 3452 3 mswo
+
+unit 2664
+;Unit (2664), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 79 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: weaponsmith [WEAP] 5 (450), combat [COMB] 1 (30).
+@tax
+
+unit 3273
+;Unit (3273), avoiding, behind, revealing faction, holding, receiving
+;  no aid, consuming faction's food, leader [LEAD], 1349 silver [SILV],
+;  3 iron [IRON]. Weight: 25. Capacity: 0/0/15/0. Skills: combat [COMB]
+;  1 (30), mining [MINI] 3 (186).
+@tax
+@produce iron
+@give 3195 21 iron
+
+unit 2092
+;Unit (2092), behind, revealing faction, consuming faction's food,
+;  tribesman [TMAN], 2 swords [SWOR], 5 horses [HORS], 1039 silver
+;  [SILV]. Weight: 262. Capacity: 0/350/365/0. Skills: farming [FARM] 3
+;  (180).
+@tax
+@produce grai
+
+unit 3189
+;Unit (3189), revealing faction, 8009 silver [SILV], 2 horses [HORS],
+;  leader [LEAD], 2 swords [SWOR]. Weight: 112. Capacity: 0/140/155/0.
+;  Skills: combat [COMB] 5 (450), riding [RIDI] 1 (30).
+@tax
+@study ridi
+
+unit 3450
+;Unit (3450), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 10 leaders [LEAD]. Weight: 100. Capacity: 0/0/150/0. Skills:
+;  weaponsmith [WEAP] 3 (180).
+@study weap
+
+unit 3451
+;Unit (3451), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 4 (387).
+@teach 3452
+
+unit 3452
+;Unit (3452), revealing faction, 20 orcs [ORC], 3 swords [SWOR], 9
+;  mithril swords [MSWO], 1580 silver [SILV]. Weight: 212. Capacity:
+;  0/0/300/0. Skills: combat [COMB] 2 (165).
+@study comb
+@tax
+
+unit 2544
+;Unit (2544), behind, revealing faction, horse [HORS], viking [VIKI],
+;  1122 silver [SILV]. Weight: 60. Capacity: 0/70/85/0. Skills: combat
+;  [COMB] 1 (60).
+@tax
+@work
+
+unit 3474
+;Unit (3474), avoiding, behind, revealing faction, holding, receiving
+;  no aid, consuming faction's food, 4 leaders [LEAD]. Weight: 40.
+;  Capacity: 0/0/60/0. Skills: combat [COMB] 1 (30), mining [MINI] 3
+;  (186).
+
+unit 3475
+;Unit (3475), behind, revealing faction, consuming faction's food, 4
+;  tribesmen [TMAN]. Weight: 40. Capacity: 0/0/60/0. Skills: farming
+;  [FARM] 3 (180).
+
+;*** jungle (67,27) in Sefitat ***
+
+unit 2059
+;Unit (2059), behind, revealing faction, consuming faction's food,
+;  leader [LEAD], sword [SWOR], horse [HORS]. Weight: 61. Capacity:
+;  0/70/85/0. Skills: farming [FARM] 3 (180), combat [COMB] 1 (30).
+@teach new 20 1729
+
+unit 1729
+;Unit (1729), behind, revealing faction, consuming faction's food, 7
+;  tribesmen [TMAN], 340 silver [SILV]. Weight: 70. Capacity:
+;  0/0/105/0. Skills: farming [FARM] 2 (120).
+@study farm
+
+unit 1932
+;Unit (1932), avoiding, behind, revealing faction, receiving no aid,
+;  viking [VIKI], 681 silver [SILV]. Weight: 10. Capacity: 0/0/15/0.
+;  Skills: combat [COMB] 1 (30).
+
+unit 3476
+;Unit (3476), behind, revealing faction, consuming faction's food, 122
+;  silver [SILV], 3 leaders [LEAD]. Weight: 30. Capacity: 0/0/45/0.
+;  Skills: combat [COMB] 1 (60).
+
+unit 2404
+;Unit (2404), revealing faction, 217 silver [SILV], leader [LEAD], 19
+;  horses [HORS]. Weight: 960. Capacity: 0/1330/1345/0. Skills: combat
+;  [COMB] 1 (60), farming [FARM] 5 (450).
+
+unit 2412
+;Unit (2412), revealing faction, 2 leaders [LEAD], 19900 silver [SILV],
+;  12 winged horses [WING]. Weight: 620. Capacity: 840/840/870/0.
+;  Skills: combat [COMB] 1 (30), ranching [RANC] 5 (450).
+
+;*** mountain (69,27) in Phidyntia ***
+
+unit 2246
+;Unit (2246), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 2 leaders [LEAD], 8 stone [STON], 6 mithril [MITH]. Weight:
+;  480. Capacity: 0/0/30/0. Skills: mining [MINI] 3 (270), combat
+;  [COMB] 1 (30).
+@produce mith
+@give 2247 6 mith
+
+unit 2247
+;Unit (2247), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 2 swords [SWOR], 9 mithril swords [MSWO], 6
+;  mithril [MITH], 1660 silver [SILV]. Weight: 81. Capacity: 0/0/15/0.
+;  Skills: weaponsmith [WEAP] 4 (300), combat [COMB] 1 (30).
+@produce mswo
+@give 1042 3 mswo
+
+unit 3176
+;Unit (3176), revealing faction, 4 leaders [LEAD], 11 rootstone [ROOT],
+;  12 iron [IRON]. Weight: 650. Capacity: 0/0/60/0. Skills: combat
+;  [COMB] 1 (30), mining [MINI] 3 (180).
+@produce iron
+
+unit 2061
+;Unit (2061), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD], 2654 silver [SILV]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: mining [MINI] 4 (360), combat [COMB] 1 (60).
+@study mini
+
+unit 3190
+;Unit (3190), revealing faction, 3900 silver [SILV], 5 horses [HORS], 3
+;  leaders [LEAD]. Weight: 280. Capacity: 0/350/395/0. Skills: combat
+;  [COMB] 5 (450).
+
+unit 3191
+;Unit (3191), revealing faction, leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: combat [COMB] 5 (450).
+
+unit 3337
+;Unit (3337), revealing faction, 9 leaders [LEAD], 10 silver [SILV], 33
+;  iron [IRON], 27 swords [SWOR]. Weight: 282. Capacity: 0/0/135/0.
+;  Skills: weaponsmith [WEAP] 3 (210).
+@;study weap to 210 then have 4 continue studying and 5 producing
+@produce swor
+
+unit 3454
+;Unit (3454), avoiding, behind, revealing faction, holding, receiving
+;  no aid, leader [LEAD]. Weight: 10. Capacity: 0/0/15/0. Skills:
+;  weaponsmith [WEAP] 4 (300), combat [COMB] 1 (30).
+@teach 3455
+
+unit 3455
+;Unit (3455), avoiding, behind, revealing faction, holding, receiving
+;  no aid, 284 silver [SILV], leader [LEAD]. Weight: 10. Capacity:
+;  0/0/15/0. Skills: weaponsmith [WEAP] 3 (210).
+@;study weap to level 4
+@study weap
+
+unit 3170
+;Unit (3170), revealing faction, 1044 silver [SILV], nomad [NOMA], 20
+;  horses [HORS]. Weight: 1010. Capacity: 0/1400/1415/0. Skills: combat
+;  [COMB] 1 (30).
+
+unit 3477
+;Unit (3477), revealing faction, 4 horses [HORS], 6220 silver [SILV],
+;  10 leaders [LEAD]. Weight: 300. Capacity: 0/280/430/0. Skills:
+;  combat [COMB] 1 (60).
+
+#end
+
